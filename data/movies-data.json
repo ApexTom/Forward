@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T01:22:44.964+08:00",
+  "last_updated": "2026-05-01T01:14:49.798+08:00",
   "now_playing": [
     {
       "id": 1226863,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 6.7,
+      "rating": 6.726,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.614,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 8,
+      "rating": 6.463,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
       "releaseDate": "2026-03-28",
-      "rating": 6.798,
+      "rating": 6.791,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.491,
+      "rating": 7.493,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 7.303,
+      "rating": 7.304,
       "mediaType": "movie"
     },
     {
@@ -170,6 +170,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 416249,
+      "type": "tmdb",
+      "title": "寒战2",
+      "originalTitle": "寒戰 II",
+      "description": "刘杰辉（郭富城饰）荣升警队一哥后，他的妻儿却遭遇了歹徒绑架，对方要求警队以李家俊（彭于晏饰）为交换。虽然费尽心机，但最终被对方得逞，李家俊逃跑，而他也由于违反警队规定擅自行动，遭遇香港司法机关质询。他一心要揪出绑架案的幕后黑手。而引咎辞职的前警务处处长李文彬，受到已退休的前警务处长蔡元祺（张国柱饰）的蛊惑，在质询过程中临阵倒戈，引发了刘杰辉被弹劾的危机。  同时，立法会议员简奥伟（周润发饰），对李文彬的倒戈也充满疑虑，派出自己的侄女欧咏恩调查李文彬的行踪，从而发现了李文彬与逃跑的李家俊以及蔡元祺有接触，后来在跟踪过程中被蔡元祺一伙发现，最终死于车祸。欧咏恩的死激怒了简奥伟，使他也加入到了对李文彬的调查之中。简奥伟通过欧咏恩留下的云端文件，获得了李文彬跟李家俊、蔡元祺密会的照片。而刘杰辉也通过反间谍的方式，发现了警队中李文彬的眼线，并顺藤摸瓜找到了蔡元祺藏匿之前失踪冲锋车的地点，同时通过调查发现了蔡元祺控制香港警队信息系统的证据，并最终一举破坏了蔡元祺的阴谋。而更深层次原因——律政司司长黎永廉（李子雄饰）想要竞选香港特首，进而控制香港政府的政治阴谋，依然藏在水下未被揭开。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 6.285,
+      "mediaType": "movie"
+    },
+    {
       "id": 1546855,
       "type": "tmdb",
       "title": "我，许可",
@@ -194,15 +206,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 416249,
+      "id": 1499071,
       "type": "tmdb",
-      "title": "寒战2",
-      "originalTitle": "寒戰 II",
-      "description": "刘杰辉（郭富城饰）荣升警队一哥后，他的妻儿却遭遇了歹徒绑架，对方要求警队以李家俊（彭于晏饰）为交换。虽然费尽心机，但最终被对方得逞，李家俊逃跑，而他也由于违反警队规定擅自行动，遭遇香港司法机关质询。他一心要揪出绑架案的幕后黑手。而引咎辞职的前警务处处长李文彬，受到已退休的前警务处长蔡元祺（张国柱饰）的蛊惑，在质询过程中临阵倒戈，引发了刘杰辉被弹劾的危机。  同时，立法会议员简奥伟（周润发饰），对李文彬的倒戈也充满疑虑，派出自己的侄女欧咏恩调查李文彬的行踪，从而发现了李文彬与逃跑的李家俊以及蔡元祺有接触，后来在跟踪过程中被蔡元祺一伙发现，最终死于车祸。欧咏恩的死激怒了简奥伟，使他也加入到了对李文彬的调查之中。简奥伟通过欧咏恩留下的云端文件，获得了李文彬跟李家俊、蔡元祺密会的照片。而刘杰辉也通过反间谍的方式，发现了警队中李文彬的眼线，并顺藤摸瓜找到了蔡元祺藏匿之前失踪冲锋车的地点，同时通过调查发现了蔡元祺控制香港警队信息系统的证据，并最终一举破坏了蔡元祺的阴谋。而更深层次原因——律政司司长黎永廉（李子雄饰）想要竞选香港特首，进而控制香港政府的政治阴谋，依然藏在水下未被揭开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 6.285,
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -218,27 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
+      "id": 1470918,
       "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1249589,
-      "type": "tmdb",
-      "title": "天才游戏",
-      "originalTitle": "天才游戏",
-      "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hYj6z0w2fJd4VCrwwTerwtpR3i2.jpg",
-      "releaseDate": "2026-04-04",
-      "rating": 7,
+      "title": "不能错过的只有你2",
+      "originalTitle": "不能错过的只有你2",
+      "description": "主要讲述了主人公余晚空在他的旅途中偶然遇到了一个境遇相似的女子，并决定与她一起前往美丽的大凉山。在相处的过程中，他们不仅解决了彼此之间的问题，还为家乡带来了积极的影响",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3Y17MhSIdIvg4Q1NUOuB52aIprt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4QUGnUtYdw7KHkVAWUcH7zjZ3Pm.jpg",
+      "releaseDate": "2026-04-18",
+      "rating": 2,
       "mediaType": "movie"
     }
   ],
@@ -264,19 +264,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6ZeoDWIG1XkujwUQy73OLVuMoyt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 0,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
       "id": 1228710,
       "type": "tmdb",
-      "title": "曼达洛人与古古",
+      "title": "星球大战：曼达洛人与古古",
       "originalTitle": "Star Wars: The Mandalorian and Grogu",
       "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/arjGfQaakBlmfWQGNdG2nFxrpMQ.jpg",
       "releaseDate": "2026-05-22",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 578,
+      "type": "tmdb",
+      "title": "大白鲨",
+      "originalTitle": "Jaws",
+      "description": "当海滨小镇艾米蒂遭遇一头危险大白鲨的袭击时，当地的警长（罗伊·谢德 饰）、一位年轻的海洋生物学家（理查德·德莱福斯 饰）与一位身经百战的老练鲨鱼猎人（罗伯特·肖 饰）联手展开殊死追捕，决心在这头猛兽再次发动攻击前将其消灭。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -328,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1241918,
+      "type": "tmdb",
+      "title": "出入平安",
+      "originalTitle": "出入平安",
+      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
+      "releaseDate": "2024-09-30",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1488778,
       "type": "tmdb",
       "title": "今晚正好",
@@ -364,18 +388,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "　　曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1035090,
       "type": "tmdb",
       "title": "维米尔·旷世大展",
@@ -385,6 +397,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
       "releaseDate": "2026-05-22",
       "rating": 7.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1500148,
+      "type": "tmdb",
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "　　曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
       "mediaType": "movie"
     }
   ]
