@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T01:25:49.903+08:00",
+  "last_updated": "2026-05-06T01:18:31.128+08:00",
   "now_playing": [
     {
       "id": 1226863,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 6.743,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.51,
+      "rating": 7.545,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.8,
+      "rating": 6.797,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
       "releaseDate": "2026-03-28",
-      "rating": 6.813,
+      "rating": 6.8,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.49,
+      "rating": 7.491,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 7.301,
+      "rating": 7.3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1566589,
+      "type": "tmdb",
+      "title": "蜂蜜的针",
+      "originalTitle": "蜂蜜的针",
+      "description": "　　性格孤僻的农科院研究员支宁（袁泉 饰），在爱情里四处碰壁。在一次文学讲座上，她对作家寇逸（耿乐 饰）一见钟情，从此陷入偏执爱情的她开始悄悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀加入一场旅行。本以为是靠近心意的“爱情”之旅，却没料到途中变故接踵而至，逐渐成为了一场亡命之行。蹊跷的命案接连发生，所有人和事都在朝着完全失控的方向狂奔……  　　以爱之名的潘多拉魔盒已然开启，当爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突破多少不可逾越的边界？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eg3hAfz07aci7fodvbMADogFsN1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ewXAjwiHEklrVY2gvaFB6HuBWvB.jpg",
+      "releaseDate": "2026-03-21",
+      "rating": 5.333,
       "mediaType": "movie"
     },
     {
@@ -98,18 +110,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1443374,
-      "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lauBwkkT3dNqnLYAmd8YtRj7HD7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1546855,
       "type": "tmdb",
       "title": "我，许可",
@@ -122,15 +122,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303236,
+      "id": 1443374,
       "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7.2,
+      "title": "森中有林",
+      "originalTitle": "森中有林",
+      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lauBwkkT3dNqnLYAmd8YtRj7HD7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -143,6 +143,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
       "releaseDate": "2026-05-01",
       "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303236,
+      "type": "tmdb",
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -170,42 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 47423,
-      "type": "tmdb",
-      "title": "纵横四海",
-      "originalTitle": "縱橫四海",
-      "description": "　　钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
-      "releaseDate": "2026-05-03",
-      "rating": 6.8,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1566589,
-      "type": "tmdb",
-      "title": "蜂蜜的针",
-      "originalTitle": "蜂蜜的针",
-      "description": "　　性格孤僻的农科院研究员支宁（袁泉 饰），在爱情里四处碰壁。在一次文学讲座上，她对作家寇逸（耿乐 饰）一见钟情，从此陷入偏执爱情的她开始悄悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀加入一场旅行。本以为是靠近心意的“爱情”之旅，却没料到途中变故接踵而至，逐渐成为了一场亡命之行。蹊跷的命案接连发生，所有人和事都在朝着完全失控的方向狂奔……  　　以爱之名的潘多拉魔盒已然开启，当爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突破多少不可逾越的边界？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oGKsrIWhoceXLcVlnZlOUTkuev1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ewXAjwiHEklrVY2gvaFB6HuBWvB.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Stille Freundin",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.9,
-      "mediaType": "movie"
-    },
-    {
       "id": 416249,
       "type": "tmdb",
       "title": "寒战2",
@@ -214,19 +190,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 6.285,
+      "rating": 6.316,
       "mediaType": "movie"
     },
     {
-      "id": 1492501,
+      "id": 47423,
       "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6.5,
+      "title": "纵横四海",
+      "originalTitle": "縱橫四海",
+      "description": "　　钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
+      "releaseDate": "2026-05-03",
+      "rating": 6.812,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1168719,
+      "type": "tmdb",
+      "title": "寂静的朋友",
+      "originalTitle": "Silent Friend",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -240,6 +228,18 @@
       "releaseDate": "2026-03-30",
       "rating": 7.2,
       "mediaType": "movie"
+    },
+    {
+      "id": 1492501,
+      "type": "tmdb",
+      "title": "10间敢死队",
+      "originalTitle": "10间敢死队",
+      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6.5,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 8.5,
+      "rating": 8.4,
       "mediaType": "movie"
     },
     {
@@ -262,9 +262,9 @@
       "originalTitle": "The Sheep Detectives",
       "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
       "posterPath": "https://image.tmdb.org/t/p/w500/6ZeoDWIG1XkujwUQy73OLVuMoyt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 8.3,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -274,7 +274,7 @@
       "originalTitle": "Star Wars: The Mandalorian and Grogu",
       "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/arjGfQaakBlmfWQGNdG2nFxrpMQ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/MJcERawyqGqJdPsOBc0C449hQ9.jpg",
       "releaseDate": "2026-05-22",
       "rating": 0,
       "mediaType": "movie"
@@ -316,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1241918,
-      "type": "tmdb",
-      "title": "出入平安",
-      "originalTitle": "出入平安",
-      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
-      "releaseDate": "2024-09-30",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 974782,
       "type": "tmdb",
       "title": "错时告白",
@@ -337,6 +325,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
       "releaseDate": "2026-05-20",
       "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1241918,
+      "type": "tmdb",
+      "title": "出入平安",
+      "originalTitle": "出入平安",
+      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
+      "releaseDate": "2024-09-30",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -388,18 +388,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "　　曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1035090,
       "type": "tmdb",
       "title": "维米尔·旷世大展",
@@ -409,6 +397,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
       "releaseDate": "2026-05-22",
       "rating": 7.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1500148,
+      "type": "tmdb",
+      "title": "青铜葵花",
+      "originalTitle": "青銅葵花",
+      "description": "　　曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
       "mediaType": "movie"
     }
   ]
