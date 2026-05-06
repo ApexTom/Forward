@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T01:18:31.128+08:00",
+  "last_updated": "2026-05-07T01:26:02.092+08:00",
   "now_playing": [
     {
       "id": 1226863,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 6.7,
+      "rating": 6.75,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.545,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.797,
+      "rating": 6.739,
+      "mediaType": "movie"
+    },
+    {
+      "id": 931285,
+      "type": "tmdb",
+      "title": "真人快打2",
+      "originalTitle": "Mortal Kombat II",
+      "description": "　　守护者们被卷入毫无规则可言的终极搏杀，他们在血肉激战中对抗大反派绍康的黑暗统治，这场对决关乎着地球界的生死存亡。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 8.25,
       "mediaType": "movie"
     },
     {
@@ -50,18 +62,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 696393,
-      "type": "tmdb",
-      "title": "绿液惊魂",
-      "originalTitle": "Cold Storage",
-      "description": "　　两个值守夜班的“倒霉蛋”意外发现了疯狂繁殖的外星寄生真菌，无福消受这顿重口加班餐的二人发出求救信号。退休特工罗伯特被迫再就业，重新上岗拯救即将被真菌腐蚀的世界。他们一边躲避着因寄生而绿液四溅的宿主们，一边和翻涌的肠胃做斗争，在一阵阵爆浆声中大开“惊喜盲盒”。这组画风迥异的“临时战友”能否阻挡这场末日浩劫？谁又能活着走出这个惊魂之夜……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kiCOAurt9Vho6otZpfGMUJIdvFY.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/puqQGxK9HYITUKhCdREg3XOLlZd.jpg",
-      "releaseDate": "2026-03-28",
-      "rating": 6.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 1124566,
       "type": "tmdb",
       "title": "情感价值",
@@ -70,31 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.491,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1220564,
-      "type": "tmdb",
-      "title": "密探",
-      "originalTitle": "O Agente Secreto",
-      "description": "1977年，在被军事独裁统治折磨的巴西，四十多岁的马塞洛（瓦格纳·马拉 饰）逃离了他混乱的过去，来到累西腓，希望在这里建立新的生活并与家人重修旧好。然而，他并未料到死亡威胁如影随形，笼罩在他的头顶。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qQHYG1yoCD16SYXlN9EQqoyGP4o.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 7.3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1566589,
-      "type": "tmdb",
-      "title": "蜂蜜的针",
-      "originalTitle": "蜂蜜的针",
-      "description": "　　性格孤僻的农科院研究员支宁（袁泉 饰），在爱情里四处碰壁。在一次文学讲座上，她对作家寇逸（耿乐 饰）一见钟情，从此陷入偏执爱情的她开始悄悄跟在寇逸身后……在偶然的契机下，支宁应寇逸之邀加入一场旅行。本以为是靠近心意的“爱情”之旅，却没料到途中变故接踵而至，逐渐成为了一场亡命之行。蹊跷的命案接连发生，所有人和事都在朝着完全失控的方向狂奔……  　　以爱之名的潘多拉魔盒已然开启，当爱意被执念裹挟，人究竟会为了守住所谓的“爱”，突破多少不可逾越的边界？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eg3hAfz07aci7fodvbMADogFsN1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ewXAjwiHEklrVY2gvaFB6HuBWvB.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 5.333,
+      "rating": 7.494,
       "mediaType": "movie"
     },
     {
@@ -110,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1546855,
-      "type": "tmdb",
-      "title": "我，许可",
-      "originalTitle": "我，许可",
-      "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 6.5,
-      "mediaType": "movie"
-    },
-    {
       "id": 1443374,
       "type": "tmdb",
       "title": "森中有林",
@@ -131,42 +95,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
       "releaseDate": "2026-04-25",
       "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1499071,
-      "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303236,
-      "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 137409,
-      "type": "tmdb",
-      "title": "寒战",
-      "originalTitle": "寒戰",
-      "description": "作为亚洲金融中心的香港被称作“最安全的城市”，岂料警局接到一通匿名电话，对方声称劫持了警队的一辆前线冲锋车以及车内的五名警员和武器装备。此次事件引起了香港警队高层的高度重视，适逢处长（王敏德 饰）出访国外，此时由鹰派人物行动副处长李文彬（梁家辉 饰）与年轻的管理副处长刘杰辉（郭富城 饰）一起负责这次案件，并将行动命名为“寒战”，李文彬任总指挥。李文彬的儿子（彭于晏 饰）也是人质之一，刘杰辉因此对李文彬父子产生怀疑。与此同时，匪徒展开了进一步行动：警察被杀、爆炸案频发……到底是谁在将整个警队玩弄于鼓掌之中？香港真的是“最安全的城市”吗？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4H5ohuhwCMnXaA0ahKS7ieOXhhV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
-      "releaseDate": "2012-11-26",
-      "rating": 6.665,
       "mediaType": "movie"
     },
     {
@@ -182,6 +110,42 @@
       "mediaType": "movie"
     },
     {
+      "id": 1499071,
+      "type": "tmdb",
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1546855,
+      "type": "tmdb",
+      "title": "我，许可",
+      "originalTitle": "我，许可",
+      "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
+      "releaseDate": "2026-03-21",
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 137409,
+      "type": "tmdb",
+      "title": "寒战",
+      "originalTitle": "寒戰",
+      "description": "作为亚洲金融中心的香港被称作“最安全的城市”，岂料警局接到一通匿名电话，对方声称劫持了警队的一辆前线冲锋车以及车内的五名警员和武器装备。此次事件引起了香港警队高层的高度重视，适逢处长（王敏德 饰）出访国外，此时由鹰派人物行动副处长李文彬（梁家辉 饰）与年轻的管理副处长刘杰辉（郭富城 饰）一起负责这次案件，并将行动命名为“寒战”，李文彬任总指挥。李文彬的儿子（彭于晏 饰）也是人质之一，刘杰辉因此对李文彬父子产生怀疑。与此同时，匪徒展开了进一步行动：警察被杀、爆炸案频发……到底是谁在将整个警队玩弄于鼓掌之中？香港真的是“最安全的城市”吗？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4H5ohuhwCMnXaA0ahKS7ieOXhhV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
+      "releaseDate": "2012-11-26",
+      "rating": 6.665,
+      "mediaType": "movie"
+    },
+    {
       "id": 416249,
       "type": "tmdb",
       "title": "寒战2",
@@ -191,18 +155,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
       "releaseDate": "2016-07-08",
       "rating": 6.316,
-      "mediaType": "movie"
-    },
-    {
-      "id": 47423,
-      "type": "tmdb",
-      "title": "纵横四海",
-      "originalTitle": "縱橫四海",
-      "description": "　　钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
-      "releaseDate": "2026-05-03",
-      "rating": 6.812,
       "mediaType": "movie"
     },
     {
@@ -218,14 +170,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1481955,
+      "id": 47423,
       "type": "tmdb",
-      "title": "阳光女子合唱团",
-      "originalTitle": "陽光女子合唱團",
-      "description": "长期遭受家庭暴力的惠贞，于一次意外事件中杀害了丈夫，遭判刑入狱。在法务部矫正署台北女子看守所服刑期间，怀孕的惠贞在监狱内产下一女，取名叫芸熙。其后，芸熙被诊断出患有弱视，使惠贞在服刑之余亦承受沉重的母职压力与心理负担。随着新生命的诞生，原本充满冲突与矛盾的监狱环境也逐渐产生变化。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3ZlvgP5vXHPdJLNo6eJ464qumAs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/21iGd9XfqAZJskCQNY1Nv70ksCH.jpg",
-      "releaseDate": "2026-03-30",
+      "title": "纵横四海",
+      "originalTitle": "縱橫四海",
+      "description": "　　钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
+      "releaseDate": "2026-05-03",
+      "rating": 6.812,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303236,
+      "type": "tmdb",
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 7.2,
       "mediaType": "movie"
     },
@@ -240,21 +204,45 @@
       "releaseDate": "2026-04-25",
       "rating": 6.5,
       "mediaType": "movie"
+    },
+    {
+      "id": 1481955,
+      "type": "tmdb",
+      "title": "阳光女子合唱团",
+      "originalTitle": "陽光女子合唱團",
+      "description": "长期遭受家庭暴力的惠贞，于一次意外事件中杀害了丈夫，遭判刑入狱。在法务部矫正署台北女子看守所服刑期间，怀孕的惠贞在监狱内产下一女，取名叫芸熙。其后，芸熙被诊断出患有弱视，使惠贞在服刑之余亦承受沉重的母职压力与心理负担。随着新生命的诞生，原本充满冲突与矛盾的监狱环境也逐渐产生变化。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ZlvgP5vXHPdJLNo6eJ464qumAs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/21iGd9XfqAZJskCQNY1Nv70ksCH.jpg",
+      "releaseDate": "2026-03-30",
+      "rating": 7.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1658136,
+      "type": "tmdb",
+      "title": "猪猪侠大电影之竞速小英雄",
+      "originalTitle": "猪猪侠大电影之竞速小英雄",
+      "description": "猪猪侠与星航携手穿越时空，以赛车为武器，拯救被神秘物质“P型剂”影响的车神银河。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lpc1z69ycoQ8ond8PXmsal7MMfQ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4xlI7YMHe3UmtRireGoJ0ZUCjUO.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1645455,
+      "type": "tmdb",
+      "title": "登月(第一部)",
+      "originalTitle": "登月(第一部)",
+      "description": "　　38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
+      "releaseDate": "2026-04-08",
+      "rating": 0,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
-    {
-      "id": 931285,
-      "type": "tmdb",
-      "title": "真人快打2",
-      "originalTitle": "Mortal Kombat II",
-      "description": "　　守护者们被卷入毫无规则可言的终极搏杀，他们在血肉激战中对抗大反派绍康的黑暗统治，这场对决关乎着地球界的生死存亡。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 8.4,
-      "mediaType": "movie"
-    },
     {
       "id": 1301421,
       "type": "tmdb",
@@ -288,7 +276,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.682,
+      "rating": 7.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 77,
+      "type": "tmdb",
+      "title": "记忆碎片",
+      "originalTitle": "Memento",
+      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 8.177,
       "mediaType": "movie"
     },
     {
@@ -340,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1607073,
+      "type": "tmdb",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "　　00后女孩吴小北惨遭\"断崖式分手\"，失恋后的她在发疯和颓废中反复横跳，终于决定反击！小北跌跌撞撞做完了\"失恋后也不必做的12件事\"：改造自己、假装理性、周旋于形形色色的异性之间……然而这一场大型失恋展览，真的能带她走出失恋吗？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/if105MBFrTO8Kerl0Pxdne4KNUn.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-20",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1488778,
       "type": "tmdb",
       "title": "今晚正好",
@@ -364,18 +376,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "　　00后女孩吴小北惨遭\"断崖式分手\"，失恋后的她在发疯和颓废中反复横跳，终于决定反击！小北跌跌撞撞做完了\"失恋后也不必做的12件事\"：改造自己、假装理性、周旋于形形色色的异性之间……然而这一场大型失恋展览，真的能带她走出失恋吗？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/if105MBFrTO8Kerl0Pxdne4KNUn.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1512942,
       "type": "tmdb",
       "title": "为我的心动买单",
@@ -397,18 +397,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
       "releaseDate": "2026-05-22",
       "rating": 7.8,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1500148,
-      "type": "tmdb",
-      "title": "青铜葵花",
-      "originalTitle": "青銅葵花",
-      "description": "　　曹文轩经典文学改编。  　　一场命运安排，一次特别机缘，城市女孩葵花和艺术家爸爸来到大麦地。爸爸意外死亡，贫穷善良的青铜家领养了葵花，两人成了兄妹，一起长大，经历饥饿、灾荒，体验了在那个苦难年代，生命中真实而可贵的真善美。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gSSdAbeggQS0HHSxcCQXBM9aAAV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5Fe6IfrIm0D9nFSL36RE2xc4mHS.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
       "mediaType": "movie"
     }
   ]
