@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-07T01:26:02.092+08:00",
+  "last_updated": "2026-05-08T01:43:25.749+08:00",
   "now_playing": [
     {
       "id": 1226863,
@@ -10,7 +10,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tavRK9y9yGuBUQpXIXgocqFHx72.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 6.75,
+      "rating": 6.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1314481,
+      "type": "tmdb",
+      "title": "穿普拉达的女王2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 6.76,
       "mediaType": "movie"
     },
     {
@@ -26,18 +38,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1314481,
-      "type": "tmdb",
-      "title": "穿普拉达的女王2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.739,
-      "mediaType": "movie"
-    },
-    {
       "id": 931285,
       "type": "tmdb",
       "title": "真人快打2",
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 8.25,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -86,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1443374,
-      "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lauBwkkT3dNqnLYAmd8YtRj7HD7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1658653,
       "type": "tmdb",
       "title": "消失的人",
@@ -110,15 +98,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
+      "id": 1443374,
       "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.2,
+      "title": "森中有林",
+      "originalTitle": "森中有林",
+      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lauBwkkT3dNqnLYAmd8YtRj7HD7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -134,6 +122,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1499071,
+      "type": "tmdb",
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1168719,
+      "type": "tmdb",
+      "title": "寂静的朋友",
+      "originalTitle": "Silent Friend",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 7.333,
+      "mediaType": "movie"
+    },
+    {
       "id": 137409,
       "type": "tmdb",
       "title": "寒战",
@@ -142,7 +154,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/4H5ohuhwCMnXaA0ahKS7ieOXhhV.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
       "releaseDate": "2012-11-26",
-      "rating": 6.665,
+      "rating": 6.662,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303236,
+      "type": "tmdb",
+      "title": "角头：大桥头",
+      "originalTitle": "角頭－大橋頭",
+      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -158,18 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Silent Friend",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sd49Wx5Tevlp1y6Huygv99ueXDt.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.9,
-      "mediaType": "movie"
-    },
-    {
       "id": 47423,
       "type": "tmdb",
       "title": "纵横四海",
@@ -182,14 +194,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303236,
+      "id": 1481955,
       "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "releaseDate": "2026-04-10",
+      "title": "阳光女子合唱团",
+      "originalTitle": "陽光女子合唱團",
+      "description": "长期遭受家庭暴力的惠贞，于一次意外事件中杀害了丈夫，遭判刑入狱。在法务部矫正署台北女子看守所服刑期间，怀孕的惠贞在监狱内产下一女，取名叫芸熙。其后，芸熙被诊断出患有弱视，使惠贞在服刑之余亦承受沉重的母职压力与心理负担。随着新生命的诞生，原本充满冲突与矛盾的监狱环境也逐渐产生变化。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ZlvgP5vXHPdJLNo6eJ464qumAs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/21iGd9XfqAZJskCQNY1Nv70ksCH.jpg",
+      "releaseDate": "2026-03-30",
       "rating": 7.2,
       "mediaType": "movie"
     },
@@ -206,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1481955,
-      "type": "tmdb",
-      "title": "阳光女子合唱团",
-      "originalTitle": "陽光女子合唱團",
-      "description": "长期遭受家庭暴力的惠贞，于一次意外事件中杀害了丈夫，遭判刑入狱。在法务部矫正署台北女子看守所服刑期间，怀孕的惠贞在监狱内产下一女，取名叫芸熙。其后，芸熙被诊断出患有弱视，使惠贞在服刑之余亦承受沉重的母职压力与心理负担。随着新生命的诞生，原本充满冲突与矛盾的监狱环境也逐渐产生变化。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3ZlvgP5vXHPdJLNo6eJ464qumAs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/21iGd9XfqAZJskCQNY1Nv70ksCH.jpg",
-      "releaseDate": "2026-03-30",
-      "rating": 7.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 1658136,
       "type": "tmdb",
       "title": "猪猪侠大电影之竞速小英雄",
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1645455,
+      "id": 1249589,
       "type": "tmdb",
-      "title": "登月(第一部)",
-      "originalTitle": "登月(第一部)",
-      "description": "　　38万公里，53天，中国探月工程嫦娥六号任务完成了人类首次月背采样返回——从那个永远背对地球、充满未知的世界带了一捧月壤回来。 2024年5月，海南文昌，长征五号火箭静立雨中，等待着那个不可错失的发射窗口。指挥大厅里，倒计时声与心跳声交织，数字跳动，屏息凝视。没有人能确定，这是否会成为本次征途的终点。 月背之上，一场人类从未尝试过的“挖土”，正在进行…… 你看到的每一秒历史，都曾有人为此奋斗一生。影片首次深入“嫦娥六号任务”幕后那群隐于视野之外的航天人，他们是普通的中国人，却共同承担着人类探索星辰的使命。他们用一生、用双手，把“星辰”从梦想变成了现实。他们的故事，也是每一个认真生活、默默前行的“我们”的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p76KuTVKM2BDMFK1Cgggyz3Cuc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4hOnfpVCu2MM7n7QKmi0zARASxb.jpg",
-      "releaseDate": "2026-04-08",
-      "rating": 0,
+      "title": "天才游戏",
+      "originalTitle": "天才游戏",
+      "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hYj6z0w2fJd4VCrwwTerwtpR3i2.jpg",
+      "releaseDate": "2026-04-04",
+      "rating": 7,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6ZeoDWIG1XkujwUQy73OLVuMoyt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 8.2,
+      "rating": 7.944,
       "mediaType": "movie"
     },
     {
@@ -288,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.177,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -316,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 974782,
-      "type": "tmdb",
-      "title": "错时告白",
-      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
-      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 6.6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1241918,
       "type": "tmdb",
       "title": "出入平安",
@@ -340,15 +328,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1607073,
+      "id": 785429,
       "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "　　00后女孩吴小北惨遭\"断崖式分手\"，失恋后的她在发疯和颓废中反复横跳，终于决定反击！小北跌跌撞撞做完了\"失恋后也不必做的12件事\"：改造自己、假装理性、周旋于形形色色的异性之间……然而这一场大型失恋展览，真的能带她走出失恋吗？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/if105MBFrTO8Kerl0Pxdne4KNUn.jpg",
-      "backdropPath": null,
+      "title": "森林之声",
+      "originalTitle": "OZI: Voice of the Forest",
+      "description": "印度尼西亚雨林的森林砍伐，一只名叫Ozi的十几岁的红毛猩猩被烧毁后成为孤儿。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tEdEL8M58BDRJToH5kmqtIXWSh6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9XBVJBj8smienzhkZ2ocW7fytWZ.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 974782,
+      "type": "tmdb",
+      "title": "错时告白",
+      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
+      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
       "releaseDate": "2026-05-20",
-      "rating": 0,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -373,6 +373,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/cfB7VJF9LXrZRkMZLaa6Yhxo1Fb.jpg",
       "releaseDate": "2026-05-13",
       "rating": 7.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1607073,
+      "type": "tmdb",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
