@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T22:41:52.984+08:00",
+  "last_updated": "2026-05-12T03:42:05.582+08:00",
   "tv": {
     "全网": [
       {
@@ -333,6 +333,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "我家那小子2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "合伙人第二季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -345,19 +351,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我家那小子2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "超燃青春的合唱",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "夺金2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -369,7 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "怦然心动20岁：冬季",
+        "title": "夺金2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "妻子的浪漫旅行2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -525,6 +525,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "主咖和Ta的朋友们",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "开始捉迷藏 第2季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -532,12 +538,6 @@
       },
       {
         "title": "十三邀 第九季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "主咖和Ta的朋友们",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,19 +563,13 @@
     ],
     "芒果TV": [
       {
-        "title": "合伙人第二季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我家那小子2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "夺金2026",
+        "title": "合伙人第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -587,13 +581,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "为爱闪耀的她",
+        "title": "夺金2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "妻子的浪漫旅行2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "为爱闪耀的她",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
