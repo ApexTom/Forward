@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T01:51:24.038+08:00",
+  "last_updated": "2026-05-13T01:55:02.048+08:00",
   "now_playing": [
     {
       "id": 1226863,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 6.712,
+      "rating": 6.702,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 7.2,
+      "rating": 7.186,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.6,
+      "rating": 7.553,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.776,
+      "rating": 6.772,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.496,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sa8xMTPHkAMPeiiIFZImBKjO49b.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.217,
+      "rating": 7.25,
       "mediaType": "movie"
     },
     {
@@ -178,7 +178,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.2,
+      "rating": 6.333,
       "mediaType": "movie"
     },
     {
@@ -249,10 +249,10 @@
       "title": "绵羊侦探团",
       "originalTitle": "The Sheep Detectives",
       "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6ZeoDWIG1XkujwUQy73OLVuMoyt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rGmHJzGyvHgKisPWhagGrqlJmYg.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.643,
+      "rating": 7.717,
       "mediaType": "movie"
     },
     {
@@ -352,6 +352,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1241918,
+      "type": "tmdb",
+      "title": "出入平安",
+      "originalTitle": "出入平安",
+      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
+      "releaseDate": "2024-09-30",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1111750,
       "type": "tmdb",
       "title": "再见，朱莉娅",
@@ -364,6 +376,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1512942,
+      "type": "tmdb",
+      "title": "为我的心动买单",
+      "originalTitle": "为我的心动买单",
+      "description": "分手后的夏临（戚薇 饰）一心扑在事业上，在“不相信爱情”的自我和时代面前，推出“真爱保险”，试图通过用户的分手率提高个人业绩和公司收益，这一工作目标遭到同事谭杰（艾伦 饰）的反对。两人在经历各异的投保人中不断斡旋，开启一场以真爱为名的分合大战。心动是否能被保险，真爱又能否通过挑战？答案并不是对比出来的数字，是内心深处最坚定的告白。影片根据泰国大热爆笑喜剧改编。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qtcp6nOOqa63EGZtzCwGmDv8bqb.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-20",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1607073,
       "type": "tmdb",
       "title": "错过了，遗憾吗？",
@@ -372,18 +396,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
       "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1241918,
-      "type": "tmdb",
-      "title": "出入平安",
-      "originalTitle": "出入平安",
-      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
-      "releaseDate": "2024-09-30",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -400,27 +412,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1512942,
+      "id": 1511810,
       "type": "tmdb",
-      "title": "为我的心动买单",
-      "originalTitle": "为我的心动买单",
-      "description": "分手后的夏临（戚薇 饰）一心扑在事业上，在“不相信爱情”的自我和时代面前，推出“真爱保险”，试图通过用户的分手率提高个人业绩和公司收益，这一工作目标遭到同事谭杰（艾伦 饰）的反对。两人在经历各异的投保人中不断斡旋，开启一场以真爱为名的分合大战。心动是否能被保险，真爱又能否通过挑战？答案并不是对比出来的数字，是内心深处最坚定的告白。影片根据泰国大热爆笑喜剧改编。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qtcp6nOOqa63EGZtzCwGmDv8bqb.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1035090,
-      "type": "tmdb",
-      "title": "维米尔·旷世大展",
-      "originalTitle": "Vermeer: The Greatest Exhibition",
-      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
+      "title": "突破3000米的日月潭",
+      "originalTitle": "突破：三千米的泳氣",
+      "description": "　　故事改编自真人真事。一位曾经顶尖的游泳教练因一场意外告别泳坛，靠送外卖为生；一位视力逐渐退化的女孩，决定挑战自己，实现泳渡日月潭的梦想。命运让两位相遇，开启一段全新旅程……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/epnne81r1w0PXZtZguJnyVOE1DT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yXJI8MJe1rO3LTiTupoLMSVjyE6.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 7.8,
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -445,6 +445,18 @@
       "backdropPath": null,
       "releaseDate": "2026-05-30",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1035090,
+      "type": "tmdb",
+      "title": "维米尔·旷世大展",
+      "originalTitle": "Vermeer: The Greatest Exhibition",
+      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 7.8,
       "mediaType": "movie"
     }
   ]
