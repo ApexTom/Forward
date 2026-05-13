@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-05-13T01:55:02.048+08:00",
+  "last_updated": "2026-05-14T01:56:57.641+08:00",
   "now_playing": [
-    {
-      "id": 1226863,
-      "type": "tmdb",
-      "title": "超级马力欧银河大电影",
-      "originalTitle": "The Super Mario Galaxy Movie",
-      "description": "　　重返奇妙世界，探索浩瀚宇宙，罗莎塔公主、酷霸Jr.、耀西等更多惊喜角色登场，开拓更宏大酷炫的版图，呈现更精彩纷呈的冒险。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7tLVCMnGg0Q3rWlkoBjdKA0S57R.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 6.702,
-      "mediaType": "movie"
-    },
     {
       "id": 931285,
       "type": "tmdb",
@@ -20,9 +8,9 @@
       "originalTitle": "Mortal Kombat II",
       "description": "　　过气好莱坞演员强尼·凯奇（卡尔·厄本 饰）被意外选中，加入一场决定地球命运的真人快打。吉塔娜（阿德莱恩·鲁道夫 饰）、刀锋索尼娅（杰西卡·麦克娜美 饰）、卡诺（约什·劳森 饰）、刘康（林路迪 饰）、贾克斯（麦卡德·布鲁克斯 饰）、尚宗（黄经汉 饰）、雷电（浅野忠信 饰）、避寒（乔·塔斯利姆 饰）、蝎子（真田广之 饰）等角色也将各显身手，开启血浆狂飙的格斗厮杀。",
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tAeiebNAyYC23FjUEkgyUm9SnEo.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 7.186,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -34,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.553,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -46,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.772,
+      "rating": 6.754,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1301421,
+      "type": "tmdb",
+      "title": "绵羊侦探团",
+      "originalTitle": "The Sheep Detectives",
+      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rGmHJzGyvHgKisPWhagGrqlJmYg.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 7.629,
       "mediaType": "movie"
     },
     {
@@ -62,6 +62,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 578,
+      "type": "tmdb",
+      "title": "大白鲨",
+      "originalTitle": "Jaws",
+      "description": "当海滨小镇艾米蒂遭遇一头危险大白鲨的袭击时，当地的警长（罗伊·谢德 饰）、一位年轻的海洋生物学家（理查德·德莱福斯 饰）与一位身经百战的老练鲨鱼猎人（罗伯特·肖 饰）联手展开殊死追捕，决心在这头猛兽再次发动攻击前将其消灭。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.681,
+      "mediaType": "movie"
+    },
+    {
       "id": 47423,
       "type": "tmdb",
       "title": "纵横四海",
@@ -70,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
       "releaseDate": "2026-05-03",
-      "rating": 6.8,
+      "rating": 6.83,
       "mediaType": "movie"
     },
     {
@@ -82,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1546855,
-      "type": "tmdb",
-      "title": "我，许可",
-      "originalTitle": "我，许可",
-      "description": "00后“母单”女孩儿许可（文淇 饰）面临一场迫在眉睫的妇科手术，却因妈妈胡春蓉（秦海璐 饰）的突袭式造访打乱了所有计划。母女同居，冲突乍起。在新旧观念的摩擦中，没想到女儿对妈妈展开了一次又一次反向教育——跟妈谈心，不如带妈蹦迪；给妈上生理课，不如直接送妈小玩具……最终许可能否顺利手术，胡春蓉又能否鼓起勇气开始新生活？这场笑点和泪点齐飞的大戏，又将如何重塑两人之间的母女关系……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/Z4PcigZfdhrU2via1XrdSrEq4G.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sc2Q8HwhUOb49IfbkHHvi8dB7yy.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 6.5,
+      "rating": 7.49,
       "mediaType": "movie"
     },
     {
@@ -106,31 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sa8xMTPHkAMPeiiIFZImBKjO49b.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.25,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1421609,
-      "type": "tmdb",
-      "title": "我的妈耶",
-      "originalTitle": "我的妈耶",
-      "description": "十一（黄明昊 饰）从小由父亲张永勋（白客 饰）独自抚养长大，自出生时就离世的妈妈东玉（马思纯 饰）对于他而言则是陌生人般的存在。处于青春叛逆期的十一，在自己18岁生日这天意外发现了一本「妈妈的日记」。在好奇心的驱使下，十一翻开日记，开启了一段“认识妈妈”的旅程——十一跟随着妈妈的成长经历，邂逅了她人生不同阶段的重要人物——霹雳舞学长（梁靖康 饰）、高中闺蜜彩霞（嵇嘉禾 饰）、发小刘皮孩（王天放 饰）、初恋小哥（孙阳 饰）以及老公张永勋。这些人物串联起东玉一生所经历的友谊、爱情与亲情…… 透过这本「日记」，十一看见了东玉短暂却向阳的一生，也终于感受到了她对自己从始至终不曾缺席的爱……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cE15hXnCv6VfADRCo69n83BRNsS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tRg0CIV7HQVKcdd2Jabv4GdhEVF.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 5.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1658653,
-      "type": "tmdb",
-      "title": "消失的人",
-      "originalTitle": "消失的人",
-      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-01",
-      "rating": 7,
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -146,18 +122,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1443374,
-      "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1303236,
       "type": "tmdb",
       "title": "角头：大桥头",
@@ -170,15 +134,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
+      "id": 1658653,
       "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "title": "消失的人",
+      "originalTitle": "消失的人",
+      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-05-01",
-      "rating": 6.333,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -194,6 +158,42 @@
       "mediaType": "movie"
     },
     {
+      "id": 1499071,
+      "type": "tmdb",
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1443374,
+      "type": "tmdb",
+      "title": "森中有林",
+      "originalTitle": "森中有林",
+      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1297245,
+      "type": "tmdb",
+      "title": "一个男人和一个女人",
+      "originalTitle": "一个男人和一个女人",
+      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1492501,
       "type": "tmdb",
       "title": "10间敢死队",
@@ -203,18 +203,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
       "releaseDate": "2026-04-25",
       "rating": 6.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1481955,
-      "type": "tmdb",
-      "title": "阳光女子合唱团",
-      "originalTitle": "陽光女子合唱團",
-      "description": "长期遭受家庭暴力的惠贞，于一次意外事件中杀害了丈夫，遭判刑入狱。在法务部矫正署台北女子看守所服刑期间，怀孕的惠贞在监狱内产下一女，取名叫芸熙。其后，芸熙被诊断出患有弱视，使惠贞在服刑之余亦承受沉重的母职压力与心理负担。随着新生命的诞生，原本充满冲突与矛盾的监狱环境也逐渐产生变化。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3ZlvgP5vXHPdJLNo6eJ464qumAs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/21iGd9XfqAZJskCQNY1Nv70ksCH.jpg",
-      "releaseDate": "2026-03-30",
-      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -230,31 +218,31 @@
       "mediaType": "movie"
     },
     {
-      "id": 1249589,
+      "id": 996871,
       "type": "tmdb",
-      "title": "天才游戏",
-      "originalTitle": "天才游戏",
-      "description": "身份迥异的天才少年刘全龙（彭昱畅饰）与富家少年陈伦（丁禹兮饰），因缘际会下开始了一场人生交换。两个少年的人生镜像，一场命运的冒险游戏，就此开启。GAME START！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hYj6z0w2fJd4VCrwwTerwtpR3i2.jpg",
-      "releaseDate": "2026-04-04",
-      "rating": 7,
+      "title": "爱情城事",
+      "originalTitle": "愛情城事",
+      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1005985,
+      "type": "tmdb",
+      "title": "器子",
+      "originalTitle": "器子",
+      "description": "女儿在三个月大时失踪，疑似被贩婴集团偷走，妻子过度自责后自戕，他为追查真相反被诬陷入狱，出狱后查出女儿是落入活摘器官集团，成为被取走心脏的「器子」。他悲愤难当，对犯罪集团连翻展开以暴制暴的复仇行动，全力营救作为「器子」的女儿。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
+      "releaseDate": "2026-04-18",
+      "rating": 6,
       "mediaType": "movie"
     }
   ],
   "upcoming": [
-    {
-      "id": 1301421,
-      "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rGmHJzGyvHgKisPWhagGrqlJmYg.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 7.717,
-      "mediaType": "movie"
-    },
     {
       "id": 1228710,
       "type": "tmdb",
@@ -280,18 +268,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 578,
-      "type": "tmdb",
-      "title": "大白鲨",
-      "originalTitle": "Jaws",
-      "description": "当海滨小镇艾米蒂遭遇一头危险大白鲨的袭击时，当地的警长（罗伊·谢德 饰）、一位年轻的海洋生物学家（理查德·德莱福斯 饰）与一位身经百战的老练鲨鱼猎人（罗伯特·肖 饰）联手展开殊死追捕，决心在这头猛兽再次发动攻击前将其消灭。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.681,
-      "mediaType": "movie"
-    },
-    {
       "id": 1443374,
       "type": "tmdb",
       "title": "森中有林",
@@ -301,6 +277,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
       "releaseDate": "2026-04-25",
       "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "　　聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xH1dHefytmQ6eBJ07LXi6MOx40s.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
+      "releaseDate": "2026-06-06",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -316,27 +304,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1297245,
+      "id": 996871,
       "type": "tmdb",
-      "title": "一个男人和一个女人",
-      "originalTitle": "一个男人和一个女人",
-      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1488778,
-      "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "title": "爱情城事",
+      "originalTitle": "愛情城事",
+      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
       "releaseDate": "2026-05-20",
-      "rating": 0,
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -352,27 +328,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1241918,
+      "id": 1488778,
       "type": "tmdb",
-      "title": "出入平安",
-      "originalTitle": "出入平安",
-      "description": "本片根据真实事件改编，讲述了即将被处决的死刑犯郑立棍（肖央 饰）在押运途中突遇地震，看守所坍塌成废墟，死里逃生的郑立棍看似获得了突如其来的“自由”，但其实已经陷入另一场炼狱之中......与此同时警察尉迟晓（阿云嘎 饰）决定临时组织一支“不一样的”救援队。在天灾面前，仅剩24小时生命的死囚会逃生还是救人？负责看管他的警察又该如何抉择?所有人都站在了命运的岔路口上……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dEBGIgF3mjHHEozd2VMcrbTP6g1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/d9BG2RvTNKvsCl7wEfazTEtrXJz.jpg",
-      "releaseDate": "2024-09-30",
+      "title": "今晚正好",
+      "originalTitle": "今晚正好",
+      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "releaseDate": "2026-05-20",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1111750,
-      "type": "tmdb",
-      "title": "再见，朱莉娅",
-      "originalTitle": "وداعًا جوليا",
-      "description": "荣获第76届戛纳电影节 一种关注单元 自由奖，莫娜是一位来自苏丹北部的退休歌手，她的婚姻生活并不如意。她因为掩盖了一桩谋杀案而深感内疚，为了弥补这一过错，她决定收留被害者的寡妇朱莉娅及其儿子丹尼尔。然而，莫娜无法向朱莉娅坦白自己的罪行，于是她决定放下过去，努力适应这种新的生活状态。但她没有意识到，苏丹国内的动荡局势可能会波及到她的家庭，让她不得不直面自己曾经的罪行。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3MalTz0WHBts2qdvdIildpk9TAn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cfB7VJF9LXrZRkMZLaa6Yhxo1Fb.jpg",
-      "releaseDate": "2026-05-13",
-      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -409,6 +373,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
       "releaseDate": "2026-05-20",
       "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1357770,
+      "type": "tmdb",
+      "title": "我们意外的勇气",
+      "originalTitle": "我們意外的勇氣",
+      "description": "　　资深艺人经纪乐芙（刘若英 饰）与广告导演柏恩（薛仕凌 饰）情牵多年，因为年龄差距、原生家庭的创伤等，关于未来感情要走多长远，彼此都放在心中不敢说开。直到乐芙45岁生日当天迎来工作跟生命的“大意外”，两人被迫面对往后的抉择……\r 　　影片改编自导演游绍翔的亲身经历。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uj9XmogFZexFYSA9bWblgGxX8jh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qdiAJ1u2gkiDwXTfpLaJTMSFYL1.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -456,7 +432,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 7.8,
+      "rating": 7.833,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563614,
+      "type": "tmdb",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1693737,
+      "type": "tmdb",
+      "title": "加油吧！娜依拉",
+      "originalTitle": "加油吧！娜依拉",
+      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-06",
+      "rating": 0,
       "mediaType": "movie"
     }
   ]
