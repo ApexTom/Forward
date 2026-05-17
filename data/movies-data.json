@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T00:53:03.224+08:00",
+  "last_updated": "2026-05-18T00:52:39.001+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.975,
+      "rating": 6.971,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.663,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -44,9 +44,9 @@
       "originalTitle": "The Devil Wears Prada 2",
       "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2cr7imTLVSSrzgL3bFKAMCMdgKw.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.7,
+      "rating": 6.674,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.682,
+      "rating": 7.681,
       "mediaType": "movie"
     },
     {
@@ -94,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.489,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Silent Friend",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.2,
+      "rating": 7.493,
       "mediaType": "movie"
     },
     {
@@ -119,6 +107,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
       "releaseDate": "2026-04-25",
       "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1168719,
+      "type": "tmdb",
+      "title": "寂静的朋友",
+      "originalTitle": "Silent Friend",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -146,18 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1658653,
-      "type": "tmdb",
-      "title": "消失的人",
-      "originalTitle": "消失的人",
-      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-01",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -182,6 +170,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1658653,
+      "type": "tmdb",
+      "title": "消失的人",
+      "originalTitle": "消失的人",
+      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-01",
+      "rating": 6.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1297245,
+      "type": "tmdb",
+      "title": "一个男人和一个女人",
+      "originalTitle": "一个男人和一个女人",
+      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
       "id": 1512942,
       "type": "tmdb",
       "title": "为我的心动买单",
@@ -202,31 +214,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
       "releaseDate": "2026-04-25",
-      "rating": 6.5,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
-      "id": 1488778,
+      "id": 1607073,
       "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
       "releaseDate": "2026-05-20",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1297245,
-      "type": "tmdb",
-      "title": "一个男人和一个女人",
-      "originalTitle": "一个男人和一个女人",
-      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.2,
+      "rating": 7.241,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 9.5,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -274,7 +274,7 @@
       "originalTitle": "Masters of the Universe",
       "description": "导演McG最近正在商谈，有望为索尼执导根据80年代同名动画和玩具改编的真人版电影《希曼》（Masters of the Universe）。",
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mqy2yiXrlJt2mvLAfxtgYU0mjSf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "releaseDate": "2026-06-05",
       "rating": 0,
       "mediaType": "movie"
@@ -288,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.2,
+      "rating": 8.178,
       "mediaType": "movie"
     },
     {
@@ -328,18 +328,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 974782,
-      "type": "tmdb",
-      "title": "错时告白",
-      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
-      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 6.6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1512942,
       "type": "tmdb",
       "title": "为我的心动买单",
@@ -352,15 +340,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 996871,
+      "id": 1532474,
       "type": "tmdb",
-      "title": "爱情城事",
-      "originalTitle": "愛情城事",
-      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
+      "title": "监狱来的妈妈",
+      "originalTitle": "监狱来的妈妈",
+      "description": "　　她因反抗家暴，在一次冲突中失手杀夫，被判入狱。十年后，她被特赦出狱，面对的不仅是陌生的世界，更是一个不曾叫过她“妈妈”的儿子，以及被自己杀死了儿子的婆婆。她能否在一片废墟之上重新站立起来？\r 　　影片根据真实故事改编。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsXLjCa9pX1CWquSrinkxdAQFHU.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-30",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1607073,
+      "type": "tmdb",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
       "releaseDate": "2026-05-20",
-      "rating": 5,
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -376,6 +376,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 996871,
+      "type": "tmdb",
+      "title": "爱情城事",
+      "originalTitle": "愛情城事",
+      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 974782,
+      "type": "tmdb",
+      "title": "错时告白",
+      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
+      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
       "id": 1488778,
       "type": "tmdb",
       "title": "今晚正好",
@@ -383,18 +407,6 @@
       "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
       "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
       "releaseDate": "2026-05-20",
       "rating": 0,
       "mediaType": "movie"
@@ -412,27 +424,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1532474,
+      "id": 1511810,
       "type": "tmdb",
-      "title": "监狱来的妈妈",
-      "originalTitle": "监狱来的妈妈",
-      "description": "　　她因反抗家暴，在一次冲突中失手杀夫，被判入狱。十年后，她被特赦出狱，面对的不仅是陌生的世界，更是一个不曾叫过她“妈妈”的儿子，以及被自己杀死了儿子的婆婆。她能否在一片废墟之上重新站立起来？\r 　　影片根据真实故事改编。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsXLjCa9pX1CWquSrinkxdAQFHU.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-30",
+      "title": "突破3000米的日月潭",
+      "originalTitle": "突破：三千米的泳氣",
+      "description": "　　故事改编自真人真事。一位曾经顶尖的游泳教练因一场意外告别泳坛，靠送外卖为生；一位视力逐渐退化的女孩，决定挑战自己，实现泳渡日月潭的梦想。命运让两位相遇，开启一段全新旅程……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/epnne81r1w0PXZtZguJnyVOE1DT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yXJI8MJe1rO3LTiTupoLMSVjyE6.jpg",
+      "releaseDate": "2026-05-22",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1027588,
-      "type": "tmdb",
-      "title": "乒乓男孩",
-      "originalTitle": "乒乓男孩",
-      "description": "胡冠宇对桌球充满着热情，每天拉着好友黄轩持续练习对打，一心想成为奥运选手。 学校的新任教练让球队产生了不同以往的气氛，胡冠宇等人的实力逐渐有所成长。黄轩也在训练中崭露天赋，两人球技拉开差距的同时，与胡冠宇渐行渐远。 失去伙伴的胡冠宇陷入自暴自弃的低潮，但在同伴们的陪伴下脱胎换骨。历经一年的苦练，胡冠宇成功取得选拔赛的参赛资格，终于要面临最后的决赛对手──黄轩。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5il24TSmgsxwDWOGcBb4qgId9qX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vnUGKO13aCLQwi1n3EamzyiKb50.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -448,15 +448,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1511810,
+      "id": 1027588,
       "type": "tmdb",
-      "title": "突破3000米的日月潭",
-      "originalTitle": "突破：三千米的泳氣",
-      "description": "　　故事改编自真人真事。一位曾经顶尖的游泳教练因一场意外告别泳坛，靠送外卖为生；一位视力逐渐退化的女孩，决定挑战自己，实现泳渡日月潭的梦想。命运让两位相遇，开启一段全新旅程……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/epnne81r1w0PXZtZguJnyVOE1DT.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yXJI8MJe1rO3LTiTupoLMSVjyE6.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 0,
+      "title": "乒乓男孩",
+      "originalTitle": "乒乓男孩",
+      "description": "胡冠宇对桌球充满着热情，每天拉着好友黄轩持续练习对打，一心想成为奥运选手。 学校的新任教练让球队产生了不同以往的气氛，胡冠宇等人的实力逐渐有所成长。黄轩也在训练中崭露天赋，两人球技拉开差距的同时，与胡冠宇渐行渐远。 失去伙伴的胡冠宇陷入自暴自弃的低潮，但在同伴们的陪伴下脱胎换骨。历经一年的苦练，胡冠宇成功取得选拔赛的参赛资格，终于要面临最后的决赛对手──黄轩。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5il24TSmgsxwDWOGcBb4qgId9qX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vnUGKO13aCLQwi1n3EamzyiKb50.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
