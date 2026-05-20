@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T02:00:36.153+08:00",
+  "last_updated": "2026-05-21T02:12:44.105+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.971,
+      "rating": 6.931,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.6,
+      "rating": 7.584,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.7,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -47,6 +47,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
       "rating": 6.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1228710,
+      "type": "tmdb",
+      "title": "星球大战：曼达洛人与古古",
+      "originalTitle": "Star Wars: The Mandalorian and Grogu",
+      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -82,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.49,
+      "rating": 7.483,
       "mediaType": "movie"
     },
     {
@@ -122,42 +134,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 137409,
-      "type": "tmdb",
-      "title": "寒战",
-      "originalTitle": "寒戰",
-      "description": "作为亚洲金融中心的香港被称作“最安全的城市”，岂料警局接到一通匿名电话，对方声称劫持了警队的一辆前线冲锋车以及车内的五名警员和武器装备。此次事件引起了香港警队高层的高度重视，适逢处长（王敏德 饰）出访国外，此时由鹰派人物行动副处长李文彬（梁家辉 饰）与年轻的管理副处长刘杰辉（郭富城 饰）一起负责这次案件，并将行动命名为“寒战”，李文彬任总指挥。李文彬的儿子（彭于晏 饰）也是人质之一，刘杰辉因此对李文彬父子产生怀疑。与此同时，匪徒展开了进一步行动：警察被杀、爆炸案频发……到底是谁在将整个警队玩弄于鼓掌之中？香港真的是“最安全的城市”吗？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4H5ohuhwCMnXaA0ahKS7ieOXhhV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uw28cMvJBFBzgaMM5YeKlXTtUqE.jpg",
-      "releaseDate": "2012-11-26",
-      "rating": 6.662,
-      "mediaType": "movie"
-    },
-    {
-      "id": 416249,
-      "type": "tmdb",
-      "title": "寒战2",
-      "originalTitle": "寒戰 II",
-      "description": "刘杰辉（郭富城饰）荣升警队一哥后，他的妻儿却遭遇了歹徒绑架，对方要求警队以李家俊（彭于晏饰）为交换。虽然费尽心机，但最终被对方得逞，李家俊逃跑，而他也由于违反警队规定擅自行动，遭遇香港司法机关质询。他一心要揪出绑架案的幕后黑手。而引咎辞职的前警务处处长李文彬，受到已退休的前警务处长蔡元祺（张国柱饰）的蛊惑，在质询过程中临阵倒戈，引发了刘杰辉被弹劾的危机。  同时，立法会议员简奥伟（周润发饰），对李文彬的倒戈也充满疑虑，派出自己的侄女欧咏恩调查李文彬的行踪，从而发现了李文彬与逃跑的李家俊以及蔡元祺有接触，后来在跟踪过程中被蔡元祺一伙发现，最终死于车祸。欧咏恩的死激怒了简奥伟，使他也加入到了对李文彬的调查之中。简奥伟通过欧咏恩留下的云端文件，获得了李文彬跟李家俊、蔡元祺密会的照片。而刘杰辉也通过反间谍的方式，发现了警队中李文彬的眼线，并顺藤摸瓜找到了蔡元祺藏匿之前失踪冲锋车的地点，同时通过调查发现了蔡元祺控制香港警队信息系统的证据，并最终一举破坏了蔡元祺的阴谋。而更深层次原因——律政司司长黎永廉（李子雄饰）想要竞选香港特首，进而控制香港政府的政治阴谋，依然藏在水下未被揭开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jQoVfFAeuFmEnSTykJLjTa7Kh89.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7yR2BMksskCgw87Ts04dL2p0pIn.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 6.316,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303236,
-      "type": "tmdb",
-      "title": "角头：大桥头",
-      "originalTitle": "角頭－大橋頭",
-      "description": "一句大佬牌桌的轻佻玩笑，让大桥头二代麦克愤而掀桌宣战，却教大桥头角头Ko桑陷入两难。而无端卷入这场四帮混战的，还有三个底层求生的土狗帮无名小卒。为了帮弟弟筹贷款，不惜铤而走险做起卖药生意，到头来却身不由己赌上性命。角头宇宙来到第四部，时间溯回世界之初，新老面孔齐聚一堂，摊开一幅江湖黑帮的岁月群像。血气火拼分毫不减，再奏响内敛情深的父子哀歌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gaNsN1ojr3mhFBUexBpA4gJ7ejs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cBBIk8jCSt6vIVJkaCwjjDLSMKH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -167,6 +143,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
       "releaseDate": "2026-05-01",
       "rating": 6.444,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1488778,
+      "type": "tmdb",
+      "title": "今晚正好",
+      "originalTitle": "今晚正好",
+      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -194,39 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 996871,
+      "id": 464293,
       "type": "tmdb",
-      "title": "爱情城事",
-      "originalTitle": "愛情城事",
-      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1488778,
-      "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 0,
+      "title": "烈刃之怒",
+      "originalTitle": "The Legend of Maula Jatt",
+      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -240,6 +204,42 @@
       "releaseDate": "2026-04-25",
       "rating": 7,
       "mediaType": "movie"
+    },
+    {
+      "id": 996871,
+      "type": "tmdb",
+      "title": "爱情城事",
+      "originalTitle": "愛情城事",
+      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 974782,
+      "type": "tmdb",
+      "title": "错时告白",
+      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
+      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1607073,
+      "type": "tmdb",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 6,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -252,19 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.246,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1228710,
-      "type": "tmdb",
-      "title": "星球大战：曼达洛人与古古",
-      "originalTitle": "Star Wars: The Mandalorian and Grogu",
-      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 8,
+      "rating": 7.251,
       "mediaType": "movie"
     },
     {
@@ -292,15 +280,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1443374,
+      "id": 748783,
       "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
+      "title": "加菲猫家族",
+      "originalTitle": "The Garfield Movie",
+      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+      "releaseDate": "2024-06-01",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -316,30 +304,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 464293,
-      "type": "tmdb",
-      "title": "烈刃之怒",
-      "originalTitle": "The Legend of Maula Jatt",
-      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 7.9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 996871,
-      "type": "tmdb",
-      "title": "爱情城事",
-      "originalTitle": "愛情城事",
-      "description": "清晨曙光暖照台北，城市缓缓醒来，随着派报员穿梭街角的身影，十段故事悄然展开。电子花车舞娘载着大马女子前往送别；香港女孩试图化解与男友父亲的隔阂；因疫情改做外送员和槟榔西施互生情愫的DJ；深怕端午现形决定与丈夫分离的蛇妖；不敢与兜售玉兰花祖父相认的孙女；女友意外怀孕的异乡人；孤单嫖客与彩券行常客；面对旧爱离去新欢求爱的女演员；夜店男孩的搭讪奇遇……。熟悉的街道、孤单的人，在台北城里交织出属于自己的爱与情。  曾宝仪领军监制，以台北为背景，集结来自台湾、香港、马来西亚、不丹、法国等地多位导演齐聚，邀请台港影帝后李心洁、林嘉欣、阮经天、陈淑芳、郑秀文、邓丽欣，金马得主刘冠廷、方郁婷、郭书瑶、朱轩洋等吸睛卡司，透过各自相异的创作视角，展开十段跨越时间、年龄、性别、国籍甚至阴阳两界、奇幻传说的限制，揭开藏身在城市巷弄里，看似平凡却又真挚动人，关于爱的各种样貌。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pcMAJ3KR78I2Sg5Q53kw7lRQhDq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
       "id": 597316,
       "type": "tmdb",
       "title": "小马宝莉：新世代",
@@ -348,31 +312,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
       "releaseDate": "2022-07-30",
-      "rating": 7.73,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1488778,
-      "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 0,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -388,30 +328,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 974782,
-      "type": "tmdb",
-      "title": "错时告白",
-      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
-      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 6.6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1174145,
-      "type": "tmdb",
-      "title": "钟馗",
-      "originalTitle": "钟馗",
-      "description": "　　少女初九偶然发现河阳城主墨白是妖怪的真相而被追杀。危机时刻，地府捉妖天师钟馗出手相救，初九由此立志降妖除魔并拜钟馗为师。与此同时，一场足以颠覆人间地府的巨大危机也悄然袭来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zsWPTAfEI6ealbmIpw0G6QArSSc.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-30",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1027588,
       "type": "tmdb",
       "title": "乒乓男孩",
@@ -424,27 +340,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1511810,
+      "id": 1324187,
       "type": "tmdb",
-      "title": "突破3000米的日月潭",
-      "originalTitle": "突破：三千米的泳氣",
-      "description": "　　故事改编自真人真事。一位曾经顶尖的游泳教练因一场意外告别泳坛，靠送外卖为生；一位视力逐渐退化的女孩，决定挑战自己，实现泳渡日月潭的梦想。命运让两位相遇，开启一段全新旅程……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/epnne81r1w0PXZtZguJnyVOE1DT.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yXJI8MJe1rO3LTiTupoLMSVjyE6.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1357770,
-      "type": "tmdb",
-      "title": "我们意外的勇气",
-      "originalTitle": "我們意外的勇氣",
-      "description": "　　资深艺人经纪乐芙（刘若英 饰）与广告导演柏恩（薛仕凌 饰）情牵多年，因为年龄差距、原生家庭的创伤等，关于未来感情要走多长远，彼此都放在心中不敢说开。直到乐芙45岁生日当天迎来工作跟生命的“大意外”，两人被迫面对往后的抉择……\r 　　影片改编自导演游绍翔的亲身经历。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9rytCGxBxHWQOcn7G7kyAfF8o0m.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qdiAJ1u2gkiDwXTfpLaJTMSFYL1.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 0,
+      "title": "只此青绿",
+      "originalTitle": "只此青绿",
+      "description": "　　一位现代文物研究员在《千里江山图》即将展出之际潜心钻研，穿越九百余年时空走入北宋少年画家希孟的内心，目睹了希孟呕心沥血忘我创作，与无数劳动者携手，历尽千辛万苦创作出传世画卷的历程。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2U32CZU2qKY4VrQQ5AC1dXAzTHU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/bxoTtN40SPujsogRkeeHkvJ3Ttz.jpg",
+      "releaseDate": "2024-09-15",
+      "rating": 8.5,
       "mediaType": "movie"
     },
     {
@@ -460,15 +364,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1035090,
+      "id": 1174145,
       "type": "tmdb",
-      "title": "维米尔·旷世大展",
-      "originalTitle": "Vermeer: The Greatest Exhibition",
-      "description": "2023年春季，阿姆斯特丹国家博物馆呈现有史以来规模最大的维梅尔展览。维梅尔用色独特，爱用群青蓝等昂贵颜料，擅长捕捉室内空间的光与影，以物件与人物的互动呈现岁月静好的人文气氛。观众能以电影形式享受这个一票难求的展览，并由阿姆斯特丹国家博物馆馆长和策展人亲自导赏，展览云集全球不同博物馆藏品，维梅尔35件已知作品中的28件稀世名画，包括著名的《戴珍珠耳环的少女》、《地理学家》、《倒牛奶的女仆》及《窗边读信的少女》等。阿姆斯特丹国家博物馆和海牙莫瑞泰斯皇家美术馆利用现代科技，对维梅尔的创作灵感和绘画过程进行深入研究。观众可在大银幕仔细欣赏维梅尔巨作的细节，并在专业鉴赏下深入了解其生平及创作内幕，沉浸在维梅尔的艺术世界中！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5FvXNMh346rWfNPlFlpgdAQXy8U.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/18c2tpFA1rF51Tg7Mk5BKNUC7ow.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 7.8,
+      "title": "钟馗",
+      "originalTitle": "钟馗",
+      "description": "　　少女初九偶然发现河阳城主墨白是妖怪的真相而被追杀。危机时刻，地府捉妖天师钟馗出手相救，初九由此立志降妖除魔并拜钟馗为师。与此同时，一场足以颠覆人间地府的巨大危机也悄然袭来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zsWPTAfEI6ealbmIpw0G6QArSSc.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-30",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -479,6 +383,78 @@
       "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
       "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1693737,
+      "type": "tmdb",
+      "title": "加油吧！娜依拉",
+      "originalTitle": "加油吧！娜依拉",
+      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1609560,
+      "type": "tmdb",
+      "title": "偷偷藏不住",
+      "originalTitle": "偷偷藏不住",
+      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1695202,
+      "type": "tmdb",
+      "title": "走马观花",
+      "originalTitle": "走马观花",
+      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1697919,
+      "type": "tmdb",
+      "title": "中国动画100年",
+      "originalTitle": "中国动画100年",
+      "description": "　　中国动画从1922年到今天已经走过了百年历程，本影片通过一些经典的、有代表性的中国动画片展示以及对这些作品背后鲜为人知故事的挖掘，来致敬那段可歌可泣的岁月。致敬那些为中国动画呕心沥血的动画人和他们身上体现出来的人文情怀与文化精神。从中国动画的百年历程中梳理、总结和提炼出中国动画的魅力之源、动力之源，找到那些掩盖在风雨烟尘中的客观规律，从而给中国动画的下一个百年打开一扇窗、推开一扇门，指出一条路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yiIbPT43iqOhYDWkKtzL4Ex5bU5.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e5ZD3dCsPmeekPHMbZ7uEwfBvTJ.jpg",
+      "releaseDate": "2026-06-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1698965,
+      "type": "tmdb",
+      "title": "我的爱人",
+      "originalTitle": "我的爱人",
+      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1698208,
+      "type": "tmdb",
+      "title": "极限逃生",
+      "originalTitle": "极限逃生",
+      "description": "　　大学无限风光的吴成（吴昱翰 饰）毕业后却连续三年考研不中、职场被排挤，他的人生陷入迷茫。公司年会之际，吴成设计和曾经暗恋并在酒店工作的学妹胜男（徐璐 饰）相遇，然而胜男的追求者酒店老总独生子付鑫（张海宇 饰）却在一旁虎视眈眈。与此同时，一场前所未有的灾难悄然来袭，他们要通过自身的能力和攀岩技巧来逃出生天......",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-06-05",
       "rating": 0,
       "mediaType": "movie"
