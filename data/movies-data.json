@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T01:53:13.733+08:00",
+  "last_updated": "2026-05-23T01:47:42.611+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.9,
+      "rating": 6.891,
       "mediaType": "movie"
     },
     {
@@ -22,31 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.574,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1301421,
-      "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 7.671,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1314481,
-      "type": "tmdb",
-      "title": "穿普拉达的女王2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.64,
+      "rating": 7.575,
       "mediaType": "movie"
     },
     {
@@ -58,7 +34,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.361,
+      "rating": 6.588,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1301421,
+      "type": "tmdb",
+      "title": "绵羊侦探团",
+      "originalTitle": "The Sheep Detectives",
+      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 7.729,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1314481,
+      "type": "tmdb",
+      "title": "穿普拉达的女王2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yHhQlFDhesO1UcTmZ4BUt0hxro7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 9.176,
+      "rating": 9.111,
       "mediaType": "movie"
     },
     {
@@ -94,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.483,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1443374,
-      "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
+      "rating": 7.481,
       "mediaType": "movie"
     },
     {
@@ -122,6 +110,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1443374,
+      "type": "tmdb",
+      "title": "森中有林",
+      "originalTitle": "森中有林",
+      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
       "id": 1168719,
       "type": "tmdb",
       "title": "寂静的朋友",
@@ -130,7 +130,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.2,
+      "rating": 7.1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1488778,
+      "type": "tmdb",
+      "title": "今晚正好",
+      "originalTitle": "今晚正好",
+      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -146,15 +158,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1488778,
+      "id": 1607073,
       "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
       "releaseDate": "2026-05-20",
-      "rating": 0,
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -167,18 +179,6 @@
       "backdropPath": null,
       "releaseDate": "2026-05-01",
       "rating": 6.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1297245,
-      "type": "tmdb",
-      "title": "一个男人和一个女人",
-      "originalTitle": "一个男人和一个女人",
-      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -218,6 +218,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1297245,
+      "type": "tmdb",
+      "title": "一个男人和一个女人",
+      "originalTitle": "一个男人和一个女人",
+      "description": "　2021年初春，男人（黄渤 饰）和女人（倪妮 饰）同时飞抵香港，在等待入关大陆期间同住一酒店，一墙之隔。两人在短暂的生命交集中把自身背负的压力倾诉于彼此，在绽放顽强生命力的香港，寻得心灵港湾。而又在答案揭晓之前，选择戛然而止。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pk72qbn8gIaV5l56OI7DT7ZWbkO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fRSGoYlxL4ZcDVVn0XzfKh92kog.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
       "id": 974782,
       "type": "tmdb",
       "title": "错时告白",
@@ -227,18 +239,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
       "releaseDate": "2026-05-20",
       "rating": 6.6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 6,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.251,
+      "rating": 7.245,
       "mediaType": "movie"
     },
     {
@@ -276,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.177,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -312,7 +312,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.5,
+      "rating": 6.458,
       "mediaType": "movie"
     },
     {
@@ -324,7 +324,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
       "releaseDate": "2022-07-30",
-      "rating": 7.7,
+      "rating": 7.737,
       "mediaType": "movie"
     },
     {
@@ -340,18 +340,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1027588,
-      "type": "tmdb",
-      "title": "乒乓男孩",
-      "originalTitle": "乒乓男孩",
-      "description": "胡冠宇对桌球充满着热情，每天拉着好友黄轩持续练习对打，一心想成为奥运选手。 学校的新任教练让球队产生了不同以往的气氛，胡冠宇等人的实力逐渐有所成长。黄轩也在训练中崭露天赋，两人球技拉开差距的同时，与胡冠宇渐行渐远。 失去伙伴的胡冠宇陷入自暴自弃的低潮，但在同伴们的陪伴下脱胎换骨。历经一年的苦练，胡冠宇成功取得选拔赛的参赛资格，终于要面临最后的决赛对手──黄轩。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5il24TSmgsxwDWOGcBb4qgId9qX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vnUGKO13aCLQwi1n3EamzyiKb50.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1324187,
       "type": "tmdb",
       "title": "只此青绿",
@@ -361,6 +349,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/bxoTtN40SPujsogRkeeHkvJ3Ttz.jpg",
       "releaseDate": "2024-09-15",
       "rating": 8.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1027588,
+      "type": "tmdb",
+      "title": "乒乓男孩",
+      "originalTitle": "乒乓男孩",
+      "description": "胡冠宇对桌球充满着热情，每天拉着好友黄轩持续练习对打，一心想成为奥运选手。 学校的新任教练让球队产生了不同以往的气氛，胡冠宇等人的实力逐渐有所成长。黄轩也在训练中崭露天赋，两人球技拉开差距的同时，与胡冠宇渐行渐远。 失去伙伴的胡冠宇陷入自暴自弃的低潮，但在同伴们的陪伴下脱胎换骨。历经一年的苦练，胡冠宇成功取得选拔赛的参赛资格，终于要面临最后的决赛对手──黄轩。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5il24TSmgsxwDWOGcBb4qgId9qX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vnUGKO13aCLQwi1n3EamzyiKb50.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -400,18 +400,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1693737,
-      "type": "tmdb",
-      "title": "加油吧！娜依拉",
-      "originalTitle": "加油吧！娜依拉",
-      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -436,6 +424,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1698208,
+      "type": "tmdb",
+      "title": "极限逃生",
+      "originalTitle": "极限逃生",
+      "description": "　　大学无限风光的吴成（吴昱翰 饰）毕业后却连续三年考研不中、职场被排挤，他的人生陷入迷茫。公司年会之际，吴成设计和曾经暗恋并在酒店工作的学妹胜男（徐璐 饰）相遇，然而胜男的追求者酒店老总独生子付鑫（张海宇 饰）却在一旁虎视眈眈。与此同时，一场前所未有的灾难悄然来袭，他们要通过自身的能力和攀岩技巧来逃出生天......",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1693737,
+      "type": "tmdb",
+      "title": "加油吧！娜依拉",
+      "originalTitle": "加油吧！娜依拉",
+      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1697919,
       "type": "tmdb",
       "title": "中国动画100年",
@@ -456,18 +468,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1698208,
-      "type": "tmdb",
-      "title": "极限逃生",
-      "originalTitle": "极限逃生",
-      "description": "　　大学无限风光的吴成（吴昱翰 饰）毕业后却连续三年考研不中、职场被排挤，他的人生陷入迷茫。公司年会之际，吴成设计和曾经暗恋并在酒店工作的学妹胜男（徐璐 饰）相遇，然而胜男的追求者酒店老总独生子付鑫（张海宇 饰）却在一旁虎视眈眈。与此同时，一场前所未有的灾难悄然来袭，他们要通过自身的能力和攀岩技巧来逃出生天......",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-05",
       "rating": 0,
       "mediaType": "movie"
     }
