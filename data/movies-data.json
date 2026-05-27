@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T02:21:57.927+08:00",
+  "last_updated": "2026-05-28T02:21:34.461+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.802,
+      "rating": 6.774,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.7,
+      "rating": 6.8,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.59,
+      "rating": 7.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1368166,
+      "type": "tmdb",
+      "title": "家弑服务",
+      "originalTitle": "The Housemaid",
+      "description": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 7.26,
       "mediaType": "movie"
     },
     {
@@ -46,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.593,
+      "rating": 7.605,
       "mediaType": "movie"
     },
     {
@@ -58,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.648,
+      "rating": 6.63,
       "mediaType": "movie"
     },
     {
@@ -74,6 +86,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 77,
+      "type": "tmdb",
+      "title": "记忆碎片",
+      "originalTitle": "Memento",
+      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 8.177,
+      "mediaType": "movie"
+    },
+    {
       "id": 578,
       "type": "tmdb",
       "title": "大白鲨",
@@ -82,19 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1124566,
-      "type": "tmdb",
-      "title": "情感价值",
-      "originalTitle": "Affeksjonsverdi",
-      "description": "舞台剧演员诺拉（雷娜特·赖因斯夫 饰）在母亲离世后，突然迎来了生命中长期缺席的父亲古斯塔夫（斯特兰·斯卡斯加德 饰）。这位知名导演携带着自诩为“生涯最佳”的剧本不请自来，不仅执意邀请诺拉担任新片女主角，更坚持要在承载着家族记忆的北欧老宅取景。那栋宛如童话般梦幻的建筑，正是诺拉与妹妹阿格尼丝（英加·伊布斯多特·利勒亚斯 饰）的成长之地。面对这位早已抛弃家庭的父亲，诺拉斩钉截铁地表示拒绝。对她而言，二人之间没有和解的余地。直到仰慕古斯塔夫的好莱坞明星蕾切尔（艾丽·范宁 饰）代替她出演片中主角，事情逐渐往意想不到的方向发展：这个破碎家庭的“情感价值”开始以一种微妙的方式进行“重估” 。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3ZmKi8iT8CSwY2zkc0D7m75cDpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oLgtpxK4aGZ7S8aiE3rDwahqkL2.jpg",
-      "releaseDate": "2026-04-17",
-      "rating": 7.5,
+      "rating": 7.682,
       "mediaType": "movie"
     },
     {
@@ -110,6 +122,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1318413,
+      "type": "tmdb",
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "　　聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 8,
+      "mediaType": "movie"
+    },
+    {
       "id": 1168719,
       "type": "tmdb",
       "title": "寂静的朋友",
@@ -118,7 +142,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.172,
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -146,6 +170,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1658653,
+      "type": "tmdb",
+      "title": "消失的人",
+      "originalTitle": "消失的人",
+      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-05-01",
+      "rating": 6.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 597316,
+      "type": "tmdb",
+      "title": "小马宝莉：新世代",
+      "originalTitle": "My Little Pony: A New Generation",
+      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+      "releaseDate": "2022-07-30",
+      "rating": 7.7,
+      "mediaType": "movie"
+    },
+    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -170,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1658653,
-      "type": "tmdb",
-      "title": "消失的人",
-      "originalTitle": "消失的人",
-      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-01",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
-    {
       "id": 996871,
       "type": "tmdb",
       "title": "爱情城事",
@@ -194,67 +230,19 @@
       "mediaType": "movie"
     },
     {
-      "id": 1005985,
+      "id": 785429,
       "type": "tmdb",
-      "title": "器子",
-      "originalTitle": "器子",
-      "description": "女儿在三个月大时失踪，疑似被贩婴集团偷走，妻子过度自责后自戕，他为追查真相反被诬陷入狱，出狱后查出女儿是落入活摘器官集团，成为被取走心脏的「器子」。他悲愤难当，对犯罪集团连翻展开以暴制暴的复仇行动，全力营救作为「器子」的女儿。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/prmdcWDzvhKiHKp6naKwADj9KU7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/o0n8l6Itc3vjf9svwHGzC3uuQhZ.jpg",
-      "releaseDate": "2026-04-18",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 974782,
-      "type": "tmdb",
-      "title": "错时告白",
-      "originalTitle": "OMG! รักจังวะ..ผิดจังหวะ",
-      "description": "　　盖和琼两人虽互生好感，但从大学时代起，就总因等不到对方单身，而不停错过彼此。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4WvLijYQM4h6fw4RVXHuqn8r45s.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/odWLOSGczuUxmPXZHZXICxlyYnF.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 6.6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1492501,
-      "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 464293,
-      "type": "tmdb",
-      "title": "烈刃之怒",
-      "originalTitle": "The Legend of Maula Jatt",
-      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 7.9,
+      "title": "森林之声",
+      "originalTitle": "OZI: Voice of the Forest",
+      "description": "印度尼西亚雨林的森林砍伐，一只名叫Ozi的十几岁的红毛猩猩被烧毁后成为孤儿。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tEdEL8M58BDRJToH5kmqtIXWSh6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9XBVJBj8smienzhkZ2ocW7fytWZ.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 6.182,
       "mediaType": "movie"
     }
   ],
   "upcoming": [
-    {
-      "id": 1368166,
-      "type": "tmdb",
-      "title": "家弑服务",
-      "originalTitle": "The Housemaid",
-      "description": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8lgSWWrpS75Hwdm0TZlL1dK7VDD.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 7.252,
-      "mediaType": "movie"
-    },
     {
       "id": 454639,
       "type": "tmdb",
@@ -264,19 +252,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
+      "rating": 10,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员 5",
+      "originalTitle": "Toy Story 5",
+      "description": "玩具们将会跟孩子们如今沉迷的电子产品展开激烈较量。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 77,
+      "id": 1280738,
       "type": "tmdb",
-      "title": "记忆碎片",
-      "originalTitle": "Memento",
-      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 8.2,
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/79GYNlnCK7kfQPAyQI13NLatK07.jpg",
+      "releaseDate": "2026-06-11",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -288,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 6.987,
+      "rating": 6.985,
       "mediaType": "movie"
     },
     {
@@ -299,7 +299,7 @@
       "description": "　　聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
-      "releaseDate": "2026-06-06",
+      "releaseDate": "2026-05-30",
       "rating": 8,
       "mediaType": "movie"
     },
@@ -316,30 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 597316,
-      "type": "tmdb",
-      "title": "小马宝莉：新世代",
-      "originalTitle": "My Little Pony: A New Generation",
-      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
-      "releaseDate": "2022-07-30",
-      "rating": 7.72,
-      "mediaType": "movie"
-    },
-    {
-      "id": 785429,
-      "type": "tmdb",
-      "title": "森林之声",
-      "originalTitle": "OZI: Voice of the Forest",
-      "description": "印度尼西亚雨林的森林砍伐，一只名叫Ozi的十几岁的红毛猩猩被烧毁后成为孤儿。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tEdEL8M58BDRJToH5kmqtIXWSh6.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9XBVJBj8smienzhkZ2ocW7fytWZ.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 6.182,
-      "mediaType": "movie"
-    },
-    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -352,39 +328,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1324187,
+      "id": 1275051,
       "type": "tmdb",
-      "title": "只此青绿",
-      "originalTitle": "只此青绿",
-      "description": "　　一位现代文物研究员在《千里江山图》即将展出之际潜心钻研，穿越九百余年时空走入北宋少年画家希孟的内心，目睹了希孟呕心沥血忘我创作，与无数劳动者携手，历尽千辛万苦创作出传世画卷的历程。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2U32CZU2qKY4VrQQ5AC1dXAzTHU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bxoTtN40SPujsogRkeeHkvJ3Ttz.jpg",
-      "releaseDate": "2024-09-15",
-      "rating": 8.5,
+      "title": "绝密任务",
+      "originalTitle": "绝密任务",
+      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 915039,
+      "id": 1435047,
       "type": "tmdb",
-      "title": "喜羊羊与灰太狼之筐出未来",
-      "originalTitle": "喜羊羊与灰太狼之筐出未来",
-      "description": "守护者队参战篮球顶级赛事都市杯，喜羊羊和灰太狼却因为一球之争关系破裂，导致球队惨遭败北，分崩离析。但真正的友谊不会被困难打倒，众人经历成长，再战新一届都市杯。最终众人凭借友谊和热爱，登顶冠军完成梦想。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mdgWZ9csH6YSPbk9cZDgNDqm8ZG.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sWEXjClDk8wcnClue3zFlatZJf7.jpg",
-      "releaseDate": "2022-02-01",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1027588,
-      "type": "tmdb",
-      "title": "乒乓男孩",
-      "originalTitle": "乒乓男孩",
-      "description": "胡冠宇对桌球充满着热情，每天拉着好友黄轩持续练习对打，一心想成为奥运选手。 学校的新任教练让球队产生了不同以往的气氛，胡冠宇等人的实力逐渐有所成长。黄轩也在训练中崭露天赋，两人球技拉开差距的同时，与胡冠宇渐行渐远。 失去伙伴的胡冠宇陷入自暴自弃的低潮，但在同伴们的陪伴下脱胎换骨。历经一年的苦练，胡冠宇成功取得选拔赛的参赛资格，终于要面临最后的决赛对手──黄轩。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5il24TSmgsxwDWOGcBb4qgId9qX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vnUGKO13aCLQwi1n3EamzyiKb50.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 7,
+      "title": "爱是愤怒",
+      "originalTitle": "爱是愤怒",
+      "description": "无论工作还是生活，刘浩一直都是被轻视的那个。直到遇见菜菜，两个年轻人坠入爱河。然而，就在他们信心满满，想要展开美好未来时，一场意外彻底颠覆了他们的生活。面对险恶的世界，屈辱的人生，他们选择了不一样的反抗……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/px5DFjEhzSKRGZ5pSAUxokFC8rY.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ewenEi50R7BiUVRbFFvAuMqb0Lo.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -396,18 +360,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/cu3vs6vDdKIomjTXZ5eL8ZPjvIl.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1174145,
-      "type": "tmdb",
-      "title": "钟馗",
-      "originalTitle": "钟馗",
-      "description": "　　少女初九偶然发现河阳城主墨白是妖怪的真相而被追杀。危机时刻，地府捉妖天师钟馗出手相救，初九由此立志降妖除魔并拜钟馗为师。与此同时，一场足以颠覆人间地府的巨大危机也悄然袭来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zsWPTAfEI6ealbmIpw0G6QArSSc.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-05-30",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -424,18 +376,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1695202,
-      "type": "tmdb",
-      "title": "走马观花",
-      "originalTitle": "走马观花",
-      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1693737,
       "type": "tmdb",
       "title": "加油吧！娜依拉",
@@ -448,14 +388,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1697919,
+      "id": 1695202,
       "type": "tmdb",
-      "title": "中国动画100年",
-      "originalTitle": "中国动画100年",
-      "description": "　　中国动画从1922年到今天已经走过了百年历程，本影片通过一些经典的、有代表性的中国动画片展示以及对这些作品背后鲜为人知故事的挖掘，来致敬那段可歌可泣的岁月。致敬那些为中国动画呕心沥血的动画人和他们身上体现出来的人文情怀与文化精神。从中国动画的百年历程中梳理、总结和提炼出中国动画的魅力之源、动力之源，找到那些掩盖在风雨烟尘中的客观规律，从而给中国动画的下一个百年打开一扇窗、推开一扇门，指出一条路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yiIbPT43iqOhYDWkKtzL4Ex5bU5.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e5ZD3dCsPmeekPHMbZ7uEwfBvTJ.jpg",
-      "releaseDate": "2026-06-01",
+      "title": "走马观花",
+      "originalTitle": "走马观花",
+      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
+      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -468,6 +408,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     }
