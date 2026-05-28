@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-05-28T17:55:08.090+08:00",
+  "last_updated": "2026-05-28T23:42:52.396+08:00",
   "tv": {
     "全网": [
       {
-        "title": "耀眼",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "主角",
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -57,7 +57,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "蜜语纪",
+        "title": "盛唐奇案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -95,13 +95,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "正义女神",
+        "title": "重案解密",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重案解密",
+        "title": "正义女神",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -145,13 +145,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "蜜语纪",
+        "title": "盛唐奇案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "盛唐奇案",
+        "title": "蜜语纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,13 +175,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "江湖夜雨十年灯",
+        "title": "欢迎回我的频道",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "家事法庭",
+        "title": "樊笼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,13 +315,13 @@
   "show": {
     "全网": [
       {
-        "title": "哈哈哈哈哈 第六季",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "哈哈哈哈哈 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -425,13 +425,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "最强大脑 第13季",
+        "title": "第一人称复数 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "第一人称复数 第三季",
+        "title": "最强大脑 第13季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -501,13 +501,13 @@
     ],
     "腾讯视频": [
       {
-        "title": "哈哈哈哈哈 第六季",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "哈哈哈哈哈 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,7 +575,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "初入职场金融季",
+        "title": "妻子的浪漫旅行2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -588,6 +588,12 @@
       },
       {
         "title": "乘风2026 训练室全纪录",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "初入职场金融季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -606,12 +612,6 @@
       },
       {
         "title": "我家那小子2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "妻子的浪漫旅行2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
