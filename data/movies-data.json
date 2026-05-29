@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T02:31:59.140+08:00",
+  "last_updated": "2026-05-30T02:28:21.922+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.8,
+      "rating": 6.765,
       "mediaType": "movie"
     },
     {
@@ -20,9 +20,9 @@
       "originalTitle": "The Mandalorian and Grogu",
       "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.785,
+      "rating": 6.8,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.596,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.626,
+      "rating": 7.612,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.637,
+      "rating": 6.636,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 8.5,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -230,19 +230,31 @@
       "mediaType": "movie"
     },
     {
-      "id": 1492501,
+      "id": 464293,
       "type": "tmdb",
-      "title": "10间敢死队",
-      "originalTitle": "10间敢死队",
-      "description": "亲人离世，一无所有的章小兵自杀未遂。为了还债，他以护工的身份进入了10号癌症病房进行“心理干预”。一个不想活的和一群要死的人朝夕相处，互相帮助渡过难关。最终找到了人生意义，开启全新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rsAAGBwAhezrPfl7dnVFm7xGgp1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/htddfU0co3jRl5vZL8vYmeORa9S.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 7,
+      "title": "烈刃之怒",
+      "originalTitle": "The Legend of Maula Jatt",
+      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7.9,
       "mediaType": "movie"
     }
   ],
   "upcoming": [
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
     {
       "id": 1084244,
       "type": "tmdb",
@@ -262,9 +274,9 @@
       "originalTitle": "Masters of the Universe",
       "description": "导演McG最近正在商谈，有望为索尼执导根据80年代同名动画和玩具改编的真人版电影《希曼》（Masters of the Universe）。",
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 8.667,
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -280,18 +292,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 748783,
       "type": "tmdb",
       "title": "加菲猫家族",
@@ -300,7 +300,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 7,
+      "rating": 6.987,
       "mediaType": "movie"
     },
     {
@@ -312,7 +312,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 8.5,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -324,7 +324,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.45,
+      "rating": 6.452,
       "mediaType": "movie"
     },
     {
