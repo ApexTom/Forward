@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30T02:28:21.922+08:00",
+  "last_updated": "2026-05-31T00:56:35.138+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.765,
+      "rating": 6.766,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.8,
+      "rating": 6.814,
       "mediaType": "movie"
     },
     {
@@ -34,19 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1301421,
-      "type": "tmdb",
-      "title": "绵羊侦探团",
-      "originalTitle": "The Sheep Detectives",
-      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "releaseDate": "2026-05-16",
-      "rating": 7.612,
+      "rating": 7.588,
       "mediaType": "movie"
     },
     {
@@ -58,7 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.262,
+      "rating": 7.265,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1301421,
+      "type": "tmdb",
+      "title": "绵羊侦探团",
+      "originalTitle": "The Sheep Detectives",
+      "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "releaseDate": "2026-05-16",
+      "rating": 7.619,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.636,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.681,
+      "rating": 7.682,
       "mediaType": "movie"
     },
     {
@@ -142,7 +142,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.2,
+      "rating": 7.172,
       "mediaType": "movie"
     },
     {
@@ -170,15 +170,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
+      "id": 597316,
       "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.4,
+      "title": "小马宝莉：新世代",
+      "originalTitle": "My Little Pony: A New Generation",
+      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+      "releaseDate": "2022-07-30",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -194,27 +194,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 597316,
+      "id": 1499071,
       "type": "tmdb",
-      "title": "小马宝莉：新世代",
-      "originalTitle": "My Little Pony: A New Generation",
-      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
-      "releaseDate": "2022-07-30",
-      "rating": 7.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 3.5,
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -240,6 +228,18 @@
       "releaseDate": "2026-05-21",
       "rating": 7.9,
       "mediaType": "movie"
+    },
+    {
+      "id": 1607073,
+      "type": "tmdb",
+      "title": "错过了，遗憾吗？",
+      "originalTitle": "错过了，遗憾吗？",
+      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 3.5,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -256,18 +256,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员 5",
-      "originalTitle": "Toy Story 5",
-      "description": "　　本部续作中，胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。\r 　　当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 454639,
       "type": "tmdb",
       "title": "宇宙巨人：希曼崛起",
@@ -277,6 +265,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "releaseDate": "2026-06-05",
       "rating": 9,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员 5",
+      "originalTitle": "Toy Story 5",
+      "description": "　　本部续作中，胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。\r 　　当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -324,7 +324,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.452,
+      "rating": 6.458,
       "mediaType": "movie"
     },
     {
@@ -388,18 +388,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1695202,
-      "type": "tmdb",
-      "title": "走马观花",
-      "originalTitle": "走马观花",
-      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1693737,
       "type": "tmdb",
       "title": "加油吧！娜依拉",
@@ -408,6 +396,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7IRs3J4o8iSZlQdnamE1vtu8k7N.jpg",
       "releaseDate": "2026-06-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1695202,
+      "type": "tmdb",
+      "title": "走马观花",
+      "originalTitle": "走马观花",
+      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
+      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
