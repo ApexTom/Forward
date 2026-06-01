@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-06-01T01:00:50.714+08:00",
+  "last_updated": "2026-06-02T04:12:31.740+08:00",
   "now_playing": [
-    {
-      "id": 1228710,
-      "type": "tmdb",
-      "title": "星球大战：曼达洛人与古古",
-      "originalTitle": "The Mandalorian and Grogu",
-      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.8,
-      "mediaType": "movie"
-    },
     {
       "id": 931285,
       "type": "tmdb",
@@ -22,7 +10,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.797,
+      "rating": 6.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1228710,
+      "type": "tmdb",
+      "title": "星球大战：曼达洛人与古古",
+      "originalTitle": "The Mandalorian and Grogu",
+      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.876,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 7.58,
+      "rating": 7.573,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.262,
+      "rating": 7.259,
       "mediaType": "movie"
     },
     {
@@ -56,9 +56,9 @@
       "originalTitle": "The Sheep Detectives",
       "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.66,
+      "rating": 7.629,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.641,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.2,
+      "rating": 8.177,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 9.1,
+      "rating": 9.091,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.682,
+      "rating": 7.681,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.4,
+      "rating": 7.8,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1168719,
+      "type": "tmdb",
+      "title": "寂静的朋友",
+      "originalTitle": "Silent Friend",
+      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 7.161,
+      "mediaType": "movie"
+    },
+    {
       "id": 47423,
       "type": "tmdb",
       "title": "纵横四海",
@@ -143,18 +155,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
       "releaseDate": "2026-05-03",
       "rating": 6.9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1168719,
-      "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Silent Friend",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -194,15 +194,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1658653,
+      "id": 464293,
       "type": "tmdb",
-      "title": "消失的人",
-      "originalTitle": "消失的人",
-      "description": "冬至清晨，唐宇（郑恺 饰）的儿子在楼梯间消失无踪。隔壁单元，赌鬼严午（邱泽 饰）决定在出租屋藏匿父亲的尸体。半年前，单身独居的女孩林雨彤（刘浩存 饰）在熟睡中被侵犯，而凶手不知所踪。这些看似毫不相关的事，却在这一刻重新交织，重新演绎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xRqCkGHiT3j9UBl5uruMhInCEGP.jpg",
+      "title": "烈刃之怒",
+      "originalTitle": "The Legend of Maula Jatt",
+      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7.9,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1174145,
+      "type": "tmdb",
+      "title": "钟馗",
+      "originalTitle": "钟馗",
+      "description": "　　少女初九偶然发现河阳城主墨白是妖怪的真相而被追杀。危机时刻，地府捉妖天师钟馗出手相救，初九由此立志降妖除魔并拜钟馗为师。与此同时，一场足以颠覆人间地府的巨大危机也悄然袭来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zsWPTAfEI6ealbmIpw0G6QArSSc.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-05-01",
-      "rating": 6.7,
+      "releaseDate": "2026-05-30",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -215,18 +227,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nIr2ulTFueEu34FJCKtvZTzt0b1.jpg",
       "releaseDate": "2026-05-20",
       "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 464293,
-      "type": "tmdb",
-      "title": "烈刃之怒",
-      "originalTitle": "The Legend of Maula Jatt",
-      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -246,11 +246,11 @@
     {
       "id": 1275779,
       "type": "tmdb",
-      "title": "揭秘日",
+      "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+      "description": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
       "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
@@ -258,11 +258,11 @@
     {
       "id": 1084244,
       "type": "tmdb",
-      "title": "玩具总动员 5",
+      "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
-      "description": "　　本部续作中，胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。\r 　　当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7BuN6lQCAq1tLz2l3g6sHVSFGib.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
@@ -270,10 +270,10 @@
     {
       "id": 454639,
       "type": "tmdb",
-      "title": "宇宙巨人：希曼崛起",
+      "title": "Masters of the Universe",
       "originalTitle": "Masters of the Universe",
-      "description": "导演McG最近正在商谈，有望为索尼执导根据80年代同名动画和玩具改编的真人版电影《希曼》（Masters of the Universe）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "releaseDate": "2026-06-05",
       "rating": 9.2,
@@ -282,10 +282,10 @@
     {
       "id": 1280738,
       "type": "tmdb",
-      "title": "火遮眼",
+      "title": "The Furious",
       "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+      "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/79GYNlnCK7kfQPAyQI13NLatK07.jpg",
       "releaseDate": "2026-06-11",
       "rating": 0,
@@ -294,22 +294,22 @@
     {
       "id": 1318413,
       "type": "tmdb",
-      "title": "诺曼底72小时",
+      "title": "Pressure",
       "originalTitle": "Pressure",
-      "description": "　　聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9RkDrI8V8QJBjhtyRX7y6Qow3aq.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.4,
+      "rating": 7.8,
       "mediaType": "movie"
     },
     {
       "id": 748783,
       "type": "tmdb",
-      "title": "加菲猫家族",
+      "title": "The Garfield Movie",
       "originalTitle": "The Garfield Movie",
-      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
+      "description": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father – scruffy street cat Vic – Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xYduFGuch9OwbCOEUiamml18ZoB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
       "rating": 6.987,
@@ -318,24 +318,24 @@
     {
       "id": 1285965,
       "type": "tmdb",
-      "title": "危险动物",
+      "title": "Dangerous Animals",
       "originalTitle": "Dangerous Animals",
-      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
+      "description": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.457,
+      "rating": 6.5,
       "mediaType": "movie"
     },
     {
-      "id": 1275051,
+      "id": 1609560,
       "type": "tmdb",
-      "title": "绝密任务",
-      "originalTitle": "绝密任务",
-      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
-      "releaseDate": "2026-06-19",
+      "title": "Hidden Love",
+      "originalTitle": "偷偷藏不住",
+      "description": "Sang Zhi quietly falls for Duan Jiaxu, her older brother’s college roommate. Years later, a chance reunion allows their once-hidden feelings to resurface, gradually turning an unspoken crush into a heartfelt romance.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
+      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -344,7 +344,7 @@
       "type": "tmdb",
       "title": "爱是愤怒",
       "originalTitle": "爱是愤怒",
-      "description": "无论工作还是生活，刘浩一直都是被轻视的那个。直到遇见菜菜，两个年轻人坠入爱河。然而，就在他们信心满满，想要展开美好未来时，一场意外彻底颠覆了他们的生活。面对险恶的世界，屈辱的人生，他们选择了不一样的反抗……",
+      "description": "In both work and life, Liu Hao had always been the one looked down upon. That is, until he met Cai Cai—two young souls who fell deeply in love. Just as they were brimming with confidence, ready to embark on a bright future, a sudden accident overturned their lives completely. Faced with a cruel world and a humiliating existence, they chose divergent paths of resistance...",
       "posterPath": "https://image.tmdb.org/t/p/w500/px5DFjEhzSKRGZ5pSAUxokFC8rY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ewenEi50R7BiUVRbFFvAuMqb0Lo.jpg",
       "releaseDate": "2026-06-19",
@@ -352,86 +352,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1609560,
-      "type": "tmdb",
-      "title": "偷偷藏不住",
-      "originalTitle": "偷偷藏不住",
-      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1698208,
-      "type": "tmdb",
-      "title": "极限逃生",
-      "originalTitle": "极限逃生",
-      "description": "　　大学无限风光的吴成（吴昱翰 饰）毕业后却连续三年考研不中、职场被排挤，他的人生陷入迷茫。公司年会之际，吴成设计和曾经暗恋并在酒店工作的学妹胜男（徐璐 饰）相遇，然而胜男的追求者酒店老总独生子付鑫（张海宇 饰）却在一旁虎视眈眈。与此同时，一场前所未有的灾难悄然来袭，他们要通过自身的能力和攀岩技巧来逃出生天......",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cu3vs6vDdKIomjTXZ5eL8ZPjvIl.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1563614,
       "type": "tmdb",
-      "title": "不想失去你",
+      "title": "Be with You",
       "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "description": "A high school dropout and delinquent, Jie, falls in love with a quiet, speech-impaired high school girl, Guang, leading to a story of mutual growth and healing.",
       "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1698965,
-      "type": "tmdb",
-      "title": "我的爱人",
-      "originalTitle": "我的爱人",
-      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1693737,
-      "type": "tmdb",
-      "title": "加油吧！娜依拉",
-      "originalTitle": "加油吧！娜依拉",
-      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7IRs3J4o8iSZlQdnamE1vtu8k7N.jpg",
-      "releaseDate": "2026-06-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1695202,
-      "type": "tmdb",
-      "title": "走马观花",
-      "originalTitle": "走马观花",
-      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1655500,
-      "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     }
