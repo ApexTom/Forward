@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T03:37:46.201+08:00",
+  "last_updated": "2026-06-04T03:43:56.789+08:00",
   "now_playing": [
     {
       "id": 931285,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/15BGseWPe8LmCqWuk8dNyDgfsM7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.744,
+      "rating": 6.74,
       "mediaType": "movie"
     },
     {
@@ -22,19 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 936075,
-      "type": "tmdb",
-      "title": "迈克尔·杰克逊：巨星之路",
-      "originalTitle": "Michael",
-      "description": "　　本片将通过一段从未展现过的深度视角，真实记录传奇巨星迈克尔·杰克逊的复杂人生。影片不仅再现了他最具标志性的艺术表演瞬间，更深入挖掘了他的内心世界——从天才神童的成长阵痛到全球偶像背后的争议与坚韧，全面呈现这位伟大艺术家的辉煌与坎坷。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7VQRHtymBeIyHCfIGNT8N3pNmHY.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.6,
+      "rating": 6.847,
       "mediaType": "movie"
     },
     {
@@ -46,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.254,
+      "rating": 7.248,
+      "mediaType": "movie"
+    },
+    {
+      "id": 454639,
+      "type": "tmdb",
+      "title": "宇宙巨人：希曼崛起",
+      "originalTitle": "Masters of the Universe",
+      "description": "导演McG最近正在商谈，有望为索尼执导根据80年代同名动画和玩具改编的真人版电影《希曼》（Masters of the Universe）。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.6,
+      "rating": 6.615,
       "mediaType": "movie"
     },
     {
@@ -86,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1671548,
-      "type": "tmdb",
-      "title": "给阿嬷的情书",
-      "originalTitle": "给阿嬷的情书",
-      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 9.091,
-      "mediaType": "movie"
-    },
-    {
       "id": 578,
       "type": "tmdb",
       "title": "大白鲨",
@@ -106,7 +94,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.681,
+      "rating": 7.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1671548,
+      "type": "tmdb",
+      "title": "给阿嬷的情书",
+      "originalTitle": "给阿嬷的情书",
+      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 9.13,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.8,
+      "rating": 8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 748783,
+      "type": "tmdb",
+      "title": "加菲猫家族",
+      "originalTitle": "The Garfield Movie",
+      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
+      "releaseDate": "2024-06-01",
+      "rating": 6.987,
       "mediaType": "movie"
     },
     {
@@ -134,15 +146,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1168719,
+      "id": 1285965,
       "type": "tmdb",
-      "title": "寂静的朋友",
-      "originalTitle": "Silent Friend",
-      "description": "影片以德国中世纪大学城马尔堡的植物园为背景，讲述100多年来与一棵银杏树有关的三个故事。2020年，来自香港的神经科学家Tony（梁朝伟 饰）因疫情被困在德国大学城，除了一颗银杏树与一个无法沟通的保安之外，他孤身一人。在一位同好（蕾雅·赛杜 饰）的鼓励下，开始了一段新实验。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ffq45gbM9om6vYY4c9y4RFNwNMv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/h9rIWt5A7iA1WuM8IPv6VsQMRCy.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 7.2,
+      "title": "危险动物",
+      "originalTitle": "Dangerous Animals",
+      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.459,
       "mediaType": "movie"
     },
     {
@@ -228,18 +240,6 @@
       "releaseDate": "2026-05-21",
       "rating": 7.9,
       "mediaType": "movie"
-    },
-    {
-      "id": 1607073,
-      "type": "tmdb",
-      "title": "错过了，遗憾吗？",
-      "originalTitle": "错过了，遗憾吗？",
-      "description": "刚大学毕业的吴小北（庄达菲 饰）被初恋男友李天昊（周澄奧 饰）断崖式分手后陷入无尽的情绪反扑。她沉溺于失恋的痛苦，闺蜜米亚（赵佳丽 饰）像救命的解药，一直陪在她身边。而后，她又阴差阳错先后与情场高手老崔（白客 饰）和热情小奶狗小李（敖子逸 饰）产生交际，邂逅了灵魂契合却很难走近的Crush王哲远（王安宇 饰）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mGtTX043UCeBSTnKiLZAMBYjXxX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/m2FJBmeINsNEY5rIrWTF1KkCFqd.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 3.5,
-      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -268,63 +268,39 @@
       "mediaType": "movie"
     },
     {
-      "id": 454639,
-      "type": "tmdb",
-      "title": "宇宙巨人：希曼崛起",
-      "originalTitle": "Masters of the Universe",
-      "description": "导演McG最近正在商谈，有望为索尼执导根据80年代同名动画和玩具改编的真人版电影《希曼》（Masters of the Universe）。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 8.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 1280738,
       "type": "tmdb",
       "title": "火遮眼",
       "originalTitle": "火遮眼",
       "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/79GYNlnCK7kfQPAyQI13NLatK07.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
       "releaseDate": "2026-06-11",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1318413,
+      "id": 1081003,
       "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "　　聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 7.8,
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "DC影业联合CEO詹姆斯·古恩与彼得·萨夫兰对DCU的首批规划项目揭晓，电影《超级少女：明日之女》：改编自汤姆王编剧的同名连载漫画。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 748783,
+      "id": 271706,
       "type": "tmdb",
-      "title": "加菲猫家族",
-      "originalTitle": "The Garfield Movie",
-      "description": "加菲猫（克里斯·帕拉特 Chris Pratt 配音），这只全球闻名、厌恶星期一、对千层面情有独钟的宅猫，正准备开启一段疯狂的户外奇遇！在与他失散多年的亲生猫爸——不羁的流浪猫维克（塞缪尔·杰克逊 Samuel L. Jackson 配音）意外重聚后，加菲猫和他的狗狗伙伴欧迪被迫告别了安逸舒适的生活，卷入了一场搞笑又充满刺激的大冒险，而一直娇生惯养的加菲猫，将在这次冒险之旅中蜕变成为上天入地的“猫猫特工”，带着家族直面挑战、化解危机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
-      "releaseDate": "2024-06-01",
-      "rating": 6.987,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1285965,
-      "type": "tmdb",
-      "title": "危险动物",
-      "originalTitle": "Dangerous Animals",
-      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.459,
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -337,6 +313,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1178574,
+      "type": "tmdb",
+      "title": "爸爸",
+      "originalTitle": "爸爸",
+      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5YCpozXWYjaMZVgtpKMRmGFdXK9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -364,18 +352,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1698208,
-      "type": "tmdb",
-      "title": "极限逃生",
-      "originalTitle": "极限逃生",
-      "description": "　　大学无限风光的吴成（吴昱翰 饰）毕业后却连续三年考研不中、职场被排挤，他的人生陷入迷茫。公司年会之际，吴成设计和曾经暗恋并在酒店工作的学妹胜男（徐璐 饰）相遇，然而胜男的追求者酒店老总独生子付鑫（张海宇 饰）却在一旁虎视眈眈。与此同时，一场前所未有的灾难悄然来袭，他们要通过自身的能力和攀岩技巧来逃出生天......",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ax69xhnlPenLvpHLlIN1F5qxzgF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cu3vs6vDdKIomjTXZ5eL8ZPjvIl.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1698965,
       "type": "tmdb",
       "title": "我的爱人",
@@ -388,14 +364,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
+      "id": 1269075,
       "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-06-05",
+      "title": "我看见两朵一样的云",
+      "originalTitle": "我看见两朵一样的云",
+      "description": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？\r 阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
+      "releaseDate": "2026-06-26",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -424,14 +400,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1693737,
+      "id": 1604133,
       "type": "tmdb",
-      "title": "加油吧！娜依拉",
-      "originalTitle": "加油吧！娜依拉",
-      "description": "　　影片讲述了从小酷爱汽车修理的新疆少女娜依拉通过广东省招收新疆内职生的考试，远赴深圳学习汽修技术，在以男性为主的汽修比赛中，娜依拉突破女性生理极限等重重困难，勇夺全国冠军的励志故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eFiyRrklD6uhVkt50TfJC8RR2SB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7IRs3J4o8iSZlQdnamE1vtu8k7N.jpg",
-      "releaseDate": "2026-06-06",
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1579223,
+      "type": "tmdb",
+      "title": "北回归线以北",
+      "originalTitle": "北回归线以北",
+      "description": "　　影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1705978,
+      "type": "tmdb",
+      "title": "咕咕呱呱",
+      "originalTitle": "咕咕呱呱",
+      "description": "一群来自杭州的九五后孩子开始寻找童年丢失的一件珍贵东西，在这个过程中，他们的生活有了意想不到的改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mBTxhjr0vY4BwtzZLO5uvEb16SQ.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     }
