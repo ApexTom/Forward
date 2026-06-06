@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-06-06T03:49:14.832+08:00",
+  "last_updated": "2026-06-06T10:48:01.109+08:00",
   "tv": {
     "全网": [
       {
-        "title": "翘楚",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "主角",
+        "title": "翘楚",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -45,12 +45,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "雨霖铃",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "佳偶天成",
         "description": "暂无简介",
         "type": "maoyan",
@@ -58,6 +52,12 @@
       },
       {
         "title": "蜜语纪",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -101,13 +101,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "唐宫奇案之青雾风鸣",
+        "title": "金关",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "金关",
+        "title": "唐宫奇案之青雾风鸣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -119,7 +119,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乡村爱情18",
+        "title": "正义女神",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,7 +163,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "塬上风云",
+        "title": "江湖夜雨十年灯",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,7 +175,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "江湖夜雨十年灯",
+        "title": "塬上风云",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -219,12 +219,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情没有神话",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "白日提灯",
         "description": "暂无简介",
         "type": "maoyan",
@@ -247,6 +241,12 @@
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
+      },
+      {
+        "title": "爱情没有神话",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
       }
     ],
     "芒果TV": [
@@ -263,13 +263,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "好好的时光",
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
+        "title": "好好的时光",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -287,12 +287,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "你是迟来的欢喜",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "女神蒙上眼",
         "description": "暂无简介",
         "type": "maoyan",
@@ -300,6 +294,12 @@
       },
       {
         "title": "夏末初见",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -316,12 +316,6 @@
     "全网": [
       {
         "title": "哈哈哈哈哈 第六季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "乘风2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,13 +339,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "无限超越班 第四季",
+        "title": "乘风2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "无限超越班 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -363,13 +357,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "热爱满格--动感地带芒果卡三周年纪念暨俱乐部3.0发布会",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "魔力歌先生",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -395,13 +395,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "怦然心动20岁：冬季",
+        "title": "音你而来 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "音你而来 第三季",
+        "title": "怦然心动20岁：冬季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -569,7 +569,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "热爱满格--动感地带芒果卡三周年纪念暨俱乐部3.0发布会",
+        "title": "妻子的浪漫旅行2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -587,25 +587,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "妻子的浪漫旅行2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "初入职场金融季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我们与恋爱的距离·奔赴季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "21天重养自己",
+        "title": "热爱满格--动感地带芒果卡三周年纪念暨俱乐部3.0发布会",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +599,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "“青春湘潭·步步高之夜”演唱会",
+        "title": "初入职场金融季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "21天重养自己",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我家那小子2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们与恋爱的距离·奔赴季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
