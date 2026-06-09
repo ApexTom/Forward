@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T02:22:04.255+08:00",
+  "last_updated": "2026-06-10T01:55:53.353+08:00",
   "now_playing": [
     {
       "id": 1228710,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.806,
+      "rating": 6.799,
       "mediaType": "movie"
     },
     {
@@ -20,7 +20,7 @@
       "originalTitle": "Masters of the Universe",
       "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
       "rating": 7.4,
       "mediaType": "movie"
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mBOayM05SKlHH5YNTMX4AgHq6sP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 6.72,
+      "rating": 7.617,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.251,
+      "rating": 7.245,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.581,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.2,
+      "rating": 8.176,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7ZgPZIqSYm3UlrdCldkYzjGOCI.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.923,
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.682,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 9.1,
+      "rating": 9.154,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 8.4,
+      "rating": 8.167,
       "mediaType": "movie"
     },
     {
@@ -312,7 +312,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 7.4,
+      "rating": 7.358,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275051,
+      "type": "tmdb",
+      "title": "绝密任务",
+      "originalTitle": "绝密任务",
+      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -335,18 +347,6 @@
       "description": "无论工作还是生活，刘浩一直都是被轻视的那个。直到遇见菜菜，两个年轻人坠入爱河。然而，就在他们信心满满，想要展开美好未来时，一场意外彻底颠覆了他们的生活。面对险恶的世界，屈辱的人生，他们选择了不一样的反抗……",
       "posterPath": "https://image.tmdb.org/t/p/w500/px5DFjEhzSKRGZ5pSAUxokFC8rY.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ewenEi50R7BiUVRbFFvAuMqb0Lo.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1275051,
-      "type": "tmdb",
-      "title": "绝密任务",
-      "originalTitle": "绝密任务",
-      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
@@ -376,6 +376,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1396674,
+      "type": "tmdb",
+      "title": "一个部门的诞生",
+      "originalTitle": "一個部門的誕生",
+      "description": "电视台发生胁持事件，绑匪K仔不是为钱，只想把电视台月费终止。人质当劳为求自保，只想尽快了结，却没想过终止电视台月费竟是如此困难的事……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -384,18 +396,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1698965,
-      "type": "tmdb",
-      "title": "我的爱人",
-      "originalTitle": "我的爱人",
-      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -432,6 +432,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sJVh2U27BXwnfT05kpLOmo0ZUop.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1698965,
+      "type": "tmdb",
+      "title": "我的爱人",
+      "originalTitle": "我的爱人",
+      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
