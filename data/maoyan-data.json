@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T22:41:27.023+08:00",
+  "last_updated": "2026-06-10T04:03:07.349+08:00",
   "tv": {
     "全网": [
       {
@@ -157,6 +157,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "星月征途",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "盛唐奇案",
         "description": "暂无简介",
         "type": "maoyan",
@@ -164,12 +170,6 @@
       },
       {
         "title": "塬上风云",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "星月征途",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
