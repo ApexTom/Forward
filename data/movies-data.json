@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T01:55:53.353+08:00",
+  "last_updated": "2026-06-11T02:26:47.119+08:00",
   "now_playing": [
     {
       "id": 1228710,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.799,
+      "rating": 6.793,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mBOayM05SKlHH5YNTMX4AgHq6sP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 7.617,
+      "rating": 7.882,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 8.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "releaseDate": "2026-06-11",
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -46,19 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.245,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1314481,
-      "type": "tmdb",
-      "title": "穿普拉达的女王2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "description": "　　随着传统出版业的式微，时尚女王米兰达在职业生涯中迎来新挑战。她不得不与手握广告预算的曾经的助理，如今已是奢侈品牌集团高管的艾米莉正面交锋。两人在行业变局中展开了一场关乎权力与生存的较量。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zGQyw7v2dvb2FNDdVUJFcaPrD5y.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.6,
+      "rating": 7.247,
       "mediaType": "movie"
     },
     {
@@ -70,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.647,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -82,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.176,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -118,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 7,
+      "rating": 6.986,
       "mediaType": "movie"
     },
     {
@@ -134,18 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1443374,
-      "type": "tmdb",
-      "title": "森中有林",
-      "originalTitle": "森中有林",
-      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
-      "releaseDate": "2026-04-25",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1285965,
       "type": "tmdb",
       "title": "危险动物",
@@ -155,6 +155,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
       "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1443374,
+      "type": "tmdb",
+      "title": "森中有林",
+      "originalTitle": "森中有林",
+      "description": "下岗狱警廉加海（于和伟 饰）与昔日爱人王秀义（高圆圆 饰）多年后重逢，旧情复燃之际，却意外卷入一场被精心掩盖的凶案——两个家、三代人，就此陷入横跨数十年的生死纠葛、爱恨痴缠。从东北到海南，从上世纪末到今天，没有人可以从宿命轮回中远走高飞……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2lCe3wAq9KpyHwRZo28PeRMZgFm.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qAe5omymsbIvRzl0PySF3NKPdad.jpg",
+      "releaseDate": "2026-04-25",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -170,30 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
-      "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/izha2mBeBHfCIniJCibpJIUovy0.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 47423,
-      "type": "tmdb",
-      "title": "纵横四海",
-      "originalTitle": "縱橫四海",
-      "description": "　　钵仔糕/阿海（周润发 饰）、阿占（张国荣 饰）与红豆（锺楚红 饰）都是孤儿，从小被养父（曾江 饰）培养成国际艺术品大盗，专为他盗取名画赚钱。与此同时，他们亦认了一名警察（朱江 饰）作干爹。\r 　　法国巴黎博物馆内，名画《赫林之女仆》突然失窃。不久，阿海、阿占与红豆联手盗得另一幅名画，在与法国买家交易时，得知《赫林之女仆》正藏于一座神秘古堡中。三人受养父指示前往盗画，成功后却遭养父与法国买家联手设局，派出杀手追杀灭口。逃亡途中，阿海驾车与杀手快艇相撞，生死未卜；阿占则带着红豆侥幸逃脱。\r 　　几年后，三人在香港重逢。阿海因车祸“跛脚”，暂住干爹家中；阿占与红豆已结为夫妻。此时养父再次现身，逼迫阿占盗回《赫林之女仆》。阿海在红豆的恳求下决定重组团队，并暗中布局向养父复仇。两人取回画作后，在与养父交易时爆发枪战，阿海亦揭晓自己假扮跛脚以躲避追杀的计谋。最终干爹将养父逮捕归案，《赫林之女仆》物归原主，三人则一同前往美国开始了新的生活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5RY3c5m7lElGAWHUbkJJXQtgKEQ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ld6pkUVbFBdhtTwFNoRv4BRx0aM.jpg",
-      "releaseDate": "2026-05-03",
-      "rating": 6.9,
-      "mediaType": "movie"
-    },
-    {
       "id": 597316,
       "type": "tmdb",
       "title": "小马宝莉：新世代",
@@ -203,18 +191,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
       "releaseDate": "2022-07-30",
       "rating": 7.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1488778,
-      "type": "tmdb",
-      "title": "今晚正好",
-      "originalTitle": "今晚正好",
-      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
-      "releaseDate": "2026-05-20",
-      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -230,6 +206,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1488778,
+      "type": "tmdb",
+      "title": "今晚正好",
+      "originalTitle": "今晚正好",
+      "description": "一场失败的“网友奔现”，让设计师徐秋（马思纯 饰）意外结识了作家陈宇宙（陈昊森 饰）。两人在城市的夜色中，开启了一段关于爱的冒险……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yNC2rc1CDauPjyosunsrC52Kf44.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nwX6zvJ5aWUdJvUc0IM8sljq89C.jpg",
+      "releaseDate": "2026-05-20",
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
       "id": 1607073,
       "type": "tmdb",
       "title": "错过了，遗憾吗？",
@@ -240,33 +228,21 @@
       "releaseDate": "2026-05-20",
       "rating": 3.5,
       "mediaType": "movie"
+    },
+    {
+      "id": 785429,
+      "type": "tmdb",
+      "title": "森林之声",
+      "originalTitle": "OZI: Voice of the Forest",
+      "description": "印度尼西亚雨林的森林砍伐，一只名叫Ozi的十几岁的红毛猩猩被烧毁后成为孤儿。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tEdEL8M58BDRJToH5kmqtIXWSh6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9XBVJBj8smienzhkZ2ocW7fytWZ.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 6.2,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 8.167,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
-      "releaseDate": "2026-06-11",
-      "rating": 0,
-      "mediaType": "movie"
-    },
     {
       "id": 1084244,
       "type": "tmdb",
@@ -286,8 +262,20 @@
       "originalTitle": "Supergirl",
       "description": "DC影业联合CEO詹姆斯·古恩与彼得·萨夫兰对DCU的首批规划项目揭晓，电影《超级少女：明日之女》：改编自汤姆王编剧的同名连载漫画。",
       "posterPath": "https://image.tmdb.org/t/p/w500/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/z4nSdlQYIHcgaqqCnz1hRSGpEhy.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2lHxj082xknb8kt4gOcmn1yPjkk.jpg",
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -300,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 8.8,
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -328,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1178574,
-      "type": "tmdb",
-      "title": "爸爸",
-      "originalTitle": "爸爸",
-      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 8.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 1435047,
       "type": "tmdb",
       "title": "爱是愤怒",
@@ -349,6 +325,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ewenEi50R7BiUVRbFFvAuMqb0Lo.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1178574,
+      "type": "tmdb",
+      "title": "爸爸",
+      "originalTitle": "爸爸",
+      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -364,14 +352,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1269075,
+      "id": 1613857,
       "type": "tmdb",
-      "title": "我看见两朵一样的云",
-      "originalTitle": "我看见两朵一样的云",
-      "description": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？\r 阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
-      "releaseDate": "2026-06-19",
+      "title": "开个玩笑",
+      "originalTitle": "开个玩笑",
+      "description": "环卫女工季红（张天爱 饰）为让孩子获得入学机会，面临职场领导以“玩笑”为名的越界骚扰，其他员工对此习以为常，而性格倔强的季红决定反抗。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -388,13 +388,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1655500,
+      "id": 1269075,
       "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "title": "我看见两朵一样的云",
+      "originalTitle": "我看见两朵一样的云",
+      "description": "你有没有在这个世界感到过无比的孤独？有没有怀疑身边的一切是不真实的？  阿志（王源 饰）在大家眼里是一个奇怪的年轻人，他的业余生活都在寻找“这个世界是虚拟世界”的证据。直到古灵精怪的女生小一（文淇 饰）的出现，让他几乎放弃了寻找真相的念头。透过阿志和小一被快速点燃的爱情，生活显得如此浪漫而真实。可是，小一究竟是虚拟游戏的NPC、还是现实生活的完美爱人，他们能不能在这个世界上永远幸福地生活在一起？……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uHkarMeytn0dYLze2OlQ4APrWU7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/w0MinivEbBfcP8vDhFSWQc99IkS.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
@@ -412,14 +412,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1695202,
+      "id": 1655500,
       "type": "tmdb",
-      "title": "走马观花",
-      "originalTitle": "走马观花",
-      "description": "　　新波，丁大宁，郭华，程一木他们毕业于同一所大学。他们和很多年轻人一样，自以为是，敏感错弱，没有被认可的才华。他们来自不同的地方，却有一个共同的愿望“出人头地”。在经过几段荒唐的创业求职后，他们选择了逃离。从都市到县城再到无人区。  　　这是一部关于青年成长的故事，当他们面对婚姻，家庭，事业的时候，他们依旧像没有长大的孩子。可时间不会听你解释，它已经熟练的将你送入人生的另一个轨道。他们开始慌张，计划逃跑。像失恋的少女一般，指责对方的背叛，同时谁也无法忘记那些美好的时光。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aTQpYH2SZHIeHccDSk8lnV6wIsD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nOOjZ2r4wmAbfOlMrksIDNa8RsZ.jpg",
-      "releaseDate": "2026-06-12",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -432,18 +432,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sJVh2U27BXwnfT05kpLOmo0ZUop.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-27",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1698965,
-      "type": "tmdb",
-      "title": "我的爱人",
-      "originalTitle": "我的爱人",
-      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -468,6 +456,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/1XNzkCpnmdQ1YS8sxzZFhuK4oYR.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1591929,
+      "type": "tmdb",
+      "title": "蓝蓝的天上白云飘",
+      "originalTitle": "蓝蓝的天上白云飘",
+      "description": "　　小城青年，来到草原找自己的女朋友，两人改装了一辆移动售货车，同牧民以物易物。发生在辽阔壮美的自然环境中，一对小情侣之间绵密悠长，治愈且温暖的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lt12siSVn6meB3FAQhofhnY4Wpl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lOyPzTwN1e2VqYKAqlDFupdRtd.jpg",
+      "releaseDate": "2026-06-30",
       "rating": 0,
       "mediaType": "movie"
     }
