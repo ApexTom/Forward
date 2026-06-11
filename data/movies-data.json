@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T02:26:47.119+08:00",
+  "last_updated": "2026-06-12T02:43:28.007+08:00",
   "now_playing": [
     {
       "id": 1228710,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.793,
+      "rating": 6.801,
       "mediaType": "movie"
     },
     {
@@ -20,7 +20,7 @@
       "originalTitle": "Masters of the Universe",
       "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
       "releaseDate": "2026-06-05",
       "rating": 7.4,
       "mediaType": "movie"
@@ -31,10 +31,10 @@
       "title": "真人快打2",
       "originalTitle": "Mortal Kombat II",
       "description": "　　过气好莱坞演员强尼·凯奇（卡尔·厄本 饰）被意外选中，加入一场决定地球命运的真人快打。吉塔娜（阿德莱恩·鲁道夫 饰）、刀锋索尼娅（杰西卡·麦克娜美 饰）、卡诺（约什·劳森 饰）、刘康（林路迪 饰）、贾克斯（麦卡德·布鲁克斯 饰）、尚宗（黄经汉 饰）、雷电（浅野忠信 饰）、避寒（乔·塔斯利姆 饰）、蝎子（真田广之 饰）等角色也将各显身手，开启血浆狂飙的格斗厮杀。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mBOayM05SKlHH5YNTMX4AgHq6sP.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sPbgxSNajTIoWi39Pc5fqDFEwVy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 7.882,
+      "rating": 7.93,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2adVouFxjF3TlXgbOOX2H8bLFYj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 8.2,
+      "rating": 7.725,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 8,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sm5WjHemivXAIphAAEzZ5yCBdNt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.247,
+      "rating": 7.246,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.2,
+      "rating": 8.176,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/wENlYOyR10DZzkICmrGUQQX4Ih5.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 0,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -304,6 +304,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1178574,
+      "type": "tmdb",
+      "title": "爸爸",
+      "originalTitle": "爸爸",
+      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 8.1,
+      "mediaType": "movie"
+    },
+    {
       "id": 1275051,
       "type": "tmdb",
       "title": "绝密任务",
@@ -312,6 +324,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
       "releaseDate": "2026-06-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -325,18 +349,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ewenEi50R7BiUVRbFFvAuMqb0Lo.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1178574,
-      "type": "tmdb",
-      "title": "爸爸",
-      "originalTitle": "爸爸",
-      "description": "失去了家人的阮永年（刘青云饰）如常回到茶餐厅开店，让自己感觉一切依旧，他活在回忆的日常里…… 妻子金燕（谷祖琳饰）准备早餐的厨房，儿子厚明（苏文涛饰）玩网路游戏的电脑桌，女儿厚恩（熊诺颐饰）收养的三色猫「三花」，还有一家人共进晚餐的快乐谷茶餐厅，仿佛那一夜从未将一切吞噬。  血缘的摰亲夺走了生命的挚爱，永年既无法憎恨生者，更无法忘记逝者，唯有回忆与幻想相濡以沫，让永年在迷茫的生活中找到一些真实感，纵与儿子一窗之隔，永年比以往更努力活得像一个「爸爸」。  父与子，这段窒息的关系会否迎来长夜尽头，成为彼此活着的救赎？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bPpPAuonyLDqtF6ekTc7UqUVmwq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uXtdDvz7A4v8yc0HG1gC2HGuzWp.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -360,30 +372,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1353926,
-      "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1396674,
-      "type": "tmdb",
-      "title": "一个部门的诞生",
-      "originalTitle": "一個部門的誕生",
-      "description": "电视台发生胁持事件，绑匪K仔不是为钱，只想把电视台月费终止。人质当劳为求自保，只想尽快了结，却没想过终止电视台月费竟是如此困难的事……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
-      "releaseDate": "2026-06-27",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -412,6 +400,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1396674,
+      "type": "tmdb",
+      "title": "一个部门的诞生",
+      "originalTitle": "一個部門的誕生",
+      "description": "电视台发生胁持事件，绑匪K仔不是为钱，只想把电视台月费终止。人质当劳为求自保，只想尽快了结，却没想过终止电视台月费竟是如此困难的事……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/azv0T4WEDjaaRe7ZeiegUEsKMHs.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eW7S7tCPWQW50Bt1YHF0FPI1m16.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -436,18 +436,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1705978,
-      "type": "tmdb",
-      "title": "咕咕呱呱",
-      "originalTitle": "咕咕呱呱",
-      "description": "一群来自杭州的九五后孩子开始寻找童年丢失的一件珍贵东西，在这个过程中，他们的生活有了意想不到的改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mBTxhjr0vY4BwtzZLO5uvEb16SQ.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1707968,
       "type": "tmdb",
       "title": "无微不至",
@@ -468,6 +456,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/lt12siSVn6meB3FAQhofhnY4Wpl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/lOyPzTwN1e2VqYKAqlDFupdRtd.jpg",
       "releaseDate": "2026-06-30",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1705978,
+      "type": "tmdb",
+      "title": "咕咕呱呱",
+      "originalTitle": "咕咕呱呱",
+      "description": "一群来自杭州的九五后孩子开始寻找童年丢失的一件珍贵东西，在这个过程中，他们的生活有了意想不到的改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mBTxhjr0vY4BwtzZLO5uvEb16SQ.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     }
