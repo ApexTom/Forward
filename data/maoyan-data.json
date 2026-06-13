@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T21:51:53.000+08:00",
+  "last_updated": "2026-06-14T03:19:56.357+08:00",
   "tv": {
     "全网": [
       {
@@ -169,13 +169,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "塬上风云",
+        "title": "钢铁森林",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "钢铁森林",
+        "title": "塬上风云",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,6 +351,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "半熟恋人 第5季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
@@ -363,13 +369,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "乘风2026 训练室全纪录",
+        "title": "天赐的声音 第七季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们与恋爱的距离·奔赴季",
+        "title": "为爱闪耀的她",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
