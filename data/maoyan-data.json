@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T03:19:56.357+08:00",
+  "last_updated": "2026-06-14T11:38:34.496+08:00",
   "tv": {
     "全网": [
       {
@@ -21,13 +21,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "主角",
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "雨霖铃",
+        "title": "大唐迷雾",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "大唐迷雾",
+        "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -77,13 +77,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "香港探秘地图",
+        "title": "月鳞绮纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "月鳞绮纪",
+        "title": "香港探秘地图",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -101,13 +101,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "金关",
+        "title": "正义女神",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "正义女神",
+        "title": "金关",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -119,7 +119,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乡村爱情18",
+        "title": "重案解密",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,13 +163,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "星月征途",
+        "title": "太行谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "钢铁森林",
+        "title": "星月征途",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,13 +333,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "国乐无双",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,19 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天赐的声音 第七季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -451,13 +451,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,13 +507,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,6 +575,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "妻子的浪漫旅行2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
@@ -587,19 +593,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "妻子的浪漫旅行2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "21天重养自己",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "初入职场金融季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我家那小子2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,7 +611,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我家那小子2026",
+        "title": "21天重养自己",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
