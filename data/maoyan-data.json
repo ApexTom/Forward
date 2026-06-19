@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T11:56:34.069+08:00",
+  "last_updated": "2026-06-19T18:20:26.660+08:00",
   "tv": {
     "全网": [
       {
@@ -21,6 +21,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "问心2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "翘楚",
         "description": "暂无简介",
         "type": "maoyan",
@@ -33,19 +39,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "主角",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -58,6 +52,12 @@
       },
       {
         "title": "心间错",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -133,13 +133,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -195,13 +195,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -321,25 +321,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乘风2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "乘风2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,6 +357,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "这是我的西游2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -364,12 +370,6 @@
       },
       {
         "title": "奔跑吧14",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,13 +563,13 @@
     ],
     "芒果TV": [
       {
-        "title": "乘风2026",
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
+        "title": "乘风2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -581,13 +581,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乘风2026 训练室全纪录",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "乘风2026 训练室全纪录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,19 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "为爱闪耀的她",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "亲爱的客栈2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我家那小子2026",
+        "title": "为爱闪耀的她",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "21天重养自己",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
