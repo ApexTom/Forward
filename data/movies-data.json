@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T02:22:57.550+08:00",
+  "last_updated": "2026-06-20T01:51:05.772+08:00",
   "now_playing": [
     {
       "id": 1275779,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.8,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -22,19 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.766,
+      "rating": 6.752,
       "mediaType": "movie"
     },
     {
-      "id": 454639,
+      "id": 1084244,
       "type": "tmdb",
-      "title": "宇宙巨人：希曼崛起",
-      "originalTitle": "Masters of the Universe",
-      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 7.286,
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -46,19 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 8.1,
+      "rating": 8.011,
       "mediaType": "movie"
     },
     {
-      "id": 1084244,
+      "id": 454639,
       "type": "tmdb",
-      "title": "玩具总动员 5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7,
+      "title": "宇宙巨人：希曼崛起",
+      "originalTitle": "Masters of the Universe",
+      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 7.259,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 8,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -92,9 +92,9 @@
       "originalTitle": "The Sheep Detectives",
       "description": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.637,
+      "rating": 7.634,
       "mediaType": "movie"
     },
     {
@@ -110,6 +110,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1671548,
+      "type": "tmdb",
+      "title": "给阿嬷的情书",
+      "originalTitle": "给阿嬷的情书",
+      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 9.2,
+      "mediaType": "movie"
+    },
+    {
       "id": 77,
       "type": "tmdb",
       "title": "记忆碎片",
@@ -122,18 +134,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1671548,
-      "type": "tmdb",
-      "title": "给阿嬷的情书",
-      "originalTitle": "给阿嬷的情书",
-      "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 9.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 748783,
       "type": "tmdb",
       "title": "加菲猫家族",
@@ -143,6 +143,30 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
       "rating": 6.987,
+      "mediaType": "movie"
+    },
+    {
+      "id": 271706,
+      "type": "tmdb",
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.347,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1285965,
+      "type": "tmdb",
+      "title": "危险动物",
+      "originalTitle": "Dangerous Animals",
+      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.458,
       "mediaType": "movie"
     },
     {
@@ -167,30 +191,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "releaseDate": "2026-06-13",
       "rating": 9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 271706,
-      "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.358,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1285965,
-      "type": "tmdb",
-      "title": "危险动物",
-      "originalTitle": "Dangerous Animals",
-      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.459,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 597316,
+      "id": 1275051,
       "type": "tmdb",
-      "title": "小马宝莉：新世代",
-      "originalTitle": "My Little Pony: A New Generation",
-      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
-      "releaseDate": "2022-07-30",
-      "rating": 7.7,
+      "title": "绝密任务",
+      "originalTitle": "绝密任务",
+      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -250,9 +250,9 @@
       "originalTitle": "Backrooms",
       "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
       "posterPath": "https://image.tmdb.org/t/p/w500/nS8TOKb62LnYJy1iszSV2pNEAQk.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.9,
+      "rating": 6.891,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 0,
+      "rating": 8.5,
       "mediaType": "movie"
     },
     {
@@ -276,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 0,
+      "rating": 9.5,
       "mediaType": "movie"
     },
     {
@@ -328,14 +328,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1604133,
+      "id": 1353926,
       "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "releaseDate": "2026-06-26",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -352,14 +352,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1353926,
+      "id": 1604133,
       "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
-      "releaseDate": "2026-07-03",
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+      "releaseDate": "2026-06-26",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -388,18 +388,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1613857,
-      "type": "tmdb",
-      "title": "开个玩笑",
-      "originalTitle": "开个玩笑",
-      "description": "环卫女工季红（张天爱 饰）为让孩子获得入学机会，面临职场领导以“玩笑”为名的越界骚扰，其他员工对此习以为常，而性格倔强的季红决定反抗。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1572830,
       "type": "tmdb",
       "title": "不成功穿越指南",
@@ -412,6 +400,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1613857,
+      "type": "tmdb",
+      "title": "开个玩笑",
+      "originalTitle": "开个玩笑",
+      "description": "环卫女工季红（张天爱 饰）为让孩子获得入学机会，面临职场领导以“玩笑”为名的越界骚扰，其他员工对此习以为常，而性格倔强的季红决定反抗。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1715479,
       "type": "tmdb",
       "title": "幻影游船",
@@ -420,6 +420,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xqekZag8oc6LXGEsiyGRiEq9Oul.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oTvcdQuNcIb8AtkxDFeS21D5FHN.jpg",
       "releaseDate": "2026-06-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1658666,
+      "type": "tmdb",
+      "title": "大圣崛起",
+      "originalTitle": "大圣崛起",
+      "description": "硬币有两面，很多时候，人们只能看到其中的一面。《大圣崛起》讲述的故事，是西行背后的故事，是硬币的另一面，关于另外一个真相的故事。大闹天宫 500年后，大圣答应佛祖用14年的时间，护送一个和尚去西天取经。大圣的行为，引起同族弟兄的不解，纷纷起而阻止……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dKO41iA97UtXuCCtX3kOm8HPWCt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sZsJYO2ND0ABSwTJVpYRhZspos0.jpg",
+      "releaseDate": "2026-07-10",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -444,18 +456,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/hPBNYaVAwouAhLu2RpPxXZxKBvn.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/luW1QPoiBpasSH2AeEgap5ZWB8Z.jpg",
       "releaseDate": "2026-06-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1658666,
-      "type": "tmdb",
-      "title": "大圣崛起",
-      "originalTitle": "大圣崛起",
-      "description": "硬币有两面，很多时候，人们只能看到其中的一面。《大圣崛起》讲述的故事，是西行背后的故事，是硬币的另一面，关于另外一个真相的故事。大闹天宫 500年后，大圣答应佛祖用14年的时间，护送一个和尚去西天取经。大圣的行为，引起同族弟兄的不解，纷纷起而阻止……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dKO41iA97UtXuCCtX3kOm8HPWCt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sZsJYO2ND0ABSwTJVpYRhZspos0.jpg",
-      "releaseDate": "2026-07-10",
       "rating": 0,
       "mediaType": "movie"
     }
