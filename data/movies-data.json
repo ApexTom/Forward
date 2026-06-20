@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T01:51:05.772+08:00",
+  "last_updated": "2026-06-21T01:20:23.447+08:00",
   "now_playing": [
     {
       "id": 1275779,
@@ -10,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1228710,
-      "type": "tmdb",
-      "title": "星球大战：曼达洛人与古古",
-      "originalTitle": "The Mandalorian and Grogu",
-      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.752,
+      "rating": 6.743,
       "mediaType": "movie"
     },
     {
@@ -34,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kwq3lxPrBfyyVRRSDSlojwCPzwH.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.3,
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1228710,
+      "type": "tmdb",
+      "title": "星球大战：曼达洛人与古古",
+      "originalTitle": "The Mandalorian and Grogu",
+      "description": "“曼达洛人”丁·贾伦和“尤达宝宝”古古的星际冒险全面升级，“此乃正道”的誓言响彻宇宙，原力将继续与你同在。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 8.011,
+      "rating": 7.989,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.259,
+      "rating": 7.234,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.254,
+      "rating": 7.253,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
       "releaseDate": "2026-05-16",
-      "rating": 7.634,
+      "rating": 7.632,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/shz3KVPeoqZ1SEPY20Q9PuEhTBX.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.682,
+      "rating": 7.683,
       "mediaType": "movie"
     },
     {
@@ -166,7 +166,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.458,
+      "rating": 6.464,
       "mediaType": "movie"
     },
     {
@@ -206,15 +206,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1257942,
+      "id": 597316,
       "type": "tmdb",
-      "title": "魔方小姐",
-      "originalTitle": "魔方小姐",
-      "description": "70岁的申艳红（杨紫琼 饰）重病后被儿子送进了养老院，房子也被儿子租了出去。为了夺回自己的人生，她尝试赚钱却处处碰壁。就在她准备放弃时，她在魔方的天赋被年轻的魔方教练小吴发现。一个想赚钱离开养老院，一个想挽救濒临倒闭的魔方培训班，两人一拍即合，并登上电视节目。自始她不单收获了名利 、关注、尊严、爱情和人生的主动权，还给一潭死水的老人院带来了活力。她不畏失败，对抗着衰老与偏见，一路来到了魔方的最高舞台，最终在儿子的鼓励下，她完成了难度极高的挑战，获得了吉尼斯世界纪录。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mrz0N2VOnwI5L8CVvTnzatKRWC9.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-19",
-      "rating": 0,
+      "title": "小马宝莉：新世代",
+      "originalTitle": "My Little Pony: A New Generation",
+      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+      "releaseDate": "2022-07-30",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -238,7 +238,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 0,
+      "rating": 4,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nS8TOKb62LnYJy1iszSV2pNEAQk.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.891,
+      "rating": 6.888,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 8.5,
+      "rating": 5.2,
       "mediaType": "movie"
     },
     {
@@ -311,7 +311,7 @@
       "description": "70岁的申艳红（杨紫琼 饰）重病后被儿子送进了养老院，房子也被儿子租了出去。为了夺回自己的人生，她尝试赚钱却处处碰壁。就在她准备放弃时，她在魔方的天赋被年轻的魔方教练小吴发现。一个想赚钱离开养老院，一个想挽救濒临倒闭的魔方培训班，两人一拍即合，并登上电视节目。自始她不单收获了名利 、关注、尊严、爱情和人生的主动权，还给一潭死水的老人院带来了活力。她不畏失败，对抗着衰老与偏见，一路来到了魔方的最高舞台，最终在儿子的鼓励下，她完成了难度极高的挑战，获得了吉尼斯世界纪录。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mrz0N2VOnwI5L8CVvTnzatKRWC9.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-06-19",
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -396,6 +396,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1579223,
+      "type": "tmdb",
+      "title": "北回归线以北",
+      "originalTitle": "北回归线以北",
+      "description": "　　影片讲述了三组怀揣不同心结的人开着房车自驾游，在旅途中找到各自心灵解脱的故事。靠旅拍糊口的落魄摄影师何川，与热心肠的资深摄影论坛老玩家元哥入伙，拍摄青藏高原的雪豹；蜗居房车陪读三年的三口之家，夫妻俩为了完成儿子张匡匡的毕业心愿，踏上房车之旅；著名三甲医院主任程卉 退休第二天独自驾车去西部，寻找年轻时心中的夙愿，看一看初恋爱人红绢蝶。三组不同经历的人生，在旅途中遭遇各种啼笑皆非的意外，在一连串经历过后，人生的答案逐渐显现出来。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTEBWl9OutI6PHt201yGfm1J9Sz.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kyWGRvpNU7xSc4Yjf4eQw7BRRxk.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     },
