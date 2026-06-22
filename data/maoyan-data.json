@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T11:52:12.701+08:00",
+  "last_updated": "2026-06-22T19:46:22.999+08:00",
   "tv": {
     "全网": [
       {
@@ -15,13 +15,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "炽夏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -39,12 +45,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
@@ -57,7 +57,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "家业",
+        "title": "心间错",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -139,13 +139,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -195,13 +195,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,6 +315,12 @@
   "show": {
     "全网": [
       {
+        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "哈哈哈哈哈 第六季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -327,13 +333,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,7 +351,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,19 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "国乐无双",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -451,13 +451,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,7 +507,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -519,7 +519,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -555,7 +555,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "主咖和Ta的朋友们",
+        "title": "开始捉迷藏 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,19 +563,19 @@
     ],
     "芒果TV": [
       {
+        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "乘风2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "乘风2026 训练室全纪录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,19 +593,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乘风2026 训练室全纪录",
+        "title": "中餐厅·南洋拾光季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "中餐厅·南洋拾光季 独家直拍",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "妻子的浪漫旅行2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我家那小子2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
