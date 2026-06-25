@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T01:49:40.137+08:00",
+  "last_updated": "2026-06-26T02:05:46.176+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.43,
+      "rating": 7.434,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.7,
+      "rating": 6.688,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "rating": 6.709,
       "mediaType": "movie"
     },
     {
@@ -46,19 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.6,
+      "rating": 7.653,
       "mediaType": "movie"
     },
     {
-      "id": 1083381,
+      "id": 1081003,
       "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nS8TOKb62LnYJy1iszSV2pNEAQk.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3bhjIqSsJFDchBCeaqCdsvy1byD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.872,
+      "rating": 5.938,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.263,
+      "rating": 7.235,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nS8TOKb62LnYJy1iszSV2pNEAQk.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.884,
       "mediaType": "movie"
     },
     {
@@ -82,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.553,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1081003,
-      "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.5,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.266,
+      "rating": 7.267,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1319522,
+      "type": "tmdb",
+      "title": "心犬相随",
+      "originalTitle": "โกฮัง..หัวใจโกโฮม",
+      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
+      "releaseDate": "2026-06-13",
+      "rating": 8.429,
+      "mediaType": "movie"
+    },
+    {
       "id": 748783,
       "type": "tmdb",
       "title": "加菲猫家族",
@@ -146,18 +158,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1319522,
-      "type": "tmdb",
-      "title": "心犬相随",
-      "originalTitle": "โกฮัง..หัวใจโกโฮม",
-      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "releaseDate": "2026-06-13",
-      "rating": 9,
-      "mediaType": "movie"
-    },
-    {
       "id": 1305672,
       "type": "tmdb",
       "title": "抓特务",
@@ -166,7 +166,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 8,
+      "rating": 5.667,
       "mediaType": "movie"
     },
     {
@@ -202,7 +202,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 7.343,
+      "rating": 7.345,
       "mediaType": "movie"
     },
     {
@@ -218,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 464293,
-      "type": "tmdb",
-      "title": "烈刃之怒",
-      "originalTitle": "The Legend of Maula Jatt",
-      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 7.9,
-      "mediaType": "movie"
-    },
-    {
       "id": 597316,
       "type": "tmdb",
       "title": "小马宝莉：新世代",
@@ -239,6 +227,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
       "releaseDate": "2022-07-30",
       "rating": 7.706,
+      "mediaType": "movie"
+    },
+    {
+      "id": 464293,
+      "type": "tmdb",
+      "title": "烈刃之怒",
+      "originalTitle": "The Legend of Maula Jatt",
+      "description": "这是一个关于真相和正义的故事。少年茂拉虽在家族惨遭灭门后只身幸存，并在养母的抚养下成长为威震四方的赏金拳手。但噩梦从未远去——当命运的齿轮再度转动，茂拉终于揭开了自己深埋已久的真实身份，宿敌努里的名字也随之浮出水面。这位令整个旁遮普闻风丧胆的帮派首领，正是当年灭门惨案的始作俑者之一。赏金拳手茂拉为了复仇，向穷凶极恶的帮派首领努里发起正面挑战，随后走向了一条家破人亡、挚爱分离的道路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4rT9wbohdwVhXcEUSdI17Mdgexh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lbxvZ4jooF6zHkC7fTeOCCaUhbe.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7.9,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 8.2,
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
