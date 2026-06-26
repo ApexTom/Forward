@@ -5,7 +5,7 @@
       "type": "tv",
       "title": "校园之外",
       "genreTitle": "剧情",
-      "rating": 8.929,
+      "rating": 8.936,
       "overview": "音乐系学生汉娜·威尔斯（艾拉·布赖特 饰）与校冰球队王牌、布莱尔鹰队队长加勒特·格雷厄姆（贝尔蒙特·卡梅利 饰）。二人达成协议，开启一段契约恋爱：汉娜假意和加勒特交往，借此博取心仪的音乐人贾斯汀的关注；作为交换，汉娜辅导加勒特补习，帮他通过哲学课程。朝夕相处间，汉娜与加勒特从假扮恋人慢慢动了真情，修成真正的情侣。",
       "release_date": "2026-05-13",
       "poster_url": "/vOyCOnSOPTRjPTujsJnfEyDBR26.jpg",
@@ -13,14 +13,14 @@
       "genre_ids": [
         18
       ],
-      "popularity": 291.8219
+      "popularity": 296.2203
     },
     {
       "id": 278178,
       "type": "tv",
       "title": "我会找到你",
       "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 8.458,
+      "rating": 8.433,
       "overview": "一名父亲因被误判杀害亲生儿子而入狱，却在得知儿子可能仍然活着后，展开一场绝望的救子行动。",
       "release_date": "2026-06-18",
       "poster_url": "/xlmw7sjlcnBGpp8NK18YBD6soz3.jpg",
@@ -30,14 +30,31 @@
         9648,
         80
       ],
-      "popularity": 204.9869
+      "popularity": 200.3291
+    },
+    {
+      "id": 276161,
+      "type": "tv",
+      "title": "铁拳教育",
+      "genreTitle": "动作冒险•剧情•喜剧",
+      "rating": 9.476,
+      "overview": "在校园暴力猖獗、教师权威瓦解且恐龙家长无理解干涉的崩坏世界中，政府为了重整教育体制，依法创立了特殊机构“教权保护局”。当学校陷入常规手段无法解决的混乱失序时，特勤小组便会奉命出动。他们获准在必要时不惜逾越法律规范，使出课本上绝对不会教的强硬暴力与非常规手段，展开拳拳到肉的黑色幽默反击。这群特勤队员无所不用其极，誓言要对越界的失控学生、失格教师及傲慢家长实施痛快的“铁拳教育”，以恶制恶地夺回崩塌的教育正义与崩溃的校园秩序。",
+      "release_date": "2026-06-05",
+      "poster_url": "/7KEA6GYQ81Lcmu3KHee2eYKjccP.jpg",
+      "title_backdrop": "/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+      "genre_ids": [
+        10759,
+        18,
+        35
+      ],
+      "popularity": 180.5821
     },
     {
       "id": 299167,
       "type": "tv",
       "title": "达顿牧场",
       "genreTitle": "西部•剧情",
-      "rating": 9.288,
+      "rating": 9.3,
       "overview": "抛开《黄石》时期经历的阴影，Beth和Rip努力共筑未来，但他们遭遇了残酷的新现实，以及一家不择手段、只为保住自己帝国的无情敌对牧场。在南得克萨斯州，血脉之深远胜于一切，宽恕转瞬即逝，而生存的代价，或许正是你的灵魂。",
       "release_date": "2026-05-15",
       "poster_url": "/k3BVaqF1b9fybZlFALsp8svk9bI.jpg",
@@ -46,14 +63,14 @@
         37,
         18
       ],
-      "popularity": 173.5491
+      "popularity": 171.4241
     },
     {
       "id": 284725,
       "type": "tv",
       "title": "曼哈顿打拼日记",
       "genreTitle": "喜剧",
-      "rating": 5.6,
+      "rating": 5.839,
       "overview": "聚焦于五个职场新鲜人，他们在纽约曼哈顿奋力追求事业成功，而个人幸福则往往只能排在职业规划之后。",
       "release_date": "2026-06-02",
       "poster_url": "/gUoVQS9LkY3YuxtJv7iayo8Gr1a.jpg",
@@ -61,23 +78,7 @@
       "genre_ids": [
         35
       ],
-      "popularity": 152.9421
-    },
-    {
-      "id": 322430,
-      "type": "tv",
-      "title": "众妻之夫",
-      "genreTitle": "剧情•肥皂剧",
-      "rating": 8.111,
-      "overview": "网红乔伊丝有着看似完美的婚姻，但出轨丈夫的一系列“成就”浮出水面后，她在丑闻的打击之下面临情绪崩溃。",
-      "release_date": "2026-06-12",
-      "poster_url": "/a7cg0krQZS30UuGNafSS4l6N9DL.jpg",
-      "title_backdrop": "/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
-      "genre_ids": [
-        18,
-        10766
-      ],
-      "popularity": 100.3445
+      "popularity": 149.303
     },
     {
       "id": 296285,
@@ -94,14 +95,14 @@
         9648,
         18
       ],
-      "popularity": 82.3734
+      "popularity": 80.8116
     },
     {
       "id": 220102,
       "type": "tv",
       "title": "暗影蜘蛛侠",
       "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 8.52,
+      "rating": 8.518,
       "overview": "私家侦探本·莱利接下几桩看似单纯的案子，没想到黑帮分子、怪物，以及一位神秘的蛇蝎美人织起一张阴谋之网，让他必须面对过去，那个纽约唯一超级英雄的身份：蜘蛛侠。",
       "release_date": "2026-05-25",
       "poster_url": "/f2dyNx2eWY8Ccmko94DPEfeE361.jpg",
@@ -111,122 +112,7 @@
         9648,
         80
       ],
-      "popularity": 81.8819
-    },
-    {
-      "id": 270476,
-      "type": "tv",
-      "title": "寡妇湾",
-      "genreTitle": "剧情•喜剧•悬疑",
-      "rating": 8.236,
-      "overview": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
-      "release_date": "2026-04-28",
-      "poster_url": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "title_backdrop": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-      "genre_ids": [
-        18,
-        35,
-        9648
-      ],
-      "popularity": 77.2328
-    },
-    {
-      "id": 219971,
-      "type": "tv",
-      "title": "The Agency",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.1,
-      "overview": "改编自2015年热门法剧《传奇办公室》，设定在一个超越日常间谍活动、充满更深层次阴谋和诡计的世界，角色们在努力应对国家和世界的生存威胁时，同时进行自我的斗争。",
-      "release_date": "2024-12-01",
-      "poster_url": "/zyRGAd49pIEy0POVvY7WD1TdDtK.jpg",
-      "title_backdrop": "/9itOpkXcVrJDlGvRDMaLjUdTwrs.jpg",
-      "genre_ids": [
-        18,
-        9648
-      ],
-      "popularity": 74.1739
-    },
-    {
-      "id": 289763,
-      "type": "tv",
-      "title": "明天上班见！",
-      "genreTitle": "喜剧•剧情",
-      "rating": 8.2,
-      "overview": "工作第七年的上班族车智允，早已被职场与恋爱弄得疲惫不堪，直到她遇见了让人敬而远之的超难搞上司姜时宇。随著她逐渐发现他的严厉话语背后所隐藏的温柔，原本黯淡的日常，也悄悄地被重新点亮。在日复一日的通勤、突如其来的职场插曲，以及一段又一段无疾而终的恋情中，两人成为彼此无可取代的心灵支柱。",
-      "release_date": "2026-06-22",
-      "poster_url": "/qyWHhqbL6wbZeOCOwcfyAPQ3emk.jpg",
-      "title_backdrop": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "popularity": 55.0747
-    },
-    {
-      "id": 278605,
-      "type": "tv",
-      "title": "南部档案",
-      "genreTitle": "动作冒险•悬疑",
-      "rating": 7.0,
-      "overview": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
-      "release_date": "2026-06-11",
-      "poster_url": "/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
-      "title_backdrop": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
-      "genre_ids": [
-        10759,
-        9648
-      ],
-      "popularity": 52.2449
-    },
-    {
-      "id": 277439,
-      "type": "tv",
-      "title": "恐怖角",
-      "genreTitle": "剧情•犯罪",
-      "rating": 6.7,
-      "overview": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
-      "release_date": "2026-06-04",
-      "poster_url": "/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
-      "title_backdrop": "/gjbdE4FsBwIvYdicVIpCOTdes5H.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "popularity": 42.6684
-    },
-    {
-      "id": 196950,
-      "type": "tv",
-      "title": "尖帽子的魔法工房",
-      "genreTitle": "动画•剧情•Sci-Fi & Fantasy",
-      "rating": 9.052,
-      "overview": "　　生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇夫利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇夫利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。",
-      "release_date": "2026-04-06",
-      "poster_url": "/eBWVcJmzpjxndjd6lN8vU7AFuUe.jpg",
-      "title_backdrop": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
-      "genre_ids": [
-        16,
-        18,
-        10765
-      ],
-      "popularity": 42.415
-    },
-    {
-      "id": 303143,
-      "type": "tv",
-      "title": "我的王室死对头",
-      "genreTitle": "剧情•喜剧•Sci-Fi & Fantasy",
-      "rating": 8.618,
-      "overview": "在朝鲜时代被视为最恶妖女的姜团心，被迫服毒后意外穿越到现代，成为无名女演员申瑞霜。从熟悉权力斗争的古代世界，跌入陌生的娱乐圈与现代社会，她不只得重新学习生存，还在过程中遇上冷漠傲慢的恶质财阀继承人车世界。两人从对立、试探，到逐渐被彼此打乱原本的人生轨迹，在身份错位与命运交缠之下，展开一段危险却无法抗拒的奇幻罗曼史。",
-      "release_date": "2026-05-08",
-      "poster_url": "/dHFI5JHEpCcVofJsC2EhzgcbLRX.jpg",
-      "title_backdrop": "/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-      "genre_ids": [
-        18,
-        35,
-        10765
-      ],
-      "popularity": 38.3352
+      "popularity": 79.1987
     },
     {
       "id": 259231,
@@ -242,31 +128,159 @@
         16,
         10765
       ],
-      "popularity": 37.2807
+      "popularity": 77.1456
     },
     {
-      "id": 290019,
+      "id": 219971,
       "type": "tv",
-      "title": "和班上第二可爱的女孩子成为了朋友",
-      "genreTitle": "动画•喜剧•剧情",
-      "rating": 8.45,
-      "overview": "　　连个熟人都没有的我·前原真树，交到的第一个朋友是朝凪海。\n\n　　被男生们说成是“班上第二可爱的”，对天真烂漫的No.1美少女天海照顾有加的朝凪——\n\n　　只在星期五放学后偷偷来我家玩。\n\n　　和电影、游戏、漫画趣味相投的她一起度过了快乐的时光。\n\n　　天真无邪、爱撒娇的素颜，从平时稳重可靠的人的样子来看是无法想象的。\n\n　　“快坐到我旁边，我们一起看漫画。” “这是我的床……” “现在是我的床，你过来吗?”\n\n　　距离不近吗，朝凪小姐?\n\n　　阴暗男子和第二女主角，真人大小的“朋友”爱情喜剧!",
-      "release_date": "2026-04-07",
-      "poster_url": "/ka6MnzUKX9aVuCuyPGpfUZCgb7G.jpg",
-      "title_backdrop": "/q8vtAc81RluhMrh2QlaLgIm59Oa.jpg",
+      "title": "The Agency",
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.1,
+      "overview": "改编自2015年热门法剧《传奇办公室》，设定在一个超越日常间谍活动、充满更深层次阴谋和诡计的世界，角色们在努力应对国家和世界的生存威胁时，同时进行自我的斗争。",
+      "release_date": "2024-12-01",
+      "poster_url": "/l1cSIHPMi29JPEPajVwHJ3sPHu6.jpg",
+      "title_backdrop": "/9itOpkXcVrJDlGvRDMaLjUdTwrs.jpg",
       "genre_ids": [
-        16,
+        18,
+        9648
+      ],
+      "popularity": 74.4563
+    },
+    {
+      "id": 270476,
+      "type": "tv",
+      "title": "寡妇湾",
+      "genreTitle": "剧情•喜剧•悬疑",
+      "rating": 8.2,
+      "overview": "一位镇长无视当地人声称寡妇湾小镇遭受诅咒的警告，执意要将其打造成下一个新英格兰旅游胜地。",
+      "release_date": "2026-04-28",
+      "poster_url": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
+      "title_backdrop": "/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
+      "genre_ids": [
+        18,
+        35,
+        9648
+      ],
+      "popularity": 71.1071
+    },
+    {
+      "id": 289763,
+      "type": "tv",
+      "title": "明天上班见！",
+      "genreTitle": "喜剧•剧情",
+      "rating": 8.2,
+      "overview": "工作第七年的上班族车智允，早已被职场与恋爱弄得疲惫不堪，直到她遇见了让人敬而远之的超难搞上司姜时宇。随著她逐渐发现他的严厉话语背后所隐藏的温柔，原本黯淡的日常，也悄悄地被重新点亮。在日复一日的通勤、突如其来的职场插曲，以及一段又一段无疾而终的恋情中，两人成为彼此无可取代的心灵支柱。",
+      "release_date": "2026-06-22",
+      "poster_url": "/qyWHhqbL6wbZeOCOwcfyAPQ3emk.jpg",
+      "title_backdrop": "/zftF4KDGuhAGIA50bywcCXPjz5f.jpg",
+      "genre_ids": [
         35,
         18
       ],
-      "popularity": 26.9484
+      "popularity": 61.4133
+    },
+    {
+      "id": 278605,
+      "type": "tv",
+      "title": "南部档案",
+      "genreTitle": "动作冒险•悬疑",
+      "rating": 7.0,
+      "overview": "民国初年，南洋海上发生“水鬼望乡”离奇命案，张家外派调查神秘事务的南部档案馆坐办张海盐、张海虾二人搭档亲往调查，却意外卷入了一个用于猎杀海外张家人的绝命死局。张海虾以自己的死谋局求解，送张海盐上了“南安号”巨轮回厦门以图他能够有一线生机，但这趟波澜诡谲的航程似乎才刚刚起航，一手遮天的军阀大佬、单纯执着的少年账房、还有十年未见的至亲故人……张海盐独自面对着接踵而至的意外，而当他踏上厦门的那一刻，真正属于两个少年的命运才初初开始转动……",
+      "release_date": "2026-06-11",
+      "poster_url": "/nX6WBk4BogPFzMngsmzXTt9SyzA.jpg",
+      "title_backdrop": "/ipdLdmrjqR3hpCUGGSyr03dHdqC.jpg",
+      "genre_ids": [
+        10759,
+        9648
+      ],
+      "popularity": 52.6933
+    },
+    {
+      "id": 277439,
+      "type": "tv",
+      "title": "恐怖角",
+      "genreTitle": "剧情•犯罪",
+      "rating": 6.7,
+      "overview": "一名来自他们过去、恶名昭彰的杀手获释之际，一对婚姻美满律师夫妇的生活即将陷入风暴。",
+      "release_date": "2026-06-04",
+      "poster_url": "/a4B0RX5XFOl3nsrG4DxTTntk1gZ.jpg",
+      "title_backdrop": "/gjbdE4FsBwIvYdicVIpCOTdes5H.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 44.5606
+    },
+    {
+      "id": 196950,
+      "type": "tv",
+      "title": "尖帽子的魔法工房",
+      "genreTitle": "动画•剧情•Sci-Fi & Fantasy",
+      "rating": 8.961,
+      "overview": "　　生活在一个偏远村庄的少女可可一直渴望成为一名魔法师，但是这个世界只有出生就是魔法师的人才能成为魔法师。在一次偶然事故中，可可不小心看到了魔法师奇夫利施展魔法的过程，发现了魔法的真相。于是可可便临摹起了自己还是孩童时一位自称魔法师的神秘男子卖给她的一本绘本，不料却用出了强大而危险的禁忌魔法，将自己的母亲与房子都变成了石头。发现了自己不小心将魔法真相泄露而返回寻找可可的奇夫利看到禁忌魔法所造成的惨状，决心将她收为自己的徒弟，解开「绘本」之谜，帮助她将自己的母亲恢复原状。",
+      "release_date": "2026-04-06",
+      "poster_url": "/eBWVcJmzpjxndjd6lN8vU7AFuUe.jpg",
+      "title_backdrop": "/7zSko8MBo8UxJi2fPwglXFz7gV.jpg",
+      "genre_ids": [
+        16,
+        18,
+        10765
+      ],
+      "popularity": 40.8119
+    },
+    {
+      "id": 312493,
+      "type": "tv",
+      "title": "格斗实况",
+      "genreTitle": "剧情•动作冒险",
+      "rating": 7.6,
+      "overview": "一场打斗意外在网上爆红后，这个遭到霸凌的贫穷少年开始通过直播挣钱，并逐渐走出绝望。",
+      "release_date": "2026-06-11",
+      "poster_url": "/3HgYqDnbrcgwBDiYJd6vbPJ76mR.jpg",
+      "title_backdrop": "/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+      "genre_ids": [
+        18,
+        10759
+      ],
+      "popularity": 32.3596
+    },
+    {
+      "id": 278573,
+      "type": "tv",
+      "title": "21世纪大君夫人",
+      "genreTitle": "喜剧•剧情",
+      "rating": 8.953,
+      "overview": "欢迎来到21世纪的韩国，一个传统与现代交织的君主立宪制国家。在光鲜亮丽的外表下，隐藏着壁垒分明的社会阶级制度。成熙周，一位才华洋溢的财阀继承人兼首席执行官，似乎拥有一切，但出身平民的她却始终得不到应有的尊重。在诞日宴上与理安大君相遇后，她决心掌握自己的命运。她拥有一切，唯独缺少身份；而他空有尊贵的身份，实际上却一无所有。两人缔结了世纪婚约。他们能否打破社会壁垒，开创属于自己的命运？",
+      "release_date": "2026-04-10",
+      "poster_url": "/etY1kHe8NTFFNHdL6FmJcNuvCLW.jpg",
+      "title_backdrop": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 31.9906
+    },
+    {
+      "id": 291947,
+      "type": "tv",
+      "title": "昨夜将至",
+      "genreTitle": "悬疑",
+      "rating": 8.0,
+      "overview": "面馆老板韩东与妻子林美月平静生活下暗藏汹涌过往。林美月曾是夜场的“李荣珍”，遭昔日“故友”玲姐勒索曝光。与此同时，韩东深埋二十年的秘密也因神秘人的复仇揭开。韩东旧友孙海涛步步紧逼的危机，让夫妻二人深陷无形黑网。韩东因当年的懦弱导致高中同学赵晓琪陷入人生至暗时刻。而林美月与昔日姐妹阿妹的联手，也牵扯出不堪往事的惊天秘密，矛头直指权势滔天的孙家。面对只手遮天的孙家，夫妻二人从被动防守走向绝地反击，联手捍卫家庭，最终，孙家罪行崩塌。尘埃落定，韩东与林美月因过往的无奈与反击中的过界行为入狱服刑。",
+      "release_date": "2026-06-24",
+      "poster_url": "/AqgGEVlAjWviqqFObM4bDKuDsR4.jpg",
+      "title_backdrop": "/dzmpvGoJQ6yBShrpx0c7BdhwEic.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "popularity": 29.4729
     },
     {
       "id": 274671,
       "type": "tv",
       "title": "最强王者的第二人生",
       "genreTitle": "动画•动作冒险",
-      "rating": 6.769,
+      "rating": 6.819,
       "overview": "曾经的一国之君意外身亡，穿越到魔法世界却成为手无缚鸡之力的婴儿？好吧，在壮阔而神秘的世界从零开始！比修炼更重要的是，他要先学会如何自己上厕所…离开襁褓成为强者，失去了尊贵王冠的他，用利剑为自己加冕！",
       "release_date": "2025-04-02",
       "poster_url": "/2uYmx5q5wILjzXmDZmPdRKD03gs.jpg",
@@ -275,56 +289,40 @@
         16,
         10759
       ],
-      "popularity": 22.0444
+      "popularity": 24.1174
     },
     {
-      "id": 252107,
+      "id": 309163,
       "type": "tv",
-      "title": "星城",
-      "genreTitle": "剧情•Sci-Fi & Fantasy•War & Politics",
-      "rating": 7.156,
-      "overview": "踏进受《为全人类》启发的惊险新篇章，同一个架空历史，却从苏联的角度出发，讲述铁幕背后一众宇航员、工程师和情报人员铤而走险，在登月竞赛中取胜求存。",
-      "release_date": "2026-05-28",
-      "poster_url": "/1tbUKieOUaqiafxDnEwchd9KfDo.jpg",
-      "title_backdrop": "/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
-      "genre_ids": [
-        18,
-        10765,
-        10768
-      ],
-      "popularity": 21.959
-    },
-    {
-      "id": 312474,
-      "type": "tv",
-      "title": "日本三国",
-      "genreTitle": "动画•剧情•War & Politics",
-      "rating": 8.5,
-      "overview": "　　在文明崩溃后的近未来，一位青年为了再次统一再度化为战国时代的日本而挺身而出。其名为三角青辉。在后世被评价为奇才军师的他的传说，现在开始！！",
-      "release_date": "2026-04-05",
-      "poster_url": "/lGyQoPUOqeTKhtu2HfBnmiojIQe.jpg",
-      "title_backdrop": "/seKQ4siIyJZAt3Xubijt5iXfjvA.jpg",
+      "title": "哪里有温柔对待阿宅的辣妹！？",
+      "genreTitle": "动画•喜剧",
+      "rating": 7.9,
+      "overview": "　　濑尾卓也是名喜欢没法大声说出自己喜欢的“女童向动画”的御宅族。一天，班上的辣妹天音同学和伊地知同学突然缠了过来，总感觉天音同学也有着阿宅的气息……？阿宅遇上辣妹的“喜欢”相交织的校园种姓恋爱喜剧！！",
+      "release_date": "2026-04-08",
+      "poster_url": "/wQFbXbQ33b2CWx6n1eR4xEJx3Wu.jpg",
+      "title_backdrop": "/7837uc8fhaREbOVnqIwXrFu335o.jpg",
       "genre_ids": [
         16,
-        18,
-        10768
-      ],
-      "popularity": 21.6837
-    },
-    {
-      "id": 285404,
-      "type": "tv",
-      "title": "极乐布局",
-      "genreTitle": "喜剧",
-      "rating": 6.0,
-      "overview": "刚离婚成为单身母亲的宝拉意外陷入牵涉勒索、谋杀和青少年足球的危险漩涡之中。",
-      "release_date": "2026-05-19",
-      "poster_url": "/mLLfG5caoX2oA59saA14gQGq6Vy.jpg",
-      "title_backdrop": "/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
-      "genre_ids": [
         35
       ],
-      "popularity": 18.188
+      "popularity": 18.6452
+    },
+    {
+      "id": 289219,
+      "type": "tv",
+      "title": "星球大战：摩尔-暗影之王",
+      "genreTitle": "动作冒险•动画•Sci-Fi & Fantasy",
+      "rating": 8.6,
+      "overview": "在克隆人战争之后，摩尔计划在一个未受帝国染指的星球上重建他的犯罪集团。",
+      "release_date": "2026-04-06",
+      "poster_url": "/wSScSZ6No09Z2SBJIHpBZ7rgi1m.jpg",
+      "title_backdrop": "/cvvj1RXGmmAZ1FZr6CrUu8LgQm5.jpg",
+      "genre_ids": [
+        10759,
+        16,
+        10765
+      ],
+      "popularity": 14.3747
     }
   ],
   "today_movies": [
@@ -333,7 +331,7 @@
       "type": "movie",
       "title": "痴迷",
       "genreTitle": "恐怖•惊悚",
-      "rating": 7.9,
+      "rating": 7.908,
       "overview": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
       "release_date": "2026-05-13",
       "poster_url": "/y9cuIc3fM6G3aIXySmDqsgRGUE1.jpg",
@@ -342,14 +340,14 @@
         27,
         53
       ],
-      "popularity": 519.079
+      "popularity": 526.463
     },
     {
       "id": 936075,
       "type": "movie",
       "title": "迈克尔·杰克逊：巨星之路",
       "genreTitle": "音乐•剧情",
-      "rating": 8.686,
+      "rating": 8.689,
       "overview": "　　本片将通过一段从未展现过的深度视角，真实记录传奇巨星迈克尔·杰克逊的复杂人生。影片不仅再现了他最具标志性的艺术表演瞬间，更深入挖掘了他的内心世界——从天才神童的成长阵痛到全球偶像背后的争议与坚韧，全面呈现这位伟大艺术家的辉煌与坎坷。",
       "release_date": "2026-04-22",
       "poster_url": "/1hPSbiyfAhtWAIBf2XtDPA0NyvS.jpg",
@@ -358,32 +356,66 @@
         10402,
         18
       ],
-      "popularity": 404.8016
+      "popularity": 375.7553
     },
     {
       "id": 1084244,
       "type": "movie",
       "title": "玩具总动员5",
       "genreTitle": "动画•家庭•喜剧",
-      "rating": 7.407,
+      "rating": 7.4,
       "overview": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
       "release_date": "2026-06-17",
       "poster_url": "/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
-      "title_backdrop": "/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "title_backdrop": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "genre_ids": [
         16,
         10751,
         35,
         12
       ],
-      "popularity": 331.3196
+      "popularity": 306.5614
+    },
+    {
+      "id": 1081003,
+      "type": "movie",
+      "title": "超级少女",
+      "genreTitle": "动作•冒险•科幻",
+      "rating": 6.163,
+      "overview": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "release_date": "2026-06-23",
+      "poster_url": "/3bhjIqSsJFDchBCeaqCdsvy1byD.jpg",
+      "title_backdrop": "/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "popularity": 219.224
+    },
+    {
+      "id": 1301421,
+      "type": "movie",
+      "title": "绵羊侦探团",
+      "genreTitle": "喜剧•家庭•悬疑",
+      "rating": 7.56,
+      "overview": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
+      "release_date": "2026-04-30",
+      "poster_url": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
+      "title_backdrop": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "genre_ids": [
+        35,
+        10751,
+        9648
+      ],
+      "popularity": 199.9905
     },
     {
       "id": 1275779,
       "type": "movie",
       "title": "揭秘日",
       "genreTitle": "科幻•惊悚",
-      "rating": 6.705,
+      "rating": 6.7,
       "overview": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
       "release_date": "2026-06-10",
       "poster_url": "/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
@@ -392,47 +424,14 @@
         878,
         53
       ],
-      "popularity": 178.3497
-    },
-    {
-      "id": 614945,
-      "type": "movie",
-      "title": "真爱留声",
-      "genreTitle": "爱情•喜剧",
-      "rating": 8.037,
-      "overview": "年轻女子给已故姐姐发送的搞笑自白语音留言无意中被转给了陌生人，而这个陌生人竟隔着遥远的距离爱上了她。",
-      "release_date": "2026-06-20",
-      "poster_url": "/7F3XaVBrMLRAbMadwM8A9MViQkA.jpg",
-      "title_backdrop": "/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-      "genre_ids": [
-        10749,
-        35
-      ],
-      "popularity": 171.8417
-    },
-    {
-      "id": 1081003,
-      "type": "movie",
-      "title": "超级少女",
-      "genreTitle": "动作•冒险•科幻",
-      "rating": 6.535,
-      "overview": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "release_date": "2026-06-23",
-      "poster_url": "/qJDJ2NzoBfaPktg8Ic10Mx9tWX7.jpg",
-      "title_backdrop": "/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "popularity": 144.8921
+      "popularity": 179.6537
     },
     {
       "id": 83533,
       "type": "movie",
       "title": "阿凡达：火与烬",
       "genreTitle": "科幻•冒险•奇幻",
-      "rating": 7.6,
+      "rating": 7.602,
       "overview": "从人类归化纳美族并当上首领的杰克·萨利、妻子纳美战士奈蒂莉及萨利的家人一同在经历奋战与伤痛后开始在岛礁群生活，但他们仍未走出纳特亚姆去世的阴影。为保护蜘蛛，他们随风之商人部族踏上返乡之旅，却途中遭到由瓦琅率领的灰烬族袭击。与此同时，人类军方正在筹备新的进攻。",
       "release_date": "2025-12-17",
       "poster_url": "/d5jW601WKpT1yTwWsJcYvUwl8cB.jpg",
@@ -442,14 +441,14 @@
         12,
         14
       ],
-      "popularity": 121.6775
+      "popularity": 123.1454
     },
     {
       "id": 454639,
       "type": "movie",
       "title": "宇宙巨人：希曼崛起",
       "genreTitle": "动作•奇幻•科幻",
-      "rating": 7.251,
+      "rating": 7.246,
       "overview": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
       "release_date": "2026-06-03",
       "poster_url": "/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
@@ -459,7 +458,7 @@
         14,
         878
       ],
-      "popularity": 111.3817
+      "popularity": 109.0615
     },
     {
       "id": 1083381,
@@ -476,24 +475,25 @@
         9648,
         878
       ],
-      "popularity": 110.2267
+      "popularity": 108.5329
     },
     {
-      "id": 1301421,
+      "id": 980431,
       "type": "movie",
-      "title": "绵羊侦探团",
-      "genreTitle": "喜剧•家庭•悬疑",
-      "rating": 7.536,
-      "overview": "改编自Leonie Swann的畅销小说，讲述牧羊人乔治（休·杰克曼 Hugh Jackman 饰）热爱自己的羊儿们，他养羊只是为了薅羊毛，并且每晚都会给羊大声朗读一则谋杀疑案故事，装作它们能听懂——其实它们真的能听懂，并且在听完故事后会热烈讨论争吵几小时。所以当此后，乔治神秘死去，羊儿们马上就知道：这是一场谋杀！而另一方面，当地的警察（尼可拉斯·博朗 Nicholas Braun 饰）则这辈子都没处理过真正严重的谋杀案。于是，羊儿们决定自己出手去破解这场悬案。但这也意味着它们必须羊生第一次离开这片草地，直面不像书里写的那么简单的人类世界。",
-      "release_date": "2026-04-30",
-      "poster_url": "/n4hv5lQvuXBdNyJAAelDnwv6Emw.jpg",
-      "title_backdrop": "/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "title": "安昂传奇：最后的气宗",
+      "genreTitle": "动作•冒险•动画",
+      "rating": 0.0,
+      "overview": "派拉蒙和尼克宣布“降世神通”系列开发三部新的电影，仍是动画形式。第一部由《降世神通：最后的气宗》导演Lauren Montgomery执导，《最后的气宗》主创Bryan Konietzko和Michael DiMartino担任制片人。",
+      "release_date": "2026-10-09",
+      "poster_url": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
+      "title_backdrop": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
       "genre_ids": [
-        35,
-        10751,
-        9648
+        28,
+        12,
+        16,
+        14
       ],
-      "popularity": 109.3275
+      "popularity": 88.1884
     },
     {
       "id": 969681,
@@ -510,24 +510,43 @@
         28,
         12
       ],
-      "popularity": 84.8762
+      "popularity": 77.9137
+    },
+    {
+      "id": 1315772,
+      "type": "movie",
+      "title": "小黄人与大怪兽",
+      "genreTitle": "冒险•动画•喜剧",
+      "rating": 6.071,
+      "overview": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "release_date": "2026-06-24",
+      "poster_url": "/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
+      "title_backdrop": "/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        14
+      ],
+      "popularity": 65.683
     },
     {
       "id": 1340206,
       "type": "movie",
       "title": "调音师",
       "genreTitle": "惊悚•犯罪•剧情",
-      "rating": 7.055,
+      "rating": 7.187,
       "overview": "　　一位才华横溢的钢琴调音师，发现自己精湛的钢琴调音技艺可以用于破解保险箱，由此他的生活发生了翻天覆地的变化。",
       "release_date": "2026-05-21",
-      "poster_url": "/nwoP8tsFcmCrvvbXq7xKMeFnZCz.jpg",
+      "poster_url": "/29YqkGW6ztW3jbe0Nse6TwcXbhs.jpg",
       "title_backdrop": "/dpHoPHMSMkFZWt44FGkpEZ61Ptd.jpg",
       "genre_ids": [
         53,
         80,
         18
       ],
-      "popularity": 72.0195
+      "popularity": 64.7627
     },
     {
       "id": 1273221,
@@ -543,50 +562,81 @@
         35,
         27
       ],
-      "popularity": 54.656
+      "popularity": 63.3615
     },
     {
-      "id": 1315772,
+      "id": 1515729,
       "type": "movie",
-      "title": "小黄人与大怪兽",
-      "genreTitle": "冒险•动画•喜剧",
-      "rating": 6.3,
-      "overview": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "release_date": "2026-06-24",
-      "poster_url": "/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
-      "title_backdrop": "/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
+      "title": "Blast",
+      "genreTitle": "动作•剧情•家庭",
+      "rating": 7.222,
+      "overview": "",
+      "release_date": "2026-05-28",
+      "poster_url": "/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "title_backdrop": "/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
       "genre_ids": [
-        12,
-        16,
-        35,
-        10751,
-        14
+        28,
+        18,
+        10751
       ],
-      "popularity": 52.5903
+      "popularity": 60.6061
     },
     {
       "id": 1413976,
       "type": "movie",
       "title": "公民义警",
       "genreTitle": "惊悚•动作•犯罪",
-      "rating": 6.809,
+      "rating": 7.131,
       "overview": "男主角桑德斯是一名义警，他追捕罪犯、伸张正义，成为社交媒体红人和公众眼中的英雄，但当地警察局长认为他是社会的威胁，打算将他打倒。",
       "release_date": "2026-06-19",
       "poster_url": "/6LmJD3Wohe0g4U62wgi7RyJqfE4.jpg",
-      "title_backdrop": "/uHONwBKXLRIT8hxZlAdiLbHVsWv.jpg",
+      "title_backdrop": "/3Ckkdh0VTcFPwpBJ6jMAS3qIkgJ.jpg",
       "genre_ids": [
         53,
         28,
         80
       ],
-      "popularity": 40.2413
+      "popularity": 54.6163
+    },
+    {
+      "id": 1020047,
+      "type": "movie",
+      "title": "但丁之手",
+      "genreTitle": "剧情•犯罪",
+      "rating": 4.2,
+      "overview": "影片改编自尼克·托切斯的同名小说，讲述两个平行故事，分别围绕著名诗人但丁和他的代表作《神曲》展开：当代纽约，《神曲》原稿出现在一个黑市走私团伙的手中，厌倦现状的学者尼克（奥斯卡·伊萨克 Oscar Isaac 饰）被他们召唤去辨别真伪。尼克最终因诱惑而违抗黑手党偷走了手稿，和他的爱人茱丽叶塔（盖尔·加朵 Gal Gadot 饰）踏上了一条黑暗暴力之路，从隐喻式的地狱到天堂。",
+      "release_date": "2026-06-12",
+      "poster_url": "/gXHjhh2KbOGqBKAAUeSjNhKCkOt.jpg",
+      "title_backdrop": "/6pb3DTtHYh6ChqsmX9yFEX9GXVt.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 41.605
+    },
+    {
+      "id": 1368337,
+      "type": "movie",
+      "title": "奥德赛",
+      "genreTitle": "冒险•动作•奇幻",
+      "rating": 0.0,
+      "overview": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
+      "release_date": "2026-07-15",
+      "poster_url": "/3O6ufZBBjLB29NpJOe8awMzQ4XN.jpg",
+      "title_backdrop": "/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "genre_ids": [
+        12,
+        28,
+        14
+      ],
+      "popularity": 34.5186
     },
     {
       "id": 1284016,
       "type": "movie",
       "title": "情歌恋习曲",
       "genreTitle": "喜剧•音乐•剧情",
-      "rating": 7.4,
+      "rating": 7.3,
       "overview": "　　落魄的婚礼歌手里克和同样落魄的男团前成员丹尼在一场表演上结识，丹尼盗用里克的一首歌，咸鱼翻身。里克决定不惜一切代价，夺回自己的歌。",
       "release_date": "2026-05-18",
       "poster_url": "/x5p8EQVbd9adoMCAjXpDnSgYWku.jpg",
@@ -596,64 +646,14 @@
         10402,
         18
       ],
-      "popularity": 29.6597
-    },
-    {
-      "id": 1329471,
-      "type": "movie",
-      "title": "卡罗来纳的卡罗琳",
-      "genreTitle": "犯罪•剧情•爱情",
-      "rating": 7.7,
-      "overview": "年轻女孩卡罗莱娜·丹尼尔斯遇见了魅力十足的亡命徒奥利弗，两人一拍即合，迅速坠入炽热的爱恋，踏上横穿美国东南部的亡命旅途。他们一路狂飙，沿途犯下一连串劫案，在枪火与激情里肆意沉溺，身后是步步紧逼的警探。而卡罗莱娜始终藏着一个深埋的执念：找到多年前与自己失散的母亲黛博拉。随着旅途不断推进，旧日的秘密不断浮出水面，两人的关系与前路，都在爱欲与危险里不断滑向失控。",
-      "release_date": "2026-06-05",
-      "poster_url": "/2oLFwPYtFLHzKpwM3bIv9HzwCNF.jpg",
-      "title_backdrop": "/112sW296vEx3d71C8fzOqoFIomN.jpg",
-      "genre_ids": [
-        80,
-        18,
-        10749
-      ],
-      "popularity": 29.4179
-    },
-    {
-      "id": 1227877,
-      "type": "movie",
-      "title": "贼爱时尚",
-      "genreTitle": "喜剧•科幻•犯罪",
-      "rating": 5.7,
-      "overview": "在旧金山湾区一个超现实的平行世界里，一群被称为\"顺风手\"的商店扒手，将矛头对准了一位剽窃他们设计的心狠手辣的冷酷时尚大亨。",
-      "release_date": "2026-05-21",
-      "poster_url": "/4pNKIUFy7tkZiBx0rnSmG9ysRy.jpg",
-      "title_backdrop": "/2fuXHiUrCMp100jC6e4k2H222Jn.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "popularity": 29.3977
-    },
-    {
-      "id": 1020047,
-      "type": "movie",
-      "title": "但丁之手",
-      "genreTitle": "剧情•犯罪",
-      "rating": 3.7,
-      "overview": "影片改编自尼克·托切斯的同名小说，讲述两个平行故事，分别围绕著名诗人但丁和他的代表作《神曲》展开：当代纽约，《神曲》原稿出现在一个黑市走私团伙的手中，厌倦现状的学者尼克（奥斯卡·伊萨克 Oscar Isaac 饰）被他们召唤去辨别真伪。尼克最终因诱惑而违抗黑手党偷走了手稿，和他的爱人茱丽叶塔（盖尔·加朵 Gal Gadot 饰）踏上了一条黑暗暴力之路，从隐喻式的地狱到天堂。",
-      "release_date": "2026-06-12",
-      "poster_url": "/gXHjhh2KbOGqBKAAUeSjNhKCkOt.jpg",
-      "title_backdrop": "/p84zXoipZItJFYihGyFhzsseo9B.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "popularity": 27.4576
+      "popularity": 28.4116
     },
     {
       "id": 1382832,
       "type": "movie",
       "title": "饥饿河马",
       "genreTitle": "惊悚•恐怖",
-      "rating": 5.9,
+      "rating": 6.385,
       "overview": "一群度假者在路易斯安那州的沼泽地迷路后，必须与一头横冲直撞、四处乱窜的河马展开殊死搏斗。",
       "release_date": "2026-06-03",
       "poster_url": "/n6mTo0YXafeoOUbHZxB9muKEjhX.jpg",
@@ -662,7 +662,7 @@
         53,
         27
       ],
-      "popularity": 11.9699
+      "popularity": 22.1659
     }
   ]
 }
