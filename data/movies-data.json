@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T01:42:45.137+08:00",
+  "last_updated": "2026-06-28T01:04:06.652+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/l9ui7Irttuekt4CMTOmyAMIDsQI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1081003,
-      "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3bhjIqSsJFDchBCeaqCdsvy1byD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.3,
+      "rating": 7.434,
       "mediaType": "movie"
     },
     {
@@ -34,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cafHjxEvhslX9MpBMxmPWxC5GWB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.7,
+      "rating": 6.688,
       "mediaType": "movie"
     },
     {
@@ -46,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2K7QsrRFmIjItosg8oKxjjnKgRo.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "rating": 6.709,
       "mediaType": "movie"
     },
     {
@@ -58,7 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.7,
+      "rating": 7.653,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1081003,
+      "type": "tmdb",
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3bhjIqSsJFDchBCeaqCdsvy1byD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.938,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.2,
+      "rating": 7.235,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nS8TOKb62LnYJy1iszSV2pNEAQk.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.9,
+      "rating": 6.884,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gdBZxxPdX4CQ2Y3JkzU45EBiHEP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.618,
+      "rating": 7.6,
       "mediaType": "movie"
     },
     {
@@ -115,7 +115,7 @@
       "title": "给阿嬷的情书",
       "originalTitle": "给阿嬷的情书",
       "description": "潮汕阿嬷叶淑柔一直守着平淡的日子，安享晚年。孙子晓伟因债务缠身，瞒着家人远赴泰国，寻找传闻中已成亿万富豪的阿公郑木生。然而，一个令人意外的消息打破了整个家庭的平静：多年来一直通过跨国信件与阿嬷“谈情说爱”诉说思念的人，竟然并非阿嬷的丈夫郑木生。随着晓伟的调查，一个感人的真相被缓缓揭开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ePIAxow5xpinDIdwWELS3GtxpSD.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/s0sC3hPPX4OobLNfdl2iSs2vtvI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
       "releaseDate": "2026-04-30",
       "rating": 9.2,
@@ -178,7 +178,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jOugiyKRuFX8RFUGnmVFDsh9Oai.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.47,
+      "rating": 6.465,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/4RRGjHlhCJAU8vkJwzYd2bH9IkL.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.55,
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -304,18 +304,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1658666,
-      "type": "tmdb",
-      "title": "大圣崛起",
-      "originalTitle": "大圣崛起",
-      "description": "硬币有两面，很多时候，人们只能看到其中的一面。《大圣崛起》讲述的故事，是西行背后的故事，是硬币的另一面，关于另外一个真相的故事。大闹天宫 500年后，大圣答应佛祖用14年的时间，护送一个和尚去西天取经。大圣的行为，引起同族弟兄的不解，纷纷起而阻止……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dKO41iA97UtXuCCtX3kOm8HPWCt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sZsJYO2ND0ABSwTJVpYRhZspos0.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1613857,
       "type": "tmdb",
       "title": "开个玩笑",
@@ -324,6 +312,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
       "releaseDate": "2026-07-03",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1658666,
+      "type": "tmdb",
+      "title": "大圣崛起",
+      "originalTitle": "大圣崛起",
+      "description": "硬币有两面，很多时候，人们只能看到其中的一面。《大圣崛起》讲述的故事，是西行背后的故事，是硬币的另一面，关于另外一个真相的故事。大闹天宫 500年后，大圣答应佛祖用14年的时间，护送一个和尚去西天取经。大圣的行为，引起同族弟兄的不解，纷纷起而阻止……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dKO41iA97UtXuCCtX3kOm8HPWCt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sZsJYO2ND0ABSwTJVpYRhZspos0.jpg",
+      "releaseDate": "2026-07-10",
       "rating": 0,
       "mediaType": "movie"
     }
