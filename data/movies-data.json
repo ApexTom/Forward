@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-06-30T02:05:13.245+08:00",
+  "last_updated": "2026-07-01T01:48:26.998+08:00",
   "now_playing": [
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.47,
-      "mediaType": "movie"
-    },
     {
       "id": 1275779,
       "type": "tmdb",
@@ -22,7 +10,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.687,
+      "rating": 6.699,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.484,
       "mediaType": "movie"
     },
     {
@@ -31,7 +31,7 @@
       "title": "后室",
       "originalTitle": "Backrooms",
       "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lktsYWsFGgaHzkbH28tNA7TafG3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-26",
       "rating": 6.9,
@@ -44,9 +44,9 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/tsoemc4reM9GayGPZ3CczFGJeQU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.2,
+      "rating": 6.194,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v7uzb75PRTBRce4OzMMgFUmGA7j.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.687,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.713,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.262,
+      "rating": 7.263,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.614,
+      "rating": 7.613,
       "mediaType": "movie"
     },
     {
@@ -154,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 7,
+      "rating": 6.985,
       "mediaType": "movie"
     },
     {
@@ -190,7 +190,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.5,
+      "rating": 6.483,
       "mediaType": "movie"
     },
     {
@@ -214,7 +214,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 7.345,
+      "rating": 7.332,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.9,
+      "rating": 6.891,
       "mediaType": "movie"
     },
     {
@@ -280,6 +280,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1572830,
+      "type": "tmdb",
+      "title": "不成功穿越指南",
+      "originalTitle": "不成功穿越指南",
+      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "releaseDate": "2026-07-02",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1353926,
       "type": "tmdb",
       "title": "特立独行",
@@ -287,18 +299,6 @@
       "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
       "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1613857,
-      "type": "tmdb",
-      "title": "开个玩笑",
-      "originalTitle": "开个玩笑",
-      "description": "环卫女工季红（张天爱 饰）为让孩子获得入学机会，面临职场领导以“玩笑”为名的越界骚扰，其他员工对此习以为常，而性格倔强的季红决定反抗。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kI0Y4huryV7A5vXPveMftk6oINd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7GKqgR0jsa2HWriTz92vgCd50PP.jpg",
       "releaseDate": "2026-07-03",
       "rating": 0,
       "mediaType": "movie"
