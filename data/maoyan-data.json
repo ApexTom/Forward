@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T16:50:06.683+08:00",
+  "last_updated": "2026-07-02T21:50:29.589+08:00",
   "tv": {
     "全网": [
       {
@@ -15,7 +15,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "昨夜将至",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -27,13 +27,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "莫离",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "莫离",
+        "title": "昨夜将至",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -127,7 +127,7 @@
     ],
     "爱奇艺": [
       {
-        "title": "昨夜将至",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -139,7 +139,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "昨夜将至",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -195,13 +195,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -269,6 +269,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "逝爱迷局",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
@@ -276,6 +282,12 @@
       },
       {
         "title": "良陈美锦",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,19 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "海底小纵队 第十一季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "好好的时光",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -314,6 +314,12 @@
   },
   "show": {
     "全网": [
+      {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
       {
         "title": "地球超新鲜 第2季",
         "description": "暂无简介",
@@ -328,6 +334,12 @@
       },
       {
         "title": "说唱巅峰对决2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,25 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "食神·百厨大战",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "喜欢你我也是 第六季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -457,13 +457,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,13 +563,19 @@
     ],
     "芒果TV": [
       {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "乘风2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
+        "title": "我们与恋爱的距离·奔赴季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -582,12 +588,6 @@
       },
       {
         "title": "快乐老家",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我们与恋爱的距离·奔赴季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "国医少年志 第三季",
+        "title": "21天重养自己",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
