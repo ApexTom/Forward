@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T01:50:16.779+08:00",
+  "last_updated": "2026-07-03T01:40:29.111+08:00",
   "now_playing": [
     {
       "id": 1275779,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.686,
+      "rating": 6.685,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.429,
+      "rating": 7.419,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.838,
+      "rating": 6.848,
       "mediaType": "movie"
     },
     {
@@ -46,19 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.19,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1280738,
-      "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "releaseDate": "2026-06-11",
-      "rating": 7.717,
+      "rating": 6.221,
       "mediaType": "movie"
     },
     {
@@ -70,7 +58,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.8,
+      "rating": 6.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "releaseDate": "2026-06-11",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.056,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.262,
+      "rating": 7.261,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.602,
+      "rating": 7.573,
       "mediaType": "movie"
     },
     {
@@ -119,6 +119,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
       "rating": 8.175,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1285965,
+      "type": "tmdb",
+      "title": "危险动物",
+      "originalTitle": "Dangerous Animals",
+      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.477,
       "mediaType": "movie"
     },
     {
@@ -142,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 6.985,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -158,18 +170,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1285965,
-      "type": "tmdb",
-      "title": "危险动物",
-      "originalTitle": "Dangerous Animals",
-      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.486,
-      "mediaType": "movie"
-    },
-    {
       "id": 1257942,
       "type": "tmdb",
       "title": "魔方小姐",
@@ -179,30 +179,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
       "releaseDate": "2026-06-19",
       "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 597316,
-      "type": "tmdb",
-      "title": "小马宝莉：新世代",
-      "originalTitle": "My Little Pony: A New Generation",
-      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
-      "releaseDate": "2022-07-30",
-      "rating": 7.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 271706,
-      "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.332,
       "mediaType": "movie"
     },
     {
@@ -218,15 +194,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1275051,
+      "id": 271706,
       "type": "tmdb",
-      "title": "绝密任务",
-      "originalTitle": "绝密任务",
-      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 4,
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.332,
+      "mediaType": "movie"
+    },
+    {
+      "id": 597316,
+      "type": "tmdb",
+      "title": "小马宝莉：新世代",
+      "originalTitle": "My Little Pony: A New Generation",
+      "description": "不可思议的事情发生了······小马利亚失去了魔力！陆马、独角兽和飞马不再是朋友，如今只有同种族的小马才会待在一起。但理想主义的年轻陆马桑尼（凡妮莎·哈金斯配音）决心找到一种方法，让世界重新拥有魔法并变得像以前一样团结。她与性格开朗的独角兽伊兹（贵美子·格伦配音）一起前往遥远的国度，在那里她们遇到了富有魅力且勇敢的飞马皮璞（索菲亚·卡尔森配音）和齐璞（丽兹·考什配音），以及使命感满满的陆马希区烈焰（詹姆斯·麦斯登配音）。他们在完成任务的过程中遇到了诸多困难，但每一位新的好朋友都有自己独一无二的天赋，这可能正是小马利亚恢复魔法所需要的东西，并证明了小马也能带来大改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7PYEdLF5rD28HAexgDt6DOpOYxd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ugukqzx4gSzBd1yzmbWEHLkpGaS.jpg",
+      "releaseDate": "2022-07-30",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -236,9 +224,21 @@
       "originalTitle": "钟馗",
       "description": "　　少女初九偶然发现河阳城主墨白是妖怪的真相而被追杀。危机时刻，地府捉妖天师钟馗出手相救，初九由此立志降妖除魔并拜钟馗为师。与此同时，一场足以颠覆人间地府的巨大危机也悄然袭来……",
       "posterPath": "https://image.tmdb.org/t/p/w500/zsWPTAfEI6ealbmIpw0G6QArSSc.jpg",
-      "backdropPath": null,
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3wqcEXkwInpm8u9uu5Vh8tlMQ8.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 6,
+      "rating": 3.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275051,
+      "type": "tmdb",
+      "title": "绝密任务",
+      "originalTitle": "绝密任务",
+      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 4,
       "mediaType": "movie"
     }
   ],
@@ -275,18 +275,6 @@
       "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
       "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8qhiIL1HAq7ts1hybqGzodycQro.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1658666,
-      "type": "tmdb",
-      "title": "大圣崛起",
-      "originalTitle": "大圣崛起",
-      "description": "硬币有两面，很多时候，人们只能看到其中的一面。《大圣崛起》讲述的故事，是西行背后的故事，是硬币的另一面，关于另外一个真相的故事。大闹天宫 500年后，大圣答应佛祖用14年的时间，护送一个和尚去西天取经。大圣的行为，引起同族弟兄的不解，纷纷起而阻止……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dKO41iA97UtXuCCtX3kOm8HPWCt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sZsJYO2ND0ABSwTJVpYRhZspos0.jpg",
       "releaseDate": "2026-07-10",
       "rating": 0,
       "mediaType": "movie"
