@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T01:40:29.111+08:00",
+  "last_updated": "2026-07-04T01:18:38.649+08:00",
   "now_playing": [
     {
       "id": 1275779,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.685,
+      "rating": 6.672,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.419,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.848,
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -44,9 +44,9 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.221,
+      "rating": 6.257,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.7,
+      "rating": 6.721,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7,
+      "rating": 7.031,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.261,
+      "rating": 7.262,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.573,
+      "rating": 7.571,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.175,
+      "rating": 8.176,
       "mediaType": "movie"
     },
     {
@@ -154,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 7,
+      "rating": 6.985,
       "mediaType": "movie"
     },
     {
@@ -167,6 +167,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
       "releaseDate": "2026-06-19",
       "rating": 5.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 239,
+      "type": "tmdb",
+      "title": "热情如火",
+      "originalTitle": "Some Like It Hot",
+      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "releaseDate": "2016-04-16",
+      "rating": 8.078,
       "mediaType": "movie"
     },
     {
@@ -228,18 +240,6 @@
       "releaseDate": "2026-05-30",
       "rating": 3.5,
       "mediaType": "movie"
-    },
-    {
-      "id": 1275051,
-      "type": "tmdb",
-      "title": "绝密任务",
-      "originalTitle": "绝密任务",
-      "description": "真实事件改编，中国首部女子特战队实战电影！“最飒女兵”卢靖姗、于文文、蒋璐霞、屈菁菁首度联手诛杀境外恶势力，深入敌营化解导弹危机！ 中国女子特战队临危受命，精英队长陈梓静（于文文饰）率队员金凤（卢靖姗饰）、齐燕（蒋璐霞饰）、宁宝儿（屈菁菁饰）全队出击，限时12小时境外极限营救！神秘人蝙蝠（余文乐饰）狠辣强悍正邪难辨，营救任务难度远超想象。机械骨骼铠甲装备、境外恐怖组织侵扰、病毒危机、导弹威胁轮番上阵……女子特战队深陷危机泥潭，命悬一线。时间紧迫，危境当前，她们能否绝地反击，力挽狂澜？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1Ip58qoFg0uck3PmmPDHgrFTSHi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4dxCXZQwjnCJi88tYVJrhOqhRqh.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 4,
-      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 0,
+      "rating": 8.5,
       "mediaType": "movie"
     },
     {
@@ -312,6 +312,30 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/aXnmhBIdgZNxlJZDHIqkRwxHsGi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
       "releaseDate": "2026-07-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725228,
+      "type": "tmdb",
+      "title": "全城追缉",
+      "originalTitle": "全城追缉",
+      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-11",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725160,
+      "type": "tmdb",
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
       "rating": 0,
       "mediaType": "movie"
     }
