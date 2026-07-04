@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T16:31:28.164+08:00",
+  "last_updated": "2026-07-04T21:16:08.149+08:00",
   "tv": {
     "全网": [
       {
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "主角",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "家业",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -71,13 +71,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "云秀行",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
+        "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -157,13 +157,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "云秀行",
+        "title": "低智商犯罪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "低智商犯罪",
+        "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -243,7 +243,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "蜜语纪",
+        "title": "隐身的名字",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -287,13 +287,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "良陈美锦",
+        "title": "野狗骨头",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "野狗骨头",
+        "title": "良陈美锦",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,13 +315,7 @@
   "show": {
     "全网": [
       {
-        "title": "地球超新鲜 第2季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "食神·百厨大战",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,7 +327,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "地球超新鲜 第2季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "脱口秀和Ta的朋友们第3季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "食神·百厨大战",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,7 +357,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,19 +369,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "五十公里桃花坞 第6季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "奔跑吧14",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "说唱巅峰对决2026",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -419,13 +419,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "音你而来 第三季",
+        "title": "怦然心动20岁：冬季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "怦然心动20岁：冬季",
+        "title": "音你而来 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -445,6 +445,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "说唱巅峰对决2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "哈哈哈哈哈 第六季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -457,25 +463,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -519,7 +519,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -531,7 +531,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "五十公里桃花坞 第6季",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -581,6 +581,18 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "国医少年志 第三季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "花少的花花宇宙",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
@@ -593,19 +605,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "乘风2026 训练室全纪录",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "花少的花花宇宙",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "国医少年志 第三季",
+        "title": "快乐老家",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "快乐老家",
+        "title": "乘风2026 训练室全纪录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
