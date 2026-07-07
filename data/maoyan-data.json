@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07T17:34:25.133+08:00",
+  "last_updated": "2026-07-07T22:23:07.501+08:00",
   "tv": {
     "全网": [
       {
@@ -225,13 +225,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "白日提灯",
+        "title": "种墨园",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种墨园",
+        "title": "白日提灯",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,12 +315,6 @@
   "show": {
     "全网": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -357,19 +351,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
+        "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -431,7 +431,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天籁与少年",
+        "title": "我们的爸爸第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -525,13 +525,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,13 +563,13 @@
     ],
     "芒果TV": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
+        "title": "为爱闪耀的她",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
