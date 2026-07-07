@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-07T02:06:40.087+08:00",
+  "last_updated": "2026-07-08T01:54:20.711+08:00",
   "now_playing": [
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
     {
       "id": 1084244,
       "type": "tmdb",
@@ -22,7 +10,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.406,
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.683,
       "mediaType": "movie"
     },
     {
@@ -32,9 +32,9 @@
       "originalTitle": "Backrooms",
       "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.834,
+      "rating": 6.842,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.382,
+      "rating": 6.453,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.283,
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -67,10 +67,10 @@
       "title": "火遮眼",
       "originalTitle": "火遮眼",
       "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ftFM5P0ucyUwIEMs88oqxCpkzjf.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.77,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.98,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -94,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.262,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1318413,
-      "type": "tmdb",
-      "title": "诺曼底72小时",
-      "originalTitle": "Pressure",
-      "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-      "releaseDate": "2026-05-30",
-      "rating": 7.55,
+      "rating": 7.263,
       "mediaType": "movie"
     },
     {
@@ -122,15 +110,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 77,
+      "id": 1318413,
       "type": "tmdb",
-      "title": "记忆碎片",
-      "originalTitle": "Memento",
-      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 8.176,
+      "title": "诺曼底72小时",
+      "originalTitle": "Pressure",
+      "description": "聚焦诺曼底登陆前夕的紧张局势，围绕盟军远征军最高司令部首席气象学家詹姆斯·斯塔格上尉展开，他的职责是向盟军最高指挥官德怀特·戴维·艾森豪威尔通报决定成败的天气状况。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "releaseDate": "2026-05-30",
+      "rating": 7.541,
       "mediaType": "movie"
     },
     {
@@ -142,7 +130,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 3,
+      "rating": 1.75,
+      "mediaType": "movie"
+    },
+    {
+      "id": 77,
+      "type": "tmdb",
+      "title": "记忆碎片",
+      "originalTitle": "Memento",
+      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 8.176,
       "mediaType": "movie"
     },
     {
@@ -166,7 +166,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.474,
+      "rating": 6.47,
       "mediaType": "movie"
     },
     {
@@ -218,27 +218,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 271706,
+      "id": 1715534,
       "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.332,
+      "title": "惊夜有囍",
+      "originalTitle": "惊夜有囍",
+      "description": "法医沈南乔与保安队长王天谅调查“囍神阴魂”第一夜便撞见诡异一幕，红姑子的绣花鞋半悬在迷雾里，红灯笼无声飘过，仿佛在挑选下一位新娘。恐惧在村庄蔓延，一场尘封的旧债正被冤魂重新唤醒。越接近真相，红姑子的哭声越发清晰，而“囍神”似乎始终跟在南乔身后，冥婚的祭典正静静等她入场。直到那口红棺材再次打开，她才终于意识到，红姑子未必是鬼，而人，也未必是人。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mCyuPFb1WGmYbmcWqrj6alst39h.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/veHor6U96lqMNJVoZc5T2RKw3i5.jpg",
+      "releaseDate": "2026-06-16",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
-      "id": 1572830,
+      "id": 1563614,
       "type": "tmdb",
-      "title": "不成功穿越指南",
-      "originalTitle": "不成功穿越指南",
-      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
-      "releaseDate": "2026-07-02",
-      "rating": 6,
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -250,7 +250,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qRB396vOc9xcqUVFqFnl0qQlolU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
       "rating": 0,
       "mediaType": "movie"
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 0,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -276,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8qhiIL1HAq7ts1hybqGzodycQro.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 0,
+      "rating": 6,
       "mediaType": "movie"
     },
     {
