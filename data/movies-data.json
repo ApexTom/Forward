@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T01:54:20.711+08:00",
+  "last_updated": "2026-07-09T01:23:54.942+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.683,
+      "rating": 6.691,
       "mediaType": "movie"
     },
     {
@@ -32,9 +32,21 @@
       "originalTitle": "Backrooms",
       "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.842,
+      "rating": 6.837,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tN0iXjm7qbHnGG4WGrNOGqmTMDt.jpg",
+      "releaseDate": "2026-06-11",
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -46,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.453,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -56,21 +68,21 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
       "releaseDate": "2026-06-26",
       "rating": 6.2,
       "mediaType": "movie"
     },
     {
-      "id": 1280738,
+      "id": 1108427,
       "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9XwQphZxNJgGASfjL58mhIkJJpf.jpg",
-      "releaseDate": "2026-06-11",
-      "rating": 7.7,
+      "title": "海洋奇缘：启航",
+      "originalTitle": "Moana",
+      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.5,
       "mediaType": "movie"
     },
     {
@@ -82,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1368166,
-      "type": "tmdb",
-      "title": "家弑服务",
-      "originalTitle": "The Housemaid",
-      "description": "　　生活困顿的米莉，得到了一份在富豪夫妇妮娜和安德鲁家中做家政的工作。但这份看似理想的工作，很快便变得危机四伏。米莉发现，这个富足家庭光鲜亮丽的外表之下，隐藏着远比她想象中更为危险的秘密。她置身于一个充满阴谋与恐惧的环境中，而这个家庭的悲剧命运也随着交织着秘密、丑闻与权力游戏的风暴在逐渐展开。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tcK1gUmJY0GL9apwF9C3M2doQ3w.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 7.263,
+      "rating": 6.937,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.541,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -130,19 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 1.75,
-      "mediaType": "movie"
-    },
-    {
-      "id": 77,
-      "type": "tmdb",
-      "title": "记忆碎片",
-      "originalTitle": "Memento",
-      "description": "警方不予受理后，伦纳德·谢尔比执意追查强奸杀害妻子的凶手。然而，一种罕见且无法治愈的失忆症，使他踏上复仇之路难上加难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dy8gXxDdWILkR7f2N6fQGwFxgKl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 8.176,
+      "rating": 1.8,
       "mediaType": "movie"
     },
     {
@@ -166,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.47,
+      "rating": 6.466,
       "mediaType": "movie"
     },
     {
@@ -203,6 +191,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
       "releaseDate": "2026-06-26",
       "rating": 4.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1671541,
+      "type": "tmdb",
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8qhiIL1HAq7ts1hybqGzodycQro.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -256,27 +256,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1108427,
+      "id": 26466,
       "type": "tmdb",
-      "title": "海洋奇缘：启航",
-      "originalTitle": "Moana",
-      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1671541,
-      "type": "tmdb",
-      "title": "三国第一部：争洛阳",
-      "originalTitle": "三国第一部：争洛阳",
-      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8qhiIL1HAq7ts1hybqGzodycQro.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 6,
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -288,18 +276,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cpNzhT5sr4u7qfZVKEToBbZMyqy.jpg",
       "backdropPath": null,
       "releaseDate": "2026-07-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "　　将功夫与足球结合的峨眉队参加“至尊无敌杯”，本身不被看好的她们，在队长双双、前锋钰珑以及师叔公徐风的不懈努力下，重整旗鼓，在赛场上大放异彩....",
-      "posterPath": "https://image.tmdb.org/t/p/w500/hsh3FeGQDAOgISZeFRTovAvXKFI.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-11",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -328,26 +304,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1725160,
+      "id": 1305665,
       "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1725228,
-      "type": "tmdb",
-      "title": "全城追缉",
-      "originalTitle": "全城追缉",
-      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-11",
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "未来时空，三名中国航天员在返回地球的途中，遇到复杂情况与地面失去联系，万分危急时刻，收到了一条电子信号，而他们的命运将被这个信号里隐藏的一段神秘代码彻底改变。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "releaseDate": "2026-08-01",
       "rating": 0,
       "mediaType": "movie"
     }
