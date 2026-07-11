@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T01:42:58.793+08:00",
+  "last_updated": "2026-07-12T00:50:16.541+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.407,
+      "rating": 7.408,
       "mediaType": "movie"
     },
     {
@@ -46,19 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.388,
+      "rating": 7.516,
       "mediaType": "movie"
     },
     {
@@ -74,6 +62,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.377,
+      "mediaType": "movie"
+    },
+    {
       "id": 1081003,
       "type": "tmdb",
       "title": "超级少女",
@@ -82,19 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.224,
-      "mediaType": "movie"
-    },
-    {
-      "id": 454639,
-      "type": "tmdb",
-      "title": "宇宙巨人：希曼崛起",
-      "originalTitle": "Masters of the Universe",
-      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.911,
+      "rating": 6.232,
       "mediaType": "movie"
     },
     {
@@ -110,15 +98,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1353926,
+      "id": 454639,
       "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 1.8,
+      "title": "宇宙巨人：希曼崛起",
+      "originalTitle": "Masters of the Universe",
+      "description": "亚当（尼古拉斯·加利齐纳 饰）在神秘圣剑的召唤下，尘封十五年的异世界王子身份觉醒，平凡人生被彻底颠覆。他跨越时空重返埃坦尼亚，但故乡早已在骷髅王的统治下分崩离析。为拯救曾经的家园与现在的世界，亚当必须再次拔出圣剑，喊出那句响彻寰宇的咒语——“赐予我力量吧！我是希曼！”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -130,7 +118,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.5,
+      "rating": 7.541,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.8,
       "mediaType": "movie"
     },
     {
@@ -146,15 +146,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1319522,
+      "id": 1725160,
       "type": "tmdb",
-      "title": "心犬相随",
-      "originalTitle": "โกฮัง..หัวใจโกโฮม",
-      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "releaseDate": "2026-06-13",
-      "rating": 8.4,
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 239,
+      "type": "tmdb",
+      "title": "热情如火",
+      "originalTitle": "Some Like It Hot",
+      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "releaseDate": "2016-04-16",
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -170,18 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 239,
-      "type": "tmdb",
-      "title": "热情如火",
-      "originalTitle": "Some Like It Hot",
-      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "releaseDate": "2016-04-16",
-      "rating": 8.08,
-      "mediaType": "movie"
-    },
-    {
       "id": 1285965,
       "type": "tmdb",
       "title": "危险动物",
@@ -190,7 +190,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.467,
+      "rating": 6.469,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1319522,
+      "type": "tmdb",
+      "title": "心犬相随",
+      "originalTitle": "โกฮัง..หัวใจโกโฮม",
+      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
+      "releaseDate": "2026-06-13",
+      "rating": 8.4,
       "mediaType": "movie"
     },
     {
@@ -200,21 +212,9 @@
       "originalTitle": "三国第一部：争洛阳",
       "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
       "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8qhiIL1HAq7ts1hybqGzodycQro.jpg",
-      "releaseDate": "2026-07-10",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
       "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 271706,
-      "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.332,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
+      "id": 271706,
       "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tyasb9wityfavbU1DDmU48a5YKt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.332,
       "mediaType": "movie"
     }
   ],
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.919,
+      "rating": 6.918,
       "mediaType": "movie"
     },
     {
@@ -284,7 +284,7 @@
       "type": "tmdb",
       "title": "八仙！",
       "originalTitle": "八仙！",
-      "description": "沿海边的渔村连年遭遇蛟龙侵害。吕洞宾用计捉拿蛟龙，却三战三败，身受重伤。太上老君的弟子铁拐李下凡协助吕洞宾寻找能人异士组成屠龙小队。最终，八人齐心协力将蛟龙封印，挽救渔村。",
+      "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
       "posterPath": "https://image.tmdb.org/t/p/w500/aXnmhBIdgZNxlJZDHIqkRwxHsGi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
       "releaseDate": "2026-07-24",
