@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:50:16.541+08:00",
+  "last_updated": "2026-07-13T00:53:10.087+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.408,
+      "rating": 7.409,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.688,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.8,
+      "rating": 6.82,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.516,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.377,
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.232,
+      "rating": 6.226,
       "mediaType": "movie"
     },
     {
@@ -142,7 +142,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 6.977,
+      "rating": 6.979,
       "mediaType": "movie"
     },
     {
@@ -166,7 +166,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
       "releaseDate": "2016-04-16",
-      "rating": 8.1,
+      "rating": 8.078,
       "mediaType": "movie"
     },
     {
@@ -190,7 +190,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.469,
+      "rating": 6.468,
       "mediaType": "movie"
     },
     {
@@ -238,7 +238,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 7.332,
+      "rating": 7.333,
       "mediaType": "movie"
     }
   ],
