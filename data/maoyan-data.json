@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T02:59:39.668+08:00",
+  "last_updated": "2026-07-13T10:26:04.370+08:00",
   "tv": {
     "全网": [
       {
@@ -33,12 +33,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
@@ -58,6 +52,12 @@
       },
       {
         "title": "爱情有烟火",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,7 +175,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "低智商犯罪",
+        "title": "蜜语纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -231,7 +231,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "迷墙",
+        "title": "蜜语纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -243,7 +243,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "蜜语纪",
+        "title": "迷墙",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -263,13 +263,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -281,7 +281,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
+        "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,13 +293,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "你是迟来的欢喜",
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
+        "title": "海底小纵队 第十一季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,12 +315,6 @@
   "show": {
     "全网": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -333,25 +327,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "食神·百厨大战",
+        "title": "妻子的浪漫旅行2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -364,6 +358,12 @@
       },
       {
         "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,7 +563,13 @@
     ],
     "芒果TV": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "妻子的浪漫旅行2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,7 +581,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "妻子的浪漫旅行2026",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -587,7 +593,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,19 +611,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "国医少年志 第三季",
+        "title": "合伙人第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "密室大逃脱8 大神版",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "合伙人第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
