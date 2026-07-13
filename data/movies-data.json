@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T00:53:10.087+08:00",
+  "last_updated": "2026-07-14T01:50:29.846+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.409,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.82,
+      "rating": 6.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1108427,
+      "type": "tmdb",
+      "title": "海洋奇缘：启航",
+      "originalTitle": "Moana",
+      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.25,
       "mediaType": "movie"
     },
     {
@@ -50,18 +62,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1108427,
-      "type": "tmdb",
-      "title": "海洋奇缘：启航",
-      "originalTitle": "Moana",
-      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 5.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.3,
+      "rating": 6.359,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.226,
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.9,
+      "rating": 6.907,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vNHIJncQMkFsDdgzAbg1lcgPfyg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
       "releaseDate": "2026-05-30",
-      "rating": 7.541,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+      "releaseDate": "2026-07-11",
+      "rating": 5.2,
+      "mediaType": "movie"
+    },
+    {
       "id": 748783,
       "type": "tmdb",
       "title": "加菲猫家族",
@@ -142,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 6.979,
+      "rating": 6.978,
       "mediaType": "movie"
     },
     {
@@ -155,18 +167,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
       "releaseDate": "2026-07-12",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 239,
-      "type": "tmdb",
-      "title": "热情如火",
-      "originalTitle": "Some Like It Hot",
-      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "releaseDate": "2016-04-16",
-      "rating": 8.078,
       "mediaType": "movie"
     },
     {
@@ -190,7 +190,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.468,
+      "rating": 6.5,
       "mediaType": "movie"
     },
     {
@@ -203,6 +203,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "releaseDate": "2026-06-13",
       "rating": 8.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 239,
+      "type": "tmdb",
+      "title": "热情如火",
+      "originalTitle": "Some Like It Hot",
+      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "releaseDate": "2016-04-16",
+      "rating": 8.078,
       "mediaType": "movie"
     },
     {
@@ -228,21 +240,21 @@
       "releaseDate": "2026-06-16",
       "rating": 4,
       "mediaType": "movie"
-    },
-    {
-      "id": 271706,
-      "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.333,
-      "mediaType": "movie"
     }
   ],
   "upcoming": [
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 8.3,
+      "mediaType": "movie"
+    },
     {
       "id": 969681,
       "type": "tmdb",
@@ -292,6 +304,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1305665,
+      "type": "tmdb",
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "releaseDate": "2026-08-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1298718,
       "type": "tmdb",
       "title": "澎湖海战",
@@ -304,14 +328,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305665,
+      "id": 1730837,
       "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "未来时空，三名中国航天员在返回地球的途中，遇到复杂情况与地面失去联系，万分危急时刻，收到了一条电子信号，而他们的命运将被这个信号里隐藏的一段神秘代码彻底改变。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "releaseDate": "2026-08-01",
+      "title": "悟空大圣",
+      "originalTitle": "悟空大圣",
+      "description": "花果山仙石化猴，悟空为护族人远赴灵台方寸山学艺，得七十二变与筋斗云。因同门陷害触犯天条，天庭围剿花果山，家园残破。悟空夺金箍棒、毁生死簿，护佑族群。天庭招安封弼马温，悟空受辱自封齐天大圣;蟠桃盛会再遭排挤，遂大闹天宫。力挫巨灵神、哪吒，与二郎神斗法不分胜负，被太上老君投入八卦炉，反炼成火眼金睛。破炉后横扫凌霄宝殿，如来佛祖将其镇压五行山下。五百年后，悟空悟得本心，静待唐僧解救，终将踏上从妖王到大圣的蜕变之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "mediaType": "movie"
     }
