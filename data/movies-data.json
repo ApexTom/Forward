@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T01:50:29.846+08:00",
+  "last_updated": "2026-07-15T01:08:02.371+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -7,10 +7,10 @@
       "title": "玩具总动员5",
       "originalTitle": "Toy Story 5",
       "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.4,
+      "rating": 7.422,
       "mediaType": "movie"
     },
     {
@@ -22,19 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.8,
+      "rating": 6.687,
       "mediaType": "movie"
     },
     {
@@ -46,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.25,
+      "rating": 5.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.864,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.5,
+      "rating": 7.514,
       "mediaType": "movie"
     },
     {
@@ -68,21 +68,9 @@
       "originalTitle": "Minions & Monsters",
       "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.359,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1081003,
-      "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.3,
+      "rating": 6.344,
       "mediaType": "movie"
     },
     {
@@ -98,6 +86,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1081003,
+      "type": "tmdb",
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.232,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+      "releaseDate": "2026-07-11",
+      "rating": 5.2,
+      "mediaType": "movie"
+    },
+    {
       "id": 454639,
       "type": "tmdb",
       "title": "宇宙巨人：希曼崛起",
@@ -106,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ijjRROhfvpO5TYFRM8jII64yTDS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 6.907,
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -134,18 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
-      "releaseDate": "2026-07-11",
-      "rating": 5.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 748783,
       "type": "tmdb",
       "title": "加菲猫家族",
@@ -154,19 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yjEg7eyREo2OfXcCFYM8NikgeT9.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/P82NAcEsLIYgQtrtn36tYsj41m.jpg",
       "releaseDate": "2024-06-01",
-      "rating": 6.978,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1725160,
-      "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
-      "rating": 0,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -182,15 +170,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1285965,
+      "id": 239,
       "type": "tmdb",
-      "title": "危险动物",
-      "originalTitle": "Dangerous Animals",
-      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.5,
+      "title": "热情如火",
+      "originalTitle": "Some Like It Hot",
+      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "releaseDate": "2016-04-16",
+      "rating": 8.079,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725160,
+      "type": "tmdb",
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -202,19 +202,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "releaseDate": "2026-06-13",
-      "rating": 8.4,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
-      "id": 239,
+      "id": 1285965,
       "type": "tmdb",
-      "title": "热情如火",
-      "originalTitle": "Some Like It Hot",
-      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "releaseDate": "2016-04-16",
-      "rating": 8.078,
+      "title": "危险动物",
+      "originalTitle": "Dangerous Animals",
+      "description": "一个沉迷于鲨鱼的连环杀手绑架了一个无忧无虑的冲浪者，绑在自己的船里，要举行一个仪式把她喂鲨鱼。她的新男友发现恋人失踪，前来寻找，却也被这个疯癫的杀手所擒……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6bowIEkm1nPs6ZfASLdL4XHv8o1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/i5kvIf73Vrxu4lYF6rby0yw4FX2.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.476,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1715534,
+      "id": 1572830,
       "type": "tmdb",
-      "title": "惊夜有囍",
-      "originalTitle": "惊夜有囍",
-      "description": "法医沈南乔与保安队长王天谅调查“囍神阴魂”第一夜便撞见诡异一幕，红姑子的绣花鞋半悬在迷雾里，红灯笼无声飘过，仿佛在挑选下一位新娘。恐惧在村庄蔓延，一场尘封的旧债正被冤魂重新唤醒。越接近真相，红姑子的哭声越发清晰，而“囍神”似乎始终跟在南乔身后，冥婚的祭典正静静等她入场。直到那口红棺材再次打开，她才终于意识到，红姑子未必是鬼，而人，也未必是人。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mCyuPFb1WGmYbmcWqrj6alst39h.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/veHor6U96lqMNJVoZc5T2RKw3i5.jpg",
-      "releaseDate": "2026-06-16",
-      "rating": 4,
+      "title": "不成功穿越指南",
+      "originalTitle": "不成功穿越指南",
+      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "releaseDate": "2026-07-02",
+      "rating": 6,
       "mediaType": "movie"
     }
   ],
@@ -250,9 +250,9 @@
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.3,
+      "rating": 8.264,
       "mediaType": "movie"
     },
     {
@@ -297,10 +297,10 @@
       "title": "八仙！",
       "originalTitle": "八仙！",
       "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aXnmhBIdgZNxlJZDHIqkRwxHsGi.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
+      "releaseDate": "2026-07-14",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
