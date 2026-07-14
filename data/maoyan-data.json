@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T15:56:15.546+08:00",
+  "last_updated": "2026-07-14T21:27:57.566+08:00",
   "tv": {
     "全网": [
       {
@@ -21,6 +21,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "小芳",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "千香",
         "description": "暂无简介",
         "type": "maoyan",
@@ -33,7 +39,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "小芳",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -45,19 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "南部档案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -145,13 +145,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "南部档案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "南部档案",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -181,7 +181,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "蜜语纪",
+        "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -219,13 +219,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "主角",
+        "title": "九个弹孔",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "九个弹孔",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -275,13 +275,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "良陈美锦",
+        "title": "海底小纵队 第十一季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
+        "title": "良陈美锦",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,12 +315,6 @@
   "show": {
     "全网": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -333,19 +327,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,25 +345,11 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
-      {
-        "title": "姐姐当家第二季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      }
-    ],
-    "优酷": [
       {
         "title": "这是我的西游2",
         "description": "暂无简介",
@@ -383,7 +357,33 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "五十公里桃花坞 第6季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      }
+    ],
+    "优酷": [
+      {
         "title": "奔跑吧14",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -439,13 +439,13 @@
     ],
     "爱奇艺": [
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -519,13 +519,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -549,13 +549,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奋斗吧人生-演员篇",
+        "title": "魔力歌先生",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "魔力歌先生",
+        "title": "奋斗吧人生-演员篇",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,19 +563,31 @@
     ],
     "芒果TV": [
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
+        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "大庸青春芒果演唱会",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "歌手2026 直拍REACTION",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "歌手2026 竖屏直拍版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,25 +605,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 竖屏直拍版",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "歌手2026 直拍REACTION",
+        "title": "乘风2026 训练室全纪录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "合伙人第二季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱8 大神版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
