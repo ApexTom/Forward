@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T01:11:07.439+08:00",
+  "last_updated": "2026-07-17T01:09:01.096+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.428,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.693,
+      "rating": 7.403,
       "mediaType": "movie"
     },
     {
@@ -34,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.6,
+      "rating": 5.574,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.9,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -58,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.445,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.353,
+      "rating": 7.431,
       "mediaType": "movie"
     },
     {
@@ -82,7 +70,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 5.2,
+      "rating": 4.571,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.226,
+      "rating": 6.206,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.9,
+      "rating": 6.919,
       "mediaType": "movie"
     },
     {
@@ -158,18 +158,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 239,
-      "type": "tmdb",
-      "title": "热情如火",
-      "originalTitle": "Some Like It Hot",
-      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "releaseDate": "2016-04-16",
-      "rating": 8.079,
-      "mediaType": "movie"
-    },
-    {
       "id": 1725160,
       "type": "tmdb",
       "title": "2035",
@@ -179,6 +167,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
       "releaseDate": "2026-07-12",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 239,
+      "type": "tmdb",
+      "title": "热情如火",
+      "originalTitle": "Some Like It Hot",
+      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "releaseDate": "2016-04-16",
+      "rating": 8.078,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.255,
+      "rating": 8.248,
       "mediaType": "movie"
     },
     {
