@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17T01:09:01.096+08:00",
+  "last_updated": "2026-07-18T01:06:13.561+08:00",
   "now_playing": [
     {
       "id": 1084244,
@@ -10,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.403,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1108427,
-      "type": "tmdb",
-      "title": "海洋奇缘：启航",
-      "originalTitle": "Moana",
-      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 5.574,
+      "rating": 7.416,
       "mediaType": "movie"
     },
     {
@@ -34,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "rating": 6.69,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1108427,
+      "type": "tmdb",
+      "title": "海洋奇缘：启航",
+      "originalTitle": "Moana",
+      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.823,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7,
+      "rating": 7.01,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-11",
-      "rating": 7.431,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 4.571,
+      "rating": 5.25,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.206,
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -202,7 +202,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
       "releaseDate": "2016-07-08",
-      "rating": 7.333,
+      "rating": 7.33,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.248,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -304,18 +304,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305665,
-      "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "releaseDate": "2026-08-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1298718,
       "type": "tmdb",
       "title": "澎湖海战",
@@ -324,6 +312,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
       "backdropPath": null,
       "releaseDate": "2026-07-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1305665,
+      "type": "tmdb",
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bIW36DKMEePdqpPeF6GlmtRaMiN.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "releaseDate": "2026-08-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -348,6 +348,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
       "backdropPath": null,
       "releaseDate": "2026-07-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "releaseDate": "2026-08-01",
       "rating": 0,
       "mediaType": "movie"
     }
