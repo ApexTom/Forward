@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T21:05:23.788+08:00",
+  "last_updated": "2026-07-19T02:57:31.745+08:00",
   "tv": {
     "全网": [
       {
@@ -327,12 +327,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -345,13 +339,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "五十公里桃花坞 第6季",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "说唱巅峰对决2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -369,7 +369,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -451,13 +451,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -475,13 +475,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "哈哈哈哈哈 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "哈哈哈哈哈 第六季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,13 +563,13 @@
     ],
     "芒果TV": [
       {
-        "title": "中餐厅·南洋拾光季",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,25 +599,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "妻子的浪漫旅行2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "随心所育：母亲节篇",
+        "title": "妻子的浪漫旅行2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "密室大逃脱8 大神版",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "合伙人第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
