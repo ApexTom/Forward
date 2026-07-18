@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-07-18T01:06:13.561+08:00",
+  "last_updated": "2026-07-19T00:50:46.351+08:00",
   "now_playing": [
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.416,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.69,
-      "mediaType": "movie"
-    },
     {
       "id": 1108427,
       "type": "tmdb",
@@ -34,7 +10,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9BnjnrfoZbeNjwXICd8Sax8zKeH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.823,
+      "rating": 5.782,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.413,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.687,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.01,
+      "rating": 7.023,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1081003,
+      "type": "tmdb",
+      "title": "超级少女",
+      "originalTitle": "Supergirl",
+      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.196,
       "mediaType": "movie"
     },
     {
@@ -62,18 +74,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
-      "releaseDate": "2026-07-11",
-      "rating": 5.25,
-      "mediaType": "movie"
-    },
-    {
       "id": 1315772,
       "type": "tmdb",
       "title": "小黄人与大怪兽",
@@ -82,7 +82,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.4,
+      "rating": 6.379,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+      "releaseDate": "2026-07-11",
+      "rating": 5.9,
       "mediaType": "movie"
     },
     {
@@ -94,18 +106,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1081003,
-      "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-      "releaseDate": "2026-06-26",
       "rating": 6.2,
       "mediaType": "movie"
     },
@@ -134,18 +134,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1604133,
-      "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5.25,
-      "mediaType": "movie"
-    },
-    {
       "id": 1671541,
       "type": "tmdb",
       "title": "三国第一部：争洛阳",
@@ -158,15 +146,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1725160,
+      "id": 1604133,
       "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
-      "rating": 0,
+      "title": "四渡",
+      "originalTitle": "四渡",
+      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.25,
       "mediaType": "movie"
     },
     {
@@ -194,15 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 271706,
+      "id": 1725160,
       "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.33,
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -230,15 +218,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1715534,
+      "id": 271706,
       "type": "tmdb",
-      "title": "惊夜有囍",
-      "originalTitle": "惊夜有囍",
-      "description": "法医沈南乔与保安队长王天谅调查“囍神阴魂”第一夜便撞见诡异一幕，红姑子的绣花鞋半悬在迷雾里，红灯笼无声飘过，仿佛在挑选下一位新娘。恐惧在村庄蔓延，一场尘封的旧债正被冤魂重新唤醒。越接近真相，红姑子的哭声越发清晰，而“囍神”似乎始终跟在南乔身后，冥婚的祭典正静静等她入场。直到那口红棺材再次打开，她才终于意识到，红姑子未必是鬼，而人，也未必是人。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mCyuPFb1WGmYbmcWqrj6alst39h.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/veHor6U96lqMNJVoZc5T2RKw3i5.jpg",
-      "releaseDate": "2026-06-16",
-      "rating": 4,
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.33,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 8.5,
       "mediaType": "movie"
     }
   ],
@@ -250,9 +250,9 @@
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.2,
+      "rating": 8.247,
       "mediaType": "movie"
     },
     {
@@ -304,18 +304,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1298718,
-      "type": "tmdb",
-      "title": "澎湖海战",
-      "originalTitle": "澎湖海战",
-      "description": "康𤋮二十二年（公元1683年），康熙皇帝为阻止台湾郑氏悍然独立的企图，派出福建水师提督施琅领兵收台。一支朝廷先遣队付出了惨烈的代价， 诱使郑氏水军中计。施琅率水师大军奇袭攻入澎湖，歼灭郑军主力，最终统一了台湾。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1305665,
       "type": "tmdb",
       "title": "群星闪耀时",
@@ -328,14 +316,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1630030,
+      "id": 1298718,
       "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "releaseDate": "2026-08-08",
+      "title": "澎湖海战",
+      "originalTitle": "澎湖海战",
+      "description": "康𤋮二十二年（公元1683年），康熙皇帝为阻止台湾郑氏悍然独立的企图，派出福建水师提督施琅领兵收台。一支朝廷先遣队付出了惨烈的代价， 诱使郑氏水军中计。施琅率水师大军奇袭攻入澎湖，歼灭郑军主力，最终统一了台湾。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -348,6 +336,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
       "backdropPath": null,
       "releaseDate": "2026-07-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1630030,
+      "type": "tmdb",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
       "rating": 0,
       "mediaType": "movie"
     },
