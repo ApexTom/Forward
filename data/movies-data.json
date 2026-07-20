@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-20T00:51:45.147+08:00",
+  "last_updated": "2026-07-21T01:54:47.574+08:00",
   "now_playing": [
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "mediaType": "movie"
-    },
     {
       "id": 1108427,
       "type": "tmdb",
@@ -22,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.853,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.434,
+      "rating": 5.788,
       "mediaType": "movie"
     },
     {
@@ -46,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.042,
+      "rating": 7.046,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1275779,
+      "type": "tmdb",
+      "title": "揭秘日",
+      "originalTitle": "Disclosure Day",
+      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.69,
       "mediaType": "movie"
     },
     {
@@ -55,22 +43,22 @@
       "title": "玩具总动员5",
       "originalTitle": "Toy Story 5",
       "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jCsZCz3IOVwKnEpN7GmHzA8fjx3.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.434,
+      "rating": 7.421,
       "mediaType": "movie"
     },
     {
-      "id": 1280738,
+      "id": 1315772,
       "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-      "releaseDate": "2026-06-11",
-      "rating": 7.4,
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.453,
       "mediaType": "movie"
     },
     {
@@ -82,7 +70,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.2,
+      "rating": 6.157,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1280738,
+      "type": "tmdb",
+      "title": "火遮眼",
+      "originalTitle": "火遮眼",
+      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+      "releaseDate": "2026-06-11",
+      "rating": 7.426,
       "mediaType": "movie"
     },
     {
@@ -142,19 +142,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1319522,
-      "type": "tmdb",
-      "title": "心犬相随",
-      "originalTitle": "โกฮัง..หัวใจโกโฮม",
-      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "releaseDate": "2026-06-13",
-      "rating": 7.1,
+      "rating": 6.916,
       "mediaType": "movie"
     },
     {
@@ -166,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8.25,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -182,15 +170,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1713529,
+      "id": 1319522,
       "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7,
+      "title": "心犬相随",
+      "originalTitle": "โกฮัง..หัวใจโกโฮม",
+      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
+      "releaseDate": "2026-06-13",
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -206,6 +194,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1713529,
+      "type": "tmdb",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1572830,
+      "type": "tmdb",
+      "title": "不成功穿越指南",
+      "originalTitle": "不成功穿越指南",
+      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "releaseDate": "2026-07-02",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
       "id": 1698965,
       "type": "tmdb",
       "title": "我的爱人",
@@ -218,26 +230,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1725160,
+      "id": 1655500,
       "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1725228,
-      "type": "tmdb",
-      "title": "全城追缉",
-      "originalTitle": "全城追缉",
-      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/aVtR5KcWGGzsOY2v7NaRcsWKmWG.jpg",
-      "releaseDate": "2026-07-11",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
     }
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.253,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -262,7 +262,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
       "releaseDate": "2026-07-29",
       "rating": 0,
       "mediaType": "movie"
@@ -276,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/w6XQKIIC7CJ7mzm7FtX6Mc19ymc.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.101,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -292,18 +292,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305665,
-      "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bIW36DKMEePdqpPeF6GlmtRaMiN.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "releaseDate": "2026-08-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1541125,
       "type": "tmdb",
       "title": "年会不能停2！",
@@ -312,6 +300,30 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/pdbAvZcPoB293uzACGBXtAkdYz2.jpg",
       "backdropPath": null,
       "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1305665,
+      "type": "tmdb",
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1298718,
+      "type": "tmdb",
+      "title": "澎湖海战",
+      "originalTitle": "澎湖海战",
+      "description": "康𤋮二十二年（公元1683年），康熙皇帝为阻止台湾郑氏悍然独立的企图，派出福建水师提督施琅领兵收台。一支朝廷先遣队付出了惨烈的代价， 诱使郑氏水军中计。施琅率水师大军奇袭攻入澎湖，歼灭郑军主力，最终统一了台湾。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-07-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -336,18 +348,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
       "backdropPath": null,
       "releaseDate": "2026-07-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1298718,
-      "type": "tmdb",
-      "title": "澎湖海战",
-      "originalTitle": "澎湖海战",
-      "description": "康𤋮二十二年（公元1683年），康熙皇帝为阻止台湾郑氏悍然独立的企图，派出福建水师提督施琅领兵收台。一支朝廷先遣队付出了惨烈的代价， 诱使郑氏水军中计。施琅率水师大军奇袭攻入澎湖，歼灭郑军主力，最终统一了台湾。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-25",
       "rating": 0,
       "mediaType": "movie"
     },
