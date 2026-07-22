@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T01:10:43.471+08:00",
+  "last_updated": "2026-07-23T01:10:38.956+08:00",
   "now_playing": [
     {
       "id": 1108427,
@@ -10,7 +10,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.7,
+      "rating": 5.727,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 8.247,
       "mediaType": "movie"
     },
     {
@@ -22,43 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.076,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1275779,
-      "type": "tmdb",
-      "title": "揭秘日",
-      "originalTitle": "Disclosure Day",
-      "description": "如果有人告诉你，我们并非宇宙中唯一的智慧生命，并且向你展示、证明了这一点，你会感到恐惧吗？今年夏天，真相将属于七十亿人。我们正一步步接近……揭秘日。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mVjtYjFiSKFsdsKpb2e8fi6vMY3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.689,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.427,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.406,
+      "rating": 7.084,
       "mediaType": "movie"
     },
     {
@@ -70,19 +46,43 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.1,
+      "rating": 6.139,
       "mediaType": "movie"
     },
     {
-      "id": 1280738,
+      "id": 1315772,
       "type": "tmdb",
-      "title": "火遮眼",
-      "originalTitle": "火遮眼",
-      "description": "女儿在街头被拐走，店主（谢苗 饰）探寻一个复杂的犯罪网络，不择手段将女儿救回来。他唯一的盟友是一名记者（乔•塔斯利姆 饰）。这两个来自不同背景的人物必须学会相互信任、合作，运用自己不为人知的过去所赋予的格斗技能。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/k334z7zxOJlJvOsOwyRF6HClCvi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-      "releaseDate": "2026-06-11",
-      "rating": 7.4,
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.37,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1084244,
+      "type": "tmdb",
+      "title": "玩具总动员5",
+      "originalTitle": "Toy Story 5",
+      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.415,
+      "mediaType": "movie"
+    },
+    {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jWryKnKZQUx1enk6dtHBDs8xQLZ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -182,18 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 239,
-      "type": "tmdb",
-      "title": "热情如火",
-      "originalTitle": "Some Like It Hot",
-      "description": "作为影史最受喜爱的电影之一，比利·怀尔德这部炙手可热的杰作为好莱坞喜剧树立了新标杆。芝加哥乐手乔与杰瑞（托尼·柯蒂斯与杰克·莱蒙贡献了里程碑式的表演）目睹一场黑帮屠杀后，男扮女装混入一支前往迈阿密的女子乐队仓皇逃逸。乐队主唱“蜜糖”凯恩（玛丽莲·梦露正值其致命魅力的巅峰）的魅力使他们陷入越来越夸张的谎言漩涡：乔伪装成百万富翁追求她，而杰瑞的女性身份竟与一位亿万富翁订下婚约。凭借怀尔德与I·A·L·戴蒙德精心打磨的犀利剧本，以及演员间精准碰撞的化学反应，本片至今仍保持着数十年前首次震撼观众时那种令人陶醉的诙谐与鲜活。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qp2DvLfyL45P1GAPOeBEGszRvoO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "releaseDate": "2016-04-16",
-      "rating": 8.076,
-      "mediaType": "movie"
-    },
-    {
       "id": 1713529,
       "type": "tmdb",
       "title": "想你了",
@@ -218,18 +206,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1698965,
-      "type": "tmdb",
-      "title": "我的爱人",
-      "originalTitle": "我的爱人",
-      "description": "　　富家女袁心仪与穷小子梁景天相许于中学，相恋于大学，大学毕业之际，梁景天为得袁家认可留在大城市打拼，袁心仪不顾家庭反对选择追随，两人在袁家断供下过起“有情饮水饱”的日子，而爱情也随着消磨渐渐褪色。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lt7NLcC69w2TW24Tqq9CRwB89b5.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1655500,
       "type": "tmdb",
       "title": "床下有人4",
@@ -240,19 +216,43 @@
       "releaseDate": "2026-06-19",
       "rating": 0,
       "mediaType": "movie"
+    },
+    {
+      "id": 1719063,
+      "type": "tmdb",
+      "title": "续范亭将军",
+      "originalTitle": "续范亭将军",
+      "description": "1935年，时任新一军中将总参议的续范亭在南京面谏蒋介石无果，在中山陵剖腹明志，欲以此唤醒国人一致抗日;获救后，在张学良、杨虎城的邀请下回到西安。在兵谏蒋介石的过程中，他再一次看清了国民党政府中的尔虞我诈，在周恩来等人的建议下，他回到山西积极投入抗日统一战线的工作，先后在战动总会、暂编第一师、晋西北行署等组织中与八路军共同战斗，逐渐对中国共产党有了深刻认识·续范亭因病前往延安治疗,与毛泽东建立了深厚友情，并坚定地认识到只有中国共产党可以救中国。他开始以笔为枪，击蒋介石、阎锡山等人。1947年，54岁的续范亭在转移途中于山西临县都督村病逝，临终留下遗言请求加入中国共产党。次日，他被中共中央追认为中共党员。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7LtTNZESbqslhW2NYnPWhCXwkHx.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/aIw6vgmmJAWviFZ1DqnajqmmRfg.jpg",
+      "releaseDate": "2026-06-28",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725160,
+      "type": "tmdb",
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
+      "rating": 0,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
     {
-      "id": 1339713,
+      "id": 1368337,
       "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 8.249,
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 7.904,
       "mediaType": "movie"
     },
     {
@@ -262,8 +262,20 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1101383,
+      "type": "tmdb",
+      "title": "逃出绝命街",
+      "originalTitle": "The End of Oak Street",
+      "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -277,6 +289,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/w6XQKIIC7CJ7mzm7FtX6Mc19ymc.jpg",
       "releaseDate": "2026-08-07",
       "rating": 8.1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 823219,
+      "type": "tmdb",
+      "title": "猫猫的奇幻漂流",
+      "originalTitle": "Straume",
+      "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "releaseDate": "2025-02-28",
+      "rating": 8.076,
       "mediaType": "movie"
     },
     {
@@ -304,26 +328,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305665,
+      "id": 1716541,
       "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gYsNMAx46IwYtNdeIm4XM6xWZ52.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 6.5,
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1298718,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "澎湖海战",
-      "originalTitle": "澎湖海战",
-      "description": "康𤋮二十二年（公元1683年），康熙皇帝为阻止台湾郑氏悍然独立的企图，派出福建水师提督施琅领兵收台。一支朝廷先遣队付出了惨烈的代价， 诱使郑氏水军中计。施琅率水师大军奇袭攻入澎湖，歼灭郑军主力，最终统一了台湾。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ygfH6imHlC8RRXE5GXLSY8Juf17.jpg",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。\r 　　影片改编自番大王的同名网络小说。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-07-25",
+      "releaseDate": "2026-08-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1609560,
+      "type": "tmdb",
+      "title": "偷偷藏不住",
+      "originalTitle": "偷偷藏不住",
+      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
+      "releaseDate": "2026-08-19",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -340,18 +376,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1730837,
-      "type": "tmdb",
-      "title": "悟空大圣",
-      "originalTitle": "悟空大圣",
-      "description": "花果山仙石化猴，悟空为护族人远赴灵台方寸山学艺，得七十二变与筋斗云。因同门陷害触犯天条，天庭围剿花果山，家园残破。悟空夺金箍棒、毁生死簿，护佑族群。天庭招安封弼马温，悟空受辱自封齐天大圣;蟠桃盛会再遭排挤，遂大闹天宫。力挫巨灵神、哪吒，与二郎神斗法不分胜负，被太上老君投入八卦炉，反炼成火眼金睛。破炉后横扫凌霄宝殿，如来佛祖将其镇压五行山下。五百年后，悟空悟得本心，静待唐僧解救，终将踏上从妖王到大圣的蜕变之路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xHyEhkKZRmaa36EWJFUPBkIsHfm.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1670314,
       "type": "tmdb",
       "title": "红孩儿火焰山之王",
@@ -360,6 +384,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
       "releaseDate": "2026-08-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1708565,
+      "type": "tmdb",
+      "title": "那山那水",
+      "originalTitle": "那山那水",
+      "description": "影片以“两山”理念的发展为主线，深度聚焦其践行地—浙江，集中呈现了“两山”理念提出二十年来，浙江在习近平生态文明思想的指引下取得的显著成就，更完整追溯了这一理念从浙江实践到辐射全国、走向世界的生动历程，深刻阐释了生态文明建设的中国智慧与方案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-06-05",
       "rating": 0,
       "mediaType": "movie"
     }
