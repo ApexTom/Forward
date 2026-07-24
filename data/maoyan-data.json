@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T21:27:46.081+08:00",
+  "last_updated": "2026-07-25T03:18:36.446+08:00",
   "tv": {
     "全网": [
       {
@@ -263,12 +263,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
@@ -276,6 +270,12 @@
       },
       {
         "title": "炽夏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "海底小纵队 第十一季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -327,13 +327,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "食神·百厨大战",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,13 +357,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "五十公里桃花坞 第6季",
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
