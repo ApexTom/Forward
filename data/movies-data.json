@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T01:24:08.169+08:00",
+  "last_updated": "2026-07-26T00:51:09.350+08:00",
   "now_playing": [
     {
       "id": 1108427,
@@ -8,9 +8,21 @@
       "originalTitle": "Moana",
       "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
       "rating": 5.9,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1339713,
+      "type": "tmdb",
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 8.242,
       "mediaType": "movie"
     },
     {
@@ -26,15 +38,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1339713,
+      "id": 1315772,
       "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 8.2,
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.399,
       "mediaType": "movie"
     },
     {
@@ -46,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.144,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.409,
+      "rating": 6.145,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.418,
+      "rating": 7.423,
       "mediaType": "movie"
     },
     {
@@ -79,10 +79,10 @@
       "title": "蜘蛛侠：崭新之日",
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 9.188,
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -154,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8,
+      "rating": 8.143,
       "mediaType": "movie"
     },
     {
@@ -167,6 +167,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
       "releaseDate": "2026-07-25",
       "rating": 3.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1499071,
+      "type": "tmdb",
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -194,18 +206,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 271706,
-      "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.33,
-      "mediaType": "movie"
-    },
-    {
       "id": 1713529,
       "type": "tmdb",
       "title": "想你了",
@@ -215,6 +215,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
       "releaseDate": "2026-07-17",
       "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 271706,
+      "type": "tmdb",
+      "title": "大鱼海棠",
+      "originalTitle": "大鱼海棠",
+      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
+      "releaseDate": "2016-07-08",
+      "rating": 7.33,
       "mediaType": "movie"
     },
     {
@@ -228,18 +240,6 @@
       "releaseDate": "2026-07-02",
       "rating": 6,
       "mediaType": "movie"
-    },
-    {
-      "id": 1725160,
-      "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
-      "rating": 0,
-      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -251,8 +251,8 @@
       "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 8,
+      "releaseDate": "2026-08-01",
+      "rating": 7.952,
       "mediaType": "movie"
     },
     {
@@ -261,22 +261,10 @@
       "title": "蜘蛛侠：崭新之日",
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 8.944,
-      "mediaType": "movie"
-    },
-    {
-      "id": 823219,
-      "type": "tmdb",
-      "title": "猫猫的奇幻漂流",
-      "originalTitle": "Straume",
-      "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
-      "releaseDate": "2025-02-28",
-      "rating": 8.075,
+      "rating": 8.955,
       "mediaType": "movie"
     },
     {
@@ -289,6 +277,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 823219,
+      "type": "tmdb",
+      "title": "猫猫的奇幻漂流",
+      "originalTitle": "Straume",
+      "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "releaseDate": "2025-02-28",
+      "rating": 8.075,
       "mediaType": "movie"
     },
     {
