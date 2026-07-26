@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T00:51:09.350+08:00",
+  "last_updated": "2026-07-27T00:52:17.566+08:00",
   "now_playing": [
     {
       "id": 1108427,
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.242,
+      "rating": 8.246,
       "mediaType": "movie"
     },
     {
@@ -34,19 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.087,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1315772,
-      "type": "tmdb",
-      "title": "小黄人与大怪兽",
-      "originalTitle": "Minions & Monsters",
-      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.399,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -56,9 +44,9 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/wj1CsxIx5Y7a2jFuW7p5MqVJoTx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.145,
+      "rating": 6.152,
       "mediaType": "movie"
     },
     {
@@ -70,7 +58,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.423,
+      "rating": 7.418,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1315772,
+      "type": "tmdb",
+      "title": "小黄人与大怪兽",
+      "originalTitle": "Minions & Monsters",
+      "description": "为了拍摄心中理想的怪兽电影，这群萌趣活宝四处物色演员，竟然真的集齐了各式怪兽，上演疯狂大乱斗！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.407,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 6.3,
+      "rating": 6.267,
       "mediaType": "movie"
     },
     {
@@ -110,18 +110,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1353926,
-      "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 1.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 26466,
       "type": "tmdb",
       "title": "恐怖游轮",
@@ -130,7 +118,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.916,
+      "rating": 6.917,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 8.182,
       "mediaType": "movie"
     },
     {
@@ -146,27 +146,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1633056,
+      "id": 1353926,
       "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "《八仙！》是一部神仙喜剧动画电影，以中国传统神话“八仙过海”为灵感原点进行创作。故事围绕八个出身草根的凡人展开，他们面对强大的反派神仙，凭借机智与民间智慧巧妙周旋，最终战胜强敌，被世人赞颂为“八仙”。影片由编剧、导演牟正洋打造，着眼于让经典角色与当代观众产生共鸣，在冒险故事中流露东方哲学中关于友谊、成长、理想与坚守的主题。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/w7NfZCUnLFmM8n4r2ndi0WJ5oBF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2Gg8Lq8v5taBBR1JrDuhviNUjSB.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 8.143,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 3.5,
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.8,
       "mediaType": "movie"
     },
     {
@@ -175,10 +163,10 @@
       "title": "寒战1994",
       "originalTitle": "寒戰1994",
       "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/digyHMNMAljJZnCm6GSuWcOo4fw.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iHNvFpSBAHHRuJ1QlP2bGcINps0.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.3,
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -191,6 +179,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
       "releaseDate": "2026-06-26",
       "rating": 5.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 3.5,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.952,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 8.955,
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -340,18 +340,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1609560,
-      "type": "tmdb",
-      "title": "偷偷藏不住",
-      "originalTitle": "偷偷藏不住",
-      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -359,6 +347,18 @@
       "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。\r 　　影片改编自番大王的同名网络小说。",
       "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
       "backdropPath": null,
+      "releaseDate": "2026-08-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1609560,
+      "type": "tmdb",
+      "title": "偷偷藏不住",
+      "originalTitle": "偷偷藏不住",
+      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
       "releaseDate": "2026-08-19",
       "rating": 0,
       "mediaType": "movie"
