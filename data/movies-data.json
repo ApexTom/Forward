@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T01:37:41.437+08:00",
+  "last_updated": "2026-07-29T01:21:54.392+08:00",
   "now_playing": [
     {
       "id": 1108427,
@@ -10,19 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.883,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1339713,
-      "type": "tmdb",
-      "title": "痴迷",
-      "originalTitle": "Obsession",
-      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 8.253,
+      "rating": 5.9,
       "mediaType": "movie"
     },
     {
@@ -32,21 +20,21 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.3,
+      "rating": 6.563,
       "mediaType": "movie"
     },
     {
-      "id": 1083381,
+      "id": 1339713,
       "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 7.073,
+      "title": "痴迷",
+      "originalTitle": "Obsession",
+      "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 8.252,
       "mediaType": "movie"
     },
     {
@@ -58,7 +46,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.418,
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1083381,
+      "type": "tmdb",
+      "title": "后室",
+      "originalTitle": "Backrooms",
+      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 7.071,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.428,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -80,9 +80,9 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 9.1,
+      "rating": 8.175,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 6.267,
+      "rating": 5.938,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8.2,
+      "rating": 8.333,
       "mediaType": "movie"
     },
     {
@@ -158,6 +158,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 3.5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -179,18 +191,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
       "releaseDate": "2026-06-26",
       "rating": 5.4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rlREba6gEHwcIyxvZLrUebJjxsI.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 3.5,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.962,
+      "rating": 7.973,
       "mediaType": "movie"
     },
     {
@@ -261,10 +261,10 @@
       "title": "蜘蛛侠：崭新之日",
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 9.1,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -298,9 +298,9 @@
       "originalTitle": "Kill Bill: The Whole Bloody Affair",
       "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
       "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/w6XQKIIC7CJ7mzm7FtX6Mc19ymc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.108,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
