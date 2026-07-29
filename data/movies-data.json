@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-29T01:21:54.392+08:00",
+  "last_updated": "2026-07-30T01:09:10.765+08:00",
   "now_playing": [
     {
-      "id": 1108427,
+      "id": 1368337,
       "type": "tmdb",
-      "title": "海洋奇缘：启航",
-      "originalTitle": "Moana",
-      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 5.9,
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+      "releaseDate": "2026-08-01",
+      "rating": 7.954,
       "mediaType": "movie"
     },
     {
@@ -20,9 +20,33 @@
       "originalTitle": "Supergirl",
       "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.563,
+      "rating": 6.682,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1108427,
+      "type": "tmdb",
+      "title": "海洋奇缘：启航",
+      "originalTitle": "Moana",
+      "description": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.901,
+      "mediaType": "movie"
+    },
+    {
+      "id": 969681,
+      "type": "tmdb",
+      "title": "蜘蛛侠：崭新之日",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "releaseDate": "2026-07-29",
+      "rating": 7.631,
       "mediaType": "movie"
     },
     {
@@ -34,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.252,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1084244,
-      "type": "tmdb",
-      "title": "玩具总动员5",
-      "originalTitle": "Toy Story 5",
-      "description": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.4,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -58,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.071,
+      "rating": 7.075,
       "mediaType": "movie"
     },
     {
@@ -74,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bFm80QdYiytfO27wZ93N4qoly8I.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
-      "releaseDate": "2026-07-29",
-      "rating": 8.175,
-      "mediaType": "movie"
-    },
-    {
       "id": 1491920,
       "type": "tmdb",
       "title": "功夫女足",
@@ -98,18 +98,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305672,
-      "type": "tmdb",
-      "title": "抓特务",
-      "originalTitle": "抓特务",
-      "description": "1949年开国大典这天，刚入城改编成公安派出所所长的肖大力发现小学教员冯静波特嫌疑点重重。他本着军人的高度警惕和公安战士的责任感，硬是与冯搭做邻居，穷尽一生历尽磨难，进行了一场近四十年无怨无悔的追踪。影片根据张策同名小说改编。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xuLUtumvstPx00t3PBsLI7GTENA.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kXXveIklCvTpJOGu16dszmZrcwD.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 26466,
       "type": "tmdb",
       "title": "恐怖游轮",
@@ -118,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.917,
+      "rating": 6.918,
       "mediaType": "movie"
     },
     {
@@ -146,18 +134,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1353926,
-      "type": "tmdb",
-      "title": "特立独行",
-      "originalTitle": "特立独行",
-      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 1.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -179,6 +155,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
       "releaseDate": "2026-05-01",
       "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1353926,
+      "type": "tmdb",
+      "title": "特立独行",
+      "originalTitle": "特立独行",
+      "description": "三十年前，以超人王长海为首的超英协会击溃了外星人，多年后，王长海被任命回乡建立战斗小队，但在这个多年和平的莱茵镇上，人情世故和礼尚往来让王长海手足无措，给王长海完成任务造成了层层阻碍。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cyzcsp95W2Op3G5Gb8S2cPEnSc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/imoDW7tUgwq2wgajR1YafDTG9Ij.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.8,
       "mediaType": "movie"
     },
     {
@@ -223,22 +211,34 @@
       "title": "年会不能停2！",
       "originalTitle": "年会不能停2！",
       "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uRplFSxmnJGgzrGMqKB5xu7WMAI.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
       "releaseDate": "2026-07-24",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 271706,
+      "id": 1305665,
       "type": "tmdb",
-      "title": "大鱼海棠",
-      "originalTitle": "大鱼海棠",
-      "description": "所有活着的人类，都是海里一条巨大的鱼；出生的时候他们从海的此岸出发。他们的生命就像横越大海，有时相遇，有时分开……死的时候，他们便到了岸，各去各的世界。  四十五亿年前，这个星球上，只有一片汪洋大海，和一群古老的大鱼。在与人类世界平行的空间里，生活着一个规规矩矩、遵守秩序的族群，他们为神工作，掌管世界万物运行规律，也掌管人类的灵魂。他们的天空与人类世界的大海相连。他们既不是神，也不是人，他们是“其他人”。  少女椿，作为生家族的继承人，掌管着海棠花的生长。不惜违背族人戒律，逆天而行，在海底世界秘密饲养人类少年的灵魂——一条拇指大的小鱼。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yKHEKsrIJLfPoS9f7m5Stbo6fpJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3WVhUsttN1uLyXhV33xCkONeFGA.jpg",
-      "releaseDate": "2016-07-08",
-      "rating": 7.33,
+      "title": "群星闪耀时",
+      "originalTitle": "群星闪耀时",
+      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1572830,
+      "type": "tmdb",
+      "title": "不成功穿越指南",
+      "originalTitle": "不成功穿越指南",
+      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "releaseDate": "2026-07-02",
+      "rating": 6,
       "mediaType": "movie"
     }
   ],
@@ -250,21 +250,9 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.973,
-      "mediaType": "movie"
-    },
-    {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
-      "releaseDate": "2026-07-29",
-      "rating": 8.2,
+      "rating": 7.956,
       "mediaType": "movie"
     },
     {
@@ -273,7 +261,7 @@
       "title": "逃出绝命街",
       "originalTitle": "The End of Oak Street",
       "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6KUTteWdUlPhmql4LBgTDaBnrrV.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
       "rating": 0,
@@ -288,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
       "releaseDate": "2025-02-28",
-      "rating": 8.075,
+      "rating": 8.076,
       "mediaType": "movie"
     },
     {
@@ -316,14 +304,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1541125,
+      "id": 1288445,
       "type": "tmdb",
-      "title": "年会不能停2！",
-      "originalTitle": "年会不能停2！",
-      "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uRplFSxmnJGgzrGMqKB5xu7WMAI.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "releaseDate": "2026-07-24",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "在目睹亿万富翁老板遇害并被诬陷为凶手后，科尔·里德独自登上一艘货船，决心为老板复仇，却由此揭开了一个涉及国际层面的惊天阴谋。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -376,14 +364,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1670314,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "releaseDate": "2026-08-01",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lweeCvqpwOSjAfWe3RZIRvyXHbz.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
+      "releaseDate": "2026-08-24",
       "rating": 0,
       "mediaType": "movie"
     },
