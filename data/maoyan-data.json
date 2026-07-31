@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T21:54:57.177+08:00",
+  "last_updated": "2026-08-01T03:18:13.874+08:00",
   "tv": {
     "全网": [
       {
@@ -287,13 +287,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -321,12 +321,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "食神·百厨大战",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -334,6 +328,12 @@
       },
       {
         "title": "地球超新鲜 第2季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,12 +357,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "超棒的我们2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -370,6 +364,12 @@
       },
       {
         "title": "这是我的西游2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -451,13 +451,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -587,19 +587,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "家乡美食大赛",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,13 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "你好湖南",
+        "title": "国医少年志 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "炽夏角色番综·炽热的夏天",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "姚琛-疯游世界",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
