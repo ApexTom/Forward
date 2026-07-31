@@ -1,13 +1,7 @@
 {
-  "last_updated": "2026-07-31T03:19:13.496+08:00",
+  "last_updated": "2026-07-31T10:27:04.097+08:00",
   "tv": {
     "全网": [
-      {
-        "title": "御廷谣",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
       {
         "title": "九门",
         "description": "暂无简介",
@@ -39,13 +33,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "小芳",
+        "title": "野狗骨头",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
+        "title": "御廷谣",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "小芳",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -57,7 +57,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "灿如繁星",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -157,25 +157,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "九个弹孔",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "江海潮生",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "九个弹孔",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -213,19 +213,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "莫离",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "依然的喜事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "莫离",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -237,13 +231,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "问心2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "九个弹孔",
+        "title": "江海潮生",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -251,13 +251,13 @@
     ],
     "芒果TV": [
       {
-        "title": "御廷谣",
+        "title": "野狗骨头",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "野狗骨头",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
+        "title": "好好的时光",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -339,7 +339,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "地球超新鲜 第2季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -358,18 +370,6 @@
       },
       {
         "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "开始推理吧第四季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -457,6 +457,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "种地吧 第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -464,12 +470,6 @@
       },
       {
         "title": "姐姐当家第二季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,6 +507,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -514,12 +520,6 @@
       },
       {
         "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -581,13 +581,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们与恋爱的距离·奔赴季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱8 大神版",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,25 +593,31 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "密室大逃脱8 大神版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 竖屏直拍版",
+        "title": "我们与恋爱的距离·奔赴季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "野狗骨头·意犹未尽",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "家乡美食大赛",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "国医少年志 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
