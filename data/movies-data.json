@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-31T01:20:07.006+08:00",
+  "last_updated": "2026-08-01T01:23:30.590+08:00",
   "now_playing": [
-    {
-      "id": 1368337,
-      "type": "tmdb",
-      "title": "奥德赛",
-      "originalTitle": "The Odyssey",
-      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "releaseDate": "2026-08-01",
-      "rating": 7.943,
-      "mediaType": "movie"
-    },
     {
       "id": 969681,
       "type": "tmdb",
@@ -26,6 +14,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1368337,
+      "type": "tmdb",
+      "title": "奥德赛",
+      "originalTitle": "The Odyssey",
+      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "releaseDate": "2026-08-01",
+      "rating": 7.9,
+      "mediaType": "movie"
+    },
+    {
       "id": 1081003,
       "type": "tmdb",
       "title": "超级少女",
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.727,
+      "rating": 6.751,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.909,
+      "rating": 5.9,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.252,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -68,9 +68,9 @@
       "originalTitle": "Backrooms",
       "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.072,
+      "rating": 7.08,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.428,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8.333,
+      "rating": 8.3,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.942,
+      "rating": 7.945,
       "mediaType": "movie"
     },
     {
@@ -277,18 +277,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
       "releaseDate": "2025-02-28",
       "rating": 8.076,
-      "mediaType": "movie"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.109,
       "mediaType": "movie"
     },
     {
@@ -364,6 +352,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1389241,
+      "type": "tmdb",
+      "title": "冬旅人",
+      "originalTitle": "冬旅人",
+      "description": "　　新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1650896,
       "type": "tmdb",
       "title": "小猪佩奇·完美假期",
@@ -373,6 +373,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
       "releaseDate": "2026-08-24",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1414620,
+      "type": "tmdb",
+      "title": "偷偷喜欢你",
+      "originalTitle": "夏日最後的祕密",
+      "description": "苏明仪暗恋同校的颜立尧很久了，没想到分班后成为同学，颜立尧不受拘束的性格让他经常被风纪股长苏明仪「记名字」，记着记着，同时也在心里刻下了不可磨灭的印记，殊不知，卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当别人还在挥霍青春，年少的三人被迫提早面对人生的课题。 「其实，我早就喜欢你，只是不敢告诉你」…故事线长达10年，懵懂的他们各自把秘密埋在心底，直到真正变成大人的那一天。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7y08LS88YTivaUMmM2uLPjhsqeI.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
