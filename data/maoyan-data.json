@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T16:13:22.928+08:00",
+  "last_updated": "2026-08-01T21:10:19.881+08:00",
   "tv": {
     "全网": [
       {
@@ -33,12 +33,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "野狗骨头",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
@@ -58,6 +52,12 @@
       },
       {
         "title": "依然的喜事",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "南部档案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -225,13 +225,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "莫离",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "莫离",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -263,12 +263,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "汪汪队之小砾与工程家族 第三季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "种墨园",
         "description": "暂无简介",
         "type": "maoyan",
@@ -276,6 +270,12 @@
       },
       {
         "title": "耀眼",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "汪汪队之小砾与工程家族 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,6 +345,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "说唱巅峰对决2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
@@ -357,19 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "喜欢你我也是 第六季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "说唱巅峰对决2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -445,13 +445,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,13 +469,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "奔跑吧14",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "奔跑吧14",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,12 +563,6 @@
     ],
     "芒果TV": [
       {
-        "title": "中餐厅·南洋拾光季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -581,7 +575,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,13 +587,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 竖屏直拍版",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "歌手2026 竖屏直拍版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,13 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏角色番综·炽热的夏天",
+        "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "姚琛-疯游世界",
+        "title": "超棒的我们2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
