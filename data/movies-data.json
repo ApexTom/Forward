@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T00:53:19.025+08:00",
+  "last_updated": "2026-08-04T01:45:42.733+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -8,9 +8,9 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 8.042,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.95,
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.766,
+      "rating": 6.746,
       "mediaType": "movie"
     },
     {
@@ -44,7 +44,7 @@
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
       "rating": 8.3,
       "mediaType": "movie"
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.9,
+      "rating": 5.816,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.426,
+      "rating": 6.385,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.09,
+      "rating": 7.087,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 6.176,
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.917,
+      "rating": 6.913,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8.3,
+      "rating": 8.231,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 5.667,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -182,6 +182,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1319522,
       "type": "tmdb",
       "title": "心犬相随",
@@ -191,18 +203,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "releaseDate": "2026-06-13",
       "rating": 7.1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停2！",
-      "originalTitle": "年会不能停2！",
-      "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -218,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1257942,
-      "type": "tmdb",
-      "title": "魔方小姐",
-      "originalTitle": "魔方小姐",
-      "description": "“精神状态领先30年”的魔方奶奶赵艳红（杨紫琼 饰）不服老、不认输、不怕事，更爱惹事！遇上“能躺着绝不坐着”的天才废柴吴有为（刘昊然 饰）后与魔方结缘，和师父、闺蜜、家人一起跌跌撞撞勇闯“魔坛”！70岁才拿起魔方的她，能够转出什么名堂？又会遇到哪些奇葩对手和鸡飞狗跳的意外......",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1726445,
       "type": "tmdb",
       "title": "逆行战场",
@@ -239,6 +227,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/5sztST2ioTRcUwlA7uoUEWj3q4V.jpg",
       "releaseDate": "2026-07-07",
       "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1257942,
+      "type": "tmdb",
+      "title": "魔方小姐",
+      "originalTitle": "魔方小姐",
+      "description": "“精神状态领先30年”的魔方奶奶赵艳红（杨紫琼 饰）不服老、不认输、不怕事，更爱惹事！遇上“能躺着绝不坐着”的天才废柴吴有为（刘昊然 饰）后与魔方结缘，和师父、闺蜜、家人一起跌跌撞撞勇闯“魔坛”！70岁才拿起魔方的她，能够转出什么名堂？又会遇到哪些奇葩对手和鸡飞狗跳的意外......",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.95,
+      "rating": 7.949,
       "mediaType": "movie"
     },
     {
@@ -288,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 5.667,
+      "rating": 7.833,
       "mediaType": "movie"
     },
     {
@@ -352,18 +352,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。\r 　　影片改编自番大王的同名网络小说。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-08-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1389241,
       "type": "tmdb",
       "title": "冬旅人",
@@ -372,6 +360,30 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
       "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563614,
+      "type": "tmdb",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-08-19",
       "rating": 0,
       "mediaType": "movie"
     },
