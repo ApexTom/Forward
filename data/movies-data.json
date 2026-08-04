@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T01:45:42.733+08:00",
+  "last_updated": "2026-08-05T01:39:34.339+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -8,9 +8,9 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/b0LviwKbDto7Qq0D4DzGoVHpF4C.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 8,
+      "rating": 7.97,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.9,
+      "rating": 7.953,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.746,
+      "rating": 6.736,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.3,
+      "rating": 8.246,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.816,
+      "rating": 5.83,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.385,
+      "rating": 6.371,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 7.087,
+      "rating": 7.096,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.913,
+      "rating": 6.914,
       "mediaType": "movie"
     },
     {
@@ -154,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/iHNvFpSBAHHRuJ1QlP2bGcINps0.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.5,
+      "rating": 6.313,
       "mediaType": "movie"
     },
     {
@@ -190,7 +190,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 0,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.949,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -288,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7.833,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -316,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1609560,
-      "type": "tmdb",
-      "title": "偷偷藏不住",
-      "originalTitle": "偷偷藏不住",
-      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1716541,
       "type": "tmdb",
       "title": "我想留在你身边",
@@ -336,30 +324,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
       "backdropPath": null,
       "releaseDate": "2026-08-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lweeCvqpwOSjAfWe3RZIRvyXHbz.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
-      "releaseDate": "2026-08-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1389241,
-      "type": "tmdb",
-      "title": "冬旅人",
-      "originalTitle": "冬旅人",
-      "description": "　　新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
-      "releaseDate": "2026-08-07",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -376,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1650896,
+      "type": "tmdb",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lweeCvqpwOSjAfWe3RZIRvyXHbz.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
+      "releaseDate": "2026-08-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1563614,
       "type": "tmdb",
       "title": "不想失去你",
@@ -384,6 +360,30 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
       "releaseDate": "2026-08-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1609560,
+      "type": "tmdb",
+      "title": "偷偷藏不住",
+      "originalTitle": "偷偷藏不住",
+      "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eT0danpvSg5uAoJMoXgwG7yvJza.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1389241,
+      "type": "tmdb",
+      "title": "冬旅人",
+      "originalTitle": "冬旅人",
+      "description": "　　新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
+      "releaseDate": "2026-08-07",
       "rating": 0,
       "mediaType": "movie"
     },
