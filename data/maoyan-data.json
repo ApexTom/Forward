@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T16:29:52.343+08:00",
+  "last_updated": "2026-08-04T22:01:03.482+08:00",
   "tv": {
     "全网": [
       {
@@ -21,13 +21,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -45,7 +45,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "盲盒",
+        "title": "夜语记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -57,7 +57,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "夜语记",
+        "title": "盲盒",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -107,13 +107,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "夫妻的博弈",
+        "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雨霖铃",
+        "title": "夫妻的博弈",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -133,13 +133,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -189,13 +189,13 @@
     ],
     "腾讯视频": [
       {
-        "title": "这一秒过火",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -207,13 +207,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "夜语记",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "盲盒",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "夜语记",
+        "title": "人鱼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -238,12 +244,6 @@
       },
       {
         "title": "爱情有烟火",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -321,25 +321,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "心动的信号 第九季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "忙忙碌碌寻宝藏·双人成行记",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -370,6 +358,18 @@
       },
       {
         "title": "这是我的西游2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -407,13 +407,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "无限超越班 第四季",
+        "title": "天籁与少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天籁与少年",
+        "title": "无限超越班 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,13 +507,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "心动的信号 第九季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动的信号 第九季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,6 +563,12 @@
     ],
     "芒果TV": [
       {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -581,25 +587,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "耀眼角色番综·耀眼一夏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "心动双重奏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "超棒的我们2",
+        "title": "心动双重奏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "密室大逃脱8 大神版",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "为爱闪耀的她",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
