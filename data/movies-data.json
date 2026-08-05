@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T01:39:34.339+08:00",
+  "last_updated": "2026-08-06T01:24:20.120+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.97,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -22,19 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.953,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1081003,
-      "type": "tmdb",
-      "title": "超级少女",
-      "originalTitle": "Supergirl",
-      "description": "当一位冷酷无情、突如其来的劲敌突袭家园，“超级少女”卡拉·佐-艾尔不得不与一位意想不到的同伴结盟，横跨星际，踏上一段交织复仇与正义的壮阔征途。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mTfjvvBUaDmexYEPwVqBFsYYh8.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.736,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -46,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.246,
+      "rating": 8.237,
       "mediaType": "movie"
     },
     {
@@ -58,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.83,
+      "rating": 5.8,
       "mediaType": "movie"
     },
     {
@@ -70,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.371,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1083381,
-      "type": "tmdb",
-      "title": "后室",
-      "originalTitle": "Backrooms",
-      "description": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/wjwMC7u3xWKkrronolBqsIy4L0L.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 7.096,
+      "rating": 6.36,
       "mediaType": "movie"
     },
     {
@@ -94,19 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 26466,
-      "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 6.914,
+      "rating": 6.176,
       "mediaType": "movie"
     },
     {
@@ -119,6 +83,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "releaseDate": "2026-07-10",
       "rating": 8.231,
+      "mediaType": "movie"
+    },
+    {
+      "id": 26466,
+      "type": "tmdb",
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 6.914,
       "mediaType": "movie"
     },
     {
@@ -146,18 +122,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1499071,
-      "type": "tmdb",
-      "title": "寒战1994",
-      "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/iHNvFpSBAHHRuJ1QlP2bGcINps0.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.313,
-      "mediaType": "movie"
-    },
-    {
       "id": 1353926,
       "type": "tmdb",
       "title": "特立独行",
@@ -170,15 +134,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1604133,
+      "id": 1499071,
       "type": "tmdb",
-      "title": "四渡",
-      "originalTitle": "四渡",
-      "description": "　　长征时期的红军，是绝境。 四渡赤水，是红军的绝地反击。 毛泽东带领红军，从一渡的被迫无奈，到二渡的出其不意，再到三渡的精妙一笔，最后到四渡的神操作，创造了战争史上的经典战例，游击战的传奇。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L9ymMPeBo4hSPlBGPvlzO6102T.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8BVpdY93rqrbopHi9BwEkiIdkX7.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5.4,
+      "title": "寒战1994",
+      "originalTitle": "寒戰1994",
+      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iHNvFpSBAHHRuJ1QlP2bGcINps0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.313,
       "mediaType": "movie"
     },
     {
@@ -194,27 +158,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1319522,
+      "id": 1725160,
       "type": "tmdb",
-      "title": "心犬相随",
-      "originalTitle": "โกฮัง..หัวใจโกโฮม",
-      "description": "　　影片以细腻的叙事串联起三段跨越十年的缘分，透过一只狗纯净的眼睛，折射出人类的孤独、勇气与希望。\r 　　2016年，退休日本工程师弘志在泰国偶然遇见蜷缩在便利店外的小白狗“Gohan”。从最初简单的喂食，到后来深刻的陪伴，Gohan让他重新感受到生活的温情。\r 　　2021年，缅甸籍女佣南查目睹雇主虐待一只被遗弃的狗，毅然决定救走它，并将它改名为“Brownie”。一人一狗展开了一场惊心动魄的逃亡之旅。\r 　　2026年，迷茫的大学生佩莱遇见了一只年迈病重的流浪狗，他为它取名“Hima”。在照顾Hima最后时光的过程里，佩莱尝试挽回逝去的感情，也逐渐在痛苦与怜悯中学会了如何真正去爱。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tZILgLUZW8BjkydL31yhlaxcZdV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "releaseDate": "2026-06-13",
-      "rating": 7.1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7,
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -230,15 +182,63 @@
       "mediaType": "movie"
     },
     {
-      "id": 1257942,
+      "id": 1713529,
       "type": "tmdb",
-      "title": "魔方小姐",
-      "originalTitle": "魔方小姐",
-      "description": "“精神状态领先30年”的魔方奶奶赵艳红（杨紫琼 饰）不服老、不认输、不怕事，更爱惹事！遇上“能躺着绝不坐着”的天才废柴吴有为（刘昊然 饰）后与魔方结缘，和师父、闺蜜、家人一起跌跌撞撞勇闯“魔坛”！70岁才拿起魔方的她，能够转出什么名堂？又会遇到哪些奇葩对手和鸡飞狗跳的意外......",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qvTiG4LSu6wFCfXjg2KTiqHeQBF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bLxfaYqA9YlVuXbU9eK1E2u3MLI.jpg",
-      "releaseDate": "2026-06-19",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1572830,
+      "type": "tmdb",
+      "title": "不成功穿越指南",
+      "originalTitle": "不成功穿越指南",
+      "description": "陈涛在大城市频频受挫，决定回到家乡在母亲身边“躺平”。可随后他意外地在旧书中见到离世已久的父亲，二人共同经历了书中一段段妙趣横生的故事。在这次啼笑皆非的冒险中，父子破除了多年的心结隔阂，陈涛也重获力量，再次出发，开启了新的人生篇章。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3ETbY1nV0vJIeoxiJslXon0Z9Q9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ajqlk7EGZVjjl4b5VrrQQUc6k7G.jpg",
+      "releaseDate": "2026-07-02",
       "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725228,
+      "type": "tmdb",
+      "title": "全城追缉",
+      "originalTitle": "全城追缉",
+      "description": "取材于佛山公安英模林伟光与刑警八大队真实事迹。本世纪初，街头飞抢横行，民众人人自危。佛山公安组建全国首支打击街面 “双抢” 专业队刑警八大队，副队长林伟带队骑摩托奔赴一线，与飞车劫匪展开常年生死追缉。十一年间，八大队抓获嫌疑人两万余名，林伟三十余次负伤，数次重伤，曾从高架坠落仍坚守岗位。影片以写实手法，还原惊险追凶与抓捕现场，刻画民警无畏担当，也细腻呈现警嫂默默守候的温情日常，真实致敬以血肉之躯守护万家平安的公安英雄。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/o2QjzBI8u1sC0ngtMGmGLAeRBcC.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/aVtR5KcWGGzsOY2v7NaRcsWKmWG.jpg",
+      "releaseDate": "2026-07-11",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1630030,
+      "type": "tmdb",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -280,18 +280,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -304,14 +292,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1630030,
+      "id": 1502135,
       "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "releaseDate": "2026-08-08",
+      "title": "密档",
+      "originalTitle": "密档",
+      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
+      "releaseDate": "2026-08-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -328,14 +316,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1724637,
+      "id": 1563614,
       "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-08-07",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-08-19",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -352,18 +340,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -376,14 +352,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1389241,
+      "id": 1630030,
       "type": "tmdb",
-      "title": "冬旅人",
-      "originalTitle": "冬旅人",
-      "description": "　　新疆女导演鲁丹自编自导的第一部作品，以细腻的手法讲述了久别故里的俄罗斯族摄影师、四处漂泊寻父的汉族少女、性格孤僻的塔塔尔族手风琴师在冬季的北方小镇不期而遇的故事。作品中的父亲角色是缺失的，但却是三个主人公各自情感的牵绊，也在暗处推动着叙事的发展。人生至暗时刻的短暂相处，三颗孤独的灵魂慢慢靠近，呈现出相互交织的成长弧线，并寻找到了各自的救赎之路。本片由去年过世的藏地新浪潮电影第一人万玛才旦导演生前担任监制，这次入围上海国际电影节也是对这位英年早逝的电影大师最好的纪念。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8dICppTg0i3bn26s63ttgCh9VgF.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jlrYZqSJ96u7yKGgm7ce5FuPm9.jpg",
-      "releaseDate": "2026-08-07",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
       "rating": 0,
       "mediaType": "movie"
     },
