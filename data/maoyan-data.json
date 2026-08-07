@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T07:54:11.238+08:00",
+  "last_updated": "2026-08-07T10:27:49.396+08:00",
   "tv": {
     "全网": [
       {
@@ -9,13 +9,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "御廷谣",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -27,7 +21,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才，女友",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -45,19 +39,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "野狗骨头",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "人鱼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "夜语记",
+        "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -101,6 +101,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "夫妻的博弈",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
@@ -117,17 +123,11 @@
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
-      },
-      {
-        "title": "夫妻的博弈",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
       }
     ],
     "爱奇艺": [
       {
-        "title": "这一秒过火",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -139,7 +139,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才，女友",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,7 +163,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,7 +175,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -189,13 +189,13 @@
     ],
     "腾讯视频": [
       {
-        "title": "这一秒过火",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -231,19 +231,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "爱情有烟火",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "小芳",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "莫离",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "问心2",
+        "title": "主角",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -251,25 +251,25 @@
     ],
     "芒果TV": [
       {
-        "title": "御廷谣",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "野狗骨头",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "良陈美锦",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,7 +293,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
+        "title": "种墨园",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "种墨园",
+        "title": "海底小纵队 第十一季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,19 +357,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "一饭封神2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -525,13 +525,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -569,25 +569,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 竖屏直拍版",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "歌手2026 直拍REACTION",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "耀眼角色番综·耀眼一夏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我们的宿舍2",
+        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,19 +581,37 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "歌手2026 直拍REACTION",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "歌手2026 竖屏直拍版",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "野狗骨头·意犹未尽",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动双重奏",
+        "title": "耀眼角色番综·耀眼一夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱8 大神版",
+        "title": "快乐老家",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
