@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T00:47:02.116+08:00",
+  "last_updated": "2026-08-09T00:25:40.524+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -18,9 +18,9 @@
       "type": "tmdb",
       "title": "奥德赛",
       "originalTitle": "The Odyssey",
-      "description": "特洛伊战争结束后，伊萨卡国王奥德修斯踏上了返回家乡的艰险旅程。",
+      "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
       "rating": 7.97,
       "mediaType": "movie"
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.23,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.942,
+      "rating": 5.952,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/y4JWxHZ1dMisqbHhX7ytOAK3wwv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.361,
+      "rating": 6.362,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 7.556,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1491920,
+      "type": "tmdb",
+      "title": "功夫女足",
+      "originalTitle": "功夫女足",
+      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
+      "releaseDate": "2026-07-11",
+      "rating": 6.1,
       "mediaType": "movie"
     },
     {
@@ -74,30 +98,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1491920,
-      "type": "tmdb",
-      "title": "功夫女足",
-      "originalTitle": "功夫女足",
-      "description": "“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
-      "releaseDate": "2026-07-11",
-      "rating": 6.176,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/upNeU9FNGAvdhnoThvv64Z0MWKn.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 7.3,
-      "mediaType": "movie"
-    },
-    {
       "id": 26466,
       "type": "tmdb",
       "title": "恐怖游轮",
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.915,
+      "rating": 6.914,
       "mediaType": "movie"
     },
     {
@@ -158,6 +158,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1724637,
+      "type": "tmdb",
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1391021,
       "type": "tmdb",
       "title": "欢迎来龙餐馆",
@@ -170,14 +182,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1724637,
+      "id": 1713529,
       "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "　　面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。  　　影片改编自番大王的同名网络小说。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jLqc84CFitC4VHJmFfZlvBuUPKK.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-08-07",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1725160,
+      "type": "tmdb",
+      "title": "2035",
+      "originalTitle": "Apes",
+      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
+      "releaseDate": "2026-07-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -206,18 +230,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -226,18 +238,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/pMr7CamEiowr4Agoza4LA6CX0qe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1725160,
-      "type": "tmdb",
-      "title": "2035",
-      "originalTitle": "Apes",
-      "description": "在中国的边境线上，一位旅行者被困于古老的村落，他的迷失引发了一场关于存在与未来的超现实探索。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yltHZEUcq0dDBAqUmwJTi5eSRZc.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e4YV8Z50mtWw7vj67Msd4pMj49W.jpg",
-      "releaseDate": "2026-07-12",
       "rating": 0,
       "mediaType": "movie"
     }
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.97,
+      "rating": 7.968,
       "mediaType": "movie"
     },
     {
@@ -261,7 +261,7 @@
       "title": "逃出绝命街",
       "originalTitle": "The End of Oak Street",
       "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6KUTteWdUlPhmql4LBgTDaBnrrV.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
       "rating": 7.6,
@@ -396,6 +396,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tOXtPG2f8STXoJGuE5pfpwqERkr.jpg",
       "backdropPath": null,
       "releaseDate": "2026-06-05",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1745822,
+      "type": "tmdb",
+      "title": "最小的大片",
+      "originalTitle": "最小的大片",
+      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-17",
       "rating": 0,
       "mediaType": "movie"
     }
