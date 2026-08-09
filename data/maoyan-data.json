@@ -1,9 +1,15 @@
 {
-  "last_updated": "2026-08-09T09:20:50.996+08:00",
+  "last_updated": "2026-08-09T14:49:24.600+08:00",
   "tv": {
     "全网": [
       {
         "title": "九门",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "花开锦绣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -15,13 +21,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才，女友",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -52,12 +58,6 @@
       },
       {
         "title": "雀骨",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "夜语记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -133,13 +133,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才，女友",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -188,6 +188,12 @@
       }
     ],
     "腾讯视频": [
+      {
+        "title": "花开锦绣",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
       {
         "title": "这一秒过火",
         "description": "暂无简介",
@@ -241,12 +247,6 @@
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
-      },
-      {
-        "title": "小芳",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
       }
     ],
     "芒果TV": [
@@ -287,6 +287,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "海底小纵队 第十一季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
@@ -294,12 +300,6 @@
       },
       {
         "title": "战旗如画",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "种墨园",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,19 +315,7 @@
   "show": {
     "全网": [
       {
-        "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "地球超新鲜 第2季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -339,13 +327,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "半熟恋人 第5季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,19 +351,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "喜剧之王单口季 第三季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动的信号 第九季",
+        "title": "伦敦合伙人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "一路向海的少年",
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -413,13 +413,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天籁与少年",
+        "title": "德云社郭德纲于谦相声专场上海站 2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "德云社郭德纲于谦相声专场上海站 2026",
+        "title": "天籁与少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -463,13 +463,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -501,12 +501,6 @@
     ],
     "腾讯视频": [
       {
-        "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -514,6 +508,12 @@
       },
       {
         "title": "半熟恋人 第5季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,6 +563,12 @@
     ],
     "芒果TV": [
       {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "忙忙碌碌寻宝藏·双人成行记",
         "description": "暂无简介",
         "type": "maoyan",
@@ -575,13 +581,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "中餐厅·南洋拾光季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,13 +599,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
+        "title": "耀眼角色番综·耀眼一夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼角色番综·耀眼一夏",
+        "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -612,12 +618,6 @@
       },
       {
         "title": "快乐老家",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
