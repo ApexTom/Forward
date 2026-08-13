@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T00:51:40.371+08:00",
+  "last_updated": "2026-08-14T00:50:21.543+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qhpHPE2IODQY6JtNoQ4H27K1juk.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.864,
+      "rating": 7.865,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.993,
+      "rating": 7.992,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.228,
+      "rating": 8.23,
       "mediaType": "movie"
     },
     {
@@ -55,22 +55,22 @@
       "title": "逃出绝命街",
       "originalTitle": "The End of Oak Street",
       "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.727,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
-      "id": 10681,
+      "id": 1391021,
       "type": "tmdb",
-      "title": "机器人总动员",
-      "originalTitle": "WALL·E",
-      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
-      "releaseDate": "2026-08-15",
-      "rating": 8.118,
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/blpRVNJ9iHtobHOi6rIkQzSWlWv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -86,15 +86,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1391021,
+      "id": 10681,
       "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/blpRVNJ9iHtobHOi6rIkQzSWlWv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hEVjc0rdp7XzvqKyysPu73TLDdw.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 9,
+      "title": "机器人总动员",
+      "originalTitle": "WALL·E",
+      "description": "公元 2700 年，人类文明高度发展，却因污染和生活垃圾大量增加使得地球不再适于人类居住。地球人被迫乘坐飞船离开故乡，进行一次漫长无边的宇宙之旅。临行前他们委托 Buynlarge 的公司对地球垃圾进行清理，该公司开发了名为 WALL·E（地球废品分装员的缩写）的机器人担当此重任。 这些机器人按照程序日复一日、年复一年辛勤工作，但随着时间的流逝和恶劣环境的侵蚀，WALL·E 们接连损坏、停止运动。最后只有一个仍在进行这项似乎永无止境的工作。经历了漫长的岁月，它开始拥有了自己的意识。它喜欢将收集来的宝贝小心翼翼藏起，喜欢收工后看看几百年前的歌舞片，此外还有一只蟑螂朋友作伴。直到有一天，一艘来自宇宙的飞船打破了它一成不变的生活…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "releaseDate": "2026-08-15",
+      "rating": 8.119,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/J1UgJwRxDQS92kw75KgeVFZMHf.jpg",
       "releaseDate": "2026-07-11",
-      "rating": 6,
+      "rating": 5.85,
       "mediaType": "movie"
     },
     {
@@ -122,6 +122,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 26466,
+      "type": "tmdb",
+      "title": "恐怖游轮",
+      "originalTitle": "Triangle",
+      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 6.91,
+      "mediaType": "movie"
+    },
+    {
       "id": 1633056,
       "type": "tmdb",
       "title": "八仙！",
@@ -131,18 +143,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
       "releaseDate": "2026-07-10",
       "rating": 8.1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.114,
       "mediaType": "movie"
     },
     {
@@ -158,15 +158,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 26466,
+      "id": 414419,
       "type": "tmdb",
-      "title": "恐怖游轮",
-      "originalTitle": "Triangle",
-      "description": "单亲母亲杰西和一帮朋友乘游艇出海游玩，但她总有一种有不好的事情发生的感觉。不久，他们便在海上遭遇一场强烈的风暴。游艇翻船，众人落海，几经挣扎他们好不容易爬到游艇残骸上来。正当他们无计可施之时，一艘巨大的游轮向众人缓缓驶来。众人欣喜过望，未加思索便登上这艘名为“艾俄洛斯”的游轮，结果发现这竟是一艘1930年便告失踪的神秘之船，而船上更是空无一人。随处可见的鲜血、神秘的指示以及突如其来的凶杀事件，将这群男女带入万劫不复的恐怖轮回之中……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 6.909,
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.114,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
+      "id": 1713529,
       "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 0,
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
       "mediaType": "movie"
     }
   ],
@@ -249,7 +249,7 @@
       "title": "肖申克的救赎",
       "originalTitle": "The Shawshank Redemption",
       "description": "安迪·杜佛兰被错判谋杀妻子及其情人，在缅因州肖申克服刑，判处两项无期徒刑接连执行。影片背景设定于1940年代，展现安迪如何在残酷的监狱环境中艰难求生，甚至赢得狱友们的敬重——尤其是与老囚徒“瑞德”·雷丁之间深厚的友谊。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/Aqo8yM5S5ZEdlcyeBBxj7s0vkTf.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
       "releaseDate": "2026-08-28",
       "rating": 8.727,
@@ -264,19 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "releaseDate": "2026-08-15",
-      "rating": 8.118,
-      "mediaType": "movie"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.114,
+      "rating": 8.119,
       "mediaType": "movie"
     },
     {
@@ -301,6 +289,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
       "releaseDate": "2026-08-28",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -340,18 +340,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lweeCvqpwOSjAfWe3RZIRvyXHbz.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
-      "releaseDate": "2026-08-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1414620,
       "type": "tmdb",
       "title": "偷偷喜欢你",
@@ -369,7 +357,7 @@
       "title": "燃烧吧！爸爸",
       "originalTitle": "燃烧吧！爸爸",
       "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3AKDvfJIMf9OC7zcJ7otLTdf7b4.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
       "releaseDate": "2026-09-05",
       "rating": 0,
