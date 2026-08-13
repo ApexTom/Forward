@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:56:16.251+08:00",
+  "last_updated": "2026-08-13T09:39:59.270+08:00",
   "tv": {
     "全网": [
       {
@@ -22,6 +22,12 @@
       },
       {
         "title": "天才，女友",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -55,12 +61,6 @@
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
-      },
-      {
-        "title": "盲盒",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
       }
     ],
     "优酷": [
@@ -77,25 +77,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "千香",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雨霖铃",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "二龙湖·“村”暖花开3",
+        "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -113,13 +107,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "二龙湖·“村”暖花开3",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "非份之罪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "夫妻的博弈",
+        "title": "月鳞绮纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -181,7 +181,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
+        "title": "江海潮生",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,12 +293,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "海底小纵队 第十一季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
@@ -306,6 +300,12 @@
       },
       {
         "title": "好好的时光",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "海底小纵队 第十一季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -327,19 +327,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
+        "title": "半熟恋人 第5季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "开始推理吧第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -352,12 +358,6 @@
       },
       {
         "title": "喜欢你我也是 第六季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -457,13 +457,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -519,13 +519,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -537,13 +537,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一路向海的少年",
+        "title": "五十公里桃花坞 第6季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "五十公里桃花坞 第6季",
+        "title": "一路向海的少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -581,6 +581,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "宠宠冲冲冲",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "伦敦合伙人",
         "description": "暂无简介",
         "type": "maoyan",
@@ -593,7 +599,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "宠宠冲冲冲",
+        "title": "耀眼角色番综·耀眼一夏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "密室大逃脱8 大神版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,19 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼角色番综·耀眼一夏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "野狗骨头·意犹未尽",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "花少的花花宇宙",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
