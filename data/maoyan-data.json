@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T20:59:54.957+08:00",
+  "last_updated": "2026-08-14T02:57:32.705+08:00",
   "tv": {
     "全网": [
       {
@@ -16,6 +16,12 @@
       },
       {
         "title": "九门",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -39,19 +45,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "御廷谣",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "人鱼",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -119,7 +119,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "夫妻的博弈",
+        "title": "月鳞绮纪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -169,13 +169,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "灿如繁星",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "灿如繁星",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -207,13 +207,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "人鱼",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "人鱼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -275,13 +275,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "汪汪队之小砾与工程家族 第三季",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "汪汪队之小砾与工程家族 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,7 +315,7 @@
   "show": {
     "全网": [
       {
-        "title": "密室大逃脱 第八季",
+        "title": "食神·百厨大战",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -327,13 +327,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "食神·百厨大战",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,7 +345,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "种地吧 第四季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -358,12 +364,6 @@
       },
       {
         "title": "脱口秀和Ta的朋友们第3季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -439,13 +439,13 @@
     ],
     "爱奇艺": [
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,13 +507,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,6 +575,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
@@ -587,19 +593,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "心动双重奏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "宠宠冲冲冲",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,13 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "野狗骨头·意犹未尽",
+        "title": "超棒的我们2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "花少的花花宇宙",
+        "title": "家乡美食大赛",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "野狗骨头·意犹未尽",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
