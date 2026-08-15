@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T14:30:27.892+08:00",
+  "last_updated": "2026-08-15T20:29:10.404+08:00",
   "tv": {
     "全网": [
       {
@@ -163,19 +163,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "问心2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "低智商犯罪",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "问心2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,6 +315,12 @@
   "show": {
     "全网": [
       {
+        "title": "大哥小助理",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -333,25 +339,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "种地吧 第四季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜欢你我也是 第六季",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -369,7 +369,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "喜欢你我也是 第六季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -439,6 +439,12 @@
     ],
     "爱奇艺": [
       {
+        "title": "大哥小助理",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -488,12 +494,6 @@
       },
       {
         "title": "超燃青春的合唱",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -587,13 +587,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "歌手2026 直拍REACTION",
+        "title": "耀眼角色番综·耀眼一夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼角色番综·耀眼一夏",
+        "title": "歌手2026 直拍REACTION",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,7 +605,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
+        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +617,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "快乐老家",
+        "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
