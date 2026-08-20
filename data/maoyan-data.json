@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-20T08:59:51.180+08:00",
+  "last_updated": "2026-08-20T14:38:03.495+08:00",
   "tv": {
     "全网": [
+      {
+        "title": "花开锦绣",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
       {
         "title": "我们的少年时代2",
         "description": "暂无简介",
@@ -9,7 +15,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花开锦绣",
+        "title": "师兄太稳健",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -27,7 +33,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "师兄太稳健",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -39,7 +45,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "御廷谣",
+        "title": "邻人可疑",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -52,12 +58,6 @@
       },
       {
         "title": "夜语记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -107,13 +107,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "云秀行",
+        "title": "翘楚",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "翘楚",
+        "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -127,13 +127,13 @@
     ],
     "爱奇艺": [
       {
-        "title": "重器",
+        "title": "师兄太稳健",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "师兄太稳健",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -201,6 +201,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "邻人可疑",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
@@ -238,12 +244,6 @@
       },
       {
         "title": "兵自风中来",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
+        "title": "好好的时光",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -321,19 +321,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "地球超新鲜 第2季",
+        "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "心动的信号 第九季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,12 +357,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -370,6 +364,12 @@
       },
       {
         "title": "大哥小助理",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -501,13 +501,13 @@
     ],
     "腾讯视频": [
       {
-        "title": "地球超新鲜 第2季",
+        "title": "心动的信号 第九季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动的信号 第九季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,25 +563,31 @@
     ],
     "芒果TV": [
       {
-        "title": "密室大逃脱 第八季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "不想睡的星期五",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "心动双重奏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,25 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼角色番综·耀眼一夏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "超棒的我们2",
+        "title": "耀眼角色番综·耀眼一夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动双重奏",
+        "title": "超棒的我们2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
