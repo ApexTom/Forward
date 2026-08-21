@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T00:27:18.325+08:00",
+  "last_updated": "2026-08-22T00:25:03.348+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.885,
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.982,
+      "rating": 7.99,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.227,
+      "rating": 8.229,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.235,
+      "rating": 9.2,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
       "releaseDate": "2025-02-28",
-      "rating": 8.07,
+      "rating": 8.068,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.12,
+      "rating": 8.121,
       "mediaType": "movie"
     },
     {
@@ -158,6 +158,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1567937,
+      "type": "tmdb",
+      "title": "空枪",
+      "originalTitle": "空枪",
+      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1499071,
       "type": "tmdb",
       "title": "寒战1994",
@@ -170,15 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1567937,
+      "id": 1563614,
       "type": "tmdb",
-      "title": "空枪",
-      "originalTitle": "空枪",
-      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 0,
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -203,18 +215,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
       "releaseDate": "2026-08-07",
       "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -244,6 +244,18 @@
   ],
   "upcoming": [
     {
+      "id": 1288445,
+      "type": "tmdb",
+      "title": "怒之杀",
+      "originalTitle": "Mutiny",
+      "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+      "releaseDate": "2026-09-04",
+      "rating": 6.9,
+      "mediaType": "movie"
+    },
+    {
       "id": 278,
       "type": "tmdb",
       "title": "肖申克的救赎",
@@ -256,15 +268,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1288445,
+      "id": 414419,
       "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 7.6,
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.121,
       "mediaType": "movie"
     },
     {
@@ -280,25 +292,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.12,
-      "mediaType": "movie"
-    },
-    {
       "id": 1716541,
       "type": "tmdb",
       "title": "我想留在你身边",
       "originalTitle": "我想留在你身边",
       "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
       "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "backdropPath": null,
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
       "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
