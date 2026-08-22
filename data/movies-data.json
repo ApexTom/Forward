@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T00:25:03.348+08:00",
+  "last_updated": "2026-08-23T00:16:14.526+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.9,
+      "rating": 7.894,
       "mediaType": "movie"
     },
     {
@@ -20,9 +20,9 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.99,
+      "rating": 7.992,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.229,
+      "rating": 8.227,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.5,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.2,
+      "rating": 9.222,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
       "releaseDate": "2025-02-28",
-      "rating": 8.068,
+      "rating": 8.069,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "releaseDate": "2026-08-05",
+      "rating": 3.8,
       "mediaType": "movie"
     },
     {
@@ -106,19 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.91,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kOzUhvsHq7Thcj3nZLgrghOZagq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "releaseDate": "2026-08-05",
-      "rating": 3,
+      "rating": 6.911,
       "mediaType": "movie"
     },
     {
@@ -127,10 +127,10 @@
       "title": "杀死比尔：血色全传",
       "originalTitle": "Kill Bill: The Whole Bloody Affair",
       "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.121,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -146,18 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1633056,
-      "type": "tmdb",
-      "title": "八仙！",
-      "originalTitle": "八仙！",
-      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 8,
-      "mediaType": "movie"
-    },
-    {
       "id": 1567937,
       "type": "tmdb",
       "title": "空枪",
@@ -166,7 +154,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 0,
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1633056,
+      "type": "tmdb",
+      "title": "八仙！",
+      "originalTitle": "八仙！",
+      "description": "“八仙”在成仙和成功之间选择了“成团”，在搞钱和搞事业之间选择了“搞事情”？！八个身份各异的凡人因不同机缘稀里糊涂凑在了蓬莱仙境，有人临时起意有人开团秒跟，开起道观过足了“神仙”瘾！面对蓬莱百姓主打一个“有求必应”，草台班子的外壳下却暗藏着“瞒天过海”的胆识。怎料一个惊天阴谋正悄咪咪朝他们砸过来，这场啼笑皆非的奇幻之旅，最终会走向何处呢？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ds5F1KKB1co55NXqS5rpioWA4z1.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lMK3FnMfQ9O3DiC7hi4J2XBzNf.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.947,
       "mediaType": "movie"
     },
     {
@@ -182,6 +182,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1630030,
+      "type": "tmdb",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 5.5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1563614,
       "type": "tmdb",
       "title": "不想失去你",
@@ -191,18 +203,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
       "releaseDate": "2026-08-19",
       "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1670314,
+      "id": 1713529,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "releaseDate": "2026-08-01",
-      "rating": 0,
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
       "mediaType": "movie"
     }
   ],
@@ -250,9 +250,9 @@
       "originalTitle": "Mutiny",
       "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.9,
+      "rating": 6.687,
       "mediaType": "movie"
     },
     {
@@ -273,10 +273,10 @@
       "title": "杀死比尔：血色全传",
       "originalTitle": "Kill Bill: The Whole Bloody Affair",
       "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗——完全以导演原本意图呈现，并包含一段前所未见的新动画片段。乌玛·瑟曼饰演“新娘”，她在婚礼排练时遭前老板兼情人比尔伏击，头部中枪，未出生的孩子被夺走，人被弃之不顾。为复仇，她必须先猎杀“致命毒蛇暗杀小队”剩余的四名成员，最后再与比尔本人对决。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lmmtfbvRPPnBJc9lXU1PgfRoElh.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.121,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
