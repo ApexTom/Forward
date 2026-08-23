@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T00:16:14.526+08:00",
+  "last_updated": "2026-08-24T00:17:26.188+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.894,
+      "rating": 7.901,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.992,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.227,
+      "rating": 8.225,
       "mediaType": "movie"
     },
     {
@@ -50,18 +50,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 9.222,
-      "mediaType": "movie"
-    },
-    {
       "id": 1185806,
       "type": "tmdb",
       "title": "汪汪队立大功大电影3：勇闯恐龙岛",
@@ -70,7 +58,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7,
+      "rating": 7.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1391021,
+      "type": "tmdb",
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 9.263,
       "mediaType": "movie"
     },
     {
@@ -98,18 +98,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "releaseDate": "2026-08-05",
-      "rating": 3.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 26466,
       "type": "tmdb",
       "title": "恐怖游轮",
@@ -118,7 +106,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.911,
+      "rating": 6.909,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
+      "releaseDate": "2026-08-05",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -154,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 7,
+      "rating": 6.5,
       "mediaType": "movie"
     },
     {
@@ -218,6 +218,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "releaseDate": "2026-08-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1305665,
       "type": "tmdb",
       "title": "群星闪耀时",
@@ -227,18 +239,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
       "releaseDate": "2026-07-25",
       "rating": 6.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1713529,
-      "type": "tmdb",
-      "title": "想你了",
-      "originalTitle": "想你了",
-      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.687,
+      "rating": 6.684,
       "mediaType": "movie"
     },
     {
@@ -260,11 +260,11 @@
       "type": "tmdb",
       "title": "肖申克的救赎",
       "originalTitle": "The Shawshank Redemption",
-      "description": "安迪·杜佛兰被错判谋杀妻子及其情人，在缅因州肖申克服刑，判处两项无期徒刑接连执行。影片背景设定于1940年代，展现安迪如何在残酷的监狱环境中艰难求生，甚至赢得狱友们的敬重——尤其是与老囚徒“瑞德”·雷丁之间深厚的友谊。",
+      "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.728,
+      "rating": 8.7,
       "mediaType": "movie"
     },
     {
@@ -299,6 +299,18 @@
       "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
       "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
       "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
@@ -348,18 +360,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
     }
