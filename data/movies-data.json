@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T00:29:07.017+08:00",
+  "last_updated": "2026-08-26T00:29:00.963+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.901,
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.998,
+      "rating": 7.992,
       "mediaType": "movie"
     },
     {
@@ -31,10 +31,10 @@
       "title": "痴迷",
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.219,
+      "rating": 8.213,
       "mediaType": "movie"
     },
     {
@@ -43,34 +43,10 @@
       "title": "逃出绝命街",
       "originalTitle": "The End of Oak Street",
       "description": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
       "rating": 6.39,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 7.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 9.263,
       "mediaType": "movie"
     },
     {
@@ -82,7 +58,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "releaseDate": "2026-08-15",
-      "rating": 8.12,
+      "rating": 8.121,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 7.1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1391021,
+      "type": "tmdb",
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 9.3,
       "mediaType": "movie"
     },
     {
@@ -106,19 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/JPF79YnhjuVP545OLYli4w6gq1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rlVpm5r7vZYyU9JHWf9UGOVDo5M.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 6.9,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zByhNXeL7JpyNgLETSZipb8NKxr.jpg",
-      "releaseDate": "2026-08-05",
-      "rating": 4,
+      "rating": 6.911,
       "mediaType": "movie"
     },
     {
@@ -134,15 +122,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1541125,
+      "id": 1748007,
       "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 7,
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
+      "releaseDate": "2026-08-05",
+      "rating": 3.75,
       "mediaType": "movie"
     },
     {
@@ -155,6 +143,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "releaseDate": "2026-08-19",
       "rating": 6.3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1541125,
+      "type": "tmdb",
+      "title": "年会不能停！2",
+      "originalTitle": "年会不能停！2",
+      "description": "　　众和集团分公司的小组长刘奔（张若昀 饰），遇到了曾经在年会上大出风头的马杰（白客 饰），两个人一起开启了奇葩的职场之旅，寻找到了自己真正的价值。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/y5oPzKYE2tEoySlN4Bd6ZBP78QU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -182,18 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 5.5,
-      "mediaType": "movie"
-    },
-    {
       "id": 1563614,
       "type": "tmdb",
       "title": "不想失去你",
@@ -203,6 +191,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
       "releaseDate": "2026-08-19",
       "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1630030,
+      "type": "tmdb",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 5.5,
       "mediaType": "movie"
     },
     {
@@ -218,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1670314,
-      "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5uRimjnIi842IrS1i8yd3ic7rzG.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
-      "releaseDate": "2026-08-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1305665,
       "type": "tmdb",
       "title": "群星闪耀时",
@@ -239,6 +227,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
       "releaseDate": "2026-07-25",
       "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1713529,
+      "type": "tmdb",
+      "title": "想你了",
+      "originalTitle": "想你了",
+      "description": "从小时候相见时的“一眼定情”，再到长大后从北闯南的相伴同行，一路跌宕快乐走过二十余载，两人是彼此主动选择的“家人。高凡会和汪美丽分享她全部的野心与秘密，高凡会让汪美丽陪她度过一切重要的时刻，高凡会永远站在汪美丽这边……最重要的是，高凡会和汪美丽做一辈子的朋友，很长很长的那种，一辈子的朋友。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/64yW6hfYE863s5KZVaMFiP0sbWb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2UC691pg5qNavMThV3e903BbkCy.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7,
       "mediaType": "movie"
     }
   ],
@@ -250,9 +250,9 @@
       "originalTitle": "Mutiny",
       "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.6,
+      "rating": 6.61,
       "mediaType": "movie"
     },
     {
@@ -292,18 +292,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1716541,
-      "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1550321,
       "type": "tmdb",
       "title": "浪花儿",
@@ -316,14 +304,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1444590,
+      "id": 1716541,
       "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "releaseDate": "2026-09-05",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -337,6 +325,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
       "releaseDate": "2026-09-12",
       "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "releaseDate": "2026-09-05",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -360,6 +360,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
       "releaseDate": "2026-08-28",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 736212,
+      "type": "tmdb",
+      "title": "歌声缘何慢半拍",
+      "originalTitle": "歌声缘何慢半拍",
+      "description": "少小离家老大回，乡音无改鬓毛衰。离开故乡多年后，军胜踏上回家的归途。年近五 十的军胜家住河南安阳一个村庄，多年后已经发生了近乎沧海桑田的变化。他在众人的围观中见到了老母亲，心有愧疚的军胜拉着母亲给去世的父亲上坟。他去镇上给母亲买来烧鸡，为母亲排忧解难。在和本村村民的相处中，军胜浪荡的个性逐渐消退，他开始认真思考自己的下半生。在亲戚的帮助下，军胜得到了一个在小学工作的机会。在工作中，军胜获得了精神上的尊重和满足。伴随着新农村的建设，老学校搬迁到新校址。军胜的学校生涯告一段落，他接受了生活给他新的安排，又一次离开家乡满怀希望。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/h8nBh0SSDOMtZsDZBBPp6zhYIxP.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4JELCsRY1nCeomckhZa5waPixtE.jpg",
+      "releaseDate": "2026-09-08",
       "rating": 0,
       "mediaType": "movie"
     }
