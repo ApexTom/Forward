@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T20:42:11.356+08:00",
+  "last_updated": "2026-08-27T03:42:58.270+08:00",
   "tv": {
     "全网": [
       {
@@ -21,7 +21,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "九门",
+        "title": "早春晴朗",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -33,13 +33,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "师兄太稳健",
+        "title": "九门",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "早春晴朗",
+        "title": "师兄太稳健",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -57,13 +57,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       }
     ],
     "优酷": [
+      {
+        "title": "早春晴朗",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
       {
         "title": "九门",
         "description": "暂无简介",
@@ -72,12 +78,6 @@
       },
       {
         "title": "师兄太稳健",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "早春晴朗",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -157,6 +157,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "醒来",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
@@ -176,12 +182,6 @@
       },
       {
         "title": "能有多大事",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -213,13 +213,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -231,7 +231,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "飞到我心上",
+        "title": "好好的时光",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -322,6 +322,12 @@
       },
       {
         "title": "食神·百厨大战",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,12 +351,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -363,13 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -401,13 +401,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天籁与少年",
+        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "短剧X家族",
+        "title": "天籁与少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,6 +563,12 @@
     ],
     "芒果TV": [
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -570,12 +576,6 @@
       },
       {
         "title": "舞蹈新风暴",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,25 +599,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "不想睡的星期五",
+        "title": "滚烫夜话",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "滚烫夜话",
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "手信集·青岛篇",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
