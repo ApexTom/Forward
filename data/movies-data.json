@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T00:43:52.690+08:00",
+  "last_updated": "2026-08-28T08:43:02.305+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.9,
+      "rating": 7.885,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.993,
+      "rating": 7.985,
       "mediaType": "movie"
     },
     {
@@ -31,10 +31,10 @@
       "title": "痴迷",
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.21,
+      "rating": 8.209,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.401,
+      "rating": 6.345,
       "mediaType": "movie"
     },
     {
@@ -56,7 +56,7 @@
       "originalTitle": "The Shawshank Redemption",
       "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
       "rating": 8.728,
       "mediaType": "movie"
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7.1,
+      "rating": 7.061,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.1,
+      "rating": 8.124,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
       "releaseDate": "2026-08-05",
-      "rating": 3.6,
+      "rating": 4.1,
       "mediaType": "movie"
     },
     {
@@ -182,18 +182,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -218,6 +206,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1563614,
+      "type": "tmdb",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1305665,
       "type": "tmdb",
       "title": "群星闪耀时",
@@ -227,18 +227,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
       "releaseDate": "2026-07-25",
       "rating": 6.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1745822,
-      "type": "tmdb",
-      "title": "最小的大片",
-      "originalTitle": "最小的大片",
-      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-08-17",
-      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.5,
+      "rating": 6.427,
       "mediaType": "movie"
     },
     {
@@ -264,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zLYltuy90xdkrHM9RVNqIPDrcuI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 10,
+      "rating": 5.6,
       "mediaType": "movie"
     },
     {
@@ -276,7 +264,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.1,
+      "rating": 8.124,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -292,14 +292,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1716541,
+      "id": 1444590,
       "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "releaseDate": "2026-09-12",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "releaseDate": "2026-09-05",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -328,13 +328,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1444590,
+      "id": 1086176,
       "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-05",
       "rating": 0,
       "mediaType": "movie"
