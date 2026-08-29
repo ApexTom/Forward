@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T08:43:02.305+08:00",
+  "last_updated": "2026-08-29T08:20:11.685+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -8,9 +8,9 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.885,
+      "rating": 7.887,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.985,
+      "rating": 7.983,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.209,
+      "rating": 8.207,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.345,
+      "rating": 6.36,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.728,
+      "rating": 8.7,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7.061,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -86,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1391021,
-      "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 9.3,
-      "mediaType": "movie"
-    },
-    {
       "id": 823219,
       "type": "tmdb",
       "title": "猫猫的奇幻漂流",
@@ -110,6 +98,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1391021,
+      "type": "tmdb",
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 9.3,
+      "mediaType": "movie"
+    },
+    {
       "id": 414419,
       "type": "tmdb",
       "title": "杀死比尔：血色全传",
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.124,
+      "rating": 8.123,
       "mediaType": "movie"
     },
     {
@@ -178,7 +178,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/9C3ZxhGJvdpxmNC5PhkBMwzTMRT.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.5,
+      "rating": 6.526,
       "mediaType": "movie"
     },
     {
@@ -194,18 +194,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1724637,
-      "type": "tmdb",
-      "title": "去你的岛",
-      "originalTitle": "去你的岛",
-      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。　",
-      "posterPath": "https://image.tmdb.org/t/p/w500/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1563614,
       "type": "tmdb",
       "title": "不想失去你",
@@ -218,15 +206,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1305665,
+      "id": 1724637,
       "type": "tmdb",
-      "title": "群星闪耀时",
-      "originalTitle": "群星闪耀时",
-      "description": "2035年，三名中国航天员在返回地球途中突遇险情，与地面指挥中心彻底失去联系。就在希望破灭的绝境中，意外收到一条来自1970的神秘信号，他们该如何求救？隔着65年的科技鸿沟，过去能否拯救未来……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/w5Y6E3SaPKkn4eKAWATFCyY1STx.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoFS0sfNHQGnR8eQXMJuicAt2Qh.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 6.5,
+      "title": "去你的岛",
+      "originalTitle": "去你的岛",
+      "description": "影片改编自番大王的同名网络小说。面包店老板王结香被一只千纸鹤带到一座神奇的小岛上，与变成兔子的失忆前男友殷显一同闯关冒险，找回殷显过去的记忆。在最后一个小屋里，他们重新经历了从相遇到分手的全过程。王结香终于放下心结，与殷显好好告别。　",
+      "posterPath": "https://image.tmdb.org/t/p/w500/goewchMbcsmo8xtM4tvTHpKA4oB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1745822,
+      "type": "tmdb",
+      "title": "最小的大片",
+      "originalTitle": "最小的大片",
+      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-17",
+      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.427,
+      "rating": 6.406,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zLYltuy90xdkrHM9RVNqIPDrcuI.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 5.6,
+      "rating": 4.5,
       "mediaType": "movie"
     },
     {
@@ -292,15 +292,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1444590,
+      "id": 1414620,
       "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "releaseDate": "2026-09-05",
-      "rating": 0,
+      "title": "偷偷喜欢你",
+      "originalTitle": "夏日最後的祕密",
+      "description": "苏明仪暗恋同校的颜立尧很久了，没想到分班后成为同学，颜立尧不受拘束的性格让他经常被风纪股长苏明仪「记名字」，记着记着，同时也在心里刻下了不可磨灭的印记，殊不知，卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当别人还在挥霍青春，年少的三人被迫提早面对人生的课题。 「其实，我早就喜欢你，只是不敢告诉你」…故事线长达10年，懵懂的他们各自把秘密埋在心底，直到真正变成大人的那一天。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zpjxEGMJLSkw1XdER24dw27HOfj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -316,25 +316,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1414620,
+      "id": 1444590,
       "type": "tmdb",
-      "title": "偷偷喜欢你",
-      "originalTitle": "夏日最後的祕密",
-      "description": "苏明仪暗恋同校的颜立尧很久了，没想到分班后成为同学，颜立尧不受拘束的性格让他经常被风纪股长苏明仪「记名字」，记着记着，同时也在心里刻下了不可磨灭的印记，殊不知，卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当别人还在挥霍青春，年少的三人被迫提早面对人生的课题。 「其实，我早就喜欢你，只是不敢告诉你」…故事线长达10年，懵懂的他们各自把秘密埋在心底，直到真正变成大人的那一天。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zpjxEGMJLSkw1XdER24dw27HOfj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": null,
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
       "releaseDate": "2026-09-05",
       "rating": 0,
       "mediaType": "movie"
