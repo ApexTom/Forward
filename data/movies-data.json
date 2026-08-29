@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T08:20:11.685+08:00",
+  "last_updated": "2026-08-30T03:04:52.560+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -8,9 +8,9 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "description": "重建普通生活后，彼得一边在大学完成学业、一边从事兼职以维持生计，同时仍肩负着守护纽约街头的蜘蛛侠责任。然而，当一个神秘力量从内部腐蚀这座城市的安全与秩序，彼得被迫再次披上战衣。他必须在强大的敌人与昔日纽带之间找到平衡，并重新定义英雄的意义。",
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.887,
+      "rating": 7.889,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.983,
+      "rating": 7.986,
       "mediaType": "movie"
     },
     {
@@ -31,10 +31,10 @@
       "title": "痴迷",
       "originalTitle": "Obsession",
       "description": "在折断神秘的“心愿柳”以赢得暗恋对象的心之后，一个对爱情充满幻想的人如愿以偿地得到了自己想要的一切，但很快他发现，有些欲望需要付出黑暗而可怕的代价。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5kNrhOgyREvm62H0rG1tuSrzirR.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-07-24",
-      "rating": 8.207,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.36,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -58,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 7.1,
+      "rating": 8.728,
       "mediaType": "movie"
     },
     {
@@ -86,15 +74,39 @@
       "mediaType": "movie"
     },
     {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
+      "releaseDate": "2026-09-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1185806,
+      "type": "tmdb",
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 7.1,
+      "mediaType": "movie"
+    },
+    {
       "id": 823219,
       "type": "tmdb",
       "title": "猫猫的奇幻漂流",
       "originalTitle": "Straume",
       "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
       "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4XPNNt0zfZKBqxxVWaQALd57UHl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
       "releaseDate": "2025-02-28",
-      "rating": 8.068,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -106,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.3,
+      "rating": 9.333,
       "mediaType": "movie"
     },
     {
@@ -118,19 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.123,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "releaseDate": "2026-08-05",
-      "rating": 4.1,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -143,6 +143,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
       "releaseDate": "2026-08-28",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
+      "releaseDate": "2026-08-05",
+      "rating": 4.1,
       "mediaType": "movie"
     },
     {
@@ -174,11 +186,23 @@
       "type": "tmdb",
       "title": "寒战1994",
       "originalTitle": "寒戰1994",
-      "description": "　　1994年，香港一宗富豪绑架案，掀起各界暗涌风潮，金融中心的地位亦随即受创。调查期间，警队众人各怀鬼胎，为名利攀附权贵。面对各种挑战，O记警司李文彬以身犯险游走各界，势要揭露真相，维护香港繁荣稳定。",
+      "description": "2017年，李文彬突然失踪，与此同时，蔡元祺在英国遭到暗杀。为了查明两起事件背后的关联，刘杰辉向简奥伟寻求帮助，一份尘封多年的1994年档案也由此被重新打开。时间回到香港回归前夕，随着政治部即将解散，一宗震动全城的富商绑架案将年轻的O记警司李文彬与蔡元祺卷入其中。案件背后，英方、警队、富商与黑道等多方势力彼此角力，在权力即将重新洗牌的时代节点，各方都试图为自己争取位置。随着调查深入，李文彬与蔡元祺之间的分歧也逐渐扩大，而这段发生在1994年的往事，似乎与多年后的“寒战”风波有着更深的联系……",
       "posterPath": "https://image.tmdb.org/t/p/w500/9C3ZxhGJvdpxmNC5PhkBMwzTMRT.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/92W00NvclecWWsXDjCwr5f23KSk.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.526,
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1306055,
+      "type": "tmdb",
+      "title": "数到三",
+      "originalTitle": "数到三",
+      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kRlgxkA83z6atla0BRcTxHZRFtf.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-08-28",
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -194,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -215,18 +227,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
       "releaseDate": "2026-08-07",
       "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1745822,
-      "type": "tmdb",
-      "title": "最小的大片",
-      "originalTitle": "最小的大片",
-      "description": "讲述都市小女孩王最小暑假来到乡村，与独居老木匠爷爷王大片同住，两代人从冲突不断到签下《关爱合约》互相约束，在一整个夏天的朝夕相伴中彼此治愈、共同成长的暖心故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/LKfeiBtdrcrldPVbFqmHOVpPqp.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-08-17",
-      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.406,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -249,10 +249,10 @@
       "title": "坠落2：死点",
       "originalTitle": "Fall 2: Deadpoint",
       "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zLYltuy90xdkrHM9RVNqIPDrcuI.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 4.5,
+      "releaseDate": "2026-09-01",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.124,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -276,6 +276,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
       "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "releaseDate": "2026-09-05",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -316,15 +328,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1444590,
+      "id": 592402,
       "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "title": "大熊雨林",
+      "originalTitle": "Great Bear Rainforest: Land of the Spirit Bear",
+      "description": "　　这里是世界上最原始最原生态的一片雨林，被悉心的保护和照料，这里也是这些动物们未被打扰的家园。大熊雨林位于加拿大不列颠哥伦比亚省的太平洋海岸，是世界上最后一片完整的温带雨林，占地640万公顷，也是世界上最大的沿海温带雨林。几千年以来，这里一直受到当地的土著民的保护，这部影片中，我们将在IMAX的巨幕之下，跟着拍摄团队，第一次走进这片未被打扰的隐藏地带，探寻美洲狮、灰熊、鲑鱼、海岸狼、还她等野生动物，还有最稀有的熊-白灵熊，也叫做克默德熊。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/afV7qZCZADQJe10JeUjBcpYvkCZ.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-05",
-      "rating": 0,
+      "rating": 8,
       "mediaType": "movie"
     },
     {
