@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T04:20:19.235+08:00",
+  "last_updated": "2026-08-30T11:22:45.604+08:00",
   "tv": {
     "全网": [
       {
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "蝉",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,13 +163,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -207,13 +207,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "蝉",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -231,13 +231,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "邻人可疑",
+        "title": "人鱼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "人鱼",
+        "title": "邻人可疑",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "好好的时光",
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -327,13 +327,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,13 +351,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "一饭封神2",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -369,7 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "喜剧之王单口季 第三季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -401,13 +401,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "短剧X家族",
+        "title": "她的房间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "她的房间",
+        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -445,13 +445,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -501,13 +501,13 @@
     ],
     "腾讯视频": [
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -569,25 +569,37 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026 训练室全纪录",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
+        "title": "不想睡的星期五",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "不想睡的星期五",
+        "title": "披荆斩棘2026 训练室全纪录",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "中餐厅·南洋拾光季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -606,18 +618,6 @@
       },
       {
         "title": "飞行嘉宾",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "耀眼角色番综·耀眼一夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
