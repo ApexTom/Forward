@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T19:09:08.334+08:00",
+  "last_updated": "2026-08-30T23:57:27.185+08:00",
   "tv": {
     "全网": [
       {
@@ -27,13 +27,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "藏锋",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "藏锋",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -225,25 +225,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "法医秦明之蚀骨时差",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "盲盒",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "邻人可疑",
+        "title": "法医秦明之蚀骨时差",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "人鱼",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "邻人可疑",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -269,13 +269,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "汪汪队之小砾与工程家族 第三季",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "御廷谣",
+        "title": "汪汪队之小砾与工程家族 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -315,13 +315,13 @@
   "show": {
     "全网": [
       {
-        "title": "大哥小助理",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "大哥小助理",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -401,12 +401,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "短剧X家族",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "她的房间",
         "description": "暂无简介",
         "type": "maoyan",
@@ -414,6 +408,12 @@
       },
       {
         "title": "天籁与少年",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,13 +593,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
+        "title": "我家那闺女2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我家那闺女2026",
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
