@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T10:39:33.954+08:00",
+  "last_updated": "2026-09-02T18:31:37.060+08:00",
   "tv": {
     "全网": [
       {
@@ -9,13 +9,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "醒来",
+        "title": "花开锦绣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "花开锦绣",
+        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -39,13 +39,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "金色",
+        "title": "囧徒之预演告别",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "囧徒之预演告别",
+        "title": "金色",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,13 +175,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "能有多大事",
+        "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -201,13 +201,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "金色",
+        "title": "囧徒之预演告别",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "囧徒之预演告别",
+        "title": "金色",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -237,7 +237,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "人鱼",
+        "title": "法医秦明之蚀骨时差",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -281,13 +281,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "御廷谣",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -299,13 +299,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "你是迟来的欢喜",
+        "title": "汪汪队之小砾与工程家族 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "战旗如画",
+        "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,13 +333,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "披荆斩棘2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -358,12 +364,6 @@
       },
       {
         "title": "说唱巅峰对决2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "种地吧 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -419,13 +419,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "无限超越班 第四季",
+        "title": "开始奏乐开始舞",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始奏乐开始舞",
+        "title": "无限超越班 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -531,13 +531,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一路向海的少年",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "一路向海的少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,7 +563,7 @@
     ],
     "芒果TV": [
       {
-        "title": "密室大逃脱 第八季",
+        "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,37 +575,13 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "我家那闺女2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "披荆斩棘2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "忙忙碌碌寻宝藏2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "我们的宿舍2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "披荆斩棘2026 训练室全纪录",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "不想睡的星期五",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -617,7 +593,31 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "手信集·青岛篇",
+        "title": "披荆斩棘2026 训练室全纪录",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "不想睡的星期五",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "可以聊聊",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
