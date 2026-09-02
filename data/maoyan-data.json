@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T04:28:18.764+08:00",
+  "last_updated": "2026-09-02T10:39:33.954+08:00",
   "tv": {
     "全网": [
       {
@@ -157,13 +157,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,7 +175,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才，女友",
+        "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -281,7 +281,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "汪汪队之小砾与工程家族 第三季",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -299,13 +299,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "你是迟来的欢喜",
+        "title": "战旗如画",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -339,7 +339,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,13 +351,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,13 +469,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,7 +563,7 @@
     ],
     "芒果TV": [
       {
-        "title": "披荆斩棘2026",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,19 +575,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的宿舍2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我家那闺女2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "披荆斩棘2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "忙忙碌碌寻宝藏2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "我们的宿舍2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,19 +605,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "家乡美食大赛",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "不想睡的星期五",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "舞蹈新风暴 纯享版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
