@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T23:42:31.545+08:00",
+  "last_updated": "2026-09-04T04:26:01.972+08:00",
   "tv": {
     "全网": [
       {
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "金色",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "金色",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,6 +599,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "我们的宿舍2",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "我家那闺女2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -612,12 +618,6 @@
       },
       {
         "title": "可以聊聊",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱8 大神版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
