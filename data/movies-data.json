@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T03:01:45.163+08:00",
+  "last_updated": "2026-09-05T02:45:32.080+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.876,
+      "rating": 7.9,
       "mediaType": "movie"
     },
     {
@@ -20,9 +20,9 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/twiVn9oFXOVR0uoYgawyEBlnFu8.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.995,
+      "rating": 7.998,
       "mediaType": "movie"
     },
     {
@@ -42,11 +42,23 @@
       "type": "tmdb",
       "title": "肖申克的救赎",
       "originalTitle": "The Shawshank Redemption",
-      "description": "安迪·杜佛兰因被错判谋杀妻子及其情人，被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与瑞德建立起深厚的友谊。漫长的岁月里，他也开始用自己的方式改变身边的人，以及这座看似牢不可破的监狱。",
+      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.729,
+      "rating": 8.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/aBtS3yCWReAen3OefxBXedbArFI.jpg",
+      "releaseDate": "2026-09-01",
+      "rating": 5.7,
       "mediaType": "movie"
     },
     {
@@ -58,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.347,
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -71,18 +83,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "releaseDate": "2026-08-19",
       "rating": 6.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/g4wdPZlhVioK69H8Q0o9Id5QhNs.jpg",
-      "releaseDate": "2026-09-01",
-      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7.034,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -118,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.2,
+      "rating": 9.231,
       "mediaType": "movie"
     },
     {
@@ -130,7 +130,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
       "releaseDate": "2025-02-28",
-      "rating": 8.065,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -206,18 +206,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
-      "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
       "id": 1666219,
       "type": "tmdb",
       "title": "红闪电",
@@ -227,6 +215,18 @@
       "backdropPath": null,
       "releaseDate": "2026-09-05",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563614,
+      "type": "tmdb",
+      "title": "不想失去你",
+      "originalTitle": "不想失去你",
+      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -268,25 +268,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1716541,
+      "id": 1086176,
       "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1755840,
-      "type": "tmdb",
-      "title": "铁达妮的号",
-      "originalTitle": "铁达妮的号",
-      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -304,14 +292,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
+      "id": 1755840,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": null,
+      "title": "铁达妮的号",
+      "originalTitle": "铁达妮的号",
+      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
       "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -340,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1761217,
       "type": "tmdb",
       "title": "蝉衣",
@@ -360,18 +372,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
       "releaseDate": "2026-09-16",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
     }
