@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T22:29:30.698+08:00",
+  "last_updated": "2026-09-06T03:51:58.251+08:00",
   "tv": {
     "全网": [
       {
@@ -333,13 +333,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -419,13 +419,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "德云社郭德纲于谦相声专场上海站 2026",
+        "title": "开始奏乐开始舞",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始奏乐开始舞",
+        "title": "德云社郭德纲于谦相声专场上海站 2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -599,12 +599,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
@@ -612,6 +606,12 @@
       },
       {
         "title": "舞蹈新风暴 纯享版",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "伦敦合伙人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
