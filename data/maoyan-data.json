@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T17:53:43.151+08:00",
+  "last_updated": "2026-09-05T22:29:30.698+08:00",
   "tv": {
     "全网": [
       {
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的少年时代2",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "我们的少年时代2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -157,6 +157,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "雀骨",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
@@ -169,19 +175,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "南部档案",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "天才，女友",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -237,13 +237,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "盲盒",
+        "title": "夜语记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "兵自风中来",
+        "title": "盲盒",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -287,13 +287,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "良陈美锦",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "良陈美锦",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -363,13 +363,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一路向海的少年",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "一路向海的少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -569,19 +569,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "不想睡的星期五",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "花儿与少年 2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "不想睡的星期五",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,13 +587,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "中餐厅·南洋拾光季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "伦敦合伙人",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,7 +599,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "舞蹈新风暴",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "舞蹈新风暴 纯享版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
