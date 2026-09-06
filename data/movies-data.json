@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T01:51:36.472+08:00",
+  "last_updated": "2026-09-07T01:56:59.400+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.867,
+      "rating": 7.866,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 7.997,
+      "rating": 7.998,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.361,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/iKZev9OgfklidO8AvdrYlwung2o.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.729,
+      "rating": 8.73,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aBtS3yCWReAen3OefxBXedbArFI.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 6,
+      "rating": 6.7,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.341,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -98,18 +98,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1185806,
-      "type": "tmdb",
-      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
-      "originalTitle": "PAW Patrol: The Dino Movie",
-      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
-      "releaseDate": "2026-07-25",
-      "rating": 7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1391021,
       "type": "tmdb",
       "title": "欢迎来龙餐馆",
@@ -118,19 +106,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.214,
+      "rating": 9.29,
       "mediaType": "movie"
     },
     {
-      "id": 823219,
+      "id": 1185806,
       "type": "tmdb",
-      "title": "猫猫的奇幻漂流",
-      "originalTitle": "Straume",
-      "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
-      "releaseDate": "2025-02-28",
-      "rating": 8.064,
+      "title": "汪汪队立大功大电影3：勇闯恐龙岛",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "description": "一场突如其来的超强风暴，将莱德队长与汪汪队意外带到神秘恐龙岛，还邂逅了被困荒岛的新朋友小狗乐乐。与此同时，宿敌海丁那市长大肆采矿，不慎唤醒沉睡火山！岩浆喷涌、岛屿崩塌，恐龙岛陷入巨大危机。面对这场规模空前的惊险灾难，勇敢的汪汪队绝不退缩！狗狗们携手恐龙并肩作战，能否冲破险境、化解危机，守护恐龙岛？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+      "releaseDate": "2026-07-25",
+      "rating": 7.056,
       "mediaType": "movie"
     },
     {
@@ -143,6 +131,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
       "rating": 8.122,
+      "mediaType": "movie"
+    },
+    {
+      "id": 823219,
+      "type": "tmdb",
+      "title": "猫猫的奇幻漂流",
+      "originalTitle": "Straume",
+      "description": "这是一段关于友谊与生存的动人篇章，将独立动画的创作雄心与想象力推至令人惊叹的高度。这部荣获奥斯卡奖、风靡全球的作品，讲述了一只勇敢的猫在家园被大洪水摧毁后的故事。它与一只水豚、一只狐猴、一只小鸟和一只小狗结伴，共同驾驶小船寻找陆地。在这颗已然化为水世界的星球上，它们必须凭借信任、勇气与智慧渡过重重险境。凭借开源软件与小团队协作，富有远见的独立动画师金茨·齐尔巴洛迪斯营造了一场绝妙的感官之旅，深刻沉思了环境的脆弱与社群精神的真谛。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tn89woD33WgLgT7ZMUr1r47hnql.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
+      "releaseDate": "2025-02-28",
+      "rating": 8.063,
       "mediaType": "movie"
     },
     {
@@ -182,6 +182,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "releaseDate": "2026-09-05",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -203,18 +215,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/sUtCmlkUcup2aI10p5XxVELaFbg.jpg",
       "releaseDate": "2026-08-07",
       "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1666219,
-      "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-05",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.242,
       "mediaType": "movie"
     },
     {
@@ -360,6 +360,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
       "releaseDate": "2026-09-16",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1764816,
+      "type": "tmdb",
+      "title": "阴风诡影",
+      "originalTitle": "阴风诡影",
+      "description": "午夜墓场，女鬼爬出坟墓！阴风阵阵，鬼影飘飘，野火隐隐，怪鸟鸣叫，谁敢踏入阴阳交汇的追魂场？！当主人公午夜探路，寻找种种诡异真相，那狰狞鬼面突然出现，揪心鬼笑飘忽响起，夺命的利爪已经插入胸口！惨叫连连，鲜血四溅！是冤死的妻子诈尸还魂？还是内心的魔咒幻化成厉鬼？亦或是坟场的千年诅咒打开了怨灵的禁忌牢笼？午夜惊魂时刻，当恐怖鬼影现了真身，所有人必将不寒而栗！魂飞魄散！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/i1Zj0sXxEsWj7yOexeUILynnmIu.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
     }
