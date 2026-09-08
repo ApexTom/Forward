@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T03:32:06.169+08:00",
+  "last_updated": "2026-09-09T03:11:55.169+08:00",
   "now_playing": [
     {
       "id": 969681,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-29",
-      "rating": 7.868,
+      "rating": 7.864,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 8,
+      "rating": 7.999,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.363,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -56,7 +56,7 @@
       "originalTitle": "Fall 2: Deadpoint",
       "description": "痛失姐妹汉特之后，杰克斯与汉特那无畏的好友露斯再度重聚。为了抚平内心的伤痛，两人结伴前往泰国著名的坤山山脉徒步疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的3000英尺高空栈道上。面对死神的威胁，杰克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
       "rating": 6.8,
       "mediaType": "movie"
@@ -70,19 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a3rWaD4nbPlJ6kSOMO26j8fKS8a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.359,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1567937,
-      "type": "tmdb",
-      "title": "空枪",
-      "originalTitle": "空枪",
-      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 6.5,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -98,15 +86,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1391021,
+      "id": 1567937,
       "type": "tmdb",
-      "title": "欢迎来龙餐馆",
-      "originalTitle": "欢迎来龙餐馆",
-      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 9.219,
+      "title": "空枪",
+      "originalTitle": "空枪",
+      "description": "90年代初，这座“遍地黄金”的欲望之城，秩序崩坏，犯罪丛生。打工仔万梓强（朱一龙 饰）一心想改写命运，在结识空姐骆嘉苑（卫诗雅 饰）后，两人联手作案，劫取巨额钱款，这次得手让万梓强愈发疯狂，也将他与富商陈辉延（梁家辉 饰）推向了更深的角力漩涡中。与此同时，内地警察亓宏刚（檀健次 饰）和香港警察关苏辰（李施嬅 饰）坚持对万梓强进行调查，两地警方联手行动，正邪较量一触即发。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
+      "releaseDate": "2026-08-19",
+      "rating": 6.5,
       "mediaType": "movie"
     },
     {
@@ -118,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/v5eNuyj8lj6YYrPBxQfebn7yI1v.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
       "releaseDate": "2026-07-25",
-      "rating": 7.1,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -131,6 +119,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
       "rating": 8.1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1391021,
+      "type": "tmdb",
+      "title": "欢迎来龙餐馆",
+      "originalTitle": "欢迎来龙餐馆",
+      "description": "徐福为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 9.242,
       "mediaType": "movie"
     },
     {
@@ -158,18 +158,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1748007,
-      "type": "tmdb",
-      "title": "牛来",
-      "originalTitle": "牛来",
-      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
-      "releaseDate": "2026-08-05",
-      "rating": 4.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 1541125,
       "type": "tmdb",
       "title": "年会不能停！2",
@@ -179,6 +167,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
       "releaseDate": "2026-07-24",
       "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1748007,
+      "type": "tmdb",
+      "title": "牛来",
+      "originalTitle": "牛来",
+      "description": "来自枯竭荒漠的云雀，误入一头初生牛犊的梦境，在梦的疆域里，没有时间，只有反复降临的召唤：地脉的低鸣、旧兽残息、未曾落下暴雨。  云雀静默旁观，见证“牛来”在多重力量的拉扯中，从懵懂走向承担——不是成为英雄，而是学会在生死面前不退，这是一部以极简笔触构建的成长寓言：荒原即内心，梦境即试炼，迈出的那一步，即是全部答案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eum2kcqFr665SgnFulgO7b2lRwW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xVZBG9LgFfbUbP6RJDKCO3emUK7.jpg",
+      "releaseDate": "2026-08-05",
+      "rating": 4.071,
       "mediaType": "movie"
     },
     {
@@ -218,15 +218,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563614,
+      "id": 1666219,
       "type": "tmdb",
-      "title": "不想失去你",
-      "originalTitle": "不想失去你",
-      "description": "阿杰（黄曦彦 饰）曾是辍学两年的街头混混，人生写满了“没出息”；小光（张祎曈 饰）是活在自己安静世界里的少女，与喧嚣人世始终隔着一道无声的墙。一场强制的保安工作，让两条平行线意外交汇。爱让混世魔王变身专属骑士，也让沉默的少女第一次为爱勇敢发声。两个不被看好的人，一段不被看好的爱情，却成了彼此黑暗世界里唯一且最亮的光——“全世界都当我不存在，只有他，拼命想听见我的声音。”",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sEToT1BczP1hmVEkpHS1vURtNVn.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kruK1J1nDjUqXHgvEBr7uFj8QC7.jpg",
-      "releaseDate": "2026-08-19",
-      "rating": 5,
+      "title": "红闪电",
+      "originalTitle": "红闪电",
+      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-05",
+      "rating": 0,
       "mediaType": "movie"
     }
   ],
@@ -252,18 +252,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -304,6 +292,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1414620,
       "type": "tmdb",
       "title": "偷偷喜欢你",
@@ -313,18 +313,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
       "releaseDate": "2026-09-12",
       "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -340,6 +328,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1550321,
+      "type": "tmdb",
+      "title": "浪花儿",
+      "originalTitle": "浪花儿",
+      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1761208,
       "type": "tmdb",
       "title": "主场",
@@ -348,6 +348,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jAnLfmu4jeydpOjIgQY2FmQw10i.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/d1ZFcViaWkMIkLsVQwhbYciyd6D.jpg",
       "releaseDate": "2026-09-16",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1764816,
+      "type": "tmdb",
+      "title": "阴风诡影",
+      "originalTitle": "阴风诡影",
+      "description": "午夜墓场，女鬼爬出坟墓！阴风阵阵，鬼影飘飘，野火隐隐，怪鸟鸣叫，谁敢踏入阴阳交汇的追魂场？！当主人公午夜探路，寻找种种诡异真相，那狰狞鬼面突然出现，揪心鬼笑飘忽响起，夺命的利爪已经插入胸口！惨叫连连，鲜血四溅！是冤死的妻子诈尸还魂？还是内心的魔咒幻化成厉鬼？亦或是坟场的千年诅咒打开了怨灵的禁忌牢笼？午夜惊魂时刻，当恐怖鬼影现了真身，所有人必将不寒而栗！魂飞魄散！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/i1Zj0sXxEsWj7yOexeUILynnmIu.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -372,18 +384,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
       "releaseDate": "2026-09-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1764816,
-      "type": "tmdb",
-      "title": "阴风诡影",
-      "originalTitle": "阴风诡影",
-      "description": "午夜墓场，女鬼爬出坟墓！阴风阵阵，鬼影飘飘，野火隐隐，怪鸟鸣叫，谁敢踏入阴阳交汇的追魂场？！当主人公午夜探路，寻找种种诡异真相，那狰狞鬼面突然出现，揪心鬼笑飘忽响起，夺命的利爪已经插入胸口！惨叫连连，鲜血四溅！是冤死的妻子诈尸还魂？还是内心的魔咒幻化成厉鬼？亦或是坟场的千年诅咒打开了怨灵的禁忌牢笼？午夜惊魂时刻，当恐怖鬼影现了真身，所有人必将不寒而栗！魂飞魄散！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/i1Zj0sXxEsWj7yOexeUILynnmIu.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
     }
