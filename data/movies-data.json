@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-09-09T03:11:55.169+08:00",
+  "last_updated": "2026-09-10T03:00:14.571+08:00",
   "now_playing": [
-    {
-      "id": 969681,
-      "type": "tmdb",
-      "title": "蜘蛛侠：崭新之日",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "description": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "releaseDate": "2026-07-29",
-      "rating": 7.864,
-      "mediaType": "movie"
-    },
     {
       "id": 1368337,
       "type": "tmdb",
@@ -20,7 +8,7 @@
       "originalTitle": "The Odyssey",
       "description": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
       "releaseDate": "2026-08-01",
       "rating": 7.999,
       "mediaType": "movie"
@@ -32,9 +20,9 @@
       "originalTitle": "Mutiny",
       "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.4,
+      "rating": 6.381,
       "mediaType": "movie"
     },
     {
@@ -58,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 6.8,
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -82,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "releaseDate": "2026-08-15",
-      "rating": 8.122,
+      "rating": 8.123,
       "mediaType": "movie"
     },
     {
@@ -94,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/rNqQQ3hFknhKpy8OTyGfzk7FY20.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/c1hrosrq2q56Afn7aZHJZqA1Dn6.jpg",
       "releaseDate": "2026-08-19",
-      "rating": 6.5,
+      "rating": 5.667,
       "mediaType": "movie"
     },
     {
@@ -130,7 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/zr7om0GOLOcLo7SXMmNEG5rz6de.jpg",
       "releaseDate": "2026-08-08",
-      "rating": 9.242,
+      "rating": 9.206,
       "mediaType": "movie"
     },
     {
@@ -155,18 +143,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
       "releaseDate": "2026-08-28",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1541125,
-      "type": "tmdb",
-      "title": "年会不能停！2",
-      "originalTitle": "年会不能停！2",
-      "description": "众和集团分公司小组长刘奔拼命工作，却屡屡遭遇功劳被抢、升职无望的职场困境；曾经在集团年会上大出风头的马杰则被降职下放，只想保住工作、安稳生活。两个职场失意者意外相遇，却又莫名陷入一场不断重来的时间循环：一旦失败，一切便会倒回原点。为了摆脱循环，也为了改变各自的职场命运，刘奔和马杰开始一次次重新选择，在反复试错中挑战那些看似牢不可破的职场规则。然而随着他们越走越远，这场荒诞循环背后的真正答案也逐渐浮出水面……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pD4ItmNxCXcXjAX4KNQLQCMHDjb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jXW4Gu7s96HB2KZf8Cb73SRGe9q.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 6.5,
       "mediaType": "movie"
     },
     {
@@ -206,6 +182,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1716541,
+      "type": "tmdb",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1724637,
       "type": "tmdb",
       "title": "去你的岛",
@@ -228,6 +216,18 @@
       "releaseDate": "2026-09-05",
       "rating": 0,
       "mediaType": "movie"
+    },
+    {
+      "id": 1658524,
+      "type": "tmdb",
+      "title": "怪屋",
+      "originalTitle": "怪屋",
+      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.241,
       "mediaType": "movie"
     },
     {
@@ -252,30 +252,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1716541,
-      "type": "tmdb",
-      "title": "我想留在你身边",
-      "originalTitle": "我想留在你身边",
-      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -304,15 +280,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1414620,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "偷偷喜欢你",
-      "originalTitle": "夏日最後的祕密",
-      "description": "苏明仪暗恋同校的颜立尧很久了，没想到分班后成为同学，颜立尧不受拘束的性格让他经常被风纪股长苏明仪「记名字」，记着记着，同时也在心里刻下了不可磨灭的印记，殊不知，卸下风纪的她，只是一个暗恋他许久的傻女孩罢了。当别人还在挥霍青春，年少的三人被迫提早面对人生的课题。 「其实，我早就喜欢你，只是不敢告诉你」…故事线长达10年，懵懂的他们各自把秘密埋在心底，直到真正变成大人的那一天。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zpjxEGMJLSkw1XdER24dw27HOfj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7VdX6cOziKP6DlQh3ZMLvqVSrFa.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 7,
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -324,18 +300,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
       "backdropPath": null,
       "releaseDate": "2026-09-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1550321,
-      "type": "tmdb",
-      "title": "浪花儿",
-      "originalTitle": "浪花儿",
-      "description": "雅琴，一心想看世界的女孩。王炯，把告白押注在事业上的男孩。两个刚毕业的朋友都想逃离原生家庭实现自我价值。但当不完美的自己和不完美的社会碰撞，当开朗成为面具，初心在现实里摇晃。这趟跌跌撞撞的成长，究竟会让他们变成什么样?",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uA62I5BzMVmqjyhsTMNtJkLOlO.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hLzr3vtvDCdlZJkr3cHJuB9uGGi.jpg",
-      "releaseDate": "2026-09-12",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -384,6 +348,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
       "releaseDate": "2026-09-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     }
