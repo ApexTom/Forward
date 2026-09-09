@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T23:50:27.566+08:00",
+  "last_updated": "2026-09-10T04:19:55.286+08:00",
   "tv": {
     "全网": [
       {
@@ -345,6 +345,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
@@ -364,12 +370,6 @@
       },
       {
         "title": "说唱巅峰对决2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -419,13 +419,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "短剧X家族",
+        "title": "德云社郭德纲于谦相声专场上海站 2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "德云社郭德纲于谦相声专场上海站 2026",
+        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -569,13 +569,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,13 +611,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
+        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "心动双重奏",
+        "title": "伦敦合伙人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
