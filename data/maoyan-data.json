@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T04:19:55.286+08:00",
+  "last_updated": "2026-09-10T10:53:26.267+08:00",
   "tv": {
     "全网": [
       {
@@ -21,25 +21,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "飞到我心上",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "深渊无间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "醒来",
+        "title": "飞到我心上",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "花开锦绣",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -72,6 +72,12 @@
       },
       {
         "title": "师兄太稳健",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "河神之渡阴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -114,12 +120,6 @@
       },
       {
         "title": "非份之罪",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "雨霖铃",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -169,12 +169,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "人生赢家",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "南部档案",
         "description": "暂无简介",
         "type": "maoyan",
@@ -182,6 +176,12 @@
       },
       {
         "title": "蝉",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "兵自风中来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -225,13 +225,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -243,7 +243,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这都不是事儿",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -257,12 +257,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "后西游记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我们的少年时代2",
         "description": "暂无简介",
         "type": "maoyan",
@@ -270,6 +264,12 @@
       },
       {
         "title": "能有多大事",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "后西游记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,7 +293,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "汪汪队之小砾与工程家族 第三季",
+        "title": "炽夏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -305,7 +305,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "炽夏",
+        "title": "你是迟来的欢喜",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -339,13 +339,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱 第八季",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -357,7 +351,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -370,6 +364,12 @@
       },
       {
         "title": "说唱巅峰对决2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,13 +469,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -507,13 +507,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "地球超新鲜 第2季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "地球超新鲜 第2季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -531,13 +531,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始推理吧第四季",
+        "title": "半熟恋人 第5季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "半熟恋人 第5季",
+        "title": "开始推理吧第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,19 +563,7 @@
     ],
     "芒果TV": [
       {
-        "title": "披荆斩棘2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "密室大逃脱 第八季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,7 +581,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "披荆斩棘2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "披荆斩棘2026 训练室全纪录",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,19 +605,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "哥哥来啦",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "伦敦合伙人",
+        "title": "哥哥来啦",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "滚烫夜话",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
