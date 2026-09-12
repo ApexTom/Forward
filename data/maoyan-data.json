@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T17:59:45.547+08:00",
+  "last_updated": "2026-09-12T22:54:58.825+08:00",
   "tv": {
     "全网": [
       {
@@ -45,13 +45,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花开锦绣",
+        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "醒来",
+        "title": "花开锦绣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -243,7 +243,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "夜语记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -257,25 +257,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "后西游记",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我们的少年时代2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "能有多大事",
+        "title": "后西游记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
         "title": "野狗骨头",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -299,13 +299,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "御廷谣",
+        "title": "良陈美锦",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "良陈美锦",
+        "title": "御廷谣",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -345,13 +345,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花儿与少年2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -363,13 +357,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一路向海的少年",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "花儿与少年2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "一路向海的少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -383,13 +383,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天赐的声音 第七季",
+        "title": "这是我的西游2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "这是我的西游2",
+        "title": "天赐的声音 第七季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -445,13 +445,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -513,13 +513,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -581,13 +581,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "不想睡的星期五",
+        "title": "披荆斩棘2026 训练室全纪录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026 训练室全纪录",
+        "title": "不想睡的星期五",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
