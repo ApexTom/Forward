@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15T05:23:23.034+08:00",
+  "last_updated": "2026-09-15T11:11:21.090+08:00",
   "tv": {
     "全网": [
       {
@@ -15,13 +15,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "深渊无间",
+        "title": "生逢其时",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "生逢其时",
+        "title": "深渊无间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -51,13 +51,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "醒来",
+        "title": "云雀叫天录",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -107,13 +107,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "悬案",
+        "title": "云秀行",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "云秀行",
+        "title": "悬案",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -127,13 +127,13 @@
     ],
     "爱奇艺": [
       {
-        "title": "深渊无间",
+        "title": "生逢其时",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "生逢其时",
+        "title": "深渊无间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,13 +163,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "蝉",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -219,13 +219,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "百花杀",
+        "title": "莫离",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "莫离",
+        "title": "百花杀",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -237,7 +237,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "金色",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -269,13 +269,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "野狗骨头",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "炽夏",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "野狗骨头",
+        "title": "天赐娘子·小镖师",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -288,18 +300,6 @@
       },
       {
         "title": "耀眼",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "炽夏",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "米良与麦青",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,13 +333,19 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
+        "title": "我家那闺女2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,25 +357,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "我家那闺女2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -389,13 +389,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "打歌2026·X舞台",
+        "title": "天赐的声音 第七季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天赐的声音 第七季",
+        "title": "打歌2026·X舞台",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -407,13 +407,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "开始奏乐开始舞",
+        "title": "天籁与少年",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天籁与少年",
+        "title": "开始奏乐开始舞",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -475,13 +475,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "打歌2026·X舞台",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "打歌2026·X舞台",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -513,13 +513,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "一饭封神2",
+        "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "脱口秀和Ta的朋友们第3季",
+        "title": "一饭封神2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,7 +563,7 @@
     ],
     "芒果TV": [
       {
-        "title": "披荆斩棘2026",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -575,7 +575,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "披荆斩棘2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "家乡美食大赛",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "花儿与少年2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "不想睡的星期五",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,31 +611,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "不想睡的星期五",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "博物馆夜行指“楠”",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "家乡美食大赛",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "披荆斩棘2026 训练室全纪录",
+        "title": "哥哥来啦",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
