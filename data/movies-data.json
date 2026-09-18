@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T03:28:48.515+08:00",
+  "last_updated": "2026-09-19T02:48:10.072+08:00",
   "now_playing": [
     {
       "id": 1101383,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.873,
+      "rating": 6.922,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 8.013,
+      "rating": 8.014,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.432,
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 6.727,
+      "rating": 6.811,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "releaseDate": "2026-08-15",
-      "rating": 8.124,
+      "rating": 8.1,
       "mediaType": "movie"
     },
     {
@@ -106,7 +106,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.119,
+      "rating": 8.114,
       "mediaType": "movie"
     },
     {
@@ -158,6 +158,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -167,6 +179,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "releaseDate": "2026-08-08",
       "rating": 5.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1666219,
+      "type": "tmdb",
+      "title": "红闪电",
+      "originalTitle": "红闪电",
+      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-05",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -182,38 +206,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1655500,
+      "id": 1303034,
       "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1764816,
-      "type": "tmdb",
-      "title": "阴风诡影",
-      "originalTitle": "阴风诡影",
-      "description": "午夜墓场，女鬼爬出坟墓！阴风阵阵，鬼影飘飘，野火隐隐，怪鸟鸣叫，谁敢踏入阴阳交汇的追魂场？！当主人公午夜探路，寻找种种诡异真相，那狰狞鬼面突然出现，揪心鬼笑飘忽响起，夺命的利爪已经插入胸口！惨叫连连，鲜血四溅！是冤死的妻子诈尸还魂？还是内心的魔咒幻化成厉鬼？亦或是坟场的千年诅咒打开了怨灵的禁忌牢笼？午夜惊魂时刻，当恐怖鬼影现了真身，所有人必将不寒而栗！魂飞魄散！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/i1Zj0sXxEsWj7yOexeUILynnmIu.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1666219,
-      "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-05",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.243,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -268,13 +268,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650896,
+      "id": 1439171,
       "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
@@ -292,13 +292,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1439171,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nACEnjkyAbcGwRd9OzyKFA4GmXa.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
@@ -328,18 +328,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1765410,
-      "type": "tmdb",
-      "title": "明月照他乡",
-      "originalTitle": "明月照他乡",
-      "description": "　　本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
-      "releaseDate": "2026-09-24",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1670314,
       "type": "tmdb",
       "title": "红孩儿火焰山之王",
@@ -352,14 +340,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1339597,
+      "id": 1765410,
       "type": "tmdb",
-      "title": "水东游",
-      "originalTitle": "水东游",
-      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
-      "releaseDate": "2026-09-23",
+      "title": "明月照他乡",
+      "originalTitle": "明月照他乡",
+      "description": "　　本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
+      "releaseDate": "2026-09-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563608,
+      "type": "tmdb",
+      "title": "什么意思夫妇",
+      "originalTitle": "什么意思夫妇",
+      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -376,14 +376,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563608,
+      "id": 1339597,
       "type": "tmdb",
-      "title": "什么意思夫妇",
-      "originalTitle": "什么意思夫妇",
-      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
+      "title": "水东游",
+      "originalTitle": "水东游",
+      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
+      "releaseDate": "2026-09-23",
       "rating": 0,
       "mediaType": "movie"
     }
