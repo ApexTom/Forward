@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T18:28:47.335+08:00",
+  "last_updated": "2026-09-18T23:44:29.244+08:00",
   "tv": {
     "全网": [
       {
@@ -33,19 +33,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "深渊无间",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "交锋",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "云雀叫天录",
+        "title": "深渊无间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -58,6 +52,12 @@
       },
       {
         "title": "花开锦绣",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "醒来",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -89,13 +89,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "河神之渡阴",
+        "title": "九门",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "九门",
+        "title": "河神之渡阴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -163,13 +163,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "师兄太稳健",
+        "title": "雀骨",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "雀骨",
+        "title": "师兄太稳健",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -219,13 +219,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "囧徒之预演告别",
+        "title": "藏锋",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "藏锋",
+        "title": "囧徒之预演告别",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -287,13 +287,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "耀眼",
+        "title": "后西游记",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "后西游记",
+        "title": "耀眼",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,6 +469,12 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "梦想改造家第13季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -476,12 +482,6 @@
       },
       {
         "title": "天才厨人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "梦想改造家第13季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -593,12 +593,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "家乡美食大赛",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
@@ -606,6 +600,12 @@
       },
       {
         "title": "打歌2026·X舞台",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
