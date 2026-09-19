@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T18:14:55.253+08:00",
+  "last_updated": "2026-09-19T23:16:07.273+08:00",
   "tv": {
     "全网": [
       {
@@ -15,13 +15,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "早春晴朗",
+        "title": "生逢其时",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "生逢其时",
+        "title": "早春晴朗",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -33,13 +33,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "交锋",
+        "title": "深渊无间",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "深渊无间",
+        "title": "交锋",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -157,13 +157,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "师兄太稳健",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "师兄太稳健",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,7 +333,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花儿与少年2026",
+        "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -351,7 +351,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
+        "title": "花儿与少年2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -369,7 +369,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -445,13 +445,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "说唱巅峰对决2026",
+        "title": "喜剧之王单口季 第三季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "喜剧之王单口季 第三季",
+        "title": "说唱巅峰对决2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,12 +469,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "梦想改造家第13季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
@@ -482,6 +476,12 @@
       },
       {
         "title": "姐姐当家第二季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "梦想改造家第13季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,6 +563,12 @@
     ],
     "芒果TV": [
       {
+        "title": "披荆斩棘2026",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "花儿与少年2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -593,31 +599,25 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "我家那闺女2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "密室大逃脱8 大神版",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "博物馆夜行指“楠”",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "打歌2026·X舞台",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "舞蹈新风暴",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
