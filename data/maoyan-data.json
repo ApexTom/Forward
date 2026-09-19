@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T23:16:07.273+08:00",
+  "last_updated": "2026-09-20T03:58:31.828+08:00",
   "tv": {
     "全网": [
       {
@@ -351,12 +351,6 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花儿与少年2026",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "脱口秀和Ta的朋友们第3季",
         "description": "暂无简介",
         "type": "maoyan",
@@ -364,6 +358,12 @@
       },
       {
         "title": "一路向海的少年",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "花儿与少年2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -425,13 +425,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "短剧X家族",
+        "title": "无限超越班 第四季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "无限超越班 第四季",
+        "title": "短剧X家族",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -611,13 +611,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "打歌2026·X舞台",
+        "title": "密室大逃脱8 大神版",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "舞蹈新风暴",
+        "title": "打歌2026·X舞台",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
