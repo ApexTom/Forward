@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T03:58:31.828+08:00",
+  "last_updated": "2026-09-20T11:10:16.709+08:00",
   "tv": {
     "全网": [
       {
@@ -151,13 +151,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
+        "title": "重器",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "重器",
+        "title": "这一秒过火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -175,13 +175,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "蝉",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "蝉",
+        "title": "爱情有烟火",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -225,19 +225,19 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "这一秒过火",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "藏锋",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "爱情有烟火",
+        "title": "这一秒过火",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "盲盒",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -263,13 +263,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "我们的少年时代2",
+        "title": "能有多大事",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "能有多大事",
+        "title": "我们的少年时代2",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -293,7 +293,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "后西游记",
+        "title": "天赐娘子·小镖师",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -333,7 +333,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "披荆斩棘2026",
+        "title": "密室大逃脱 第八季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -363,7 +363,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "花儿与少年2026",
+        "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -469,13 +469,13 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "天才厨人",
+        "title": "姐姐当家第二季",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "姐姐当家第二季",
+        "title": "天才厨人",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -563,6 +563,12 @@
     ],
     "芒果TV": [
       {
+        "title": "密室大逃脱 第八季",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "披荆斩棘2026",
         "description": "暂无简介",
         "type": "maoyan",
@@ -575,25 +581,7 @@
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱 第八季",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
         "title": "不想睡的星期五",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "伦敦合伙人",
-        "description": "暂无简介",
-        "type": "maoyan",
-        "note": "no_tmdb_match"
-      },
-      {
-        "title": "心动双重奏",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
@@ -605,13 +593,25 @@
         "note": "no_tmdb_match"
       },
       {
+        "title": "伦敦合伙人",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
+        "title": "手信集·青岛篇",
+        "description": "暂无简介",
+        "type": "maoyan",
+        "note": "no_tmdb_match"
+      },
+      {
         "title": "博物馆夜行指“楠”",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
       },
       {
-        "title": "密室大逃脱8 大神版",
+        "title": "家乡美食大赛",
         "description": "暂无简介",
         "type": "maoyan",
         "note": "no_tmdb_match"
