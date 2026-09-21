@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T02:25:44.883+08:00",
+  "last_updated": "2026-09-22T04:13:48.450+08:00",
   "now_playing": [
     {
       "id": 1101383,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.975,
+      "rating": 7.004,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-08-01",
-      "rating": 8.018,
+      "rating": 8.016,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 6.763,
+      "rating": 6.8,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eVcHArmmMXajXaqVBH4dhUWfwmS.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
       "releaseDate": "2026-08-15",
-      "rating": 8.125,
+      "rating": 8.124,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-19",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1716541,
       "type": "tmdb",
       "title": "我想留在你身边",
@@ -158,6 +170,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1306055,
+      "type": "tmdb",
+      "title": "数到三",
+      "originalTitle": "数到三",
+      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xMeSojHGqZntQ8tlrxhXaZUoOLi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1630030,
       "type": "tmdb",
       "title": "大唐妖探",
@@ -167,30 +191,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
       "releaseDate": "2026-08-08",
       "rating": 5.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-19",
-      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -206,6 +206,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1765924,
+      "type": "tmdb",
+      "title": "非法闯入者",
+      "originalTitle": "非法闯入者",
+      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 2,
+      "mediaType": "movie"
+    },
+    {
       "id": 1764816,
       "type": "tmdb",
       "title": "阴风诡影",
@@ -215,18 +227,6 @@
       "backdropPath": null,
       "releaseDate": "2026-09-19",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "releaseDate": "2026-09-05",
-      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.243,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 8.8,
+      "rating": 7.846,
       "mediaType": "movie"
     },
     {
@@ -268,18 +268,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1439171,
-      "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1766670,
       "type": "tmdb",
       "title": "活色生香",
@@ -287,6 +275,18 @@
       "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
       "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
       "backdropPath": null,
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1439171,
+      "type": "tmdb",
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
@@ -316,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -340,13 +328,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1670314,
+      "id": 1086176,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -364,14 +352,50 @@
       "mediaType": "movie"
     },
     {
-      "id": 1765410,
+      "id": 1387772,
       "type": "tmdb",
-      "title": "明月照他乡",
-      "originalTitle": "明月照他乡",
-      "description": "　　本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
-      "releaseDate": "2026-09-24",
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1339597,
+      "type": "tmdb",
+      "title": "水东游",
+      "originalTitle": "水东游",
+      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
+      "releaseDate": "2026-09-23",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -388,14 +412,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1339597,
+      "id": 1765410,
       "type": "tmdb",
-      "title": "水东游",
-      "originalTitle": "水东游",
-      "description": "一场由十二年前地震引发的余震，让火车司机小李和童年产生了某种时空连接。多年后的一场同学聚会，让小李重逢他的小学同学宋倩。聚会后，小李在河边，用父亲离开前送他的相机，似乎拍到了童年时的某个伙伴。过去似幽灵般再度回归，当年父亲失踪的秘密，和一场河边捉迷藏引发意外的记忆被逐渐唤起。在流淌的河水中，小李面临着记忆的再度到访，以及对当下生活的抉择。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kFwknbq5DIqhh5LxXoI3Vm23cL0.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rB1jLSESS65ZnQudGiWRB7QOdSL.jpg",
-      "releaseDate": "2026-09-23",
+      "title": "明月照他乡",
+      "originalTitle": "明月照他乡",
+      "description": "　　本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
+      "releaseDate": "2026-09-24",
       "rating": 0,
       "mediaType": "movie"
     },
