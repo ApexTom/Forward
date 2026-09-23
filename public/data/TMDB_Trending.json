@@ -5,7 +5,7 @@
       "type": "tv",
       "title": "挑情丑闻",
       "genreTitle": "剧情",
-      "rating": 6.3,
+      "rating": 6.6,
       "overview": "在 Netflix 剧集《挑情丑闻》中，一位不甘囿于深闺的非凡女子赵氏夫人（孙艺珍饰）与朝鲜第一花花公子赵元（池昌旭饰）展开了一场了大胆而危险的爱情游戏，而熙妍（林珍儿饰）也被卷入了这场赌局。\n\n在朝鲜，一场秘密提议点燃了才华横溢的贵族夫人、声名显赫的情场高手，以及被卷入这场危险游戏的无辜女子的内心欲望。",
       "release_date": "2026-09-18",
       "poster_url": "/bmFpjo1M4bb7k3tjbpxCTHGOhb.jpg",
@@ -13,14 +13,14 @@
       "genre_ids": [
         18
       ],
-      "popularity": 3400.2893
+      "popularity": 3190.8628
     },
     {
       "id": 95350,
       "type": "tv",
       "title": "绿灯军团",
       "genreTitle": "剧情•悬疑•Sci-Fi & Fantasy",
-      "rating": 8.282,
+      "rating": 8.237,
       "overview": "绿灯侠哈尔·乔丹与新晋成员约翰·斯图尔特奉命调查美国小镇的一起神秘命案，却意外发现案件背后隐藏着与外星势力有关的阴谋，两人也在追查真相的过程中面对各自的信念与考验。",
       "release_date": "2026-08-16",
       "poster_url": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
@@ -30,30 +30,46 @@
         9648,
         10765
       ],
-      "popularity": 306.4526
+      "popularity": 276.6365
     },
     {
       "id": 247718,
       "type": "tv",
       "title": "MobLand",
       "genreTitle": "犯罪•剧情",
-      "rating": 8.399,
+      "rating": 8.405,
       "overview": "两大黑帮家族的权力争斗将伦敦地下世界卷入战争。作为哈里根家族的“解决者”，哈里·达·索萨周旋于家族、敌人和日益失控的内部矛盾之间。",
       "release_date": "2025-03-30",
       "poster_url": "/33Lga6r9lYdjDX1Bty6zV28TlFu.jpg",
-      "title_backdrop": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+      "title_backdrop": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
       "genre_ids": [
         80,
         18
       ],
-      "popularity": 248.4724
+      "popularity": 255.9333
+    },
+    {
+      "id": 299939,
+      "type": "tv",
+      "title": "怪物：丽兹·波顿的故事",
+      "genreTitle": "剧情•犯罪",
+      "rating": 7.1,
+      "overview": "被困于维多利亚时代残酷家庭的丽兹·波顿用斧头残忍杀害了自己的父母，此案震惊全国。",
+      "release_date": "2026-09-17",
+      "poster_url": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
+      "title_backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 165.6148
     },
     {
       "id": 273207,
       "type": "tv",
       "title": "侠女内莉",
       "genreTitle": "剧情•悬疑•犯罪",
-      "rating": 7.923,
+      "rating": 8.019,
       "overview": "弗朗西丝·内莉是一位常驻芝加哥的私家侦探，也曾是杰克·雷彻在陆军第110特别调查组的战友。当得知一位昔日挚友在一场可疑事故中丧生后，她决心不惜一切代价寻求正义。",
       "release_date": "2026-09-16",
       "poster_url": "/l5gxBGG8RVECttvH4lBn2YkNR13.jpg",
@@ -63,23 +79,7 @@
         9648,
         80
       ],
-      "popularity": 163.2562
-    },
-    {
-      "id": 299939,
-      "type": "tv",
-      "title": "怪物：丽兹·波顿的故事",
-      "genreTitle": "剧情•犯罪",
-      "rating": 7.073,
-      "overview": "被困于维多利亚时代残酷家庭的莉齐·博登用斧头残忍杀害了自己的父母，此案震惊全国。",
-      "release_date": "2026-09-17",
-      "poster_url": "/4Uk0MaEEx0bO418rhM7B8gqeFPy.jpg",
-      "title_backdrop": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "genre_ids": [
-        18,
-        80
-      ],
-      "popularity": 147.455
+      "popularity": 164.7382
     },
     {
       "id": 282326,
@@ -95,63 +95,29 @@
         18,
         10751
       ],
-      "popularity": 85.3467
+      "popularity": 90.2609
     },
     {
-      "id": 270476,
+      "id": 300507,
       "type": "tv",
-      "title": "寡妇湾",
-      "genreTitle": "剧情•喜剧•悬疑",
-      "rating": 8.06,
-      "overview": "新英格兰小岛寡妇湾长期流传着关于诅咒的传说。市长汤姆·洛夫蒂斯试图将小岛打造为旅游胜地，却在游客涌入后接连遭遇一系列诡异事件。随着事态不断失控，笼罩小岛的神秘传说逐渐成为现实。",
-      "release_date": "2026-04-28",
-      "poster_url": "/mTJIgeN8Z0fvqf0JHlncWWWPKTe.jpg",
-      "title_backdrop": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "title": "掌舵少女",
+      "genreTitle": "剧情",
+      "rating": 8.2,
+      "overview": "一场令人难堪的家庭丑闻打乱了赛艇选手蒂根·陶的人生规划，她被迫转学到一所精英预备学校重新开始，却发现学校没有女子赛艇队。为了重返水上，她只好加入问题重重的男子队担任舵手。她努力争取队友的认同，与傲气十足的队长针锋相对，却也在无意间与一名为人低调、常被忽视的潜力选手擦出微妙火花。",
+      "release_date": "2026-09-10",
+      "poster_url": "/lS6Wj1nYBOnKGVNn3Q8j9i8jeF4.jpg",
+      "title_backdrop": "/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
       "genre_ids": [
-        18,
-        35,
-        9648
+        18
       ],
-      "popularity": 70.386
-    },
-    {
-      "id": 287620,
-      "type": "tv",
-      "title": "斯图尔特未能拯救宇宙",
-      "genreTitle": "喜剧•Sci-Fi & Fantasy",
-      "rating": 8.716,
-      "overview": "故事聚焦《大爆炸》的漫画书老板斯图尔特·布鲁姆，他弄坏了一个谢尔顿和莱纳德制造的设备，意外导致了多元宇宙的世界末日，他必须与女友Denise、地质学家Bert和量子物理学家Barry一起去将现实复原。一路上，他们遇到了平行宇宙版本的各个《大爆炸》角色，事情进展并不顺利。",
-      "release_date": "2026-07-23",
-      "poster_url": "/aTB1eos3gZ86rpQuMccPbqauWGY.jpg",
-      "title_backdrop": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-      "genre_ids": [
-        35,
-        10765
-      ],
-      "popularity": 61.7477
-    },
-    {
-      "id": 232018,
-      "type": "tv",
-      "title": "巴黎陷落",
-      "genreTitle": "动作冒险•War & Politics",
-      "rating": 7.0,
-      "overview": "法国安全官员文森特·塔莱布与英国军情六处特工扎拉·泰勒联手，调查一系列恐怖袭击。随着阴谋不断扩大，两人从巴黎一路追查至欧洲各地，在恐怖组织、内部叛徒与国际危机中展开较量。",
-      "release_date": "2024-09-23",
-      "poster_url": "/rPeaQJLeoKo7izkz8CpSDSc9noK.jpg",
-      "title_backdrop": "/3yoTM5JtkxnPZvVzQOrL0c2ILVM.jpg",
-      "genre_ids": [
-        10759,
-        10768
-      ],
-      "popularity": 59.3027
+      "popularity": 52.6225
     },
     {
       "id": 224263,
       "type": "tv",
       "title": "Stranger Things: Tales from '85",
       "genreTitle": "动画•Sci-Fi & Fantasy•悬疑",
-      "rating": 7.6,
+      "rating": 7.611,
       "overview": "重返霍金斯小镇，观看《怪奇物语：1985 故事集》！这部激动人心的全新动画剧集由剧集主管埃里克·罗夫莱斯和监制达菲兄弟联手打造。",
       "release_date": "2026-04-23",
       "poster_url": "/yFXcUqN3nQCxWklI35DwffOMNZz.jpg",
@@ -162,14 +128,14 @@
         9648,
         10759
       ],
-      "popularity": 51.9462
+      "popularity": 49.4126
     },
     {
       "id": 332401,
       "type": "tv",
       "title": "血色之城",
       "genreTitle": "悬疑",
-      "rating": 6.385,
+      "rating": 6.357,
       "overview": "气候灾难后的柏林，城市被巨大的穹顶分隔成两个世界。多年失散的姐妹贝娅与菲比重逢，却意外发现吸血鬼势力已经渗透城市地下犯罪，并试图在即将到来的选举中夺取政治权力。",
       "release_date": "2026-09-16",
       "poster_url": "/jsUOt5rC4LYDBv3bXiCAZoS1pyN.jpg",
@@ -177,7 +143,7 @@
       "genre_ids": [
         9648
       ],
-      "popularity": 48.6161
+      "popularity": 46.2183
     },
     {
       "id": 239618,
@@ -193,56 +159,55 @@
         80,
         18
       ],
-      "popularity": 45.5338
+      "popularity": 42.0913
     },
     {
-      "id": 296756,
+      "id": 312557,
       "type": "tv",
-      "title": "柯蒂斯总统",
-      "genreTitle": "动画•喜剧",
-      "rating": 6.706,
-      "overview": "柯蒂斯总统及其古怪的幕僚团队将共同应对那些瑞克根本不会理会的一系列危机，从跨维度外交到超自然现象调查，再到无法解释的异常事件。",
-      "release_date": "2026-07-26",
-      "poster_url": "/AcriuLMhzvkSDUBzuEvns5WGe8F.jpg",
-      "title_backdrop": "/yoTP91XZZjSvE2gZgGvwNxVW96w.jpg",
+      "title": "密涅瓦学院",
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.7,
+      "overview": "密涅瓦军事学院的青少年必须面对严格纪律、同僚竞争及家庭压力。一名年轻学员则努力寻找失踪好友的真相。",
+      "release_date": "2026-09-22",
+      "poster_url": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+      "title_backdrop": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
       "genre_ids": [
-        16,
-        35
+        18,
+        9648
       ],
-      "popularity": 43.7495
+      "popularity": 38.6703
     },
     {
-      "id": 285993,
+      "id": 285418,
       "type": "tv",
-      "title": "暗黑灯火",
-      "genreTitle": "动画•悬疑•动作冒险",
-      "rating": 8.385,
-      "overview": "次郎是一个拥有与动物交谈能力的少年。从小由祖父抚养并接受忍者训练，他因与众不同而被他人疏远，却在动物中找到了慰藉，并致力于保护它们。一天，他救了一只受伤的黑猫——拉格，但很快发现它并非普通的猫，而是一只“物怪”，正被一个神秘组织追捕。面对这一情况，次郎毫不犹豫地决定帮助他的新朋友。",
-      "release_date": "2026-07-04",
-      "poster_url": "/k446fZqGvCVsVstjUq7KQIK1PqX.jpg",
-      "title_backdrop": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
+      "title": "找春天",
+      "genreTitle": "喜剧•剧情",
+      "rating": 7.8,
+      "overview": "一名50岁离婚女子在寻找性爱与爱情的同时，还得照顾年迈多病的父母，以及抚养本该早已独立成年的儿子。",
+      "release_date": "2026-09-21",
+      "poster_url": "/43D2bJDqo8mJpFpUwMYeZO87q7S.jpg",
+      "title_backdrop": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
       "genre_ids": [
-        16,
-        9648,
-        10759,
-        10765
-      ],
-      "popularity": 36.5648
-    },
-    {
-      "id": 207484,
-      "type": "tv",
-      "title": "古战场传奇：吾血之亲",
-      "genreTitle": "剧情",
-      "rating": 8.6,
-      "overview": "《古战场传奇：吾血之亲》是《古战场传奇》的前传。讲述杰米·弗雷泽和克莱尔·博尚的父母在不同时代的爱情故事。18世纪的苏格兰高地，艾伦与布莱恩冲破家族阻碍相爱；20世纪的欧洲，亨利与朱莉娅因战争相遇。两段跨越时代的爱情，共同揭开弗雷泽家族的过去。",
-      "release_date": "2025-08-08",
-      "poster_url": "/pIsss4EXuo4vmnhiXHRgxWSwHBF.jpg",
-      "title_backdrop": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-      "genre_ids": [
+        35,
         18
       ],
-      "popularity": 36.1762
+      "popularity": 34.5878
+    },
+    {
+      "id": 246473,
+      "type": "tv",
+      "title": "韩国制造",
+      "genreTitle": "犯罪•剧情",
+      "rating": 8.2,
+      "overview": "20世纪70年代的韩国，野心勃勃的白基泰在情报机构与地下商业世界之间游走，凭借权力和手段不断攀向财富与权力的顶峰。与此同时，检察官张建荣始终追查隐藏在权力背后的犯罪与阴谋。两个立场截然不同的人不断交锋，在时代动荡与政治博弈中展开一场关于权力、欲望与正义的较量。",
+      "release_date": "2025-12-24",
+      "poster_url": "/qAfnDSi2EO2UdIWCQdoOcmmJJtH.jpg",
+      "title_backdrop": "/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 29.845
     },
     {
       "id": 291084,
@@ -258,14 +223,14 @@
         35,
         18
       ],
-      "popularity": 32.1804
+      "popularity": 29.1478
     },
     {
       "id": 319851,
       "type": "tv",
       "title": "嫌疑爱人",
       "genreTitle": "犯罪•剧情",
-      "rating": 8.8,
+      "rating": 8.7,
       "overview": "一名青少年花样滑冰运动员遇害后，两名警探踏上一条黑暗而危险的调查之路，最终不得不将矛头指向自己的警队。",
       "release_date": "2026-09-20",
       "poster_url": "/50xR19XqlafgJ1kM74Ebi7tyCDF.jpg",
@@ -274,54 +239,84 @@
         80,
         18
       ],
-      "popularity": 31.8396
+      "popularity": 28.3189
     },
     {
-      "id": 309974,
+      "id": 321958,
       "type": "tv",
-      "title": "与奔跑在透明之夜的你，谈一场看不见的恋爱。",
-      "genreTitle": "动画•剧情",
-      "rating": 8.357,
-      "overview": "春日的夜晚，在大学宿舍室友鸣海的邀请下，空野驱参加了一场迎新联谊，遇见了失明的女生冬月小春。爱笑、会谈论梦想的她，与自己是截然相反的存在。从某天放学后捡到她的白手杖开始，两人之间的距离一点点拉近。“我想放烟花。”那一刻，他第一次直面蕴藏在她这句话中的光芒。看不见的她，与封闭内心的我。这是一个寻找光芒的两人所编织的，淡淡的恋爱故事。",
-      "release_date": "2026-07-06",
-      "poster_url": "/2niOCxDblN9fTL33zGmphQ0zmMW.jpg",
-      "title_backdrop": "/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
+      "title": "火线家族",
+      "genreTitle": "剧情•犯罪",
+      "rating": 9.2,
+      "overview": "这是一个由执法人员组成的家族——成员分别供职于 FBI、美国法警署（US Marshals）、特勤局（Secret Service）及司法部（DOJ）。他们既要弥合彼此间的家庭裂痕，又时常在工作中跨越职权边界，联手处理各类重大案件。\n\n　　然而，一宗本以为简单明了的案件，竟演变为致命阴谋。此刻，他们必须动用一生累积的、用来保护平民与政要的办案专长——转而来保护彼此，将真凶绳之以法……\n\n　　即便这意味着：背叛自己曾宣誓恪守的执法准则。",
+      "release_date": "2026-09-21",
+      "poster_url": "/sodRW36uEDHjv8l1WhYUNDvnIK6.jpg",
+      "title_backdrop": "/8U4dW5E24Eqs06OJko5ChjcufHb.jpg",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "popularity": 26.3184
+    },
+    {
+      "id": 294486,
+      "type": "tv",
+      "title": "交锋",
+      "genreTitle": "悬疑",
+      "rating": 9.0,
+      "overview": "一宗世纪之交的泄密大案扣动两岸局势脉搏，同时还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。二十世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着。",
+      "release_date": "2026-09-06",
+      "poster_url": "/gRe5FZjMWw8xXzWk1hxWuNQckOg.jpg",
+      "title_backdrop": "/lYDwHYOR8PROQfSJGZ8LqvwUVcW.jpg",
+      "genre_ids": [
+        9648
+      ],
+      "popularity": 15.1273
+    },
+    {
+      "id": 250203,
+      "type": "tv",
+      "title": "无间兄弟情",
+      "genreTitle": "喜剧",
+      "rating": 10.0,
+      "overview": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "release_date": "2026-09-22",
+      "poster_url": "/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "title_backdrop": "/snowLqDdNTDyHo8yTYGht3a3TyN.jpg",
+      "genre_ids": [
+        35
+      ],
+      "popularity": 14.858
+    },
+    {
+      "id": 256355,
+      "type": "tv",
+      "title": "旗安84的奇趣民宿",
+      "genreTitle": "真人秀",
+      "rating": 8.0,
+      "overview": "奇案84在偏僻小岛上开设让人逃离烦嚣的另类民宿，由防弹少年团Jin和池艺恩带领客人进行有趣的冒险，过程中也少不了各种爆笑的突发状况。",
+      "release_date": "2025-04-08",
+      "poster_url": "/9YoS9ytnlx6EQj78HQZix9pPXpl.jpg",
+      "title_backdrop": "/cHBRJc2ON9WfL71fuvnsWDHRCFN.jpg",
+      "genre_ids": [
+        10764
+      ],
+      "popularity": 13.3731
+    },
+    {
+      "id": 117120,
+      "type": "tv",
+      "title": "感谢对战。～大小姐才不玩格斗游戏～",
+      "genreTitle": "动画•喜剧",
+      "rating": 7.556,
+      "overview": "深月绫进入了以淑女教育著称的黑美女子学院，意外发现校内备受瞩目的“白百合大人” ── 夜绘美绪，在无人的教室里沉迷于格斗游戏。由于校规禁止游戏，美绪要求绫严格保密。然而再次相遇时，美绪识破了绫同为游戏玩家的身份，并恳求与她一较高下。面对美绪对游戏纯粹的热情，绫虽心生抵触，却未表现出理解她为何放弃游戏的态度，最终接受了挑战。在较量中，两人作为稀有的女性格斗游戏玩家，逐渐理解彼此，建立了深厚的友谊。随后她们冒着被退学的风险，与同为隐藏游戏爱好者的前辈一之濑珠树和犬井夕一起，更加投入地沉浸在格斗游戏的世界中。",
+      "release_date": "2026-07-07",
+      "poster_url": "/9rPXCH3IEvMWtOn8W93riwQ8lUZ.jpg",
+      "title_backdrop": "/yCRq49YINwI7psAK5VEzbKLLSFk.jpg",
       "genre_ids": [
         16,
-        18
+        35
       ],
-      "popularity": 31.5403
-    },
-    {
-      "id": 285418,
-      "type": "tv",
-      "title": "找春天",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.2,
-      "overview": "故事讲述一位50岁的离异女性，一边周旋于照顾病弱的父母和关心本该成年懂事的儿子，一边追寻着性与爱。",
-      "release_date": "2026-09-21",
-      "poster_url": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
-      "title_backdrop": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "popularity": 30.8496
-    },
-    {
-      "id": 295089,
-      "type": "tv",
-      "title": "娃娃",
-      "genreTitle": "剧情",
-      "rating": 4.5,
-      "overview": "斯坦尼斯瓦夫野心勃勃，一心想跻身上流社会，而他对伊莎贝拉的痴迷，成了他踏入渴望征服之世界的契机。另一方面，伊莎贝拉则努力挣脱贵族秩序的森严束缚，在快速变迁的社会中寻找自己的定位。两人之间的强烈牵绊，悬在深刻的阶级鸿沟、执着迷恋、对自由的渴望，以及财富诱人的力量之间。本剧为波兰文学经典的当代重新诠释。",
-      "release_date": "2026-09-16",
-      "poster_url": "/qLWiTE7Vw5erBwAgaOOzLZgH1an.jpg",
-      "title_backdrop": "/7Q8H2rxsNzoNHagDEMcTlmAKtfb.jpg",
-      "genre_ids": [
-        18
-      ],
-      "popularity": 24.9451
+      "popularity": 6.4606
     }
   ],
   "today_movies": [
@@ -330,7 +325,7 @@
       "type": "movie",
       "title": "蜘蛛侠：崭新之日",
       "genreTitle": "科幻•动作•冒险",
-      "rating": 7.9,
+      "rating": 7.862,
       "overview": "全世界已经忘记了彼得·帕克的存在。失去曾经的朋友、爱人与家人后，他选择独自留在纽约，将全部生活投入打击犯罪，成为一名真正的全职蜘蛛侠。数年过去，日复一日的战斗和孤独让彼得承受着越来越沉重的压力，而他的身体也开始发生无法解释的异常变化。与此同时，一股难以察觉的新威胁正在城市中悄然蔓延。为了阻止危机继续扩大，彼得必须在自己逐渐失控的变化与这名甚至无法被看见的敌人之间寻找新的战斗方式，也再次面对那些他以为已经彻底放下的过去……",
       "release_date": "2026-07-29",
       "poster_url": "/7AjIupf0lxNKNq0p8z36jv5ZpiJ.jpg",
@@ -340,31 +335,31 @@
         28,
         12
       ],
-      "popularity": 666.5009
+      "popularity": 653.7739
     },
     {
       "id": 1423191,
       "type": "movie",
       "title": "生化危机：爆发夜",
       "genreTitle": "恐怖•科幻•冒险",
-      "rating": 7.341,
+      "rating": 7.3,
       "overview": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
       "release_date": "2026-09-16",
       "poster_url": "/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
-      "title_backdrop": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "title_backdrop": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "genre_ids": [
         27,
         878,
         12
       ],
-      "popularity": 607.7799
+      "popularity": 584.55
     },
     {
       "id": 1101383,
       "type": "movie",
       "title": "逃出绝命街",
       "genreTitle": "科幻•悬疑•惊悚",
-      "rating": 7.0,
+      "rating": 7.013,
       "overview": "居住在花谷街的一对夫妻，察觉到社区里发生了一些细微的变化。当一场剧烈的雷暴袭来后，他们连同他们的孩子和邻居醒来发现自己竟被“传送回了史前时代”，身边被恐龙和其他野生生物包围。",
       "release_date": "2026-08-12",
       "poster_url": "/2eXquFgtDqSyVmrcBwC9ZnzNw3d.jpg",
@@ -374,41 +369,24 @@
         9648,
         53
       ],
-      "popularity": 528.4832
-    },
-    {
-      "id": 1204680,
-      "type": "movie",
-      "title": "歪心狼对阵ACME",
-      "genreTitle": "喜剧•冒险•家庭",
-      "rating": 7.5,
-      "overview": "　　故事讲述了乐一通经典角色歪心狼（Wile E. Coyote）在长期使用Acme公司的产品追捕BB鸟（Road Runner）失败并遭受身心创伤后，决定不再忍受。他聘请了一位倒霉的人类律师，向Acme公司提起诉讼，要求巨额赔偿。而Acme公司的首席律师则试图捍卫公司利益，双方在法庭上展开了一场荒诞又爆笑的对决。  影片改编自1990年《纽约客》的一篇同名文章。",
-      "release_date": "2026-08-20",
-      "poster_url": "/xONOMna5Z102bw0jMPBM4H73B9m.jpg",
-      "title_backdrop": "/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "genre_ids": [
-        35,
-        12,
-        10751
-      ],
-      "popularity": 438.3449
+      "popularity": 485.8521
     },
     {
       "id": 1368337,
       "type": "movie",
       "title": "奥德赛",
       "genreTitle": "冒险•动作•奇幻",
-      "rating": 8.0,
+      "rating": 8.017,
       "overview": "特洛伊战争之后，奥德修斯踏上返回伊萨卡的艰险归途，途中遭遇了诸如独眼巨人波吕斐摩斯、塞壬女妖和喀耳刻等神话生物。",
       "release_date": "2026-07-15",
       "poster_url": "/Aj0Uykxj0vhwVsyrRJka0aM3SP1.jpg",
-      "title_backdrop": "/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "title_backdrop": "/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
       "genre_ids": [
         12,
         28,
         14
       ],
-      "popularity": 355.3396
+      "popularity": 346.9968
     },
     {
       "id": 1108427,
@@ -426,7 +404,42 @@
         35,
         12
       ],
-      "popularity": 194.5217
+      "popularity": 183.5472
+    },
+    {
+      "id": 1084244,
+      "type": "movie",
+      "title": "玩具总动员5",
+      "genreTitle": "动画•家庭•喜剧",
+      "rating": 8.361,
+      "overview": "胡迪、巴斯光年、翠斯等“元老级”玩具将跟随小主人邦妮的成长脚步，共同迎接数字时代下的全新挑战。随着无所不能的科技产品逐渐走进童年世界，一批充满科技感的崭新角色也随之重磅亮相：青蛙造型的智能平板小荷、憨态可掬的导航玩具小不丢、活力十足的抓拍好手小拍侠，以及自带笑点的臭屁小机灵。当身边的同龄朋友们开始沉浸在科技玩具带来的“电子陪伴”中，而玩具伙伴们也迎来了前所未有的生存难题：在屏幕占据注意力的时代，玩具的时代真的结束了吗？在“被取代”危机的当下，这群玩具伙伴还能否携手，帮助邦妮找回属于自己的真实友谊与快乐？",
+      "release_date": "2026-06-17",
+      "poster_url": "/oo46YfPuMcV9t7KsTiaMVUVRjvJ.jpg",
+      "title_backdrop": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        35,
+        12
+      ],
+      "popularity": 146.8947
+    },
+    {
+      "id": 1240889,
+      "type": "movie",
+      "title": "瘴气营地的青春性事与死亡",
+      "genreTitle": "喜剧•恐怖•爱情",
+      "rating": 6.46,
+      "overview": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
+      "release_date": "2026-08-06",
+      "poster_url": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
+      "title_backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "genre_ids": [
+        35,
+        27,
+        10749
+      ],
+      "popularity": 130.0998
     },
     {
       "id": 1339713,
@@ -442,47 +455,14 @@
         27,
         53
       ],
-      "popularity": 142.2624
-    },
-    {
-      "id": 1240889,
-      "type": "movie",
-      "title": "瘴气营地的青春性事与死亡",
-      "genreTitle": "喜剧•恐怖•爱情",
-      "rating": 6.448,
-      "overview": "一个虚构的、曾经流行的恐怖电影系列正逐渐失去观众。在多年的草率续集和日渐式微的粉丝基础上，Camp Miasma 杀人狂系列被一位充满热情的年轻酷儿导演接管，以重振这部作品。但当她拜访原电影的女主角——一位如今隐居且充满神秘色彩的女演员时，两位女性陷入了一个充满欲望、恐惧和狂乱的血腥世界。",
-      "release_date": "2026-08-06",
-      "poster_url": "/t8JBX1h4yipba70tNmPaTV2tgbr.jpg",
-      "title_backdrop": "/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
-      "genre_ids": [
-        35,
-        27,
-        10749
-      ],
-      "popularity": 101.3883
-    },
-    {
-      "id": 1641629,
-      "type": "movie",
-      "title": "你和我：与世界为敌",
-      "genreTitle": "爱情•剧情",
-      "rating": 5.643,
-      "overview": "家境优渥的年轻女性阿尔玛兰卡斯特瞒着以为她在攻读法律的父母，给自己留出一年时间去追寻电影梦。当她被迫与孑然一身的年轻男子瓦迪姆阿卡迪合作时，两人间擦出了火花。然而，暗处潜伏着一个无形的威胁，妄图将他们两人拆散并曝光一切…",
-      "release_date": "2026-09-18",
-      "poster_url": "/j801na4Sf6DrZPL5Ba1vUZo5OFN.jpg",
-      "title_backdrop": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "popularity": 91.3101
+      "popularity": 123.629
     },
     {
       "id": 1083381,
       "type": "movie",
       "title": "后室",
       "genreTitle": "恐怖•悬疑•科幻",
-      "rating": 7.0,
+      "rating": 7.033,
       "overview": "一位心理治疗师的病人，在一次诡异的事故中“切入”到了一个超越现实的奇异维度。为了带回病人，这位治疗师不得不亲自踏入那片无边无际、充满黄色壁纸和嗡嗡荧光灯响声的未知迷宫。",
       "release_date": "2026-05-27",
       "poster_url": "/7flxvNLk48fvJel8zHDGqMFvQ9C.jpg",
@@ -492,44 +472,29 @@
         9648,
         878
       ],
-      "popularity": 90.2978
+      "popularity": 91.0767
     },
     {
-      "id": 1228834,
+      "id": 1607127,
       "type": "movie",
-      "title": "拨乱行动",
+      "title": "最后一击",
       "genreTitle": "动作•惊悚",
-      "rating": 7.4,
-      "overview": "2021阿富汗撤军惨败，一支CIA小队遭体制抛弃，背负战争创伤。队长塔克从患病导师处得知德黑兰酒店藏有2500万美金，召集蒙冤旧部潜入敌城。小队本只想取钱翻身，却意外卷入高危营救，旧伤、猜忌与背叛接连袭来，众人赌命拼死翻盘。",
-      "release_date": "2026-09-10",
-      "poster_url": "/noGrxxPWZsWcJ19kRsEEawfFnEl.jpg",
-      "title_backdrop": "/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "rating": 8.111,
+      "overview": "海豹突击队成员杰克·哈里斯必须阻止一支由他理想破灭的前战友领导的雇佣兵团队，防止他们瘫痪美国导弹防御网络。",
+      "release_date": "2026-09-22",
+      "poster_url": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+      "title_backdrop": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
       "genre_ids": [
         28,
         53
       ],
-      "popularity": 70.8432
-    },
-    {
-      "id": 1514863,
-      "type": "movie",
-      "title": "最佳舞伴",
-      "genreTitle": "喜剧",
-      "rating": 4.8,
-      "overview": "两位儿时好友加入 UCLA 竞争激烈的宝莱坞融合舞蹈队，却发现通往全美锦标赛的道路比她们想象中更加艰难。",
-      "release_date": "2026-09-18",
-      "poster_url": "/gflpW1CDJjX2qG48E9uadNGkOip.jpg",
-      "title_backdrop": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
-      "genre_ids": [
-        35
-      ],
-      "popularity": 58.5972
+      "popularity": 90.7214
     },
     {
       "id": 1263337,
       "type": "movie",
       "title": "野兽之心",
-      "genreTitle": "冒险•惊悚",
+      "genreTitle": "冒险•惊悚•战争",
       "rating": 7.8,
       "overview": "讲述一名前陆军特种部队士兵与他退役战犬的荒野求生故事。在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
       "release_date": "2026-09-19",
@@ -537,16 +502,34 @@
       "title_backdrop": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "genre_ids": [
         12,
+        53,
+        10752
+      ],
+      "popularity": 71.8911
+    },
+    {
+      "id": 1477712,
+      "type": "movie",
+      "title": "卖冰淇淋的人",
+      "genreTitle": "恐怖•喜剧•惊悚",
+      "rating": 4.6,
+      "overview": "一个美丽的小镇出现了一位神秘的冰淇淋小贩，他所供应的美味冰品让孩子们疯狂，全镇因此陷入失控……",
+      "release_date": "2026-08-03",
+      "poster_url": "/brmzdI8ETPrzNqlDw8DSpdGnJS4.jpg",
+      "title_backdrop": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+      "genre_ids": [
+        27,
+        35,
         53
       ],
-      "popularity": 49.2589
+      "popularity": 65.1965
     },
     {
       "id": 1465063,
       "type": "movie",
       "title": "忘却之岛",
       "genreTitle": "动画•冒险•奇幻",
-      "rating": 7.9,
+      "rating": 7.364,
       "overview": "　　一对好友在高中毕业后要分开了，她们准备吃垃圾食品、唱卡拉ok度过在一起的最后一夜，却被一个神奇的传送通道送去了某座被遗忘已久的魔法岛屿，来自菲律宾神话。",
       "release_date": "2026-09-10",
       "poster_url": "/uSFWzP6gIzqWJUCZLgVAVhtyfYW.jpg",
@@ -558,22 +541,55 @@
         35,
         10751
       ],
-      "popularity": 39.7078
+      "popularity": 44.6583
+    },
+    {
+      "id": 675871,
+      "type": "movie",
+      "title": "超级骑警3",
+      "genreTitle": "喜剧•犯罪•悬疑",
+      "rating": 7.0,
+      "overview": "　　影片讲述了佛蒙特州的超级骑警们再次卷入一场荒诞与危机交织的闹剧。当队员 Farva 与 Thorny 的妹妹上演了一场极度夸张的印度式订婚仪式，并迅速演变成一场混乱时，整个小队被迫介入。为了阻止 Thorny 试图拆散这段姻缘的各种奇葩计划，骑警们不得不一边努力维持秩序，一边还要试图破获一个极其狡猾的新型毒品走私网络。他们必须在拯救世界以及可能挽救这场婚礼的过程中，再次展现他们不务正业却又总能误打误撞立功的搞笑日常。",
+      "release_date": "2026-08-06",
+      "poster_url": "/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+      "title_backdrop": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+      "genre_ids": [
+        35,
+        80,
+        9648
+      ],
+      "popularity": 41.8856
+    },
+    {
+      "id": 1433367,
+      "type": "movie",
+      "title": "一夜限定",
+      "genreTitle": "爱情•喜剧",
+      "rating": 6.5,
+      "overview": "在架空版本的纽约，当地立法全面禁止婚前亲密行为，全年仅有固定12小时被解禁，全城单身人群都会在这天争相寻找临时约会。女主角艾莉刚刚经历失恋，并不想随便将就一夜情，男主欧文是披萨店打工的普通青年，同样渴望真挚的感情。两人在解禁之夜偶然相遇，原本只是结伴躲避各种疯狂的路人搭讪与城市管控，一路上接连遭遇乌龙意外、旧日仇家阻拦，在横穿整座混乱都市的奔波里，慢慢对彼此动了真心，在这个只为放纵设立的夜晚，追寻一份长久的爱恋。",
+      "release_date": "2026-08-06",
+      "poster_url": "/aZxB62eRH3J0u0iTykjSd5CEHMT.jpg",
+      "title_backdrop": "/mfgNUnFB25BNIwe9iPJ17cUN64S.jpg",
+      "genre_ids": [
+        10749,
+        35
+      ],
+      "popularity": 41.2443
     },
     {
       "id": 1341138,
       "type": "movie",
       "title": "水疗周末",
       "genreTitle": "喜剧",
-      "rating": 6.6,
+      "rating": 6.8,
       "overview": "四位相伴多年的闺蜜恍然发觉，在奔波于事业、感情、家庭与日常琐事的过程中，她们早已忘了该善待自己，也忽略了彼此。身心俱疲、迫切需要喘息的四人，一同前往一处高端温泉度假庄园，度过了一场难忘的周末。这段时光满是欢声笑语，也闹出不少荒唐出格的糗事。",
       "release_date": "2026-08-20",
       "poster_url": "/23IM0qgquewOL6FHDeKdaYgNfam.jpg",
-      "title_backdrop": "/8EMwicuj1TrkclMOvslFCQyRg6I.jpg",
+      "title_backdrop": "/ftFf9sfJq69xJ0AuiaIuDKBtfzg.jpg",
       "genre_ids": [
         35
       ],
-      "popularity": 32.9245
+      "popularity": 34.3768
     },
     {
       "id": 1248832,
@@ -588,7 +604,23 @@
       "genre_ids": [
         35
       ],
-      "popularity": 28.4493
+      "popularity": 33.8641
+    },
+    {
+      "id": 445466,
+      "type": "movie",
+      "title": "白痴们",
+      "genreTitle": "喜剧•犯罪",
+      "rating": 6.818,
+      "overview": "两个跌入人生谷底的司机护送一名富家少年前往戒毒所，但这项原本简单的工作，却因少年而演变成一场充满毒品、危险与犯罪的混乱旅程。",
+      "release_date": "2026-08-20",
+      "poster_url": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+      "title_backdrop": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+      "genre_ids": [
+        35,
+        80
+      ],
+      "popularity": 33.5182
     },
     {
       "id": 1375441,
@@ -604,30 +636,13 @@
         18,
         53
       ],
-      "popularity": 24.9578
-    },
-    {
-      "id": 1477712,
-      "type": "movie",
-      "title": "卖冰淇淋的人",
-      "genreTitle": "恐怖•喜剧•惊悚",
-      "rating": 4.5,
-      "overview": "一个美丽的小镇出现了一位神秘的冰淇淋小贩，他所供应的美味冰品让孩子们疯狂，全镇因此陷入失控……",
-      "release_date": "2026-08-03",
-      "poster_url": "/brmzdI8ETPrzNqlDw8DSpdGnJS4.jpg",
-      "title_backdrop": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
-      "genre_ids": [
-        27,
-        35,
-        53
-      ],
-      "popularity": 21.8014
+      "popularity": 26.4874
     },
     {
       "id": 1153576,
       "type": "movie",
       "title": "街头霸王",
-      "genreTitle": "动作•奇幻",
+      "genreTitle": "动作•奇幻•喜剧",
       "rating": 0.0,
       "overview": "传奇影业与Capcom合作制作的《街霸》真人改编电影。",
       "release_date": "2026-10-14",
@@ -635,26 +650,10 @@
       "title_backdrop": "/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
       "genre_ids": [
         28,
-        14
+        14,
+        35
       ],
-      "popularity": 15.5214
-    },
-    {
-      "id": 675871,
-      "type": "movie",
-      "title": "超级骑警3",
-      "genreTitle": "喜剧•犯罪•悬疑",
-      "rating": 6.3,
-      "overview": "　　影片讲述了佛蒙特州的超级骑警们再次卷入一场荒诞与危机交织的闹剧。当队员 Farva 与 Thorny 的妹妹上演了一场极度夸张的印度式订婚仪式，并迅速演变成一场混乱时，整个小队被迫介入。为了阻止 Thorny 试图拆散这段姻缘的各种奇葩计划，骑警们不得不一边努力维持秩序，一边还要试图破获一个极其狡猾的新型毒品走私网络。他们必须在拯救世界以及可能挽救这场婚礼的过程中，再次展现他们不务正业却又总能误打误撞立功的搞笑日常。",
-      "release_date": "2026-08-06",
-      "poster_url": "/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
-      "title_backdrop": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
-      "genre_ids": [
-        35,
-        80,
-        9648
-      ],
-      "popularity": 13.8393
+      "popularity": 17.1172
     }
   ]
 }
