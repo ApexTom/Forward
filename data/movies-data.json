@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T03:23:45.885+08:00",
+  "last_updated": "2026-09-25T03:43:41.401+08:00",
   "now_playing": [
     {
       "id": 1288445,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.4,
+      "rating": 6.419,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.244,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.9,
+      "rating": 7.696,
       "mediaType": "movie"
     },
     {
@@ -86,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.112,
-      "mediaType": "movie"
-    },
-    {
       "id": 1678102,
       "type": "tmdb",
       "title": "死亡禁区实录",
@@ -110,6 +98,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.114,
+      "mediaType": "movie"
+    },
+    {
       "id": 1502135,
       "type": "tmdb",
       "title": "密档",
@@ -118,6 +118,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
       "releaseDate": "2026-08-28",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1755840,
+      "type": "tmdb",
+      "title": "铁达妮的号",
+      "originalTitle": "铁达妮的号",
+      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -134,15 +146,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1765924,
+      "id": 1616157,
       "type": "tmdb",
-      "title": "非法闯入者",
-      "originalTitle": "非法闯入者",
-      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 2,
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "releaseDate": "2026-09-19",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -158,26 +170,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1755840,
+      "id": 1306055,
       "type": "tmdb",
-      "title": "铁达妮的号",
-      "originalTitle": "铁达妮的号",
-      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
+      "title": "数到三",
+      "originalTitle": "数到三",
+      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xMeSojHGqZntQ8tlrxhXaZUoOLi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 5,
       "mediaType": "movie"
     },
     {
-      "id": 1616157,
+      "id": 1765924,
       "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "releaseDate": "2026-09-19",
+      "title": "非法闯入者",
+      "originalTitle": "非法闯入者",
+      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -194,43 +218,31 @@
       "mediaType": "movie"
     },
     {
-      "id": 1306055,
+      "id": 1089598,
       "type": "tmdb",
-      "title": "数到三",
-      "originalTitle": "数到三",
-      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xMeSojHGqZntQ8tlrxhXaZUoOLi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1655500,
-      "type": "tmdb",
-      "title": "床下有人4",
-      "originalTitle": "床下有人4",
-      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
-      "releaseDate": "2026-09-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1666219,
-      "type": "tmdb",
-      "title": "红闪电",
-      "originalTitle": "红闪电",
-      "description": "影片讲述11岁少女达达因家庭变故产生心理上的苦闷与烦恼，以致情绪消沉抑郁而休学，母亲不得已将她放到表哥经营的马场暂住。内心封闭的达达在那里结识了一个因比赛事故而自我放逐的冠军选手向飞，以及他的最佳搭档赛马“红闪电”。在相处中，双方看到了各自的缺失与迷惘，经过马场训练的交互中，渐渐寻找到心的方向，从而领悟了人和马在跨越现实与心灵的重重障碍中得到升华，实现了双向救赎，找回丢失的勇气与自我，也深刻理解了羁绊、离别与成长的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7L5YJLL86azwqJE7Aufya0jSNZ1.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-05",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     }
   ],
   "upcoming": [
+    {
+      "id": 1423191,
+      "type": "tmdb",
+      "title": "生化危机：爆发夜",
+      "originalTitle": "Resident Evil",
+      "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "releaseDate": "2026-10-05",
+      "rating": 7.282,
+      "mediaType": "movie"
+    },
     {
       "id": 1263337,
       "type": "tmdb",
@@ -240,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.9,
+      "rating": 7.722,
       "mediaType": "movie"
     },
     {
@@ -256,18 +268,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1766670,
-      "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1439171,
       "type": "tmdb",
       "title": "神探之痕迹",
@@ -275,6 +275,18 @@
       "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
       "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
@@ -336,6 +348,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-15",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     }
