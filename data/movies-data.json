@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T03:45:43.816+08:00",
+  "last_updated": "2026-09-27T02:55:07.862+08:00",
   "now_playing": [
     {
       "id": 1288445,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.701,
+      "rating": 6.915,
       "mediaType": "movie"
     },
     {
@@ -18,11 +18,11 @@
       "type": "tmdb",
       "title": "野兽之心",
       "originalTitle": "Heart of the Beast",
-      "description": "讲述一名前陆军特种部队士兵与他退役战犬的荒野求生故事。在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.988,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.245,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 8.73,
+      "rating": 8.731,
       "mediaType": "movie"
     },
     {
@@ -237,10 +237,10 @@
       "title": "生化危机：爆发夜",
       "originalTitle": "Resident Evil",
       "description": "奉命奔赴浣熊市的医疗速递员布莱恩，意外深陷全城失控的病毒浩劫。浣熊市彻底沦陷，异变怪物横行肆虐、嗜血猎捕，身陷末日绝境的他，能否在这场惊魂噩梦中突围求生，搏出一线生机？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/e0RQaLbATqDhJ7HAqmQlHkV2S6j.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.3,
+      "rating": 7.32,
       "mediaType": "movie"
     },
     {
@@ -248,11 +248,11 @@
       "type": "tmdb",
       "title": "野兽之心",
       "originalTitle": "Heart of the Beast",
-      "description": "讲述一名前陆军特种部队士兵与他退役战犬的荒野求生故事。在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.942,
+      "rating": 7.733,
       "mediaType": "movie"
     },
     {
@@ -260,10 +260,34 @@
       "type": "tmdb",
       "title": "鲸口脱险",
       "originalTitle": "Whalefall",
-      "description": "　　一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vOlCyIZYUPNQ1hE0sFl6AmDf5fN.jpg",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/dUzzwJpX4Fiet2QJy5P1TxpW1Qa.jpg",
       "releaseDate": "2026-10-16",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563608,
+      "type": "tmdb",
+      "title": "什么意思夫妇",
+      "originalTitle": "什么意思夫妇",
+      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -287,30 +311,6 @@
       "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
       "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1766670,
-      "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1563608,
-      "type": "tmdb",
-      "title": "什么意思夫妇",
-      "originalTitle": "什么意思夫妇",
-      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
-      "backdropPath": null,
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
