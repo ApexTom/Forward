@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T02:55:07.862+08:00",
+  "last_updated": "2026-09-28T03:27:18.179+08:00",
   "now_playing": [
     {
       "id": 1288445,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 6.915,
+      "rating": 7.16,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.7,
+      "rating": 7.634,
       "mediaType": "movie"
     },
     {
@@ -38,18 +38,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 278,
-      "type": "tmdb",
-      "title": "肖申克的救赎",
-      "originalTitle": "The Shawshank Redemption",
-      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 8.731,
-      "mediaType": "movie"
-    },
-    {
       "id": 1101412,
       "type": "tmdb",
       "title": "坠落2：死点",
@@ -59,6 +47,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
       "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 278,
+      "type": "tmdb",
+      "title": "肖申克的救赎",
+      "originalTitle": "The Shawshank Redemption",
+      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 8.731,
       "mediaType": "movie"
     },
     {
@@ -74,6 +74,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 414419,
+      "type": "tmdb",
+      "title": "杀死比尔：血色全传",
+      "originalTitle": "Kill Bill: The Whole Bloody Affair",
+      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.1,
+      "mediaType": "movie"
+    },
+    {
       "id": 1678102,
       "type": "tmdb",
       "title": "死亡禁区实录",
@@ -83,18 +95,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.114,
       "mediaType": "movie"
     },
     {
@@ -122,6 +122,42 @@
       "mediaType": "movie"
     },
     {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1765924,
+      "type": "tmdb",
+      "title": "非法闯入者",
+      "originalTitle": "非法闯入者",
+      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 2,
+      "mediaType": "movie"
+    },
+    {
       "id": 1761059,
       "type": "tmdb",
       "title": "一路超平安",
@@ -134,13 +170,37 @@
       "mediaType": "movie"
     },
     {
-      "id": 1089598,
+      "id": 1630030,
       "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "title": "大唐妖探",
+      "originalTitle": "大唐妖探",
+      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
+      "releaseDate": "2026-08-08",
+      "rating": 5.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1444590,
+      "type": "tmdb",
+      "title": "燃烧吧！爸爸",
+      "originalTitle": "燃烧吧！爸爸",
+      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
+      "releaseDate": "2026-09-05",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -158,75 +218,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
+      "id": 1774598,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "　　只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
       "backdropPath": null,
       "releaseDate": "2026-09-25",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1630030,
-      "type": "tmdb",
-      "title": "大唐妖探",
-      "originalTitle": "大唐妖探",
-      "description": "齿轮机关交织的大唐长安城，奇幻绚丽，飞檐翘角之下，人和妖比邻而居。梦想成为“长安第一神探”的天才少年狄少，破案功力一流，毒舌属性更甚；初出茅庐的狼妖捕快阿萨，武力不凡却心地纯良。一桩离奇命案，让这对冤家被迫组队，一路笑闹互怼，开启探案奇旅。当线索直指城市核心，这对不靠谱的搭档，能否守住这座奇幻之城的欢乐日常？而热闹繁华的长安背后，又藏着怎样的惊天秘密？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/fQRYOFC94VUvmjKkh3OF0bqtD81.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nM3sk5UXJsJnKzT1UZwWHCIa8K0.jpg",
-      "releaseDate": "2026-08-08",
-      "rating": 5.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1306055,
-      "type": "tmdb",
-      "title": "数到三",
-      "originalTitle": "数到三",
-      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xMeSojHGqZntQ8tlrxhXaZUoOLi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1765924,
-      "type": "tmdb",
-      "title": "非法闯入者",
-      "originalTitle": "非法闯入者",
-      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
-      "releaseDate": "2026-09-19",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1444590,
-      "type": "tmdb",
-      "title": "燃烧吧！爸爸",
-      "originalTitle": "燃烧吧！爸爸",
-      "description": "　即将大学毕业的顾立言（文淇 饰）突逢父亲（喻恩泰 饰）去世，不得不陪着精明伶俐的母亲（倪虹洁 饰）应对繁琐的丧葬流程。谁知父亲生前偷偷安排好的“治丧委员会”突然登门…意想不到的客人，哭笑不得的状况，荒诞抓马的事件， 母女二人急需打起精神面对。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mmgFT1iBf8TaHU8iiF3CZkbgG5Z.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/oOI3KNLmMSaHpDukSQN4cSLn4tb.jpg",
-      "releaseDate": "2026-09-05",
-      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -240,7 +240,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.32,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.733,
+      "rating": 7.634,
       "mediaType": "movie"
     },
     {
@@ -268,25 +268,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563608,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "什么意思夫妇",
-      "originalTitle": "什么意思夫妇",
-      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1766670,
-      "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
-      "backdropPath": null,
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
@@ -304,24 +292,24 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650896,
+      "id": 1766670,
       "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1387772,
+      "id": 1563608,
       "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "title": "什么意思夫妇",
+      "originalTitle": "什么意思夫妇",
+      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-01",
       "rating": 0,
@@ -336,6 +324,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-03",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1387772,
+      "type": "tmdb",
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
