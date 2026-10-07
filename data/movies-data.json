@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T04:44:04.070+08:00",
+  "last_updated": "2026-10-08T04:56:35.805+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -22,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 7.439,
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
+      "releaseDate": "2026-09-01",
+      "rating": 6.885,
       "mediaType": "movie"
     },
     {
@@ -50,30 +62,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 278,
-      "type": "tmdb",
-      "title": "肖申克的救赎",
-      "originalTitle": "The Shawshank Redemption",
-      "description": "1947年，银行家安迪·杜佛兰因被控杀害妻子及其情人，尽管始终坚称清白，仍被判处两项无期徒刑，送入缅因州的肖申克监狱服刑。在残酷而压抑的监狱生活中，安迪凭借冷静、智慧和始终未曾熄灭的希望逐渐赢得狱友们的尊重，并与能够在狱中弄到各种物品的瑞德建立起深厚的友谊。漫长的岁月里，他始终没有让高墙彻底改变自己，也开始用自己的方式影响身边的人，以及这座看似牢不可破的监狱……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aAdnwqwkKX5PPcr8EdtaiA8AZVl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 8.732,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "releaseDate": "2026-09-01",
-      "rating": 6.172,
-      "mediaType": "movie"
-    },
-    {
       "id": 1439171,
       "type": "tmdb",
       "title": "神探之痕迹",
@@ -82,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
       "releaseDate": "2026-10-01",
-      "rating": 7,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -122,18 +110,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -146,26 +122,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1502135,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "密档",
-      "originalTitle": "密档",
-      "description": "大革命失败，绝密的中共文件藏匿于一幢人蛇混杂的居民楼。在腥风血雨的环境中，中共文档保管员突破敌伪围剿，在完成延安高难度“调档”任务的同时，将所有秘密文件转移至安全之地。影片取材早期党史的真实历史事件。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gJpGtOq2fGwYDvsk5seQR7DAKBy.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yaq2dIstT8bEuKJadcpSDTPgxcz.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1387772,
-      "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "releaseDate": "2026-10-01",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -182,15 +146,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1306055,
+      "id": 1387772,
       "type": "tmdb",
-      "title": "数到三",
-      "originalTitle": "数到三",
-      "description": "　　舞蹈老师战玉梅（惠英红 饰）深陷丧子之痛，陌生男孩余景阳（张宥浩 饰）意外闯入了她的生活，给她带来了莫大的安慰。然而，所有的“巧遇”竟全是精心的设计，余景阳的心里究竟藏着怎样的秘密？当真相的利刃划破假象，曾经的温情又能否抵挡命运的残酷？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xMeSojHGqZntQ8tlrxhXaZUoOLi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/n0hqyWelh52kBuBAftH1V1omTTW.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 6.667,
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -228,9 +192,69 @@
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
+    },
+    {
+      "id": 1761059,
+      "type": "tmdb",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-19",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1755840,
+      "type": "tmdb",
+      "title": "铁达妮的号",
+      "originalTitle": "铁达妮的号",
+      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1670314,
+      "type": "tmdb",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
+    {
+      "id": 245891,
+      "type": "tmdb",
+      "title": "疾速追杀",
+      "originalTitle": "John Wick",
+      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "releaseDate": "2026-10-30",
+      "rating": 7.5,
+      "mediaType": "movie"
+    },
     {
       "id": 1255833,
       "type": "tmdb",
@@ -264,18 +288,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
       "releaseDate": "2026-09-18",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1308545,
-      "type": "tmdb",
-      "title": "一个夜晚与三个夏天",
-      "originalTitle": "一个夜晚与三个夏天",
-      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bPCcEl1AaKcPWQFH58o5DdErIYr.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-      "releaseDate": "2026-10-13",
       "rating": 0,
       "mediaType": "movie"
     },
