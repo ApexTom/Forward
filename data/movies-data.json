@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T04:56:35.805+08:00",
+  "last_updated": "2026-10-09T04:58:15.234+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -14,6 +14,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1101412,
+      "type": "tmdb",
+      "title": "坠落2：死点",
+      "originalTitle": "Fall 2: Deadpoint",
+      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "releaseDate": "2026-09-01",
+      "rating": 7.118,
+      "mediaType": "movie"
+    },
+    {
       "id": 1288445,
       "type": "tmdb",
       "title": "怒之杀",
@@ -22,19 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 7.4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落2：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cPCgLDNCCUwtsedr181DtrlaDWx.jpg",
-      "releaseDate": "2026-09-01",
-      "rating": 6.885,
+      "rating": 7.445,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.5,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -94,19 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
+      "rating": 8.109,
       "mediaType": "movie"
     },
     {
@@ -118,6 +106,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-03",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1778310,
+      "type": "tmdb",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -182,37 +182,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
+      "id": 1670314,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/sui5qMd1RRwnxa5yiF9AXZmWF5I.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-19",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "title": "红孩儿火焰山之王",
+      "originalTitle": "红孩儿火焰山之王",
+      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -230,13 +206,37 @@
       "mediaType": "movie"
     },
     {
-      "id": 1670314,
+      "id": 1716541,
       "type": "tmdb",
-      "title": "红孩儿火焰山之王",
-      "originalTitle": "红孩儿火焰山之王",
-      "description": "　　唐僧西天取经前500年，青鸾为了恢复曾经的族群盛世，不惜一切手段获取三昧真火；而与生俱来拥有三昧真火的红孩儿却备受真火折磨；时逢大闹天宫的孙悟空踢倒太上老君的炼丹炉导致大量三昧真火降落人间，突降的真火又将会改变青鸾和红孩儿的命运几何。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p0ERWIXQjifkYFPTjBfPprHzXhu.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/3Ghg1kL9Hon2K0cP4P2yGNddq6R.jpg",
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1765924,
+      "type": "tmdb",
+      "title": "非法闯入者",
+      "originalTitle": "非法闯入者",
+      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1774598,
+      "type": "tmdb",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "　　只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.5,
+      "rating": 7.464,
       "mediaType": "movie"
     },
     {
@@ -268,15 +268,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1782347,
+      "id": 1671541,
       "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tJuFseWDhGPUkJMOhMejdx50rD0.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vzOMABLewortDC4gUgg5iUK9WkP.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 0,
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -288,6 +288,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
       "releaseDate": "2026-09-18",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1782347,
+      "type": "tmdb",
+      "title": "三星堆：未来往事",
+      "originalTitle": "三星堆：未来往事",
+      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/tJuFseWDhGPUkJMOhMejdx50rD0.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vzOMABLewortDC4gUgg5iUK9WkP.jpg",
+      "releaseDate": "2026-10-23",
       "rating": 0,
       "mediaType": "movie"
     },
