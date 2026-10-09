@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T04:58:15.234+08:00",
+  "last_updated": "2026-10-10T04:28:28.323+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.3,
+      "rating": 7.328,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-01",
-      "rating": 7.118,
+      "rating": 7.169,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 7.445,
+      "rating": 7.446,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.4,
+      "rating": 7.437,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.246,
       "mediaType": "movie"
     },
     {
@@ -162,8 +162,8 @@
       "type": "tmdb",
       "title": "活色生香",
       "originalTitle": "活色生香",
-      "description": "年过半百，人生就活个洒脱。快60岁还爱“年上”的薛宝梅人民公园逛三逛，说是遇到soulmate，但叫的是宝贝还是保姆分不清，难顶！金钱主义的蒋芳芳本是只寻搭子今朝有酒今朝醉，却一头扎进黄昏年下恋被搭子阿宽“闪了腰”，触霉头！梁美心老公离世洋房在手，别人艳羡多金寡妇她却封心锁爱，走不脱！三姐妹的退休生活玩玩闹闹，就算人生没有保洁大姐闪婚亿万富翁的爽剧戏码，“老辈子”们也会用自己的方式把人生下半场，过得活色生香！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/hTRhxyWUqDJjdnza4G7VQdvZB0O.jpg",
+      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
@@ -194,13 +194,25 @@
       "mediaType": "movie"
     },
     {
-      "id": 1755840,
+      "id": 1086176,
       "type": "tmdb",
-      "title": "铁达妮的号",
-      "originalTitle": "铁达妮的号",
-      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -218,25 +230,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1765924,
+      "id": 1755840,
       "type": "tmdb",
-      "title": "非法闯入者",
-      "originalTitle": "非法闯入者",
-      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1774598,
-      "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "　　只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
-      "backdropPath": null,
+      "title": "铁达妮的号",
+      "originalTitle": "铁达妮的号",
+      "description": "事围绕小学语文老师、夜间主播、文艺片导演、'老年发明家'等身份迥异的小人物展开，通过他们在生活中遭遇的荒诞困境与不妥协的应对方式，呈现啼笑皆非的喜剧效果。部分主线聚焦于角色铁达妮与李铁柱夫妻共同克服生活挑战、维护家庭幸福的经历。影片讲述了小学语文老师铁达妮与李铁柱从相识到相守，小夫妻在社会中努力工作克服困难，共同维护甜美家庭的幸福故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aiFRIuWz4kspssxl51eqnch0wHM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mWYXlRZvJHtMPM3KZlm1Vd4nj0c.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -268,6 +268,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1477104,
+      "type": "tmdb",
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "releaseDate": "2026-10-24",
+      "rating": 7.1,
+      "mediaType": "movie"
+    },
+    {
       "id": 1671541,
       "type": "tmdb",
       "title": "三国第一部：争洛阳",
@@ -292,6 +304,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1782347,
       "type": "tmdb",
       "title": "三星堆：未来往事",
@@ -304,14 +328,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1732799,
+      "id": 1740363,
       "type": "tmdb",
-      "title": "象行记",
-      "originalTitle": "象行记",
-      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
-      "releaseDate": "2026-10-23",
+      "title": "勇敢女孩合唱团",
+      "originalTitle": "勇敢女孩合唱团",
+      "description": "　　本片以贵州黔东南苗侗村寨为背景，讲述驻村书记周勤知与支教老师冯吉成立助学联盟，周勤知负责修路架桥，冯吉成立合唱团来激发女孩们的自信心和勇气，双管齐下解决孩子们上学难的问题。然而，修路工程因须砍伐苗寨“生命树林”而遭寨民抵制，合唱团参赛之路亦受阻。冯吉组织线上家长会，告诉众人孩子们才是真正的生命延续。最终勇敢女孩合唱团登上省城舞台，两年后，大桥贯通杜柳江，少女们飞奔过桥奔向未来。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zBu2EmW39MTg4yOEXPgK8dsepP2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rF9zfnJncKGoSnONdlGE2dTcuyz.jpg",
+      "releaseDate": "2026-10-20",
       "rating": 0,
       "mediaType": "movie"
     },
