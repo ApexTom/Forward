@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T04:56:28.443+08:00",
+  "last_updated": "2026-10-15T03:55:51.777+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -14,30 +14,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1101412,
-      "type": "tmdb",
-      "title": "坠落２：死点",
-      "originalTitle": "Fall 2: Deadpoint",
-      "description": "痛失姐姐杭特之后，贾克斯与杭特那无畏的好友露斯重聚。两人结伴前往泰国著名的关山山脉疗伤。不料突如其来的山体滑坡将她们逼入绝境，两人被困在一段摇摇欲坠、高耸入云的4000英尺高空栈道上。面对死神的威胁，贾克斯必须直面内心深处的恐惧，在绝壁之上觅得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nsihyCiAHotJ3G4NTSJcBuWLbzg.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
-      "releaseDate": "2026-09-01",
-      "rating": 7.316,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1288445,
-      "type": "tmdb",
-      "title": "怒之杀",
-      "originalTitle": "Mutiny",
-      "description": "　　在目睹亿万富豪蒂布遇害，自己被诬陷为凶手后，科尔·里德只身闯入一艘远洋货轮，决心为老板复仇，却由此意外揭开了一个骇人听闻的惊天阴谋。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5E6hS9faru2CDOXLrHhIyOUfC7a.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 7.546,
-      "mediaType": "movie"
-    },
-    {
       "id": 299534,
       "type": "tmdb",
       "title": "复仇者联盟4：终局之战",
@@ -46,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.2,
+      "rating": 8.246,
       "mediaType": "movie"
     },
     {
@@ -58,7 +34,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.431,
+      "rating": 7.396,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1255833,
+      "type": "tmdb",
+      "title": "鲸口脱险",
+      "originalTitle": "Whalefall",
+      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
+      "releaseDate": "2026-10-16",
+      "rating": 9.333,
       "mediaType": "movie"
     },
     {
@@ -86,18 +74,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 414419,
-      "type": "tmdb",
-      "title": "杀死比尔：血色全传",
-      "originalTitle": "Kill Bill: The Whole Bloody Affair",
-      "description": "昆汀·塔伦蒂诺的本片将第一卷与第二卷合二为一，呈现出一部未分级的完整史诗一一完全以导演原本意图呈现，并包含一段前所未见的新动画片段。新娘（乌玛·瑟曼 Uma Thurman 饰）曾是暗杀组织中的一名成员，也是组织首脑比尔（大卫·卡拉丁 David Carradine 饰）的情人，金盆洗手后的她结识了一个单纯的小伙子并准备忘掉过去与之结婚。没想到，婚礼当天比尔突然出现，并带领手下大开杀戒，霎时间，圣洁的教堂变成人间地狱。新娘头部中弹昏迷4年，醒来后脑中首先想起的便是昏迷前的几张残酷的面孔，他们是曾经的同僚和爱人，是如今的敌人。满腔怒火的新娘要一一找到这些人，开启血色复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8w8bV7nmHq25mH68bqZaopMxnV7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/gxSWwZyYPA50f5T2IJzFX4NzxAG.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -119,6 +95,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1671541,
+      "type": "tmdb",
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -170,15 +158,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1789496,
+      "id": 1089598,
       "type": "tmdb",
-      "title": "狄仁杰之狼人劫",
-      "originalTitle": "狄仁杰之狼人劫",
-      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
-      "releaseDate": "2026-10-06",
-      "rating": 4,
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -194,101 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1765924,
+      "id": 1789496,
       "type": "tmdb",
-      "title": "非法闯入者",
-      "originalTitle": "非法闯入者",
-      "description": "本片以高亮连环杀人案为引，揭露网络信任危机与家庭暴力之恶，批判男性凝视下的女性困境。潘蕾的绝地反击与刑警、心理专家协作破案，昭示正义需理性与共情合力。贝多芬《命运》贯穿全片，结局“光明涅槃”点明：直面人性之恶的勇气，才是穿透黑暗的救赎。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mPFkP1yujRiiPYZA9UZphwcmpfp.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AuFYAHvT1vIxK1LLHuKPkdxSleq.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1658524,
-      "type": "tmdb",
-      "title": "怪屋",
-      "originalTitle": "怪屋",
-      "description": "房屋试睡员吴霜，在某个雨夜入住一栋曾发生过命案的法拍别墅，偶遇同来试睡的菜鸟博主年轮，二人在试睡过程中不断应对屋内出现的“怪事”，渐渐查明怪屋的秘密，也拼凑出原屋主家庭悲剧的真相……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ea1hDCOeKgSYPbJk2pIK6vIHVQQ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2EjcsKrOgjTvaZEwmP9eqsEhCss.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1785018,
-      "type": "tmdb",
-      "title": "血色黎明",
-      "originalTitle": "血色黎明",
-      "description": "导演‌：金霖，主演阵容‌：杜奕衡、何育骏、彭皓锋、张风、刘语乔。 故事以20世纪30年代的上海滩为背景，围绕四位异姓兄弟从结义到因信仰分野最终走向对立的跌宕经历展开，融合了江湖恩怨、谍战博弈与革命抉择的厚重叙事",
-      "posterPath": "https://image.tmdb.org/t/p/w500/t9ZQM0BzfB1eAk53pa8zQO0ipec.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-30",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "mediaType": "movie"
-    }
-  ],
-  "upcoming": [
-    {
-      "id": 1255833,
-      "type": "tmdb",
-      "title": "鲸口脱险",
-      "originalTitle": "Whalefall",
-      "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
-      "releaseDate": "2026-10-16",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 245891,
-      "type": "tmdb",
-      "title": "疾速追杀",
-      "originalTitle": "John Wick",
-      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
-      "releaseDate": "2026-10-30",
-      "rating": 7.465,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1477104,
-      "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
-      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "releaseDate": "2026-10-24",
-      "rating": 7.1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1671541,
-      "type": "tmdb",
-      "title": "三国第一部：争洛阳",
-      "originalTitle": "三国第一部：争洛阳",
-      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 6.3,
+      "title": "狄仁杰之狼人劫",
+      "originalTitle": "狄仁杰之狼人劫",
+      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
+      "releaseDate": "2026-10-06",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -304,6 +206,92 @@
       "mediaType": "movie"
     },
     {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1655500,
+      "type": "tmdb",
+      "title": "床下有人4",
+      "originalTitle": "床下有人4",
+      "description": "民国时期的上海。杜采薇是电影明星沈雨梦的表妹，也是她的私人助手。杜采薇经常做噩梦，看到床下有女鬼爬出，要加害她们姐妹二人！当她解开心结，了解噩梦的原因后，以为恐怖即将过去。但此时，女鬼再次从床下爬出来，白脸惊魂，利爪骇人……这一次，不是梦！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1785018,
+      "type": "tmdb",
+      "title": "血色黎明",
+      "originalTitle": "血色黎明",
+      "description": "导演‌：金霖，主演阵容‌：杜奕衡、何育骏、彭皓锋、张风、刘语乔。 故事以20世纪30年代的上海滩为背景，围绕四位异姓兄弟从结义到因信仰分野最终走向对立的跌宕经历展开，融合了江湖恩怨、谍战博弈与革命抉择的厚重叙事",
+      "posterPath": "https://image.tmdb.org/t/p/w500/t9ZQM0BzfB1eAk53pa8zQO0ipec.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-30",
+      "rating": 0,
+      "mediaType": "movie"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": 245891,
+      "type": "tmdb",
+      "title": "疾速追杀",
+      "originalTitle": "John Wick",
+      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "releaseDate": "2026-10-30",
+      "rating": 7.465,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1117898,
+      "type": "tmdb",
+      "title": "戴帽子的猫",
+      "originalTitle": "The Cat in the Hat",
+      "description": "　　戴帽子的“猫”一角由比尔·哈德尔配音——展现他那招牌的幽默、独特方式为孩子带来欢乐，带领观众踏上一段奇幻的旅程，进入一个前所未见的世界。\r 　　在本片中，我们的英雄接下了想像力与灵感研究所有限责任公司迄今最艰钜的任务：为盖比和赛巴斯汀这对姐弟加油打气，他们正为搬到新城镇而苦恼。对这位过去以行事过激而闻名的闯祸精来说，这可能是他证明自己的最后机会……否则他就会失去他的魔法帽！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jxkCS5YFMfNivn18gsHTUFggalB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1477104,
+      "type": "tmdb",
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "releaseDate": "2026-10-24",
+      "rating": 7.1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 656908,
+      "type": "tmdb",
+      "title": "罗摩衍那：王子传奇",
+      "originalTitle": "रामायण",
+      "description": "　　阿逾陀国的王子罗摩本应继承王位，但为了维护父亲的誓言，他甘愿放弃王权，带着妻子悉多和弟弟罗什曼那被流放森林十四年。在流放期间，罗摩一家在山林中苦修并斩妖除魔。然而，平静被打破——十首魔王罗波那因贪婪和邪念，化身苦行僧诱骗并掳走了悉多。罗摩在寻找妻子的过程中，结识了神猴哈奴曼与猴王须羯哩婆，组建了强大的盟军，准备跨海远征楞伽（罗波那的王国），誓要从魔王手中夺回爱妻。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1732799,
       "type": "tmdb",
       "title": "象行记",
@@ -316,6 +304,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 8,
+      "mediaType": "movie"
+    },
+    {
       "id": 1782347,
       "type": "tmdb",
       "title": "三星堆：未来往事",
@@ -324,30 +324,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/tJuFseWDhGPUkJMOhMejdx50rD0.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vzOMABLewortDC4gUgg5iUK9WkP.jpg",
       "releaseDate": "2026-10-23",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1770952,
-      "type": "tmdb",
-      "title": "喂喂喂，足球队",
-      "originalTitle": "喂喂喂，足球队",
-      "description": "2024年，全国盲人足球锦标赛上，出现了中国有史以来最年轻的一支队伍——新疆盲人足球队，平均年龄15岁。  两年前，他们还是新疆莎车县一所特殊学校里喜欢足球却踢不到的视障孩子。上海盲人足球队教练张健驱车千里来选拔，四个孩子第一次离开家乡。从上海回来后，他们萌生了一个念头：新疆，也可以有自己的盲人足球队。没有经费，没有场地，没有教练——这支草根队伍几度面临散掉。是孩子们一遍遍踢下去，让更多人最终看见了他们。磕磕绊绊之中，新疆第一支盲人足球队仓促成立，这群几乎没经历过系统性训练的娃娃，就这样被推上了全国赛场。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/66gSAoE0Ne1faHY7lNALKmMJynd.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-15",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1740363,
-      "type": "tmdb",
-      "title": "勇敢女孩合唱团",
-      "originalTitle": "勇敢女孩合唱团",
-      "description": "　　本片以贵州黔东南苗侗村寨为背景，讲述驻村书记周勤知与支教老师冯吉成立助学联盟，周勤知负责修路架桥，冯吉成立合唱团来激发女孩们的自信心和勇气，双管齐下解决孩子们上学难的问题。然而，修路工程因须砍伐苗寨“生命树林”而遭寨民抵制，合唱团参赛之路亦受阻。冯吉组织线上家长会，告诉众人孩子们才是真正的生命延续。最终勇敢女孩合唱团登上省城舞台，两年后，大桥贯通杜柳江，少女们飞奔过桥奔向未来。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zBu2EmW39MTg4yOEXPgK8dsepP2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/rF9zfnJncKGoSnONdlGE2dTcuyz.jpg",
-      "releaseDate": "2026-10-20",
       "rating": 0,
       "mediaType": "movie"
     },
