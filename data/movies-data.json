@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T03:55:51.777+08:00",
+  "last_updated": "2026-10-16T03:38:27.876+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.3,
+      "rating": 7.315,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.246,
+      "rating": 8.2,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.396,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -44,9 +44,9 @@
       "originalTitle": "Whalefall",
       "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 9.333,
+      "rating": 7.8,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-03",
-      "rating": 0,
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -268,18 +268,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1477104,
-      "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
-      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
-      "releaseDate": "2026-10-24",
-      "rating": 7.1,
-      "mediaType": "movie"
-    },
-    {
       "id": 656908,
       "type": "tmdb",
       "title": "罗摩衍那：王子传奇",
@@ -289,6 +277,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
       "releaseDate": "2026-11-06",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1477104,
+      "type": "tmdb",
+      "title": "小羊肖恩3：怪兽来袭",
+      "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
+      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+      "releaseDate": "2026-10-24",
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -313,6 +313,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
       "releaseDate": "2026-09-18",
       "rating": 8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303336,
+      "type": "tmdb",
+      "title": "落凡尘",
+      "originalTitle": "落凡尘",
+      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
+      "releaseDate": "2024-07-06",
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
