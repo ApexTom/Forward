@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T03:38:27.876+08:00",
+  "last_updated": "2026-10-17T03:12:42.422+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.315,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.4,
+      "rating": 7.412,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 7.8,
+      "rating": 7.429,
       "mediaType": "movie"
     },
     {
@@ -62,18 +62,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1563608,
-      "type": "tmdb",
-      "title": "什么意思夫妇",
-      "originalTitle": "什么意思夫妇",
-      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -83,6 +71,18 @@
       "backdropPath": null,
       "releaseDate": "2026-10-03",
       "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1563608,
+      "type": "tmdb",
+      "title": "什么意思夫妇",
+      "originalTitle": "什么意思夫妇",
+      "description": "　　沈默和天意是一对中年夫妻，正在经历婚姻的第三个七年之痒，锅碗瓢盆的碰撞，终于让积压许久的烦躁、嫌弃和失望彻底爆发，三十天的离婚冷静期，即将奏响他们婚姻的终曲。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -146,6 +146,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1766670,
       "type": "tmdb",
       "title": "活色生香",
@@ -155,42 +167,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1089598,
-      "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1387772,
-      "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1789496,
-      "type": "tmdb",
-      "title": "狄仁杰之狼人劫",
-      "originalTitle": "狄仁杰之狼人劫",
-      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
-      "releaseDate": "2026-10-06",
-      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -206,13 +182,25 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
+      "id": 1789496,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "title": "狄仁杰之狼人劫",
+      "originalTitle": "狄仁杰之狼人劫",
+      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
+      "releaseDate": "2026-10-06",
+      "rating": 4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
@@ -226,6 +214,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r0HP4YOmztCsZHEiTAK0zqSk15H.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/rTncR0fUxFCJmcV8YwT2B7QtNYD.jpg",
       "releaseDate": "2026-09-12",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1387772,
+      "type": "tmdb",
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -252,19 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.465,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1117898,
-      "type": "tmdb",
-      "title": "戴帽子的猫",
-      "originalTitle": "The Cat in the Hat",
-      "description": "　　戴帽子的“猫”一角由比尔·哈德尔配音——展现他那招牌的幽默、独特方式为孩子带来欢乐，带领观众踏上一段奇幻的旅程，进入一个前所未见的世界。\r 　　在本片中，我们的英雄接下了想像力与灵感研究所有限责任公司迄今最艰钜的任务：为盖比和赛巴斯汀这对姐弟加油打气，他们正为搬到新城镇而苦恼。对这位过去以行事过激而闻名的闯祸精来说，这可能是他证明自己的最后机会……否则他就会失去他的魔法帽！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jxkCS5YFMfNivn18gsHTUFggalB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 0,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -280,6 +268,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1117898,
+      "type": "tmdb",
+      "title": "戴帽子的猫",
+      "originalTitle": "The Cat in the Hat",
+      "description": "　　戴帽子的“猫”一角由比尔·哈德尔配音——展现他那招牌的幽默、独特方式为孩子带来欢乐，带领观众踏上一段奇幻的旅程，进入一个前所未见的世界。\r 　　在本片中，我们的英雄接下了想像力与灵感研究所有限责任公司迄今最艰钜的任务：为盖比和赛巴斯汀这对姐弟加油打气，他们正为搬到新城镇而苦恼。对这位过去以行事过激而闻名的闯祸精来说，这可能是他证明自己的最后机会……否则他就会失去他的魔法帽！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jxkCS5YFMfNivn18gsHTUFggalB.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1477104,
       "type": "tmdb",
       "title": "小羊肖恩3：怪兽来袭",
@@ -288,19 +288,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.1,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
-      "id": 1732799,
+      "id": 18672,
       "type": "tmdb",
-      "title": "象行记",
-      "originalTitle": "象行记",
-      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 0,
+      "title": "笑傲江湖2：东方不败",
+      "originalTitle": "笑傲江湖II東方不敗",
+      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ilQUy2xWgJo9rZnXtLhJrzQfYum.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
+      "releaseDate": "2026-10-30",
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -328,6 +328,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1732799,
+      "type": "tmdb",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1782347,
       "type": "tmdb",
       "title": "三星堆：未来往事",
@@ -337,6 +349,30 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/vzOMABLewortDC4gUgg5iUK9WkP.jpg",
       "releaseDate": "2026-10-23",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1406277,
+      "type": "tmdb",
+      "title": "菜肉馄饨",
+      "originalTitle": "菜肉馄饨",
+      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
+      "releaseDate": "2025-11-15",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
