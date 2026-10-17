@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T03:12:42.422+08:00",
+  "last_updated": "2026-10-18T02:05:47.719+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -14,18 +14,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 299534,
-      "type": "tmdb",
-      "title": "复仇者联盟4：终局之战",
-      "originalTitle": "Avengers: Endgame",
-      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-      "releaseDate": "2019-04-24",
-      "rating": 8.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 1263337,
       "type": "tmdb",
       "title": "野兽之心",
@@ -34,7 +22,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.412,
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 299534,
+      "type": "tmdb",
+      "title": "复仇者联盟4：终局之战",
+      "originalTitle": "Avengers: Endgame",
+      "description": "灭霸集齐六颗无限宝石后的一声响指，让宇宙中半数生命灰飞烟灭。幸存的复仇者们几近绝望，即使找到灭霸，也发现无限宝石已经被毁，希望似乎彻底破灭。五年后，迷失在量子领域的蚁人意外回到现实世界，并带来了一个可能逆转一切的办法。托尼·斯塔克、美国队长等幸存的英雄再度集结，尝试穿越不同的时间节点寻找过去的无限宝石。然而在行动过程中，过去的灭霸也逐渐察觉了他们的计划。为了挽回失去的一切，复仇者们不得不再次面对一场决定整个宇宙命运的终极挑战……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "releaseDate": "2019-04-24",
+      "rating": 8.246,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 7.429,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -122,18 +122,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1761059,
       "type": "tmdb",
       "title": "一路超平安",
@@ -146,15 +134,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
+      "id": 1778310,
       "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "releaseDate": "2026-09-25",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1789496,
+      "type": "tmdb",
+      "title": "狄仁杰之狼人劫",
+      "originalTitle": "狄仁杰之狼人劫",
+      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
+      "releaseDate": "2026-10-06",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -182,15 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1789496,
+      "id": 1086176,
       "type": "tmdb",
-      "title": "狄仁杰之狼人劫",
-      "originalTitle": "狄仁杰之狼人劫",
-      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
-      "releaseDate": "2026-10-06",
-      "rating": 4,
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -230,15 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1785018,
+      "id": 1716541,
       "type": "tmdb",
-      "title": "血色黎明",
-      "originalTitle": "血色黎明",
-      "description": "导演‌：金霖，主演阵容‌：杜奕衡、何育骏、彭皓锋、张风、刘语乔。 故事以20世纪30年代的上海滩为背景，围绕四位异姓兄弟从结义到因信仰分野最终走向对立的跌宕经历展开，融合了江湖恩怨、谍战博弈与革命抉择的厚重叙事",
-      "posterPath": "https://image.tmdb.org/t/p/w500/t9ZQM0BzfB1eAk53pa8zQO0ipec.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-30",
-      "rating": 0,
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 4,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.5,
+      "rating": 7.466,
       "mediaType": "movie"
     },
     {
@@ -328,6 +328,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1732799,
       "type": "tmdb",
       "title": "象行记",
@@ -352,14 +364,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1726805,
+      "id": 1531919,
       "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "title": "白衣逆行者",
+      "originalTitle": "白衣逆行者",
+      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-10-23",
+      "releaseDate": "2026-11-06",
       "rating": 0,
       "mediaType": "movie"
     },
