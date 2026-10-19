@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T02:24:28.089+08:00",
+  "last_updated": "2026-10-20T04:49:47.084+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.303,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
       "releaseDate": "2026-10-01",
-      "rating": 7.5,
+      "rating": 7.333,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
       "backdropPath": null,
       "releaseDate": "2026-10-03",
-      "rating": 5,
+      "rating": 5.333,
       "mediaType": "movie"
     },
     {
@@ -82,19 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/uofN38bDaG3qYeLoerXynlVRHRt.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
       "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1678102,
-      "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -107,6 +95,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
       "releaseDate": "2026-06-27",
       "rating": 6.3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1678102,
+      "type": "tmdb",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1089598,
+      "type": "tmdb",
+      "title": "敦煌英雄",
+      "originalTitle": "敦煌英雄",
+      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1761059,
       "type": "tmdb",
       "title": "一路超平安",
@@ -143,18 +155,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
       "releaseDate": "2026-09-19",
       "rating": 3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1778310,
-      "type": "tmdb",
-      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
-      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-01",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -170,14 +170,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1089598,
+      "id": 1778310,
       "type": "tmdb",
-      "title": "敦煌英雄",
-      "originalTitle": "敦煌英雄",
-      "description": "电影讲述的是一个关于“不忘”与“回归”的敦煌故事，取材自沙州（“敦煌”旧称“沙州”）军民归唐风云史——安史之乱后，沙州一度孤悬河西，与长安联系切断六十余年。此后，沙州军民在张议潮的带领下，穷尽一切奋勇抗击，最终使沙州唐旗高树。影片将用极致电影工业美学呈现大唐纷繁历史中的这段热血传奇，展现为家国舍身取义的少年英雄故事和中国人民千百年所传承的家国团圆梦。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXJrjbAkrbkMvBUcu9VYBjbUQ66.jpg",
-      "releaseDate": "2026-09-25",
+      "title": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "originalTitle": "新大头儿子和小头爸爸之天眼系列：失控的第七天",
+      "description": "　　为了替小头爸爸出气整顿职场，大头儿子借助天眼的魔法瞬间长大，但是到失控的第七天，情况越发难以控制，大头儿子与天眼还会碰撞出怎样的火花？七天魔法将尽，他们又该如何收场？\r 　　影片是《大头儿子和小头爸爸》与《天眼》两大国民级卡通联动。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nQhGByf1SEhmMNrwirvjzBVOxXn.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -218,26 +218,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1387772,
+      "id": 1716541,
       "type": "tmdb",
-      "title": "侦战",
-      "originalTitle": "偵戰",
-      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
+      "title": "我想留在你身边",
+      "originalTitle": "我想留在你身边",
+      "description": "古建筑修复师江南山（毕雯珺 饰）对医学院学生李艾（何蓝逗 饰）一见钟情。本以为是一场普通恋爱，江南山却无意发现李艾来自时间逆向的平行世界，彼此的时间线互为倒流——他的明天，是她的昨天。每一天都是唯一的相遇，每一次拥抱都在告别。在有限的交错时光里，相遇即是倒计时，但有些人能够遇见已经很幸运了，与其害怕结局，不如在我们能爱的时候用力去爱！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/g3vAs00Nw3kxzBP0g9Q9pmsV7hj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/s1HlzQhIghfQphmgFdodRuS5lG6.jpg",
+      "releaseDate": "2026-09-12",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
-      "id": 1774598,
+      "id": 1616157,
       "type": "tmdb",
-      "title": "最后，一根稻草托起了下巴",
-      "originalTitle": "最后，一根稻草托起了下巴",
-      "description": "　　只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-09-25",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
     }
@@ -246,35 +246,35 @@
     {
       "id": 245891,
       "type": "tmdb",
-      "title": "疾速追杀",
+      "title": "John Wick",
       "originalTitle": "John Wick",
-      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
+      "description": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1117898,
-      "type": "tmdb",
-      "title": "戴帽子的猫",
-      "originalTitle": "The Cat in the Hat",
-      "description": "　　戴帽子的“猫”一角由比尔·哈德尔配音——展现他那招牌的幽默、独特方式为孩子带来欢乐，带领观众踏上一段奇幻的旅程，进入一个前所未见的世界。\r 　　在本片中，我们的英雄接下了想像力与灵感研究所有限责任公司迄今最艰钜的任务：为盖比和赛巴斯汀这对姐弟加油打气，他们正为搬到新城镇而苦恼。对这位过去以行事过激而闻名的闯祸精来说，这可能是他证明自己的最后机会……否则他就会失去他的魔法帽！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jxkCS5YFMfNivn18gsHTUFggalB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 0,
+      "rating": 7.466,
       "mediaType": "movie"
     },
     {
       "id": 656908,
       "type": "tmdb",
-      "title": "罗摩衍那：王子传奇",
+      "title": "Ramayana: Rise of a Legend",
       "originalTitle": "रामायण",
-      "description": "　　阿逾陀国的王子罗摩本应继承王位，但为了维护父亲的誓言，他甘愿放弃王权，带着妻子悉多和弟弟罗什曼那被流放森林十四年。在流放期间，罗摩一家在山林中苦修并斩妖除魔。然而，平静被打破——十首魔王罗波那因贪婪和邪念，化身苦行僧诱骗并掳走了悉多。罗摩在寻找妻子的过程中，结识了神猴哈奴曼与猴王须羯哩婆，组建了强大的盟军，准备跨海远征楞伽（罗波那的王国），誓要从魔王手中夺回爱妻。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
+      "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/b11RXdbaBI4ATpHiAMOGc6WTgvu.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ks72NqTPhpupk207NXiqmZIQQVI.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1117898,
+      "type": "tmdb",
+      "title": "The Cat in the Hat",
+      "originalTitle": "The Cat in the Hat",
+      "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mWN6knIVJ2o7eGwSm7mOgSCwNUc.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
       "rating": 0,
       "mediaType": "movie"
@@ -282,57 +282,57 @@
     {
       "id": 1477104,
       "type": "tmdb",
-      "title": "小羊肖恩3：怪兽来袭",
+      "title": "Shaun the Sheep: The Beast of Mossy Bottom",
       "originalTitle": "Shaun the Sheep: The Beast of Mossy Bottom",
-      "description": "　　青苔农场的居民正翘首以盼万圣节的到来，而笨手笨脚的农夫意外毁了羊群心爱的南瓜地。为了解决问题，肖恩化身疯狂科学家，结果事情失控，森林中一只神秘怪兽横空出世。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8ucBVfHjEcR0kvIldFibeJlsHFP.jpg",
+      "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7,
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
       "id": 18672,
       "type": "tmdb",
-      "title": "笑傲江湖2：东方不败",
+      "title": "The Legend of the Swordsman",
       "originalTitle": "笑傲江湖II東方不敗",
-      "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ilQUy2xWgJo9rZnXtLhJrzQfYum.jpg",
+      "description": "Ling Wu Chung decides to hide from the chaotic world. Before leaving, he visits his friends, a tribe of snake-wielding women warriors. However, he finds that the tribe have been attacked, and their leader Yam Ying Ying has been abducted.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/nHDvrm1tpaZIE3g5ZENIW7Kfe1E.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 6.6,
+      "rating": 6.589,
       "mediaType": "movie"
     },
     {
       "id": 1303034,
       "type": "tmdb",
-      "title": "生日快乐",
+      "title": "Happy Birthday",
       "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
+      "description": "Eight-year-old maid Toha goes to great lengths to ensure that her best friend Nelly, the daughter of her wealthy employer, has a successful birthday party in this poignant debut feature exploring classism in modern-day Cairo.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4KoI8J2g1zU2TTRlznk6R0HVk6s.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
       "releaseDate": "2026-09-18",
       "rating": 8,
       "mediaType": "movie"
     },
     {
-      "id": 1726805,
+      "id": 1303336,
       "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 0,
+      "title": "Into The Mortal World",
+      "originalTitle": "落凡尘",
+      "description": "The classic legend is adapted, and the descendants of the Cowherd and the Weaving Maiden continue to write a new adventure!  The twenty-eight star constellations contain the power of the stars, which can destroy the sky and the earth. However, the Weaving Maiden, who is in charge of the Starry Nights, is greedy for the mortal world, causing the Starry Nights to flee and causing trouble. Years later, the Weaving Maiden's son, Jin Feng, went down to the world for his mother, and teamed up with a young girl, Xiaofan, to subdue the Starry Nights. People and gods together, all the way to the thrills and dangers, the mystery of Xiaofan's life, the truth of the Weaving Maiden's crime also gradually surfaced .....",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qopVRov3ozCUBXUfkvviFlcTB1Z.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
+      "releaseDate": "2024-07-06",
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
       "id": 1732799,
       "type": "tmdb",
-      "title": "象行记",
+      "title": "The Elephant Odyssey",
       "originalTitle": "象行记",
-      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "description": "The highly unusual trek by a herd of elephants as they diverted from their usual habitat and marched over 1,000 km in China across remote Yunnan Province. They attracted global attention, including live-streamed drone footage.",
       "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
       "releaseDate": "2026-10-23",
@@ -340,62 +340,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303336,
-      "type": "tmdb",
-      "title": "落凡尘",
-      "originalTitle": "落凡尘",
-      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
-      "releaseDate": "2024-07-06",
-      "rating": 7.3,
-      "mediaType": "movie"
-    },
-    {
       "id": 1406277,
       "type": "tmdb",
-      "title": "菜肉馄饨",
+      "title": "Shanghai Wonton",
       "originalTitle": "菜肉馄饨",
-      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "description": "The film tells the story of a retired father who comes to the park's dating corner to find a marriage partner for his son, but inadvertently gets involved in an emotional whirlpool.",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pPZAiAOH7ia4KMhefqWLJRWTtC6.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
       "releaseDate": "2025-11-15",
       "rating": 6,
       "mediaType": "movie"
     },
     {
-      "id": 1782347,
-      "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/tJuFseWDhGPUkJMOhMejdx50rD0.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vzOMABLewortDC4gUgg5iUK9WkP.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1531919,
       "type": "tmdb",
-      "title": "白衣逆行者",
+      "title": "Angel in White",
       "originalTitle": "白衣逆行者",
-      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
+      "description": "In early 2020, when the COVID-19 outbreak struck Wuhan, doctors Yuan Chuchu and Shen Yun joined forces with medical workers nationwide who answered the national call, rushing to the city to collaborate with local healthcare teams in tirelessly treating patients, ultimately containing the pandemic through the country's precise prevention measures and united efforts, composing a heroic anthem of this anti-virus battle.",
       "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1796001,
-      "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "　　孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-31",
       "rating": 0,
       "mediaType": "movie"
     }
