@@ -5,7 +5,7 @@
       "type": "tv",
       "title": "幻视任务",
       "genreTitle": "Sci-Fi & Fantasy•剧情",
-      "rating": 8.825,
+      "rating": 8.821,
       "overview": "幻视在重启后隐姓埋名，逃避企图把他变成武器的人。为了寻找生命的新意义，他开始与植入体内的AI对话，包括星期五、伊迪丝、贾维斯…甚至恶名昭彰的奥创。他低调的生活被一笔悬赏令终结，迫使他与神秘少年托马斯·谢泼德踏上逃亡之路，而这少年可能是他儿子的化身。在逃避追捕的同时，幻视必须面对自己，抵抗奥创的影响，并揭开年轻同伴的谜团。",
       "release_date": "2026-10-13",
       "poster_url": "/9rWX1tRNd1wIf0XnTjd8GOUoTlH.jpg",
@@ -14,14 +14,14 @@
         10765,
         18
       ],
-      "popularity": 426.0944
+      "popularity": 391.2253
     },
     {
       "id": 247718,
       "type": "tv",
       "title": "MobLand",
       "genreTitle": "犯罪•剧情",
-      "rating": 8.526,
+      "rating": 8.531,
       "overview": "两大黑帮家族的权力争斗将伦敦地下世界卷入战争。作为哈里根家族的“解决者”，哈里·达·索萨周旋于家族、敌人和日益失控的内部矛盾之间。",
       "release_date": "2025-03-30",
       "poster_url": "/33Lga6r9lYdjDX1Bty6zV28TlFu.jpg",
@@ -30,14 +30,30 @@
         80,
         18
       ],
-      "popularity": 250.8161
+      "popularity": 245.782
+    },
+    {
+      "id": 247718,
+      "type": "tv",
+      "title": "MobLand",
+      "genreTitle": "犯罪•剧情",
+      "rating": 8.531,
+      "overview": "两大黑帮家族的权力争斗将伦敦地下世界卷入战争。作为哈里根家族的“解决者”，哈里·达·索萨周旋于家族、敌人和日益失控的内部矛盾之间。",
+      "release_date": "2025-03-30",
+      "poster_url": "/33Lga6r9lYdjDX1Bty6zV28TlFu.jpg",
+      "title_backdrop": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "popularity": 245.782
     },
     {
       "id": 288673,
       "type": "tv",
       "title": "魔女嘉莉",
       "genreTitle": "悬疑•剧情•Sci-Fi & Fantasy",
-      "rating": 8.3,
+      "rating": 8.328,
       "overview": "父亲的突然离世迫使嘉莉进入到了残酷的公立高中，她不得不面对席卷社区的校园霸凌丑闻、社交媒体时代无情的压力和冷酷无情，以及伴随青春期而觉醒的神秘心灵感应能力。",
       "release_date": "2026-10-07",
       "poster_url": "/xobpaz7TiODcuGhT9dvENFhhVGw.jpg",
@@ -47,14 +63,14 @@
         18,
         10765
       ],
-      "popularity": 245.3903
+      "popularity": 227.9206
     },
     {
       "id": 213562,
       "type": "tv",
       "title": "水晶湖",
       "genreTitle": "剧情•悬疑",
-      "rating": 8.571,
+      "rating": 8.627,
       "overview": "《十三号星期五》系列电影的前传剧集。一年前，单亲母亲帕姆·沃赫斯的年幼儿子杰森在湖中溺亡，她始终无法走出丧子之痛。两名陌生人登门调查她的过去，一连串诡异事件随之发生，令水晶湖镇的居民开始怀疑：帕姆·沃赫斯究竟是什么人？",
       "release_date": "2026-10-15",
       "poster_url": "/zHxl1KifN0NcbqInngsTApHeWjc.jpg",
@@ -63,14 +79,14 @@
         18,
         9648
       ],
-      "popularity": 222.2194
+      "popularity": 225.9561
     },
     {
       "id": 312359,
       "type": "tv",
       "title": "龙珠超：比鲁斯",
       "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 9.7,
+      "rating": 9.702,
       "overview": "魔人布欧之战结束数年后，地球重归和平。沉睡已久的破坏神比鲁斯苏醒，听闻打败弗利萨的赛亚人孙悟空后，突然现身地球。面对拥有毁灭星球之力的比鲁斯，悟空和伙伴们迎来关乎地球存亡的宇宙级战斗。",
       "release_date": "2026-10-11",
       "poster_url": "/pXmJoNdWldb43N8P6EdDzDpsb7u.jpg",
@@ -80,14 +96,14 @@
         10759,
         10765
       ],
-      "popularity": 164.3003
+      "popularity": 167.1138
     },
     {
       "id": 284833,
       "type": "tv",
       "title": "降世神通：七净土",
       "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
-      "rating": 9.116,
+      "rating": 9.1,
       "overview": "灾难性的巨变摧毁了世界，一名年轻的土御术师发现自己是科拉之后的新一任神通。然而，在这个危险的时代，人们视神通为人类的毁灭者，而非救世主。遭到人类与灵体追捕的她，必须与失散多年的双胞胎姐妹联手，揭开身世之谜，并在文明最后的避难所彻底崩溃前拯救七净土。",
       "release_date": "2026-10-09",
       "poster_url": "/mSm9v7Gz6eCaK21jljNXfpC84PO.jpg",
@@ -98,14 +114,14 @@
         10765,
         10751
       ],
-      "popularity": 129.2277
+      "popularity": 120.931
     },
     {
       "id": 95350,
       "type": "tv",
       "title": "绿灯军团",
       "genreTitle": "剧情•悬疑•Sci-Fi & Fantasy",
-      "rating": 8.228,
+      "rating": 8.231,
       "overview": "绿灯侠哈尔·乔丹与新晋成员约翰·斯图尔特奉命调查美国小镇的一起神秘命案，却意外发现案件背后隐藏着与外星势力有关的阴谋，两人也在追查真相的过程中面对各自的信念与考验。",
       "release_date": "2026-08-16",
       "poster_url": "/5ZmOP60VIEfM2cnt7CpAK1j9mEv.jpg",
@@ -115,55 +131,7 @@
         9648,
         10765
       ],
-      "popularity": 110.0034
-    },
-    {
-      "id": 290856,
-      "type": "tv",
-      "title": "法警小队",
-      "genreTitle": "剧情•犯罪•动作冒险",
-      "rating": 8.0,
-      "overview": "《黄石》衍生剧。凯西·达顿加入美国法警局精英小队，运用牛仔与海豹突击队员的双重技能，打击蒙大拿州的暴力犯罪。在守护家人与履行职责之间，他和队友必须面对执法工作的沉重代价。",
-      "release_date": "2026-03-01",
-      "poster_url": "/mOXX3quzu36FNIcIdGfovnN9D3Q.jpg",
-      "title_backdrop": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
-      "genre_ids": [
-        18,
-        80,
-        10759
-      ],
-      "popularity": 108.1977
-    },
-    {
-      "id": 298550,
-      "type": "tv",
-      "title": "各取所需",
-      "genreTitle": "剧情",
-      "rating": 10.0,
-      "overview": "四对伴侣参加重聚派对，安娜的初恋也到场。众人尝试钥匙游戏：抽中谁的钥匙，就和对方共度一夜，只谈欢愉不谈感情。可猜忌、欲望接踵而至，这场游戏失控，所有人开始追问：自己真正想要的快乐是什么？",
-      "release_date": "2026-10-16",
-      "poster_url": "/8L2KxnwMcBMnhHTQ2SQ1IsFsLvj.jpg",
-      "title_backdrop": "/geSUajSeWBu14vLk0NyuR1OnrX7.jpg",
-      "genre_ids": [
-        18
-      ],
-      "popularity": 98.104
-    },
-    {
-      "id": 285322,
-      "type": "tv",
-      "title": "暗潮之下",
-      "genreTitle": "剧情•悬疑",
-      "rating": 7.217,
-      "overview": "当一只神秘的海洋生物威胁着纽芬兰的一个小镇时，一位坚韧的渔夫和他的家人奋力保护他们这个紧密相连的社区。",
-      "release_date": "2026-10-08",
-      "poster_url": "/zalCOSxzRZgmZLE7PxYZ9nD6J9z.jpg",
-      "title_backdrop": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "genre_ids": [
-        18,
-        9648
-      ],
-      "popularity": 82.0201
+      "popularity": 99.1301
     },
     {
       "id": 300146,
@@ -178,14 +146,14 @@
       "genre_ids": [
         18
       ],
-      "popularity": 70.4477
+      "popularity": 94.4177
     },
     {
       "id": 303745,
       "type": "tv",
       "title": "我的有罪之人",
       "genreTitle": "喜剧•剧情•犯罪",
-      "rating": 4.5,
+      "rating": 7.25,
       "overview": "杀人案头号嫌疑人、泰江集团三代继承人尹伊俊，引来特种部队出身的刑警姜在熙。她女扮男装，伪装成贴身秘书潜入调查。在熙一边查案，一边与刻薄敏感的伊俊不断交锋，二人渐生情愫。",
       "release_date": "2026-10-19",
       "poster_url": "/mYHOyGFCQXOZClvDiMfxVJQJzyi.jpg",
@@ -196,14 +164,46 @@
         80,
         10759
       ],
-      "popularity": 58.7374
+      "popularity": 84.9593
+    },
+    {
+      "id": 285322,
+      "type": "tv",
+      "title": "暗潮之下",
+      "genreTitle": "剧情•悬疑",
+      "rating": 7.227,
+      "overview": "当一只神秘的海洋生物威胁着纽芬兰的一个小镇时，一位坚韧的渔夫和他的家人奋力保护他们这个紧密相连的社区。",
+      "release_date": "2026-10-08",
+      "poster_url": "/zalCOSxzRZgmZLE7PxYZ9nD6J9z.jpg",
+      "title_backdrop": "/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "genre_ids": [
+        18,
+        9648
+      ],
+      "popularity": 74.952
+    },
+    {
+      "id": 219760,
+      "type": "tv",
+      "title": "终极名单：黑狼",
+      "genreTitle": "动作冒险•剧情",
+      "rating": 7.7,
+      "overview": "在《终极名单》故事发生之前，海豹突击队员本·爱德华兹（泰勒·克奇饰）踏入了中情局的黑暗战线。当他一步步走入灰色地带，就越发难以抵挡内心日益觉醒的黑暗冲动。每个人体内都住着两头狼——一光一暗，相互争斗。最终胜出的会是哪一头？",
+      "release_date": "2025-08-27",
+      "poster_url": "/uAuQx0LoHGBAZLiIO4xJnP2J0XD.jpg",
+      "title_backdrop": "/yQw23xxmVBFVHPCF6V68TAIIfno.jpg",
+      "genre_ids": [
+        10759,
+        18
+      ],
+      "popularity": 50.3543
     },
     {
       "id": 293610,
       "type": "tv",
       "title": "Doctor X：白色黑手党时代",
       "genreTitle": "悬疑•剧情•犯罪",
-      "rating": 9.389,
+      "rating": 9.4,
       "overview": "一名神秘且出色的外科医生来到一家人人自大、腐败横行的医院，面对强烈的反对，接手看似无法医治的病例。",
       "release_date": "2026-10-09",
       "poster_url": "/3vdziRiueKXLnyxFjKCQH5mEQ6B.jpg",
@@ -213,14 +213,14 @@
         18,
         80
       ],
-      "popularity": 48.621
+      "popularity": 42.8094
     },
     {
       "id": 275139,
       "type": "tv",
       "title": "换母疑云",
       "genreTitle": "喜剧•剧情•悬疑",
-      "rating": 7.0,
+      "rating": 7.3,
       "overview": "桑尼在车祸后察觉母亲似乎已被冒牌者取代，却无人相信。他与朋友展开秘密调查，试图查明母亲身上发生的变化，并面对青春期的自我认同与亲子关系危机。",
       "release_date": "2026-10-20",
       "poster_url": "/yvyBTVuLlOuiR67aWOsBhN3ifYM.jpg",
@@ -230,73 +230,39 @@
         18,
         9648
       ],
-      "popularity": 35.2126
+      "popularity": 36.4515
     },
     {
-      "id": 273247,
+      "id": 250203,
       "type": "tv",
-      "title": "独家黑幕",
-      "genreTitle": "犯罪•剧情",
-      "rating": 6.787,
-      "overview": "塔尔萨的公民记者李·雷本自称“真相守护者”，执着于揭露腐败与社会阴暗面。他不断追查各种事件背后的真相，即使因此身陷危险，也不愿停止调查。",
-      "release_date": "2025-09-23",
-      "poster_url": "/mlN3B4wlatpflkoAMao9daY18bT.jpg",
-      "title_backdrop": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+      "title": "无间兄弟情",
+      "genreTitle": "喜剧",
+      "rating": 7.8,
+      "overview": "伍迪·哈里森和马修·麦康纳两位相识多年的好友意外得知可能是亲兄弟，在追查身世真相的同时，也卷入家庭纷争与竞选州长的混乱之中。",
+      "release_date": "2026-09-22",
+      "poster_url": "/9XGxH25h5o6aycGLnidA5DKomwl.jpg",
+      "title_backdrop": "/aLE7R8QZPpTiWZS48PS22i2OWbl.jpg",
       "genre_ids": [
-        80,
-        18
-      ],
-      "popularity": 34.3187
-    },
-    {
-      "id": 293607,
-      "type": "tv",
-      "title": "百日谎言",
-      "genreTitle": "动作冒险•剧情",
-      "rating": 8.8,
-      "overview": "天才扒手佳景在朝鲜总督府伪装就业100天，作为假密探活跃在朝鲜，最后成为真正的密探的过程以及与朝鲜翻译官泰雄展开浪漫爱情故事的谍报罗曼史电视剧。",
-      "release_date": "2026-10-10",
-      "poster_url": "/xNE0eyVaBy4vfj2K8EjjmHR6Xbb.jpg",
-      "title_backdrop": "/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
-      "genre_ids": [
-        10759,
-        18
-      ],
-      "popularity": 33.2882
-    },
-    {
-      "id": 307106,
-      "type": "tv",
-      "title": "恋爱博士",
-      "genreTitle": "剧情•喜剧",
-      "rating": 8.714,
-      "overview": "高中时曾是游泳选手、后因病失去一条腿的博士生民宰，与一度迷失方向、如今重新出发的硕士生宥真。在冰冷的机器人实验室里，两名年轻人开启了一段酸甜苦辣交织的浪漫恋曲。",
-      "release_date": "2026-10-05",
-      "poster_url": "/mi6MY0MHWSGulv9mjn5kTn0Kocf.jpg",
-      "title_backdrop": "/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
-      "genre_ids": [
-        18,
         35
       ],
-      "popularity": 29.9222
+      "popularity": 28.1904
     },
     {
-      "id": 313346,
+      "id": 303272,
       "type": "tv",
-      "title": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。",
-      "genreTitle": "动画•喜剧•动作冒险",
-      "rating": 9.5,
-      "overview": "强化赋予魔术师雷恩，某天突然被公会流放。但他非但没有绝望，反而觉得“现在我什么都能做了”，于是收回了之前赋予在公会成员装备上的大量强化点数，作为冒险者踏上了新的人生道路。聚集在他身边的，有同伴被杀尽而封闭内心的天才冒险者、被夺走家人的战士、被作为杀人机器培养长大的暗杀者——全都是些背负着无法轻易抹去创伤的人。即便如此，雷恩也毫不否定她们的过去和伤痛，坦率而开朗地接纳了她们。故事的舞台，是一个连乌兹冲锋枪、弹珠机甚至黑道都存在的另类奇幻世界。然而在这个世界里，越是依赖便利的科学技术，魔力就会越低，冒险者也会变得越弱。拥有智慧的凶恶怪物横行霸道，在地下社会，法外狂徒们赤裸裸地展现出欲望与野心，各种阴谋与策略交织。在这个理想与正义被轻易践踏的世界中，冒险者们仅以自己的魔力和信念为武器奋战到底。这是一个失去归宿的人们，自己去抓住生存方式的故事。雷恩和同伴们破天荒且随心所欲的第二人生，现在开始了！！",
+      "title": "魔法骑士雷阿斯",
+      "genreTitle": "动画•动作冒险•Sci-Fi & Fantasy",
+      "rating": 9.0,
+      "overview": "狮堂光、龙咲海、凤凰寺风三位女孩，在校外教学参观地点——东京铁塔的展望台上，听到了少女的呼救声，然后就被一股奇异的力量，召唤到她们从未见过的异世界“塞费罗”。在那里等待三位少女到来的，是导师克雷夫。他告诉小光她们，塞费罗正面临毁灭的危机，她们三人是被身为支柱的艾梅洛德公主，以拯救塞费罗的“魔法骑士”身分召唤至此。她们三人必须打败抓走艾梅洛德公主的神官沙卡特，然后救出公主。此外，没有别的方法可以返回东京。为了拯救塞费罗并回到东京，三人踏上了旅途。",
       "release_date": "2026-10-07",
-      "poster_url": "/oVANcZHwfWRtnZF0UEtJeesRWiy.jpg",
-      "title_backdrop": "/msusxF6ZPGnQmTGXU9iC4UJOohs.jpg",
+      "poster_url": "/2zoubtpZYCtyNghQMWKSldwz8gQ.jpg",
+      "title_backdrop": "/f6MmtdKyrmUt2iHfhEKO6DgrL4a.jpg",
       "genre_ids": [
         16,
-        35,
         10759,
         10765
       ],
-      "popularity": 27.4024
+      "popularity": 18.0339
     },
     {
       "id": 332713,
@@ -311,23 +277,53 @@
       "genre_ids": [
         18
       ],
-      "popularity": 11.5353
+      "popularity": 12.7516
     },
     {
-      "id": 302915,
+      "id": 335319,
       "type": "tv",
-      "title": "In vitro",
-      "genreTitle": "喜剧•剧情",
-      "rating": 0.0,
-      "overview": "",
-      "release_date": "2026-10-19",
-      "poster_url": "/AfNJB6ctKlSDPvWwomkPpCKnFon.jpg",
-      "title_backdrop": "/6BDD0JhJVVbATEpgcaxJs9zmzPS.jpg",
+      "title": "新斯坦福监狱实验",
+      "genreTitle": "真人秀",
+      "rating": 8.0,
+      "overview": "这部作品大胆重新演绎了历史上最具争议的社会实验之一。30 名自愿参与者进入一座真正的监狱，并被随机分配为狱警或囚犯。他们置身于权力、等级与控制交织的体系中，将亲身探究：普通人是否终究会顺从被赋予的角色，还是能够在一股股将他们推向相反方向的力量面前，坚守同理心、道德准则与个人意志。随着压力不断攀升，权力天平开始倾斜，核心议题也显得愈发紧迫：权力是否会让人腐化？\n\n监制珍·利普希茨：“斯坦福监狱实验一直令我着迷。尽管该实验存在严重的伦理缺陷，却提出了一个至今仍极具现实意义的根本问题：权力如何影响道德抉择？能够重新构想这一社会实验，是我们经历过最紧张刺激、最令人兴奋，也绝对让人捏一把汗的体验之一。Netflix 一直以来都非常支持那些敢于冒险、突破界限、讲述具有挑战性故事的大胆项目，因此能够与他们合作完成这部作品，我们深感荣幸。”",
+      "release_date": "2026-10-21",
+      "poster_url": "/aV7UI25vuOyS1r4Gi9QBzhoNJUg.jpg",
+      "title_backdrop": "/zdKp0ycLliNrN1PZHaluN3v24GH.jpg",
       "genre_ids": [
-        35,
+        10764
+      ],
+      "popularity": 12.3733
+    },
+    {
+      "id": 252747,
+      "type": "tv",
+      "title": "企鹅妈妈",
+      "genreTitle": "剧情•喜剧",
+      "rating": 7.2,
+      "overview": "七岁的儿子转到新学校后，这名综合格斗选手意识到她最艰难的战斗不在八角笼中，而是身为人母。",
+      "release_date": "2024-11-13",
+      "poster_url": "/jyKdKPeNYu4uV9mhd8Yyjb0yOan.jpg",
+      "title_backdrop": "/aGbsulAQ4pHf2ErFKXvr01KWqYP.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "popularity": 10.762
+    },
+    {
+      "id": 285625,
+      "type": "tv",
+      "title": "小城良方",
+      "genreTitle": "剧情",
+      "rating": 9.0,
+      "overview": "讲述了当天才医生刘铮亮遭遇人生滑铁卢，被迫返回家乡从零开始的故事。他就地集结一群“不靠谱”的人，热血操刀着“最靠谱”的事，在烟火气中以人情暖意编织市井日常，开出一剂剂疗愈心灵的人生处方。",
+      "release_date": "2026-10-21",
+      "poster_url": "/qTWlL4MgEcrzCzEzPpavVSqmTfG.jpg",
+      "title_backdrop": "/nhQKKALP3SOi1Ft5MZU6KU05VcY.jpg",
+      "genre_ids": [
         18
       ],
-      "popularity": 8.002
+      "popularity": 10.7519
     }
   ],
   "today_movies": [
@@ -336,7 +332,7 @@
       "type": "movie",
       "title": "蜘蛛侠：崭新之日",
       "genreTitle": "科幻•动作•冒险",
-      "rating": 8.473,
+      "rating": 8.469,
       "overview": "彼得·帕克以蜘蛛侠的身份全职打击犯罪，却发现自己的身体发生了无法控制的变化。与此同时，一股神秘而强大的新威胁正向他和所爱之人逼近。",
       "release_date": "2026-07-29",
       "poster_url": "/9zFVOpQ0QSg0pOHQdFtNj7NDamp.jpg",
@@ -346,7 +342,7 @@
         28,
         12
       ],
-      "popularity": 1659.2083
+      "popularity": 1284.3495
     },
     {
       "id": 1003596,
@@ -363,7 +359,7 @@
         28,
         12
       ],
-      "popularity": 1086.7005
+      "popularity": 817.934
     },
     {
       "id": 1368337,
@@ -380,14 +376,14 @@
         28,
         14
       ],
-      "popularity": 632.2885
+      "popularity": 450.0378
     },
     {
       "id": 1058424,
       "type": "movie",
       "title": "希望",
       "genreTitle": "科幻•悬疑•动作",
-      "rating": 6.87,
+      "rating": 6.864,
       "overview": "20世纪70至80年代，生活在非军事区附近孤立村庄——湖浦港的居民，与不明外星生物对抗。",
       "release_date": "2026-07-15",
       "poster_url": "/cNdHFtoePvOp5nxqwWNg9BJLQ8g.jpg",
@@ -397,14 +393,14 @@
         9648,
         28
       ],
-      "popularity": 408.3035
+      "popularity": 433.8407
     },
     {
       "id": 1153576,
       "type": "movie",
       "title": "街头霸王",
       "genreTitle": "动作•奇幻",
-      "rating": 6.28,
+      "rating": 6.252,
       "overview": "改编自卡普空同名系列格斗游戏。1993年，昔日形同兄弟的街头格斗家隆与肯因春丽的邀请重返赛场，参加世界格斗王大赛。然而，一场致命阴谋潜伏其中，迫使两人再次面对彼此与各自的过去。",
       "release_date": "2026-10-13",
       "poster_url": "/B7id5YjOBmyvlzIRrlhqA051EW.jpg",
@@ -413,54 +409,55 @@
         28,
         14
       ],
-      "popularity": 375.755
+      "popularity": 298.3684
+    },
+    {
+      "id": 1561726,
+      "type": "movie",
+      "title": "大师计划",
+      "genreTitle": "动作•惊悚",
+      "rating": 7.031,
+      "overview": "老牌神偷罗杰锁定卢浮宫镇馆之宝《蒙娜丽莎》，组建一支背景复杂、彼此猜忌的小队执行这场惊天盗窃。行动危机四伏，严密安保与暗处敌人层层围堵，原定计划接连崩坏，所有人被迫卷入一场凶险的生死博弈。",
+      "release_date": "2026-10-16",
+      "poster_url": "/oukBZ29x5wrYJDZe6TuOTxQ7eU0.jpg",
+      "title_backdrop": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 228.4251
     },
     {
       "id": 1255833,
       "type": "movie",
       "title": "鲸口脱险",
       "genreTitle": "惊悚",
-      "rating": 6.537,
+      "rating": 6.5,
       "overview": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
       "release_date": "2026-10-14",
       "poster_url": "/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "title_backdrop": "/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+      "title_backdrop": "/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "genre_ids": [
         53
       ],
-      "popularity": 258.2246
+      "popularity": 202.0938
     },
     {
-      "id": 1561726,
+      "id": 1400940,
       "type": "movie",
-      "title": "偷天父子兵",
-      "genreTitle": "动作•惊悚",
-      "rating": 7.105,
-      "overview": "老牌神偷罗杰锁定卢浮宫镇馆之宝《蒙娜丽莎》，组建一支背景复杂、彼此猜忌的小队执行这场惊天盗窃。行动危机四伏，严密安保与暗处敌人层层围堵，原定计划接连崩坏，所有人被迫卷入一场凶险的生死博弈。",
-      "release_date": "2026-10-16",
-      "poster_url": "/AqZnhdnnoo4YQiFXm4LmwoMaWWw.jpg",
-      "title_backdrop": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+      "title": "泥面人",
+      "genreTitle": "恐怖•惊悚•科幻",
+      "rating": 7.5,
+      "overview": "好莱坞新星马特·哈根遭犯罪头目毁容后，为恢复容貌接受先进治疗，却意外陷入疯狂，走上复仇之路。",
+      "release_date": "2026-10-19",
+      "poster_url": "/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
+      "title_backdrop": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
       "genre_ids": [
-        28,
-        53
+        27,
+        53,
+        878
       ],
-      "popularity": 216.424
-    },
-    {
-      "id": 1248832,
-      "type": "movie",
-      "title": "挖掘者",
-      "genreTitle": "喜剧•剧情",
-      "rating": 7.485,
-      "overview": "世界上最有权势的男子极力证明自己其实是人类的救世主，结果等来了他酝酿的灾难要摧毁万物。",
-      "release_date": "2026-09-28",
-      "poster_url": "/c8UJ50GM0jiVIk6YO9hEiqEe0dP.jpg",
-      "title_backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "popularity": 197.3817
+      "popularity": 192.4303
     },
     {
       "id": 1423191,
@@ -477,7 +474,55 @@
         878,
         12
       ],
-      "popularity": 186.393
+      "popularity": 171.0037
+    },
+    {
+      "id": 1514026,
+      "type": "movie",
+      "title": "逃出布迪秀",
+      "genreTitle": "恐怖•喜剧•奇幻",
+      "rating": 7.128,
+      "overview": "一行人意外坠入诡异老式儿童节目次元。画风酷似玛卡巴卡，软萌橙色独角兽巴迪主持欢乐秀场。一旦拒绝配合演出，便会惨遭猎杀，死者还会被节目直接替换。众人被困虚假片场，一边躲避玩偶的疯狂追杀，一边拼死寻找逃出电视空间的出路。",
+      "release_date": "2026-08-27",
+      "poster_url": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
+      "title_backdrop": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
+      "genre_ids": [
+        27,
+        35,
+        14
+      ],
+      "popularity": 155.5864
+    },
+    {
+      "id": 1248832,
+      "type": "movie",
+      "title": "挖掘者",
+      "genreTitle": "喜剧•剧情",
+      "rating": 7.474,
+      "overview": "世界上最有权势的男子极力证明自己其实是人类的救世主，结果等来了他酝酿的灾难要摧毁万物。",
+      "release_date": "2026-09-28",
+      "poster_url": "/c8UJ50GM0jiVIk6YO9hEiqEe0dP.jpg",
+      "title_backdrop": "/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "popularity": 150.4584
+    },
+    {
+      "id": 1765072,
+      "type": "movie",
+      "title": "你能看到一切",
+      "genreTitle": "纪录",
+      "rating": 8.9,
+      "overview": "在被判入狱前的34天，臭名昭著的硅谷创始人伊丽莎白·霍姆斯邀请了一支持怀疑态度的摄制组记录她的一举一动。起初这是一部关于神秘罪犯的私密肖像，却演变成一场持续3年、坠入深渊的迷幻之旅。",
+      "release_date": "2026-10-16",
+      "poster_url": "/5zaoousDbGy7uM1s2OH4GqR0aQy.jpg",
+      "title_backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+      "genre_ids": [
+        99
+      ],
+      "popularity": 144.2124
     },
     {
       "id": 1170608,
@@ -493,63 +538,14 @@
         878,
         12
       ],
-      "popularity": 177.8139
-    },
-    {
-      "id": 1765072,
-      "type": "movie",
-      "title": "你能看到一切",
-      "genreTitle": "纪录",
-      "rating": 9.0,
-      "overview": "在被判入狱前的34天，臭名昭著的硅谷创始人伊丽莎白·霍姆斯邀请了一支持怀疑态度的摄制组记录她的一举一动。起初这是一部关于神秘罪犯的私密肖像，却演变成一场持续3年、坠入深渊的迷幻之旅。",
-      "release_date": "2026-10-16",
-      "poster_url": "/5zaoousDbGy7uM1s2OH4GqR0aQy.jpg",
-      "title_backdrop": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
-      "genre_ids": [
-        99
-      ],
-      "popularity": 172.0381
-    },
-    {
-      "id": 1514026,
-      "type": "movie",
-      "title": "逃出布迪秀",
-      "genreTitle": "恐怖•喜剧•奇幻",
-      "rating": 7.1,
-      "overview": "一行人意外坠入诡异老式儿童节目次元。画风酷似玛卡巴卡，软萌橙色独角兽巴迪主持欢乐秀场。一旦拒绝配合演出，便会惨遭猎杀，死者还会被节目直接替换。众人被困虚假片场，一边躲避玩偶的疯狂追杀，一边拼死寻找逃出电视空间的出路。",
-      "release_date": "2026-08-27",
-      "poster_url": "/qG84lCvV5wDVBDYaNFPDFWa9IAl.jpg",
-      "title_backdrop": "/ytoLEl5yDaxB8AtZ52uKWjaQ9ql.jpg",
-      "genre_ids": [
-        27,
-        35,
-        14
-      ],
-      "popularity": 153.0773
-    },
-    {
-      "id": 1400940,
-      "type": "movie",
-      "title": "泥面人",
-      "genreTitle": "恐怖•惊悚•科幻",
-      "rating": 8.2,
-      "overview": "好莱坞新星马特·哈根遭犯罪头目毁容后，为恢复容貌接受先进治疗，却意外陷入疯狂，走上复仇之路。",
-      "release_date": "2026-10-19",
-      "poster_url": "/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
-      "title_backdrop": "/uL4cIrNi2uaUnWIOQQ28EVnkETG.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "popularity": 117.3969
+      "popularity": 122.6492
     },
     {
       "id": 1288069,
       "type": "movie",
       "title": "登峰传奇：丹增诺盖",
       "genreTitle": "剧情•历史",
-      "rating": 8.37,
+      "rating": 8.363,
       "overview": "根据真实事件改编。喜马拉雅登山家丹增·诺盖与新西兰登山家埃德蒙·希拉里携手登顶珠穆朗玛峰，成为首批登顶者。在妻子达瓦和探险队秘书吉尔·亨德森的支持下，丹增争取加入英国登山队，在攀登过程中面对文化差异、阶级矛盾与高山险境。",
       "release_date": "2026-10-09",
       "poster_url": "/l1Jj0SAqdlbEwSWa8Ags31D5WiZ.jpg",
@@ -558,14 +554,14 @@
         18,
         36
       ],
-      "popularity": 107.9694
+      "popularity": 109.6476
     },
     {
       "id": 1339713,
       "type": "movie",
       "title": "痴迷",
       "genreTitle": "恐怖•惊悚",
-      "rating": 8.175,
+      "rating": 8.173,
       "overview": "性格孤僻的小镇青年贝尔苦苦暗恋女神妮基却怯于表白。他在一家商店意外获得神秘许愿道具 “一愿柳”，折断柳条许下 “让妮基爱我胜过世上所有人” 的愿望。愿望成真后，妮基却逐渐失控，变得痴缠癫狂，对贝尔产生窒息般的控制欲，身体、人格与理智接连崩塌。这场强求来的 “爱情” 暗藏致命代价，将贝尔拖入万劫不复的深渊。",
       "release_date": "2026-05-13",
       "poster_url": "/32HbiLe4AWBqsM7WrYEYpL3oHmS.jpg",
@@ -574,14 +570,50 @@
         27,
         53
       ],
-      "popularity": 107.7502
+      "popularity": 104.8298
+    },
+    {
+      "id": 1108427,
+      "type": "movie",
+      "title": "海洋奇缘：启航",
+      "genreTitle": "家庭•奇幻•喜剧",
+      "rating": 7.5,
+      "overview": "海的召唤，从未停止。熟悉的旋律响起，属于“莫阿娜”的冒险，再次扬帆启航。",
+      "release_date": "2026-07-08",
+      "poster_url": "/8f4OJJrMtZcoB4h1BLyyZewd96X.jpg",
+      "title_backdrop": "/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        35,
+        12
+      ],
+      "popularity": 99.705
+    },
+    {
+      "id": 1433583,
+      "type": "movie",
+      "title": "监狱雄心",
+      "genreTitle": "惊悚•冒险•历史",
+      "rating": 6.8,
+      "overview": "俄勒冈州，1933年。塞缪尔·墨菲被强行从女儿身边带走，送往一座残酷的劳役营。典狱长克兰西以提前释放为诱饵，要求他穿越危机四伏的荒野走私黄金。为再次见到孩子，墨菲甘愿冒何等风险？",
+      "release_date": "2026-09-16",
+      "poster_url": "/hwvUwTJOkh1MrJlkJ2NRSVOO8c.jpg",
+      "title_backdrop": "/oQxaPtPdaGEymarp9pVOzwZT11V.jpg",
+      "genre_ids": [
+        53,
+        12,
+        36,
+        18
+      ],
+      "popularity": 78.7788
     },
     {
       "id": 1198654,
       "type": "movie",
       "title": "害群之马",
       "genreTitle": "喜剧•惊悚",
-      "rating": 6.553,
+      "rating": 6.397,
       "overview": "小学老师玛利亚尽力管教一班10岁孩子，却被一名不守规矩的学生拖累。随着自身事业承压、该生行为愈发恶劣，她做出错误决定，意外将这名学生带回并锁在家中。玛利亚本想反悔，可班级情况逐渐好转，同事和家长都为此欣喜，她就此陷入两难困境。",
       "release_date": "2026-09-10",
       "poster_url": "/9xroV2lTOG1Pk8D9Qbsyzl5FfZo.jpg",
@@ -590,31 +622,14 @@
         35,
         53
       ],
-      "popularity": 81.2191
-    },
-    {
-      "id": 1433583,
-      "type": "movie",
-      "title": "监狱雄心",
-      "genreTitle": "剧情•惊悚•犯罪",
-      "rating": 7.0,
-      "overview": "俄勒冈州，1933年。塞缪尔·墨菲被强行从女儿身边带走，送往一座残酷的劳役营。典狱长克兰西以提前释放为诱饵，要求他穿越危机四伏的荒野走私黄金。为再次见到孩子，墨菲甘愿冒何等风险？",
-      "release_date": "2026-09-16",
-      "poster_url": "/hwvUwTJOkh1MrJlkJ2NRSVOO8c.jpg",
-      "title_backdrop": "/myA2cjsISTbTJQK6HWnZffFJK6j.jpg",
-      "genre_ids": [
-        18,
-        53,
-        80
-      ],
-      "popularity": 66.1685
+      "popularity": 74.9475
     },
     {
       "id": 1380417,
       "type": "movie",
       "title": "不择手段",
       "genreTitle": "惊悚•历史•犯罪",
-      "rating": 6.978,
+      "rating": 6.7,
       "overview": "改编自真实事件。一名年轻的黑人联邦调查局探员奉命前往1960年代的密西西比州，调查针对民权领袖的一系列残忍谋杀案。他被迫与臭名昭著的黑手党杀手格雷格·斯卡帕合作，在追查真凶的过程中，正义与复仇的界限逐渐模糊。",
       "release_date": "2026-09-02",
       "poster_url": "/duiObQgNpRkDBB4SfjN9wZFy9Ak.jpg",
@@ -625,14 +640,14 @@
         80,
         18
       ],
-      "popularity": 55.8521
+      "popularity": 58.87
     },
     {
       "id": 791523,
       "type": "movie",
       "title": "荒野丛林",
       "genreTitle": "动画•冒险•奇幻",
-      "rating": 9.5,
+      "rating": 9.6,
       "overview": "普鲁和同班同学柯蒂斯误入一片禁忌魔法森林，林中遍布魔法生灵、忠心伙伴与强大劲敌。二人踏上一场凶险万分的营救之旅，要从神秘女子亚历山德拉统领的鸦群手中，救出被掳走的婴儿弟弟麦克。",
       "release_date": "2026-10-19",
       "poster_url": "/z5MMAxbQO2nCvBU8BqHgoY1zKdD.jpg",
@@ -642,22 +657,7 @@
         12,
         14
       ],
-      "popularity": 23.7516
-    },
-    {
-      "id": 1513253,
-      "type": "movie",
-      "title": "小小逃亡者",
-      "genreTitle": "喜剧",
-      "rating": 10.0,
-      "overview": "　　少年雅各布好不容易在夏令营找到归属感，父母却因离婚经济紧张，无力再支付营费。不甘心暑假就此结束，他拉上一帮熊孩子制定疯狂计划，花式整蛊对抗疯批管理员鲍勃，想尽办法赖在营地，要把这个夏天过成这辈子最长最疯的假期。",
-      "release_date": "2026-09-18",
-      "poster_url": "/unJWfg66bFwrGD31nBFoOQfkuba.jpg",
-      "title_backdrop": "/15jKdedj6I13GLWHM9wiyGQe7OX.jpg",
-      "genre_ids": [
-        35
-      ],
-      "popularity": 9.2201
+      "popularity": 42.3104
     }
   ]
 }
