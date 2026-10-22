@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T03:52:38.036+08:00",
+  "last_updated": "2026-10-23T03:41:04.048+08:00",
   "now_playing": [
     {
       "id": 1255833,
@@ -8,9 +8,9 @@
       "originalTitle": "Whalefall",
       "description": "一场突如其来的意外，让他被巨鲸吞入腹中。受困于漆黑鲸腹之中，他仅剩 一小时氧气。在与时间赛跑、与恐惧正面交锋的同时，父亲留给他的技能，或许正是他逃出生天的唯一希望。",
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hBoY4pwszgeBEXLZ53WDTyLIMhr.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.473,
+      "rating": 6.518,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.295,
+      "rating": 7.297,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.4,
+      "rating": 7.384,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/wXyZYO6BKDh8Evf80DF80VzKcz3.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
       "releaseDate": "2019-04-24",
-      "rating": 8.246,
+      "rating": 8.247,
       "mediaType": "movie"
     },
     {
@@ -62,6 +62,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1503023,
+      "type": "tmdb",
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-03",
+      "rating": 5.333,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1086176,
+      "type": "tmdb",
+      "title": "老江湖",
+      "originalTitle": "老江湖",
+      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1439171,
       "type": "tmdb",
       "title": "神探之痕迹",
@@ -74,15 +98,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1503023,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-03",
-      "rating": 5.333,
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -110,27 +134,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650896,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "releaseDate": "2026-09-25",
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
-      "releaseDate": "2026-09-19",
-      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -146,14 +158,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1678102,
+      "id": 1761059,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "releaseDate": "2026-09-11",
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
+      "releaseDate": "2026-09-19",
+      "rating": 3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1616157,
+      "type": "tmdb",
+      "title": "上海女儿",
+      "originalTitle": "上海女儿",
+      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "releaseDate": "2026-09-19",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -182,18 +218,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1086176,
-      "type": "tmdb",
-      "title": "老江湖",
-      "originalTitle": "老江湖",
-      "description": "　　一起平平无奇的失窃案，却让即将退休的老警井有正（于谦 饰）发现了蹊跷。随着调查深入，所有线索都指向名典集团董事长边居寒（梁家辉 饰）。老井锲而不舍地追查，边居寒察觉危险靠近，亦发起反攻。当“老江湖”撞上“老江湖”，将牵扯出怎样惊人的真相？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gMBthetNcy0xqZVnBtzgXDylbKD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1303336,
       "type": "tmdb",
       "title": "落凡尘",
@@ -206,37 +230,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1766670,
+      "id": 1764816,
       "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿内莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为内莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/t4g9u7Fbx5ttPJmXmrqDQ7bSidr.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 8,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1616157,
-      "type": "tmdb",
-      "title": "上海女儿",
-      "originalTitle": "上海女儿",
-      "description": "上海女性阿茗独自来到西双版纳，试图在父亲曾插队过的橡胶林农场寻找两位下落不明的故人，但一系列出乎意料的奇遇与发现，正在这片热带密林深处等待着她。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kUA0Ue4KsjaYXMDv9V0DKJ4Df7o.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/vQx0gaan7ZuJyDxoeDtqA0EG7TN.jpg",
+      "title": "阴风诡影",
+      "originalTitle": "阴风诡影",
+      "description": "午夜墓场，女鬼爬出坟墓！阴风阵阵，鬼影飘飘，野火隐隐，怪鸟鸣叫，谁敢踏入阴阳交汇的追魂场？！当主人公午夜探路，寻找种种诡异真相，那狰狞鬼面突然出现，揪心鬼笑飘忽响起，夺命的利爪已经插入胸口！惨叫连连，鲜血四溅！是冤死的妻子诈尸还魂？还是内心的魔咒幻化成厉鬼？亦或是坟场的千年诅咒打开了怨灵的禁忌牢笼？午夜惊魂时刻，当恐怖鬼影现了真身，所有人必将不寒而栗！魂飞魄散！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/i1Zj0sXxEsWj7yOexeUILynnmIu.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-09-19",
       "rating": 0,
       "mediaType": "movie"
@@ -256,18 +256,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 245891,
-      "type": "tmdb",
-      "title": "疾速追杀",
-      "originalTitle": "John Wick",
-      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
-      "releaseDate": "2026-10-30",
-      "rating": 7.466,
-      "mediaType": "movie"
-    },
-    {
       "id": 1117898,
       "type": "tmdb",
       "title": "戴帽子的猫",
@@ -280,15 +268,39 @@
       "mediaType": "movie"
     },
     {
+      "id": 245891,
+      "type": "tmdb",
+      "title": "疾速追杀",
+      "originalTitle": "John Wick",
+      "description": "不久之前刚刚经历丧妻之痛的约翰·威克（基努·里维斯 Keanu Reeves 饰），未曾料到磨难与折磨接二连三袭来。他那辆1964年的福特老爷车被一伙俄罗斯小混混盯上，旋即引来对方入室抢劫，心爱的狗狗被当场杀死，约翰也遭到无情毒打，那辆老爷车自然被对方抢走。偷车的混混（阿尔菲·艾伦 Alfie Allen 饰）是黑帮大佬维格·塔拉索夫（迈克尔·恩奎斯特 Michael Nyqvist 饰）的儿子，而维格在听说这件事后显得紧张非常，因为约翰有着令人胆战心惊的身份。他曾是名震江湖的冷血杀手，当年替塔拉索夫杀掉不少难缠的对手，后来却为了妻子金盆洗手。愤怒至极的约翰拒绝塔拉索夫的调解，他决定单枪匹马展开复仇……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+      "releaseDate": "2026-10-30",
+      "rating": 7.466,
+      "mediaType": "movie"
+    },
+    {
       "id": 18672,
       "type": "tmdb",
       "title": "笑傲江湖2：东方不败",
       "originalTitle": "笑傲江湖II東方不敗",
       "description": "华山派大弟子令狐冲（李连杰 饰）在经历江湖纷争后，本欲与师妹岳灵珊（李嘉欣 饰）及众师弟一同归隐，退出江湖。然而，此时的武林正被一场巨大阴谋笼罩。日月神教教主东方不败（林青霞 饰）凭借绝世武功《葵花宝典》篡权，囚禁了原教主任我行（任世官 饰），并勾结东瀛浪人，意图颠覆朝廷。\r 令狐冲在途中偶遇一位超凡脱俗的神秘女子，两人月下对饮，引为知己，令狐冲更对这位女子暗生情愫。他全然不知，眼前这位佳人，正是他受朋友任盈盈（关之琳 饰）和蓝凤凰（袁洁莹 饰）所托、计划要铲除的魔教枭雄东方不败。\r 与此同时，东方不败为巩固权势，开始铲除教内异己。当令狐冲得知自己的同门师兄弟惨遭东方不败毒手时，他义愤填膺，决心联手任盈盈、向问天（刘洵 饰）以及被救出的任我行，攻上黑木崖，为同门报仇。\r 在最终的决战中，令狐冲震惊地发现，那个与自己有过一段情缘、刻骨铭心的神秘女子，竟然就是他要手刃的仇敌东方不败。爱恨交织与江湖大义在前，两人展开了一场惊天动地的生死对决。东方不败虽武功盖世，但因对令狐冲手下留情，最终坠下悬崖。\r 风波平息后，重掌大权的任我行变得与昔日的东方不败一样专横，开始大肆清除异己。令狐冲看透江湖权力斗争的循环与虚妄，心灰意冷之下，选择携师妹岳灵珊浪迹天涯，真正远离这个纷扰的江湖。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ilQUy2xWgJo9rZnXtLhJrzQfYum.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
       "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1603262,
+      "type": "tmdb",
+      "title": "珠穆朗玛：云中彼岸",
+      "originalTitle": "Everest: The Other Side",
+      "description": "真实记录登山滑雪运动员吉姆·莫里森于2025年10月成功沿珠穆朗玛峰北坡霍恩拜因雪沟登顶，并成为全球首位在该危险路线完成滑雪速降的历史性壮举。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
