@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T02:32:12.965+08:00",
+  "last_updated": "2026-10-26T02:40:11.014+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.304,
+      "rating": 7.305,
       "mediaType": "movie"
     },
     {
@@ -22,19 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.495,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1263337,
-      "type": "tmdb",
-      "title": "野兽之心",
-      "originalTitle": "Heart of the Beast",
-      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "releaseDate": "2026-09-30",
-      "rating": 7.4,
+      "rating": 6.598,
       "mediaType": "movie"
     },
     {
@@ -50,6 +38,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1263337,
+      "type": "tmdb",
+      "title": "野兽之心",
+      "originalTitle": "Heart of the Beast",
+      "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "releaseDate": "2026-09-30",
+      "rating": 7.349,
+      "mediaType": "movie"
+    },
+    {
       "id": 1477104,
       "type": "tmdb",
       "title": "小羊肖恩3：怪兽来袭",
@@ -58,19 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.403,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1503023,
-      "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-03",
-      "rating": 5.333,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -83,6 +71,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/7QxuxYl9z8Agbj8YnLWvYFw2OtB.jpg",
       "releaseDate": "2026-09-25",
       "rating": 2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1503023,
+      "type": "tmdb",
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-03",
+      "rating": 5.333,
       "mediaType": "movie"
     },
     {
@@ -110,6 +110,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 4,
+      "mediaType": "movie"
+    },
+    {
       "id": 1563608,
       "type": "tmdb",
       "title": "什么意思夫妇",
@@ -119,18 +131,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/vPoEbGeBuAfag3TcFzwPt9EqVWT.jpg",
       "releaseDate": "2026-10-01",
       "rating": 7,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1761059,
-      "type": "tmdb",
-      "title": "一路超平安",
-      "originalTitle": "一路超平安",
-      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
-      "releaseDate": "2026-09-19",
-      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -146,27 +146,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1789496,
+      "id": 1761059,
       "type": "tmdb",
-      "title": "狄仁杰之狼人劫",
-      "originalTitle": "狄仁杰之狼人劫",
-      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
-      "releaseDate": "2026-10-06",
-      "rating": 4,
+      "title": "一路超平安",
+      "originalTitle": "一路超平安",
+      "description": "　　一位不着调父亲的自洽之旅，老蔡带着他珍宝般特别的儿子上路旅行，去实现梦想。他们沿路向南，经历了人生一般的嬉闹苦痛，这一路不太平，但这一路却超平安。乔杉领衔全明星喜剧阵容，幽默温情展现人生百态。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9IpSEwd7vmE2wUIDwvyf2RhiT7f.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tKVo3s6MsSEyCPMFWzpu8fhdQ37.jpg",
+      "releaseDate": "2026-09-19",
+      "rating": 3,
       "mediaType": "movie"
     },
     {
-      "id": 1678102,
+      "id": 1303034,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.75,
       "mediaType": "movie"
     },
     {
@@ -182,27 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1726805,
+      "id": 1678102,
       "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1671541,
-      "type": "tmdb",
-      "title": "三国第一部：争洛阳",
-      "originalTitle": "三国第一部：争洛阳",
-      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 6.3,
+      "title": "死亡禁区实录",
+      "originalTitle": "死亡禁区实录",
+      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -218,15 +206,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303336,
+      "id": 1671541,
       "type": "tmdb",
-      "title": "落凡尘",
-      "originalTitle": "落凡尘",
-      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
-      "releaseDate": "2024-07-06",
-      "rating": 7.3,
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 6.3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1789496,
+      "type": "tmdb",
+      "title": "狄仁杰之狼人劫",
+      "originalTitle": "狄仁杰之狼人劫",
+      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
+      "releaseDate": "2026-10-06",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -249,7 +249,7 @@
       "title": "罗摩衍那：王子传奇",
       "originalTitle": "रामायणम",
       "description": "　　阿逾陀国的王子罗摩本应继承王位，但为了维护父亲的誓言，他甘愿放弃王权，带着妻子悉多和弟弟罗什曼那被流放森林十四年。在流放期间，罗摩一家在山林中苦修并斩妖除魔。然而，平静被打破——十首魔王罗波那因贪婪和邪念，化身苦行僧诱骗并掳走了悉多。罗摩在寻找妻子的过程中，结识了神猴哈奴曼与猴王须羯哩婆，组建了强大的盟军，准备跨海远征楞伽（罗波那的王国），誓要从魔王手中夺回爱妻。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/b11RXdbaBI4ATpHiAMOGc6WTgvu.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gOWnXaBxqT6k2y40hKfYU6c0Ym.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/f5Lq2ndFETM1V5RNmFhpl2FKrHL.jpg",
       "releaseDate": "2026-11-06",
       "rating": 0,
@@ -316,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1531919,
-      "type": "tmdb",
-      "title": "白衣逆行者",
-      "originalTitle": "白衣逆行者",
-      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1409470,
       "type": "tmdb",
       "title": "我们仅有一次的人生",
@@ -336,6 +324,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/x9qOS6bmqS0aeElkfH9qdO9NPVJ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
       "releaseDate": "2026-11-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1531919,
+      "type": "tmdb",
+      "title": "白衣逆行者",
+      "originalTitle": "白衣逆行者",
+      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-06",
       "rating": 0,
       "mediaType": "movie"
     },
