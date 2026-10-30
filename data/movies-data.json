@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T04:47:08.289+08:00",
+  "last_updated": "2026-10-31T04:18:18.771+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.333,
+      "rating": 7.323,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.333,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.467,
+      "rating": 7.5,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 6.6,
+      "rating": 6.592,
       "mediaType": "movie"
     },
     {
@@ -214,7 +214,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 6,
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -248,11 +248,11 @@
       "type": "tmdb",
       "title": "戴帽子的猫",
       "originalTitle": "The Cat in the Hat",
-      "description": "　　戴帽子的“猫”一角由比尔·哈德尔配音——展现他那招牌的幽默、独特方式为孩子带来欢乐，带领观众踏上一段奇幻的旅程，进入一个前所未见的世界。\r 　　在本片中，我们的英雄接下了想像力与灵感研究所有限责任公司迄今最艰钜的任务：为盖比和赛巴斯汀这对姐弟加油打气，他们正为搬到新城镇而苦恼。对这位过去以行事过激而闻名的闯祸精来说，这可能是他证明自己的最后机会……否则他就会失去他的魔法帽！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jxkCS5YFMfNivn18gsHTUFggalB.jpg",
+      "description": "改编自苏斯博士创作的同名儿童绘本。一只古灵精怪的猫接到最艰巨的任务：帮助一对因搬家而闷闷不乐的兄妹加比和塞巴斯蒂安重拾快乐。这场充满魔法与恶作剧的冒险，也可能成为他证明自己的最后机会，否则就将失去魔法帽。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 10,
+      "rating": 8.5,
       "mediaType": "movie"
     },
     {
@@ -265,6 +265,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
       "releaseDate": "2026-11-06",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 925725,
+      "type": "tmdb",
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -328,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1811193,
+      "type": "tmdb",
+      "title": "清气满乾坤",
+      "originalTitle": "清气满乾坤",
+      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
+      "releaseDate": "2026-11-08",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1810158,
       "type": "tmdb",
       "title": "心迷宫之三重罪",
@@ -340,14 +364,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1811193,
+      "id": 1812391,
       "type": "tmdb",
-      "title": "清气满乾坤",
-      "originalTitle": "清气满乾坤",
-      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-08",
+      "title": "乡归",
+      "originalTitle": "乡归",
+      "description": "影片讲述了湘南山村里一群归乡者的故事——北漂多年后决意“带艺术回家”的中年夫妻刘休、周燕，在理想与现实之间重新寻找生活的方向；在广东出生长大、需要重新融入故土的欣怡姐妹，面对着另一种意义上的返乡；向往“南方生活”的少女曦曦，渴望像父辈一样探索自己的未来。与此同时，还有因无工可打而从岭南回来的村民，以及一辈子留守大山的老人。有人主动归来，有人迫于现实，有人从未离开。归去来兮，每个人都在时代洪流里，反复叩寻自己的归属。乡归何处？吾心安处便是吾乡。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pwDuDkzZnY65iZgtxZdIkocko0n.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2ZQD2JXNpV6X3tO7u7ZCgKz15MC.jpg",
+      "releaseDate": "2026-11-07",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1812386,
+      "type": "tmdb",
+      "title": "向阳青春",
+      "originalTitle": "向阳青春",
+      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "releaseDate": "2026-11-14",
       "rating": 0,
       "mediaType": "movie"
     }
