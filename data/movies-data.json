@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T03:39:47.900+08:00",
+  "last_updated": "2026-11-02T04:03:40.435+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.316,
+      "rating": 7.314,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.3,
+      "rating": 7.31,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.574,
+      "rating": 6.573,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.409,
+      "rating": 7.447,
       "mediaType": "movie"
     },
     {
@@ -71,18 +71,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
       "rating": 7.468,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1650896,
-      "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -110,15 +98,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1503023,
+      "id": 1650896,
       "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-03",
-      "rating": 5.3,
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -134,27 +122,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1766670,
+      "id": 1503023,
       "type": "tmdb",
-      "title": "活色生香",
-      "originalTitle": "活色生香",
-      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 4,
+      "releaseDate": "2026-10-03",
+      "rating": 5.3,
       "mediaType": "movie"
     },
     {
@@ -182,26 +158,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1678102,
+      "id": 1726805,
       "type": "tmdb",
-      "title": "死亡禁区实录",
-      "originalTitle": "死亡禁区实录",
-      "description": "　　一场以 “寻人 + 揭秘” 为噱头的全球直播探险，将各怀目的他们送入一片死寂的荒废电诈园区。夜幕降临后，当死亡步步逼近，他们终于发现，比恶“鬼”更可怕的，是深藏于此的人间罪孽……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9azqzuWzexTDU9EuHGqgrn11Gmb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/q7wulfheRc4KdO1ClDwMMPyIwJc.jpg",
-      "releaseDate": "2026-09-11",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1766670,
+      "type": "tmdb",
+      "title": "活色生香",
+      "originalTitle": "活色生香",
+      "description": "退休后的薛宝梅、蒋芳芳和梁美心，面对各自的情感困境，依然勇敢追爱，以自己的方式活出精彩人生。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yer41x1yu2UDoQe2R8WH7GIFyH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
+      "releaseDate": "2026-10-01",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1782347,
+      "id": 1774598,
       "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
-      "releaseDate": "2026-10-23",
+      "title": "最后，一根稻草托起了下巴",
+      "originalTitle": "最后，一根稻草托起了下巴",
+      "description": "　　只身前往儿时居住的小镇一探究竟后，沙野决定到家人曾经生活过的沙漠中去寻找过去；旅途中，她收获了许多来自陌生人的善意并重新开始思考生命存在的意义。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/d2YbCSojLx3Lr6z1uPjKO29dxQH.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -230,15 +218,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1308545,
+      "id": 1801310,
       "type": "tmdb",
-      "title": "一个夜晚与三个夏天",
-      "originalTitle": "一个夜晚与三个夏天",
-      "description": "桑吉在拉萨拍摄一部和童年有关的片子，彼时的她面临着创作上的迷茫，与同为藏戏编导的父亲隔阂也难以消弭。一次偶然的派对，桑吉遇见了她所拍摄故事中的原型人物拉姆，夜晚悄然逝去，弥散在记忆中的夏天逐渐有了全貌...",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l40fLV8sD9T3S3qQct9urcvGkEd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/Agffw58ImoHhiXYCy3iKepG3fXC.jpg",
-      "releaseDate": "2026-10-13",
-      "rating": 0,
+      "title": "武汉任务",
+      "originalTitle": "武汉任务",
+      "description": "1938 年武汉，江汉路怂包巡警水哥刘得水一心只想守护着弟妹活下去，却被一具尸体、两箱拿错的货、一群不要命的街坊，硬生生推成了掀翻汉奸阴谋的关键棋子。当真相一层一层剥开，情况比他想象的更黑……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/bf9qKcxKdYJJ9fJkXFNfDjSE25b.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/sXkXBAkgtVspVLTEIpD5s3qMh4P.jpg",
+      "releaseDate": "2026-10-10",
+      "rating": 10,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 8.5,
+      "rating": 7.7,
       "mediaType": "movie"
     },
     {
@@ -292,14 +292,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1567259,
+      "id": 1531919,
       "type": "tmdb",
-      "title": "试探",
-      "originalTitle": "试探",
-      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dGj9WLTLL8xA1jlEo5RmhProV7G.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-21",
+      "title": "白衣逆行者",
+      "originalTitle": "白衣逆行者",
+      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/bC5YGszNitCIUf00HLH2RNWzhBH.jpg",
+      "releaseDate": "2026-11-06",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -316,26 +316,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1531919,
+      "id": 1567259,
       "type": "tmdb",
-      "title": "白衣逆行者",
-      "originalTitle": "白衣逆行者",
-      "description": "　　影片取材自真实事件，76天紧迫与焦灼的记忆，又在眼前重现。 　　灾难之下，城市陷入危机，病毒反复、资源告急，困境加剧。展现危急时刻众生相，有人一往无前奔赴前线，有人在泥沼中奋力生存，也有人倒下，有人坚守。76 天后解封，汽笛划破长空。这段历史，没有人是旁观者，我们都在时代褶皱里彼此托举，共同度过了艰难时刻。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6roGZvD730gzQb8tUGwu55gAasW.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bC5YGszNitCIUf00HLH2RNWzhBH.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1807721,
-      "type": "tmdb",
-      "title": "手捧繁星",
-      "originalTitle": "手捧繁星",
-      "description": "　　影片以援疆教师姚思平与学生艾迪娜、斯塔拉的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素——既有师生相互救赎的动人瞬间，也有年轻人直面人生困境的成长，延续《我的阿勒泰》对“心灵治愈”的探索，兼具情感温度与现实深度。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3hFpq6l1FTMo3OqyeE3W0aK6fHR.jpg",
+      "title": "试探",
+      "originalTitle": "试探",
+      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dGj9WLTLL8xA1jlEo5RmhProV7G.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-11-06",
+      "releaseDate": "2026-11-21",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -352,14 +340,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1529692,
+      "id": 1807721,
       "type": "tmdb",
-      "title": "夫妻一场",
-      "originalTitle": "夫妻一场",
-      "description": "　　相识于原博的还俗派对时，李欣冉还是位身患抑郁症的女演员。处于人生低谷的俩人一见钟情，他们迅速走到一起，迎来第一个孩子。带着几百万积蓄，他们憧憬着理想生活，却因挥霍和缺乏理财经验，陷入了经济危机。为扭转困境，原博计划在安吉山中创办手碟乐器工厂。青山绿水似乎是他们梦想中的乌托邦。然而，随着第二个孩子的降生，事业夭折，合伙人离开，债务缠身。日常琐碎与经济压力逐渐蚕食了曾经炙热的感情。在深山中，他们爱到一无所有，只剩彼此。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
-      "releaseDate": "2026-11-13",
+      "title": "手捧繁星",
+      "originalTitle": "手捧繁星",
+      "description": "　　影片以援疆教师姚思平与学生艾迪娜、斯塔拉的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素——既有师生相互救赎的动人瞬间，也有年轻人直面人生困境的成长，延续《我的阿勒泰》对“心灵治愈”的探索，兼具情感温度与现实深度。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3hFpq6l1FTMo3OqyeE3W0aK6fHR.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-06",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -372,6 +360,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
       "releaseDate": "2026-11-08",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1529692,
+      "type": "tmdb",
+      "title": "夫妻一场",
+      "originalTitle": "夫妻一场",
+      "description": "　　相识于原博的还俗派对时，李欣冉还是位身患抑郁症的女演员。处于人生低谷的俩人一见钟情，他们迅速走到一起，迎来第一个孩子。带着几百万积蓄，他们憧憬着理想生活，却因挥霍和缺乏理财经验，陷入了经济危机。为扭转困境，原博计划在安吉山中创办手碟乐器工厂。青山绿水似乎是他们梦想中的乌托邦。然而，随着第二个孩子的降生，事业夭折，合伙人离开，债务缠身。日常琐碎与经济压力逐渐蚕食了曾经炙热的感情。在深山中，他们爱到一无所有，只剩彼此。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
+      "releaseDate": "2026-11-13",
       "rating": 0,
       "mediaType": "movie"
     },
