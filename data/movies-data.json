@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T07:16:17.594+08:00",
+  "last_updated": "2026-11-04T05:26:12.526+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.3,
+      "rating": 7.378,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.311,
+      "rating": 7.31,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.56,
+      "rating": 6.566,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/zIzru6pQiHi9FNWZ4W3Gx2a9uor.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qGdeXBDEMCT6MWtM60VqeHmhhx4.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 5,
+      "rating": 5.75,
       "mediaType": "movie"
     },
     {
@@ -122,15 +122,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1503023,
+      "id": 1439171,
       "type": "tmdb",
-      "title": "重生2",
-      "originalTitle": "重生2",
-      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
-      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-03",
-      "rating": 5.3,
+      "title": "神探之痕迹",
+      "originalTitle": "神探之痕迹",
+      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
+      "releaseDate": "2026-10-01",
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -146,18 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 4,
-      "mediaType": "movie"
-    },
-    {
       "id": 1303336,
       "type": "tmdb",
       "title": "落凡尘",
@@ -170,15 +158,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1439171,
+      "id": 1503023,
       "type": "tmdb",
-      "title": "神探之痕迹",
-      "originalTitle": "神探之痕迹",
-      "description": "凡是经过，皆有痕迹。刑事技术警察崔寻走过半个多世纪，与同事屡破大案，这位秉承着“为人民服务”初心的神探，不仅见证了公安事业的发展，更见证了新中国的崛起。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jfDFyAb9DW6QczgNeieSzPOz1cT.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9gKgRM5nzNBQVy50peiR2eYQVX0.jpg",
-      "releaseDate": "2026-10-01",
-      "rating": 7.3,
+      "title": "重生2",
+      "originalTitle": "重生2",
+      "description": "　　孩子遭人迫害的母亲希拉，与妹妹有相同遭遇的哥哥苏诚，联手查明孩子受害的真相。两人以命相搏为孩子伸张正义，也将罪恶与阴谋的冰山一点点拽出。身负痛苦的他们在这趟复仇之旅中慢慢获得重生....",
+      "posterPath": "https://image.tmdb.org/t/p/w500/b64Qih8RALtpxQcuFnsJOOSoIBT.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-03",
+      "rating": 5.3,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -206,6 +206,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1765410,
+      "type": "tmdb",
+      "title": "明月照他乡",
+      "originalTitle": "明月照他乡",
+      "description": "　　本片把镜头聚焦六位外籍留学生在中国的学习与成长，通过长达两年零两个月，跨越亚洲、非洲、北美的拍摄，真实展现这些来自不同国家、不同种族的青年人在异乡上海追求梦想过程中的彷徨、挣扎与奋斗。影片旨在凸显“相似的青春”，反映“人性是共通的”这一普世真理。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8CQ3VZ8MF74aoa3dT2PnoDkuFyh.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/15l5BPRFwoLG1GSstaMhogkkSOt.jpg",
+      "releaseDate": "2026-09-24",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1807718,
+      "type": "tmdb",
+      "title": "逐浪之文圣常",
+      "originalTitle": "逐浪之文圣常",
+      "description": "　　影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
+      "releaseDate": "2026-10-22",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1766670,
       "type": "tmdb",
       "title": "活色生香",
@@ -215,30 +239,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/2gcpClixM9NbOzZGrA4lXvtdAXA.jpg",
       "releaseDate": "2026-10-01",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1789496,
-      "type": "tmdb",
-      "title": "狄仁杰之狼人劫",
-      "originalTitle": "狄仁杰之狼人劫",
-      "description": "　　靺鞨粟末部落狼人萨满劫杀新罗向大唐敬献之佛女，阻两国修好，不想巧遇到边境办案的狄仁杰，狄仁杰与司马小刀、段医师联手，抽丝剥茧，破获了靺鞨粟末部落阴谋，再一次拯救国家于危难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/lNzZZJXfa6kifGymK1eR9A5nvmv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lCywgIvcVE02gdm5nrfVwSbf00G.jpg",
-      "releaseDate": "2026-10-06",
-      "rating": 4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1801310,
-      "type": "tmdb",
-      "title": "武汉任务",
-      "originalTitle": "武汉任务",
-      "description": "1938 年武汉，江汉路怂包巡警水哥刘得水一心只想守护着弟妹活下去，却被一具尸体、两箱拿错的货、一群不要命的街坊，硬生生推成了掀翻汉奸阴谋的关键棋子。当真相一层一层剥开，情况比他想象的更黑……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/bf9qKcxKdYJJ9fJkXFNfDjSE25b.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/sXkXBAkgtVspVLTEIpD5s3qMh4P.jpg",
-      "releaseDate": "2026-10-10",
-      "rating": 10,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.7,
+      "rating": 7.75,
       "mediaType": "movie"
     },
     {
@@ -276,6 +276,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
       "releaseDate": "2026-11-06",
+      "rating": 6.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1239037,
+      "type": "tmdb",
+      "title": "深度安静",
+      "originalTitle": "深度安靜",
+      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
+      "releaseDate": "2026-11-19",
       "rating": 6,
       "mediaType": "movie"
     },
@@ -292,18 +304,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1409470,
-      "type": "tmdb",
-      "title": "我们仅有一次的人生",
-      "originalTitle": "我们仅有一次的人生",
-      "description": "黄燕（宋佳 饰）在按部就班的火化工作中逐渐失去了对生活的期待，变得悲观麻木。直到她意识到自己终将死亡，才决定更勇敢、更大胆地活出自我。一次意外，让她与通透、明媚的姚雪（文淇 饰）相遇。她们彼此治愈，像冬天里靠在一起取暖的两个人；她们互相擦干眼泪，勇敢做自己想做的事，把自己放在人生的第一位，一起体验这仅有一次的人生！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/x9qOS6bmqS0aeElkfH9qdO9NPVJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
-      "releaseDate": "2026-11-07",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 925725,
       "type": "tmdb",
       "title": "霹雳英雄：素还真",
@@ -316,14 +316,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1770304,
+      "id": 1409470,
       "type": "tmdb",
-      "title": "一朵山花别样红",
-      "originalTitle": "一朵山花别样红",
-      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
-      "releaseDate": "2026-11-06",
+      "title": "我们仅有一次的人生",
+      "originalTitle": "我们仅有一次的人生",
+      "description": "黄燕（宋佳 饰）在按部就班的火化工作中逐渐失去了对生活的期待，变得悲观麻木。直到她意识到自己终将死亡，才决定更勇敢、更大胆地活出自我。一次意外，让她与通透、明媚的姚雪（文淇 饰）相遇。她们彼此治愈，像冬天里靠在一起取暖的两个人；她们互相擦干眼泪，勇敢做自己想做的事，把自己放在人生的第一位，一起体验这仅有一次的人生！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/x9qOS6bmqS0aeElkfH9qdO9NPVJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
+      "releaseDate": "2026-11-07",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -336,30 +336,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
       "releaseDate": "2026-11-07",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1807721,
-      "type": "tmdb",
-      "title": "手捧繁星",
-      "originalTitle": "手捧繁星",
-      "description": "　　影片以援疆教师姚思平与学生艾迪娜、斯塔拉的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素——既有师生相互救赎的动人瞬间，也有年轻人直面人生困境的成长，延续《我的阿勒泰》对“心灵治愈”的探索，兼具情感温度与现实深度。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3hFpq6l1FTMo3OqyeE3W0aK6fHR.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-06",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1567259,
-      "type": "tmdb",
-      "title": "试探",
-      "originalTitle": "试探",
-      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dGj9WLTLL8xA1jlEo5RmhProV7G.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-21",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -384,6 +360,42 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qi9Wa8TQfhNZmC0PHxOYi68lMfr.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
       "releaseDate": "2026-11-13",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1770304,
+      "type": "tmdb",
+      "title": "一朵山花别样红",
+      "originalTitle": "一朵山花别样红",
+      "description": "一桩失踪案悄然发生在黄士高原腹地，各色人物被金钱交织在一个巨大的圈套里，陷入泥潭的白果，命运也将被重新改写。随着事件的真相大白，冲破桎梏，各色人物重新寻找回了生命的价值和生活的真谛。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4tSElesuLrV2Yr8DyMiVMljhygi.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9kFoXEEq6RFO3Icy9vAf6H73ny7.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1807721,
+      "type": "tmdb",
+      "title": "手捧繁星",
+      "originalTitle": "手捧繁星",
+      "description": "　　影片以援疆教师姚思平与学生艾迪娜、斯塔拉的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素——既有师生相互救赎的动人瞬间，也有年轻人直面人生困境的成长，延续《我的阿勒泰》对“心灵治愈”的探索，兼具情感温度与现实深度。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3hFpq6l1FTMo3OqyeE3W0aK6fHR.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-06",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1567259,
+      "type": "tmdb",
+      "title": "试探",
+      "originalTitle": "试探",
+      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/dGj9WLTLL8xA1jlEo5RmhProV7G.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-21",
       "rating": 0,
       "mediaType": "movie"
     },
