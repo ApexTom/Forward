@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T05:43:44.606+08:00",
+  "last_updated": "2026-11-07T05:12:59.010+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -20,9 +20,21 @@
       "originalTitle": "Heart of the Beast",
       "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.296,
+      "rating": 7.339,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1117898,
+      "type": "tmdb",
+      "title": "戴帽子的猫",
+      "originalTitle": "The Cat in the Hat",
+      "description": "改编自苏斯博士创作的同名儿童绘本。一只古灵精怪的猫接到最艰巨的任务：帮助一对因搬家而闷闷不乐的兄妹加比和塞巴斯蒂安重拾快乐。这场充满魔法与恶作剧的冒险，也可能成为他证明自己的最后机会，否则就将失去魔法帽。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 7.167,
       "mediaType": "movie"
     },
     {
@@ -38,18 +50,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1117898,
-      "type": "tmdb",
-      "title": "戴帽子的猫",
-      "originalTitle": "The Cat in the Hat",
-      "description": "改编自苏斯博士创作的同名儿童绘本。一只古灵精怪的猫接到最艰巨的任务：帮助一对因搬家而闷闷不乐的兄妹加比和塞巴斯蒂安重拾快乐。这场充满魔法与恶作剧的冒险，也可能成为他证明自己的最后机会，否则就将失去魔法帽。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 6.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 1477104,
       "type": "tmdb",
       "title": "小羊肖恩3：怪兽来袭",
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.426,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -134,6 +134,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1811193,
+      "type": "tmdb",
+      "title": "清气满乾坤",
+      "originalTitle": "清气满乾坤",
+      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
+      "releaseDate": "2026-11-08",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1807718,
+      "type": "tmdb",
+      "title": "逐浪之文圣常",
+      "originalTitle": "逐浪之文圣常",
+      "description": "　　影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
+      "releaseDate": "2026-10-22",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -158,14 +182,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1807718,
+      "id": 1810158,
       "type": "tmdb",
-      "title": "逐浪之文圣常",
-      "originalTitle": "逐浪之文圣常",
-      "description": "　　影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
-      "releaseDate": "2026-10-22",
+      "title": "心迷宫之三重罪",
+      "originalTitle": "心迷宫之三重罪",
+      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
+      "releaseDate": "2026-11-07",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -182,51 +206,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303034,
+      "id": 1406277,
       "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.833,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1782347,
-      "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1811193,
-      "type": "tmdb",
-      "title": "清气满乾坤",
-      "originalTitle": "清气满乾坤",
-      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
-      "releaseDate": "2026-11-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1810158,
-      "type": "tmdb",
-      "title": "心迷宫之三重罪",
-      "originalTitle": "心迷宫之三重罪",
-      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
-      "releaseDate": "2026-11-07",
-      "rating": 0,
+      "title": "菜肉馄饨",
+      "originalTitle": "菜肉馄饨",
+      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
+      "releaseDate": "2025-11-15",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -239,6 +227,18 @@
       "backdropPath": null,
       "releaseDate": "2026-10-31",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
       "mediaType": "movie"
     }
   ],
@@ -301,6 +301,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
       "releaseDate": "2026-11-14",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 552345,
+      "type": "tmdb",
+      "title": "悲伤逆流成河",
+      "originalTitle": "悲伤逆流成河",
+      "description": "多组校园欺凌事件，打破了5位主角本应该美好的青春校园生活。齐铭（赵英博 饰）清俊帅气，是人人称颂的优等生，而易遥（任敏 饰）却是大家口中的“赔钱货”。两人一同长大，感情很好。而这一切，在转学生唐小米（朱丹妮 饰）出现之后发生了翻天覆地的变化。流言成了毁人利器，处处对易瑶进行刁难，易遥的生活开始陷入黑暗，遭受各类残酷欺凌。顾森西（辛云来 饰）教会易瑶对校园暴力进行反击，他的出现给了易遥一丝曙光。可阴差阳错，顾森湘（章若楠 饰）的意外却将她再度推入黑暗。当受害者变成施暴者，当看客变成助推，在这一场名为“玩笑”的闹剧中，没有旁观者，只有施暴者……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9a6YsnWPgiI4xnLA5DhYuG2hImM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2M7cCFVCWum25OSr3ZdjbNR0rjL.jpg",
+      "releaseDate": "2018-09-21",
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
