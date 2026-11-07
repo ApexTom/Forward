@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T05:12:59.010+08:00",
+  "last_updated": "2026-11-08T03:47:39.881+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.5,
+      "rating": 7.451,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.339,
+      "rating": 7.315,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.167,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.577,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.4,
+      "rating": 7.426,
       "mediaType": "movie"
     },
     {
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.2,
+      "rating": 7.231,
       "mediaType": "movie"
     },
     {
