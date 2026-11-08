@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T03:47:39.881+08:00",
+  "last_updated": "2026-11-09T04:05:07.821+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/qMvRqzzDVfQpLi5ZoKwttTQdaJe.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.451,
+      "rating": 7.466,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.315,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7,
+      "rating": 7.1,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.426,
+      "rating": 7.345,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 6.5,
+      "rating": 6.333,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1650896,
+      "type": "tmdb",
+      "title": "小猪佩奇·完美假期",
+      "originalTitle": "小猪佩奇·完美假期",
+      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -98,14 +110,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650896,
+      "id": 1810158,
       "type": "tmdb",
-      "title": "小猪佩奇·完美假期",
-      "originalTitle": "小猪佩奇·完美假期",
-      "description": "　　当佩奇得知今年全家不会去度假时，她感到非常失落。然而一场突如其来的暴风雨，竟将她带到了遥远的中国！佩奇一路解锁奇妙冒险，直到与家人重逢，佩奇拥有了最完美的假期。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYe06Fh4BHn6SNSCTaUNg0zSEj2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/jRlvwhczCBfIBBT4BRDQ51cBRuv.jpg",
-      "releaseDate": "2026-09-25",
+      "title": "心迷宫之三重罪",
+      "originalTitle": "心迷宫之三重罪",
+      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
+      "releaseDate": "2026-11-07",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -134,30 +146,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1811193,
-      "type": "tmdb",
-      "title": "清气满乾坤",
-      "originalTitle": "清气满乾坤",
-      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
-      "releaseDate": "2026-11-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1807718,
-      "type": "tmdb",
-      "title": "逐浪之文圣常",
-      "originalTitle": "逐浪之文圣常",
-      "description": "　　影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
-      "releaseDate": "2026-10-22",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1503023,
       "type": "tmdb",
       "title": "重生2",
@@ -182,26 +170,50 @@
       "mediaType": "movie"
     },
     {
-      "id": 1810158,
+      "id": 1303034,
       "type": "tmdb",
-      "title": "心迷宫之三重罪",
-      "originalTitle": "心迷宫之三重罪",
-      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1409470,
+      "type": "tmdb",
+      "title": "我们仅有一次的人生",
+      "originalTitle": "我们仅有一次的人生",
+      "description": "黄燕（宋佳 饰）在按部就班的火化工作中逐渐失去了对生活的期待，变得悲观麻木。直到她意识到自己终将死亡，才决定更勇敢、更大胆地活出自我。一次意外，让她与通透、明媚的姚雪（文淇 饰）相遇。她们彼此治愈，像冬天里靠在一起取暖的两个人；她们互相擦干眼泪，勇敢做自己想做的事，把自己放在人生的第一位，一起体验这仅有一次的人生！",
+      "posterPath": "https://image.tmdb.org/t/p/w500/x9qOS6bmqS0aeElkfH9qdO9NPVJ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
       "releaseDate": "2026-11-07",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1811193,
+      "type": "tmdb",
+      "title": "清气满乾坤",
+      "originalTitle": "清气满乾坤",
+      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
+      "releaseDate": "2026-11-08",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1796449,
+      "id": 1807718,
       "type": "tmdb",
-      "title": "战神戚继光之不让江山",
-      "originalTitle": "战神戚继光之不让江山",
-      "description": "明朝嘉靖年间，福建倭患猖獗。倭寇头目今川勇虎盘踞横屿岛，依仗滩涂天险，勾结内奸作乱。戚继光奉命入闽平倭，海边公审倭寇俘虏，获取通倭线索。幕后奸细察觉败露，借妈祖祭设下鸿门宴，戚继光单刀赴会，斩杀奸细。今川勇虎丧心病狂，设下圈套引戚家军入局，戚继光率病兵迎敌，痛失战友。他强忍悲痛，改良军械、训练士兵、争取百姓支援。八月初八大潮退去，戚家军铺草渡海，以火器破敌，斩杀今川勇虎，收复横屿岛，肃清当地倭患。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
-      "releaseDate": "2026-10-13",
+      "title": "逐浪之文圣常",
+      "originalTitle": "逐浪之文圣常",
+      "description": "　　影片讲述了20世纪40至60年代，青年文圣常第一次见到梦寐以求的海洋，并被海浪蕴藏的巨大能量深深折服，从此开启探索海浪奥秘的故事，再现了以文圣常先生为代表的老一辈海洋科技工作者勇立潮头、谋海济国的精神风范。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/kh5hlRs4CPWG3yUrkvQlkG5vt4k.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/utgpMCbWrieBhLGuezPiaExbPhV.jpg",
+      "releaseDate": "2026-10-22",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -218,27 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1796001,
+      "id": 1387772,
       "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "　　孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-31",
+      "title": "侦战",
+      "originalTitle": "偵戰",
+      "description": "　　一名嫌疑犯于东城警署羁押仓内离奇蒸发。探员“默子”（古天乐 饰）奋力缉捕搜索，依然零线索、零头绪。百思莫解之际，默子接到匪夷所思的消息，逃犯被揭发身处市区的警务处总部档案库之中。反锁的仓库里，潜犯胸膛中枪当场毙命。他究竟如何逃脱东城牢房，溜到总部的档案库，从一个“密室”抵达另一个“密室”？总部专家确认夺命9999子弹，源自默子的警枪，他因而成为最大嫌疑犯。潜犯的死因诡谲，背景错综复杂。默子被宿命错综摆弄，迎战敌我难分辣手奇案。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/p4kokL6AEomeAmqBeHcvAkijqGC.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4RGfosPWYbJvzYEjRiUKyxGQgHZ.jpg",
+      "releaseDate": "2026-10-01",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.833,
       "mediaType": "movie"
     }
   ],
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.231,
+      "rating": 7.23,
       "mediaType": "movie"
     },
     {
@@ -276,19 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
       "releaseDate": "2019-11-09",
-      "rating": 8.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1239037,
-      "type": "tmdb",
-      "title": "深度安静",
-      "originalTitle": "深度安靜",
-      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
-      "releaseDate": "2026-11-19",
-      "rating": 6,
+      "rating": 8.231,
       "mediaType": "movie"
     },
     {
@@ -316,15 +304,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 925725,
+      "id": 1239037,
       "type": "tmdb",
-      "title": "霹雳英雄：素还真",
-      "originalTitle": "素還真",
-      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
-      "releaseDate": "2026-11-20",
-      "rating": 6.2,
+      "title": "深度安静",
+      "originalTitle": "深度安靜",
+      "description": "影片改编自林秀赫同名短篇小说。讲述谕明与依庭相遇于大学图书馆里的深度安静区，两人相爱并走入婚姻，正期待迎接第一个孩子。然而，依庭的意外自杀让谕明陷入混乱与痛苦。他想起依庭在怀孕后变得异常，甚至提出离婚。自责的谕明照顾起依庭的家人，透过深入了解她的家庭后，开始理解她的行径，以及她无法面对自己父亲的原因，真相却让人难以接受。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rSi6JslKprYh6i0HSfwBMtXnyDd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/zmvZs90ocaYhp4MPBCKHK3peALQ.jpg",
+      "releaseDate": "2026-11-19",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -337,6 +325,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/xDNGfVnpeigQM91xERsclvGXoQ2.jpg",
       "releaseDate": "2026-11-13",
       "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 925725,
+      "type": "tmdb",
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
