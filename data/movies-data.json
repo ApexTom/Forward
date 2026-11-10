@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10T07:55:50.220+08:00",
+  "last_updated": "2026-11-11T05:36:18.063+08:00",
   "now_playing": [
     {
       "id": 1423191,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/oLLEEUq7In4Ob731KpjrValqM4A.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "releaseDate": "2026-10-05",
-      "rating": 7.5,
+      "rating": 7.498,
       "mediaType": "movie"
     },
     {
@@ -20,9 +20,9 @@
       "originalTitle": "Heart of the Beast",
       "description": "一名前陆军特种部队士兵与他退役战犬在阿拉斯加深处遭遇坠机事故后，这对老搭档必须在环境严酷的极地荒野中相互扶持，为生存而战。",
       "posterPath": "https://image.tmdb.org/t/p/w500/k1nznc9xTRkRq0BNu7qOXE3NSlU.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/6uVRPFflyJpo8Cx872olmlGTWla.jpg",
       "releaseDate": "2026-09-30",
-      "rating": 7.289,
+      "rating": 7.312,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.56,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.339,
+      "rating": 7.333,
       "mediaType": "movie"
     },
     {
@@ -70,7 +70,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5m86tQWN5X1jJ8S3bKPE5D2Ahew.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 7.469,
+      "rating": 7.468,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 6.333,
+      "rating": 6.5,
       "mediaType": "movie"
     },
     {
@@ -256,6 +256,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1100099,
+      "type": "tmdb",
+      "title": "时间里的爱人",
+      "originalTitle": "We Live in Time",
+      "description": "阿尔穆特与托比亚斯因一次意外相遇，人生从此改变。两人相恋、组建家庭，在时间的考验与生活的变故中，学会珍惜彼此相伴的每一刻。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
+      "releaseDate": "2026-11-28",
+      "rating": 7.223,
+      "mediaType": "movie"
+    },
+    {
       "id": 10376,
       "type": "tmdb",
       "title": "海上钢琴师",
@@ -265,18 +277,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
       "releaseDate": "2019-11-09",
       "rating": 8.231,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1100099,
-      "type": "tmdb",
-      "title": "时间里的爱人",
-      "originalTitle": "We Live in Time",
-      "description": "阿尔穆特与托比亚斯因一次意外相遇，人生从此改变。两人相恋、组建家庭，在时间的考验与生活的变故中，学会珍惜彼此相伴的每一刻。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
-      "releaseDate": "2026-11-28",
-      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -372,6 +372,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
       "releaseDate": "2026-11-14",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1822400,
+      "type": "tmdb",
+      "title": "金哲",
+      "originalTitle": "金哲",
+      "description": "1983年夏，七岁的尚民到吉童村姥姥家过暑假，遇见了被全村叫作\"傻子\"的金哲。山野间的疯跑嬉戏，抓河蚌、捉迷藏，让尚民读懂了他藏在\"傻\"背后的孤独，而这份不掺杂质的陪伴，也让长久被轻视的金哲，第一次萌生出了为自己赢一次的勇气。夏末，村里摔跤赛开场，金哲第一次代表村子站上赛场赢得尊严。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-20",
       "rating": 0,
       "mediaType": "movie"
     }
