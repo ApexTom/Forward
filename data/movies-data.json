@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T06:25:25.403+08:00",
+  "last_updated": "2026-11-13T05:59:50.696+08:00",
   "now_playing": [
     {
       "id": 1117898,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.262,
+      "rating": 7.205,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/bXk1kSDSiVPj06LtpESZK7C8HsL.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/muSeX7fnNw0pv4zHK7RSwZln6Hk.jpg",
       "releaseDate": "2019-11-09",
-      "rating": 8.2,
+      "rating": 8.231,
       "mediaType": "movie"
     },
     {
@@ -94,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
       "releaseDate": "2024-07-06",
-      "rating": 7.3,
+      "rating": 7.313,
       "mediaType": "movie"
     },
     {
@@ -244,6 +244,18 @@
   ],
   "upcoming": [
     {
+      "id": 1300968,
+      "type": "tmdb",
+      "title": "饥饿游戏：收获日出",
+      "originalTitle": "The Hunger Games: Sunrise on the Reaping",
+      "description": "改编自苏珊·柯林斯的同名小说。故事发生在《饥饿游戏》事件发生前24年，讲述第50届饥饿游戏（第二次四分区叛乱纪念赛）抽签日当天，年轻的黑密斯·阿伯纳西被选中参赛的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jPPiwFKBzrsNtBQVymuwsyt9qBw.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1538497,
       "type": "tmdb",
       "title": "魔法秘境",
@@ -264,7 +276,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.225,
+      "rating": 7.224,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1720486,
+      "type": "tmdb",
+      "title": "史迪奇抓喵喵",
+      "originalTitle": "Lilo & Scratch",
+      "description": "故事设定在2002年原作之后：史迪奇终于在新家庭中过上了幸福安稳的日子，直到莉萝带回家一位新成员——一只粉色的外星小猫喵喵琦。这位新成员捣乱成性、光芒四射，无孔不入地渗透进史迪奇的生活，把他的整个世界搅了个天翻地覆。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/cF61Few32tDtmfRkpQFgijIG7XH.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ycyv5x7kIrwyTRveNa24GaRI6lb.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -292,38 +316,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 925725,
-      "type": "tmdb",
-      "title": "霹雳英雄：素还真",
-      "originalTitle": "素還真",
-      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
-      "releaseDate": "2026-11-20",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
       "id": 1567259,
       "type": "tmdb",
       "title": "试探",
       "originalTitle": "试探",
       "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/dGj9WLTLL8xA1jlEo5RmhProV7G.jpg",
-      "backdropPath": null,
+      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
       "releaseDate": "2026-11-21",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1817684,
-      "type": "tmdb",
-      "title": "孤楼夜幽灵",
-      "originalTitle": "孤楼夜幽灵",
-      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -340,14 +340,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1823092,
+      "id": 925725,
       "type": "tmdb",
-      "title": "顾炎武",
-      "originalTitle": "顾炎武",
-      "description": "主要讲述了顾炎武还乡途中，回忆平生：“誓不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送进清朝“博学鸿儒科”考场；生命终时向少年康熙解读“何谓亡国，何谓亡天下”的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
-      "releaseDate": "2026-12-01",
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1817684,
+      "type": "tmdb",
+      "title": "孤楼夜幽灵",
+      "originalTitle": "孤楼夜幽灵",
+      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -360,6 +372,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-20",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1823092,
+      "type": "tmdb",
+      "title": "顾炎武",
+      "originalTitle": "顾炎武",
+      "description": "主要讲述了顾炎武还乡途中，回忆平生：“誓不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送进清朝“博学鸿儒科”考场；生命终时向少年康熙解读“何谓亡国，何谓亡天下”的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
+      "releaseDate": "2026-12-01",
       "rating": 0,
       "mediaType": "movie"
     }
