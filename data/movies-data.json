@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T05:59:50.696+08:00",
+  "last_updated": "2026-11-14T05:45:48.867+08:00",
   "now_playing": [
     {
       "id": 1117898,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.205,
+      "rating": 7.109,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.594,
+      "rating": 6.617,
       "mediaType": "movie"
     },
     {
@@ -122,18 +122,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1406277,
-      "type": "tmdb",
-      "title": "菜肉馄饨",
-      "originalTitle": "菜肉馄饨",
-      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
-      "releaseDate": "2025-11-15",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
       "id": 1130410,
       "type": "tmdb",
       "title": "刺客：代号37",
@@ -143,6 +131,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
       "releaseDate": "2026-10-28",
       "rating": 5.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1406277,
+      "type": "tmdb",
+      "title": "菜肉馄饨",
+      "originalTitle": "菜肉馄饨",
+      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
+      "releaseDate": "2025-11-15",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -158,27 +158,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1812386,
+      "id": 1671541,
       "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
-      "releaseDate": "2026-11-14",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1782347,
-      "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 1,
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 6.3,
       "mediaType": "movie"
     },
     {
@@ -194,6 +182,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1782347,
+      "type": "tmdb",
+      "title": "三星堆：未来往事",
+      "originalTitle": "三星堆：未来往事",
+      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 1,
+      "mediaType": "movie"
+    },
+    {
       "id": 1811193,
       "type": "tmdb",
       "title": "清气满乾坤",
@@ -206,38 +206,38 @@
       "mediaType": "movie"
     },
     {
-      "id": 1671541,
+      "id": 1812386,
       "type": "tmdb",
-      "title": "三国第一部：争洛阳",
-      "originalTitle": "三国第一部：争洛阳",
-      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 6.3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1796001,
-      "type": "tmdb",
-      "title": "民宿惊魂",
-      "originalTitle": "民宿惊魂",
-      "description": "　　孤岛荒宿，情侣旅行撞上民宿阴宅，一桩桩离奇事件接踵而至：镜子里的鬼脸、暗室里密布的红绳、突然扭动的门把手、泳池里惊现的鬼影……夜晚怪事连连，一觉惊魂醒来，所有诡异痕迹却全部消失不见……是凶宅幻视？无尽梦魇？还是有人布下猎杀圈套？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gsqSXMD1PNRq27bma8CUHrJvC3A.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-31",
+      "title": "向阳青春",
+      "originalTitle": "向阳青春",
+      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "releaseDate": "2026-11-14",
       "rating": 0,
       "mediaType": "movie"
     },
     {
-      "id": 1807721,
+      "id": 1796449,
       "type": "tmdb",
-      "title": "手捧繁星",
-      "originalTitle": "手捧繁星",
-      "description": "　　影片以援疆教师姚思平与学生艾迪娜、斯塔拉的十年命运羁绊为主线，融合温暖治愈与轻度悬疑元素——既有师生相互救赎的动人瞬间，也有年轻人直面人生困境的成长，延续《我的阿勒泰》对“心灵治愈”的探索，兼具情感温度与现实深度。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3hFpq6l1FTMo3OqyeE3W0aK6fHR.jpg",
+      "title": "战神戚继光之不让江山",
+      "originalTitle": "战神戚继光之不让江山",
+      "description": "明朝嘉靖年间，福建倭患猖獗。倭寇头目今川勇虎盘踞横屿岛，依仗滩涂天险，勾结内奸作乱。戚继光奉命入闽平倭，海边公审倭寇俘虏，获取通倭线索。幕后奸细察觉败露，借妈祖祭设下鸿门宴，戚继光单刀赴会，斩杀奸细。今川勇虎丧心病狂，设下圈套引戚家军入局，戚继光率病兵迎敌，痛失战友。他强忍悲痛，改良军械、训练士兵、争取百姓支援。八月初八大潮退去，戚家军铺草渡海，以火器破敌，斩杀今川勇虎，收复横屿岛，肃清当地倭患。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
+      "releaseDate": "2026-10-13",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1802617,
+      "type": "tmdb",
+      "title": "促织",
+      "originalTitle": "促织",
+      "description": "近未来，运维工人成名与儿子成星野因生活压力关系紧张。星野在神经拟兽竞技中显露天赋，成名把赛事当作翻身机会。父子带着被人嘲笑的促织闯入地下赛场，一路击败强敌，成为赛场黑马，杀进世界大赛。就在命运似乎开始转向时，科技商人递来能突破极限的增强模块。父亲签下授权，儿子实力暴涨，却逐渐被虫性侵蚀，也让父子关系濒临破裂。面对最强对手和濒临失控的儿子，父亲终于要在胜利与亲情之间作出选择。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8n3VxD82a8mhz3yqcQhngfYQpyS.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-11-06",
+      "releaseDate": "2026-10-17",
       "rating": 0,
       "mediaType": "movie"
     }
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jPPiwFKBzrsNtBQVymuwsyt9qBw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 0,
+      "rating": 10,
       "mediaType": "movie"
     },
     {
@@ -276,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.224,
+      "rating": 7.226,
       "mediaType": "movie"
     },
     {
@@ -285,8 +285,8 @@
       "title": "史迪奇抓喵喵",
       "originalTitle": "Lilo & Scratch",
       "description": "故事设定在2002年原作之后：史迪奇终于在新家庭中过上了幸福安稳的日子，直到莉萝带回家一位新成员——一只粉色的外星小猫喵喵琦。这位新成员捣乱成性、光芒四射，无孔不入地渗透进史迪奇的生活，把他的整个世界搅了个天翻地覆。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/cF61Few32tDtmfRkpQFgijIG7XH.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ycyv5x7kIrwyTRveNa24GaRI6lb.jpg",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1XaadQbZVQ27Kk2aekVYC1nUlLX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/AoTyWeciE8kyqJtpKLGNX3IhD0o.jpg",
       "releaseDate": "2026-11-27",
       "rating": 0,
       "mediaType": "movie"
@@ -328,18 +328,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1502116,
-      "type": "tmdb",
-      "title": "二十四味",
-      "originalTitle": "二十四味",
-      "description": "出国多年后回到故土的四月（袁澧林 饰），发现早已离异的父母重拾旧好，年少时她以极端自虐的方式挽留出轨父亲（钟镇涛 饰）的记忆再度浮现。凉茶铺正面临拆迁，四月要带巧珍（张艾嘉 饰）出国生活，巧珍却希望继续经营凉茶铺。重回家庭的落魄永堂默默为巧珍筹措重开凉茶铺的资金，拼尽全力却误中骗局。一团乱麻时，四月又遇野蛮生长、同父异母的妹妹小景。她将过去逃避的生活、时间以及自省一点点拾起。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/3BDxKSy6UFx7DZf8HVzVlKR5Xah.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-27",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 925725,
       "type": "tmdb",
       "title": "霹雳英雄：素还真",
@@ -349,6 +337,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
       "releaseDate": "2026-11-20",
       "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1335881,
+      "type": "tmdb",
+      "title": "喜欢了你一整个青春",
+      "originalTitle": "夜校女生",
+      "description": "高中联考失手的小爱被妈妈安排升读名校「一女中」的夜校部，但即使与日校生共享课室和书桌，成绩上的差距却总让小爱心存距离感，自卑感油然而生。幸好共享书桌的「桌友」敏敏没有因此嫌弃，两人更成为好友，甚至一同喜欢上隔壁学校的资优男生卢克。为了方便走堂，两人经常互换校服，但小爱渐渐舍不得日校生的制服光环，更使用冒牌的一女中身份，瞒着敏敏接近卢克，巨大的谎言坑洞最终变得一发不可收拾。《最乖巧的杀人犯》导演庄景燊延续台湾校园电影浪潮，由新生代演员主演，带领观众重修青春的成长课。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zyJ1a6kY4VatxhwBOOmxKurCwKv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hm2rWgEZJrxHP8gv9Pg6yRhOZFB.jpg",
+      "releaseDate": "2026-12-05",
+      "rating": 6.8,
       "mediaType": "movie"
     },
     {
@@ -364,14 +364,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1822400,
+      "id": 1502116,
       "type": "tmdb",
-      "title": "金哲",
-      "originalTitle": "金哲",
-      "description": "1983年夏，七岁的尚民到吉童村姥姥家过暑假，遇见了被全村叫作\"傻子\"的金哲。山野间的疯跑嬉戏，抓河蚌、捉迷藏，让尚民读懂了他藏在\"傻\"背后的孤独，而这份不掺杂质的陪伴，也让长久被轻视的金哲，第一次萌生出了为自己赢一次的勇气。夏末，村里摔跤赛开场，金哲第一次代表村子站上赛场赢得尊严。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
+      "title": "二十四味",
+      "originalTitle": "二十四味",
+      "description": "出国多年后回到故土的四月（袁澧林 饰），发现早已离异的父母重拾旧好，年少时她以极端自虐的方式挽留出轨父亲（钟镇涛 饰）的记忆再度浮现。凉茶铺正面临拆迁，四月要带巧珍（张艾嘉 饰）出国生活，巧珍却希望继续经营凉茶铺。重回家庭的落魄永堂默默为巧珍筹措重开凉茶铺的资金，拼尽全力却误中骗局。一团乱麻时，四月又遇野蛮生长、同父异母的妹妹小景。她将过去逃避的生活、时间以及自省一点点拾起。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/3BDxKSy6UFx7DZf8HVzVlKR5Xah.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-11-20",
+      "releaseDate": "2026-11-27",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -384,6 +384,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
       "releaseDate": "2026-12-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1822400,
+      "type": "tmdb",
+      "title": "金哲",
+      "originalTitle": "金哲",
+      "description": "1983年夏，七岁的尚民到吉童村姥姥家过暑假，遇见了被全村叫作\"傻子\"的金哲。山野间的疯跑嬉戏，抓河蚌、捉迷藏，让尚民读懂了他藏在\"傻\"背后的孤独，而这份不掺杂质的陪伴，也让长久被轻视的金哲，第一次萌生出了为自己赢一次的勇气。夏末，村里摔跤赛开场，金哲第一次代表村子站上赛场赢得尊严。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-20",
       "rating": 0,
       "mediaType": "movie"
     }
