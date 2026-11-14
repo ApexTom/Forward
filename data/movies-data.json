@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T05:45:48.867+08:00",
+  "last_updated": "2026-11-15T04:18:07.798+08:00",
   "now_playing": [
     {
       "id": 1117898,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.109,
+      "rating": 6.86,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.617,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.328,
+      "rating": 7.306,
       "mediaType": "movie"
     },
     {
@@ -98,18 +98,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1810158,
-      "type": "tmdb",
-      "title": "心迷宫之三重罪",
-      "originalTitle": "心迷宫之三重罪",
-      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
-      "releaseDate": "2026-11-07",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1303034,
       "type": "tmdb",
       "title": "生日快乐",
@@ -130,19 +118,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/eddIArb9ExNEPS1nqWv5bjwlW06.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
       "releaseDate": "2026-10-28",
-      "rating": 5.8,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1406277,
-      "type": "tmdb",
-      "title": "菜肉馄饨",
-      "originalTitle": "菜肉馄饨",
-      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
-      "releaseDate": "2025-11-15",
-      "rating": 6,
+      "rating": 5.655,
       "mediaType": "movie"
     },
     {
@@ -155,6 +131,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
       "releaseDate": "2026-11-07",
       "rating": 5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1810158,
+      "type": "tmdb",
+      "title": "心迷宫之三重罪",
+      "originalTitle": "心迷宫之三重罪",
+      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vycINr2X4BCUwAiAA3DYot5LeK5.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
+      "releaseDate": "2026-11-07",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -182,15 +170,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1782347,
+      "id": 1406277,
       "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
+      "title": "菜肉馄饨",
+      "originalTitle": "菜肉馄饨",
+      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
+      "releaseDate": "2025-11-15",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-10-23",
-      "rating": 1,
+      "rating": 4,
       "mediaType": "movie"
     },
     {
@@ -206,39 +206,39 @@
       "mediaType": "movie"
     },
     {
-      "id": 1812386,
+      "id": 1732799,
       "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "title": "象行记",
+      "originalTitle": "象行记",
+      "description": "　　影片旨在记录野生亚洲象群于2020年开启的一场举世瞩目的迁移之旅，并呈现野生象群（当地佤族语中尊称大象为Dá）的栖息地——中国云南隐匿于世的绝美风光，揭示人类与野生大象之间的动人故事和鲜为人知的秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/frLlMYq98hKOxtAF8MOu6jU6PYq.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/tEoxmN0BoYEhqms22wTQhnf3D3I.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1782347,
+      "type": "tmdb",
+      "title": "三星堆：未来往事",
+      "originalTitle": "三星堆：未来往事",
+      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 1,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1821748,
+      "type": "tmdb",
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
       "releaseDate": "2026-11-14",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1796449,
-      "type": "tmdb",
-      "title": "战神戚继光之不让江山",
-      "originalTitle": "战神戚继光之不让江山",
-      "description": "明朝嘉靖年间，福建倭患猖獗。倭寇头目今川勇虎盘踞横屿岛，依仗滩涂天险，勾结内奸作乱。戚继光奉命入闽平倭，海边公审倭寇俘虏，获取通倭线索。幕后奸细察觉败露，借妈祖祭设下鸿门宴，戚继光单刀赴会，斩杀奸细。今川勇虎丧心病狂，设下圈套引戚家军入局，戚继光率病兵迎敌，痛失战友。他强忍悲痛，改良军械、训练士兵、争取百姓支援。八月初八大潮退去，戚家军铺草渡海，以火器破敌，斩杀今川勇虎，收复横屿岛，肃清当地倭患。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
-      "releaseDate": "2026-10-13",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1802617,
-      "type": "tmdb",
-      "title": "促织",
-      "originalTitle": "促织",
-      "description": "近未来，运维工人成名与儿子成星野因生活压力关系紧张。星野在神经拟兽竞技中显露天赋，成名把赛事当作翻身机会。父子带着被人嘲笑的促织闯入地下赛场，一路击败强敌，成为赛场黑马，杀进世界大赛。就在命运似乎开始转向时，科技商人递来能突破极限的增强模块。父亲签下授权，儿子实力暴涨，却逐渐被虫性侵蚀，也让父子关系濒临破裂。面对最强对手和濒临失控的儿子，父亲终于要在胜利与亲情之间作出选择。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8n3VxD82a8mhz3yqcQhngfYQpyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-17",
-      "rating": 0,
+      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -252,7 +252,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jPPiwFKBzrsNtBQVymuwsyt9qBw.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 10,
+      "rating": 9,
       "mediaType": "movie"
     },
     {
@@ -286,7 +286,7 @@
       "originalTitle": "Lilo & Scratch",
       "description": "故事设定在2002年原作之后：史迪奇终于在新家庭中过上了幸福安稳的日子，直到莉萝带回家一位新成员——一只粉色的外星小猫喵喵琦。这位新成员捣乱成性、光芒四射，无孔不入地渗透进史迪奇的生活，把他的整个世界搅了个天翻地覆。",
       "posterPath": "https://image.tmdb.org/t/p/w500/1XaadQbZVQ27Kk2aekVYC1nUlLX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/AoTyWeciE8kyqJtpKLGNX3IhD0o.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
       "releaseDate": "2026-11-27",
       "rating": 0,
       "mediaType": "movie"
@@ -328,15 +328,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 925725,
+      "id": 1817684,
       "type": "tmdb",
-      "title": "霹雳英雄：素还真",
-      "originalTitle": "素還真",
-      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
-      "releaseDate": "2026-11-20",
-      "rating": 6.2,
+      "title": "孤楼夜幽灵",
+      "originalTitle": "孤楼夜幽灵",
+      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-28",
+      "rating": 0,
       "mediaType": "movie"
     },
     {
@@ -352,18 +352,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1817684,
-      "type": "tmdb",
-      "title": "孤楼夜幽灵",
-      "originalTitle": "孤楼夜幽灵",
-      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-28",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1502116,
       "type": "tmdb",
       "title": "二十四味",
@@ -376,15 +364,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1823092,
+      "id": 925725,
       "type": "tmdb",
-      "title": "顾炎武",
-      "originalTitle": "顾炎武",
-      "description": "主要讲述了顾炎武还乡途中，回忆平生：“誓不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送进清朝“博学鸿儒科”考场；生命终时向少年康熙解读“何谓亡国，何谓亡天下”的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
-      "releaseDate": "2026-12-01",
-      "rating": 0,
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
@@ -396,6 +384,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-20",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1823092,
+      "type": "tmdb",
+      "title": "顾炎武",
+      "originalTitle": "顾炎武",
+      "description": "主要讲述了顾炎武还乡途中，回忆平生：“誓不仕清”；身陷文字狱却因书未成不敢轻生；将弟子送进清朝“博学鸿儒科”考场；生命终时向少年康熙解读“何谓亡国，何谓亡天下”的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
+      "releaseDate": "2026-12-01",
       "rating": 0,
       "mediaType": "movie"
     }
