@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T04:43:23.487+08:00",
+  "last_updated": "2026-11-17T07:56:28.977+08:00",
   "now_playing": [
     {
       "id": 1117898,
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.6,
+      "rating": 6.606,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 6.6,
+      "rating": 6.577,
       "mediaType": "movie"
     },
     {
@@ -95,6 +95,54 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
       "releaseDate": "2024-07-06",
       "rating": 7.313,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1671541,
+      "type": "tmdb",
+      "title": "三国第一部：争洛阳",
+      "originalTitle": "三国第一部：争洛阳",
+      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
+      "releaseDate": "2026-06-27",
+      "rating": 6.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1394721,
+      "type": "tmdb",
+      "title": "麻将女王",
+      "originalTitle": "麻雀女王追男仔",
+      "description": "龙家村村长龙卷峰（许绍雄 饰）育有三女一子，分别名叫龙小东（高海宁 饰）、龙小南（陈静 饰）、龙小茜（郭珮文 饰）和龙小北（文佐匡 饰）。大家姐小东是连续五年跻身最佳业绩的百万元桌级经理。外表是事业女王的小东却是一个“天生麻将狂”，更偏偏恋上科学家男友马壮（马国明 饰）。马壮对小东情深一往，只是他一生最憎恨人打麻将。为了不让爱郎失望，小东竭力隐瞒自己是麻将狂的真相。  二妹小南攻读戏剧，毕业后当不了演员，却在片场担任“亲密指导员”，遇上了躁狂影帝千红哥（陈家乐 饰）。二人对戏剧追求南辕北辙，但两个火星撞地球的人偏偏在相处过程中由欢喜冤家变成擦出爱火花。  三妹小茜一天竟被小北老板，胸围厂太子爷林雨云（李尚正 饰）落力追求，以为大团圆结局之际，谁知真相峰回路转。小茜和雨云相爱背后，其实也暗藏一个惊天秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vY6Nl8km2kxh3uop6o5dfUAwgQj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8O43PKiYsC2V50kr2ivE6YEQ1vX.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 5.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1406277,
+      "type": "tmdb",
+      "title": "菜肉馄饨",
+      "originalTitle": "菜肉馄饨",
+      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
+      "releaseDate": "2025-11-15",
+      "rating": 6,
       "mediaType": "movie"
     },
     {
@@ -122,30 +170,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1671541,
-      "type": "tmdb",
-      "title": "三国第一部：争洛阳",
-      "originalTitle": "三国第一部：争洛阳",
-      "description": "东汉末年，危机四伏，宦官掌权，百姓困苦。黄巾军起，曹操、袁绍、袁术、吕布、孙坚、刘备等乱世英雄初露头角。各方势力争斗洛阳，惊涛骇浪中，曹操、袁绍如何应对？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vsDiLRTjXmK75PXG2jPn575yCnj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/ysftTAaYr3Hu1Vy8b4AFoIUis6C.jpg",
-      "releaseDate": "2026-06-27",
-      "rating": 6.3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1394721,
-      "type": "tmdb",
-      "title": "麻将女王",
-      "originalTitle": "麻雀女王追男仔",
-      "description": "龙家村村长龙卷峰（许绍雄 饰）育有三女一子，分别名叫龙小东（高海宁 饰）、龙小南（陈静 饰）、龙小茜（郭珮文 饰）和龙小北（文佐匡 饰）。大家姐小东是连续五年跻身最佳业绩的百万元桌级经理。外表是事业女王的小东却是一个“天生麻将狂”，更偏偏恋上科学家男友马壮（马国明 饰）。马壮对小东情深一往，只是他一生最憎恨人打麻将。为了不让爱郎失望，小东竭力隐瞒自己是麻将狂的真相。  二妹小南攻读戏剧，毕业后当不了演员，却在片场担任“亲密指导员”，遇上了躁狂影帝千红哥（陈家乐 饰）。二人对戏剧追求南辕北辙，但两个火星撞地球的人偏偏在相处过程中由欢喜冤家变成擦出爱火花。  三妹小茜一天竟被小北老板，胸围厂太子爷林雨云（李尚正 饰）落力追求，以为大团圆结局之际，谁知真相峰回路转。小茜和雨云相爱背后，其实也暗藏一个惊天秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vY6Nl8km2kxh3uop6o5dfUAwgQj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8O43PKiYsC2V50kr2ivE6YEQ1vX.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 5.7,
-      "mediaType": "movie"
-    },
-    {
       "id": 1810158,
       "type": "tmdb",
       "title": "心迷宫之三重罪",
@@ -155,18 +179,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
       "releaseDate": "2026-11-07",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.833,
       "mediaType": "movie"
     },
     {
@@ -182,37 +194,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1406277,
+      "id": 1455429,
       "type": "tmdb",
-      "title": "菜肉馄饨",
-      "originalTitle": "菜肉馄饨",
-      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
-      "releaseDate": "2025-11-15",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1811193,
-      "type": "tmdb",
-      "title": "清气满乾坤",
-      "originalTitle": "清气满乾坤",
-      "description": "影片讲述了靳宇轩作为老纪检人，业务出色政治过硬，带着岳泓光与林燕两个年轻纪检人接受任务，调查发现住建局局长项耀飞被身边的特定关系人薛冰玉和房地产商人黄小龙所“围猎”，围绕在项耀飞身上的贪腐问题严重，靳宇轩带着小组成员找到突破口，靳宇轩坚守初心，不惧困难阻力、直面各种威胁，最终将项耀飞及相关特定关系人全部绳之以法的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ui6KVXPZ45rA1fkr9DycU4khQi6.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/lr9MwG2e8YEYW0aLeF8ImRKTPp3.jpg",
-      "releaseDate": "2026-11-08",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1812386,
-      "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "讲述因一次鬼使神差的见义勇为，锋芒耀眼的警校毕业生黎晓初沦为了被判二缓二的在矫人员，在自证清白的路上，与司法助理员杜云曦一起揭破犯罪，收获个人成长，最终选择投入群众，守护群众的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYiwcKZAaS1WBBEDqyAXoDbZtXR.jpg",
+      "backdropPath": null,
       "releaseDate": "2026-11-14",
       "rating": 0,
       "mediaType": "movie"
@@ -230,14 +218,26 @@
       "mediaType": "movie"
     },
     {
-      "id": 1796449,
+      "id": 1726805,
       "type": "tmdb",
-      "title": "战神戚继光之不让江山",
-      "originalTitle": "战神戚继光之不让江山",
-      "description": "明朝嘉靖年间，福建倭患猖獗。倭寇头目今川勇虎盘踞横屿岛，依仗滩涂天险，勾结内奸作乱。戚继光奉命入闽平倭，海边公审倭寇俘虏，获取通倭线索。幕后奸细察觉败露，借妈祖祭设下鸿门宴，戚继光单刀赴会，斩杀奸细。今川勇虎丧心病狂，设下圈套引戚家军入局，戚继光率病兵迎敌，痛失战友。他强忍悲痛，改良军械、训练士兵、争取百姓支援。八月初八大潮退去，戚家军铺草渡海，以火器破敌，斩杀今川勇虎，收复横屿岛，肃清当地倭患。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2uZ52YvqH93DHFINIdtv4naPPZV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/5t3zadhOtiFCiDKl8IeJisyKXj4.jpg",
-      "releaseDate": "2026-10-13",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1812386,
+      "type": "tmdb",
+      "title": "向阳青春",
+      "originalTitle": "向阳青春",
+      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
+      "releaseDate": "2026-11-14",
       "rating": 0,
       "mediaType": "movie"
     }
@@ -252,7 +252,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 9.25,
+      "rating": 9.5,
+      "mediaType": "movie"
+    },
+    {
+      "id": 693134,
+      "type": "tmdb",
+      "title": "沙丘2",
+      "originalTitle": "Dune: Part Two",
+      "description": "改编自弗兰克·赫伯特的科幻小说《沙丘》。保罗·厄崔迪与契妮及弗雷曼人结盟，踏上向摧毁其家族的阴谋者复仇之路。面对挚爱与已知宇宙命运之间的抉择，他必须努力阻止自己预见的可怕未来。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/aYKyogZGZmrdn5QdEzPvViBkkVZ.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+      "releaseDate": "2024-03-08",
+      "rating": 8.142,
+      "mediaType": "movie"
+    },
+    {
+      "id": 438631,
+      "type": "tmdb",
+      "title": "沙丘",
+      "originalTitle": "Dune",
+      "description": "改编自弗兰克·赫伯特的科幻小说《沙丘》。保罗·厄崔迪随家族前往沙漠星球厄拉科斯，卷入围绕珍贵资源“香料”的权力争斗，并逐渐发现自己肩负的命运。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pJ39749QfmtCJELCct9JzMTtrjE.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
+      "releaseDate": "2021-10-22",
+      "rating": 7.786,
       "mediaType": "movie"
     },
     {
@@ -292,18 +316,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 552345,
-      "type": "tmdb",
-      "title": "悲伤逆流成河",
-      "originalTitle": "悲伤逆流成河",
-      "description": "多组校园欺凌事件，打破了5位主角本应该美好的青春校园生活。齐铭（赵英博 饰）清俊帅气，是人人称颂的优等生，而易遥（任敏 饰）却是大家口中的“赔钱货”。两人一同长大，感情很好。而这一切，在转学生唐小米（朱丹妮 饰）出现之后发生了翻天覆地的变化。流言成了毁人利器，处处对易瑶进行刁难，易遥的生活开始陷入黑暗，遭受各类残酷欺凌。顾森西（辛云来 饰）教会易瑶对校园暴力进行反击，他的出现给了易遥一丝曙光。可阴差阳错，顾森湘（章若楠 饰）的意外却将她再度推入黑暗。当受害者变成施暴者，当看客变成助推，在这一场名为“玩笑”的闹剧中，没有旁观者，只有施暴者……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9a6YsnWPgiI4xnLA5DhYuG2hImM.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2M7cCFVCWum25OSr3ZdjbNR0rjL.jpg",
-      "releaseDate": "2018-09-21",
-      "rating": 6.4,
-      "mediaType": "movie"
-    },
-    {
       "id": 1239037,
       "type": "tmdb",
       "title": "深度安静",
@@ -316,15 +328,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1567259,
+      "id": 552345,
       "type": "tmdb",
-      "title": "试探",
-      "originalTitle": "试探",
-      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
-      "releaseDate": "2026-11-21",
-      "rating": 0,
+      "title": "悲伤逆流成河",
+      "originalTitle": "悲伤逆流成河",
+      "description": "多组校园欺凌事件，打破了5位主角本应该美好的青春校园生活。齐铭（赵英博 饰）清俊帅气，是人人称颂的优等生，而易遥（任敏 饰）却是大家口中的“赔钱货”。两人一同长大，感情很好。而这一切，在转学生唐小米（朱丹妮 饰）出现之后发生了翻天覆地的变化。流言成了毁人利器，处处对易瑶进行刁难，易遥的生活开始陷入黑暗，遭受各类残酷欺凌。顾森西（辛云来 饰）教会易瑶对校园暴力进行反击，他的出现给了易遥一丝曙光。可阴差阳错，顾森湘（章若楠 饰）的意外却将她再度推入黑暗。当受害者变成施暴者，当看客变成助推，在这一场名为“玩笑”的闹剧中，没有旁观者，只有施暴者……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9a6YsnWPgiI4xnLA5DhYuG2hImM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2M7cCFVCWum25OSr3ZdjbNR0rjL.jpg",
+      "releaseDate": "2018-09-21",
+      "rating": 6.4,
       "mediaType": "movie"
     },
     {
@@ -340,6 +352,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1567259,
+      "type": "tmdb",
+      "title": "试探",
+      "originalTitle": "试探",
+      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
+      "releaseDate": "2026-11-21",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1502116,
       "type": "tmdb",
       "title": "二十四味",
@@ -348,6 +372,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3BDxKSy6UFx7DZf8HVzVlKR5Xah.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1817684,
+      "type": "tmdb",
+      "title": "孤楼夜幽灵",
+      "originalTitle": "孤楼夜幽灵",
+      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -364,14 +400,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1817684,
+      "id": 1811142,
       "type": "tmdb",
-      "title": "孤楼夜幽灵",
-      "originalTitle": "孤楼夜幽灵",
-      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "title": "马兰花开的声音",
+      "originalTitle": "马兰花开的声音",
+      "description": "　　影片改编自真实的北京冬奥故事，讲述了马兰花儿童声合唱团在开闭幕式演出管理主管安然、冬奥团队以及山村小学刘校长等人的帮助下，如何克服重重困难走出大山、登上北京冬奥会开闭幕式的舞台，用希腊语演唱《奥林匹克颂》的感人故事。同时，影片将展现北京冬奥会冬残奥会开闭幕式背后更多不为人知的温暖励志故事，立体呈现北京冬奥精神和奥林匹克精神。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rM8X4XqSD0REMKEQCrxJdgwp5NQ.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-11-28",
+      "releaseDate": "2026-11-25",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -382,7 +418,7 @@
       "originalTitle": "金哲",
       "description": "1983年夏，七岁的尚民到吉童村姥姥家过暑假，遇见了被全村叫作\"傻子\"的金哲。山野间的疯跑嬉戏，抓河蚌、捉迷藏，让尚民读懂了他藏在\"傻\"背后的孤独，而这份不掺杂质的陪伴，也让长久被轻视的金哲，第一次萌生出了为自己赢一次的勇气。夏末，村里摔跤赛开场，金哲第一次代表村子站上赛场赢得尊严。",
       "posterPath": "https://image.tmdb.org/t/p/w500/FBcloDR9qkTyxHOjmwAinYhPMr.jpg",
-      "backdropPath": null,
+      "backdropPath": "https://image.tmdb.org/t/p/w500/gAsZJaQ16P8NnBBUIUPAow63Btg.jpg",
       "releaseDate": "2026-11-20",
       "rating": 0,
       "mediaType": "movie"
