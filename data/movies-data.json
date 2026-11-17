@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T07:56:28.977+08:00",
+  "last_updated": "2026-11-18T07:16:48.529+08:00",
   "now_playing": [
     {
       "id": 1117898,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 6.9,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.606,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.306,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -82,7 +82,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yZYzCiF0uGSg6kRkDE1UKzuesaF.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
-      "rating": 6.577,
+      "rating": 6.554,
       "mediaType": "movie"
     },
     {
@@ -110,27 +110,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303034,
+      "id": 1130410,
       "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.833,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1394721,
-      "type": "tmdb",
-      "title": "麻将女王",
-      "originalTitle": "麻雀女王追男仔",
-      "description": "龙家村村长龙卷峰（许绍雄 饰）育有三女一子，分别名叫龙小东（高海宁 饰）、龙小南（陈静 饰）、龙小茜（郭珮文 饰）和龙小北（文佐匡 饰）。大家姐小东是连续五年跻身最佳业绩的百万元桌级经理。外表是事业女王的小东却是一个“天生麻将狂”，更偏偏恋上科学家男友马壮（马国明 饰）。马壮对小东情深一往，只是他一生最憎恨人打麻将。为了不让爱郎失望，小东竭力隐瞒自己是麻将狂的真相。  二妹小南攻读戏剧，毕业后当不了演员，却在片场担任“亲密指导员”，遇上了躁狂影帝千红哥（陈家乐 饰）。二人对戏剧追求南辕北辙，但两个火星撞地球的人偏偏在相处过程中由欢喜冤家变成擦出爱火花。  三妹小茜一天竟被小北老板，胸围厂太子爷林雨云（李尚正 饰）落力追求，以为大团圆结局之际，谁知真相峰回路转。小茜和雨云相爱背后，其实也暗藏一个惊天秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/vY6Nl8km2kxh3uop6o5dfUAwgQj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/8O43PKiYsC2V50kr2ivE6YEQ1vX.jpg",
-      "releaseDate": "2026-11-06",
-      "rating": 5.7,
+      "title": "刺客：代号37",
+      "originalTitle": "37 : L'Ombre et la Proie",
+      "description": "文森特是一名卡车司机，做着平凡的工作，努力养家糊口。他的卡车司机朋友弗雷多在开车时被枪杀，而凶手尚未找到。噩耗发生后的某一天，文森特在开车路上遇到一名想要搭便车的孕妇。她自称“37”，脾气暴躁，情绪十分不稳定，更糟糕的是，她的手里还拿着一把自动枪！37用枪指着文森特，要求他一直往前开，开到卡车没油为止。如果文森特拒绝配合，她就会立刻开枪杀了他。而这一切并不像表面看起来那么简单……文森特目睹了一场警察枪击事件，同时被锁进了冷藏拖车里，为了保住自己的性命，回到家人身边，文森特会不惜一切代价，想方设法逃离。貌似毫无关联的人物却有千丝万缕的联系，众人发现自己被卷入一场错综复杂的犯罪大计。37针对文森特的原因以及名字背后的悲剧、犯罪的元凶，被逐渐揭露。真正的黑暗从不是突如其来的暴力，而是藏在人心深处的秘密与执念。当真相的碎片逐渐拼凑，才发现伤害与救赎、罪恶与清白往往相互缠绕。唯有直面过往的创伤，才能打破仇恨的循环，在绝境中寻得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eddIArb9ExNEPS1nqWv5bjwlW06.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
+      "releaseDate": "2026-10-28",
+      "rating": 5.655,
       "mediaType": "movie"
     },
     {
@@ -158,15 +146,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1130410,
+      "id": 1394721,
       "type": "tmdb",
-      "title": "刺客：代号37",
-      "originalTitle": "37 : L'Ombre et la Proie",
-      "description": "文森特是一名卡车司机，做着平凡的工作，努力养家糊口。他的卡车司机朋友弗雷多在开车时被枪杀，而凶手尚未找到。噩耗发生后的某一天，文森特在开车路上遇到一名想要搭便车的孕妇。她自称“37”，脾气暴躁，情绪十分不稳定，更糟糕的是，她的手里还拿着一把自动枪！37用枪指着文森特，要求他一直往前开，开到卡车没油为止。如果文森特拒绝配合，她就会立刻开枪杀了他。而这一切并不像表面看起来那么简单……文森特目睹了一场警察枪击事件，同时被锁进了冷藏拖车里，为了保住自己的性命，回到家人身边，文森特会不惜一切代价，想方设法逃离。貌似毫无关联的人物却有千丝万缕的联系，众人发现自己被卷入一场错综复杂的犯罪大计。37针对文森特的原因以及名字背后的悲剧、犯罪的元凶，被逐渐揭露。真正的黑暗从不是突如其来的暴力，而是藏在人心深处的秘密与执念。当真相的碎片逐渐拼凑，才发现伤害与救赎、罪恶与清白往往相互缠绕。唯有直面过往的创伤，才能打破仇恨的循环，在绝境中寻得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eddIArb9ExNEPS1nqWv5bjwlW06.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
-      "releaseDate": "2026-10-28",
-      "rating": 5.655,
+      "title": "麻将女王",
+      "originalTitle": "麻雀女王追男仔",
+      "description": "龙家村村长龙卷峰（许绍雄 饰）育有三女一子，分别名叫龙小东（高海宁 饰）、龙小南（陈静 饰）、龙小茜（郭珮文 饰）和龙小北（文佐匡 饰）。大家姐小东是连续五年跻身最佳业绩的百万元桌级经理。外表是事业女王的小东却是一个“天生麻将狂”，更偏偏恋上科学家男友马壮（马国明 饰）。马壮对小东情深一往，只是他一生最憎恨人打麻将。为了不让爱郎失望，小东竭力隐瞒自己是麻将狂的真相。  二妹小南攻读戏剧，毕业后当不了演员，却在片场担任“亲密指导员”，遇上了躁狂影帝千红哥（陈家乐 饰）。二人对戏剧追求南辕北辙，但两个火星撞地球的人偏偏在相处过程中由欢喜冤家变成擦出爱火花。  三妹小茜一天竟被小北老板，胸围厂太子爷林雨云（李尚正 饰）落力追求，以为大团圆结局之际，谁知真相峰回路转。小茜和雨云相爱背后，其实也暗藏一个惊天秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vY6Nl8km2kxh3uop6o5dfUAwgQj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8O43PKiYsC2V50kr2ivE6YEQ1vX.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 5.7,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
       "mediaType": "movie"
     },
     {
@@ -206,27 +206,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1782347,
+      "id": 1823190,
       "type": "tmdb",
-      "title": "三星堆：未来往事",
-      "originalTitle": "三星堆：未来往事",
-      "description": "　　在影片的科幻设定中，三星堆青铜器的刻符里隐藏着不属于那个时代的二进制密码。三千年后，超级AI席卷世界，人类将一切交给算法，却陷入全球危机。一位考古学者发现，破解危机的关键密钥竟是青铜器中的七个三星堆刻符。  　　一场围绕远古密码的冒险由此展开。古蜀文明留下了怎样的警示？未来的人类能否读懂？影片将三星堆文明之谜与人类对超级AI的依赖联系起来，让一次考古探秘成为追寻未来答案的起点。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/uqgd9CMOoVQVwfMATRCzHHJaxj.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eEBTVpkORbWD2jDCem5txFq43J5.jpg",
-      "releaseDate": "2026-10-23",
-      "rating": 1,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1726805,
-      "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 4,
+      "title": "无可替代的你",
+      "originalTitle": "无可替代的你",
+      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
+      "releaseDate": "2026-11-11",
+      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -240,6 +228,18 @@
       "releaseDate": "2026-11-14",
       "rating": 0,
       "mediaType": "movie"
+    },
+    {
+      "id": 1726805,
+      "type": "tmdb",
+      "title": "愤怒的老虎",
+      "originalTitle": "愤怒的老虎",
+      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-10-23",
+      "rating": 4,
+      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -252,7 +252,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 9.5,
+      "rating": 8.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1400940,
+      "type": "tmdb",
+      "title": "泥面人",
+      "originalTitle": "Clayface",
+      "description": "好莱坞新星马特·哈根遭犯罪头目毁容后，为恢复容貌接受先进治疗，却意外陷入疯狂，走上复仇之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 7.39,
       "mediaType": "movie"
     },
     {
@@ -264,7 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/aYKyogZGZmrdn5QdEzPvViBkkVZ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
       "releaseDate": "2024-03-08",
-      "rating": 8.142,
+      "rating": 8.143,
       "mediaType": "movie"
     },
     {
@@ -276,7 +288,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/pJ39749QfmtCJELCct9JzMTtrjE.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
       "releaseDate": "2021-10-22",
-      "rating": 7.786,
+      "rating": 7.8,
       "mediaType": "movie"
     },
     {
@@ -300,7 +312,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.226,
+      "rating": 7.223,
       "mediaType": "movie"
     },
     {
@@ -364,6 +376,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 925725,
+      "type": "tmdb",
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1811142,
+      "type": "tmdb",
+      "title": "马兰花开的声音",
+      "originalTitle": "马兰花开的声音",
+      "description": "　　影片改编自真实的北京冬奥故事，讲述了马兰花儿童声合唱团在开闭幕式演出管理主管安然、冬奥团队以及山村小学刘校长等人的帮助下，如何克服重重困难走出大山、登上北京冬奥会开闭幕式的舞台，用希腊语演唱《奥林匹克颂》的感人故事。同时，影片将展现北京冬奥会冬残奥会开闭幕式背后更多不为人知的温暖励志故事，立体呈现北京冬奥精神和奥林匹克精神。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pjVPqOjUzweRtPTA1Jroi2iFjLq.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-25",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1502116,
       "type": "tmdb",
       "title": "二十四味",
@@ -384,30 +420,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-28",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 925725,
-      "type": "tmdb",
-      "title": "霹雳英雄：素还真",
-      "originalTitle": "素還真",
-      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
-      "releaseDate": "2026-11-20",
-      "rating": 6.2,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1811142,
-      "type": "tmdb",
-      "title": "马兰花开的声音",
-      "originalTitle": "马兰花开的声音",
-      "description": "　　影片改编自真实的北京冬奥故事，讲述了马兰花儿童声合唱团在开闭幕式演出管理主管安然、冬奥团队以及山村小学刘校长等人的帮助下，如何克服重重困难走出大山、登上北京冬奥会开闭幕式的舞台，用希腊语演唱《奥林匹克颂》的感人故事。同时，影片将展现北京冬奥会冬残奥会开闭幕式背后更多不为人知的温暖励志故事，立体呈现北京冬奥精神和奥林匹克精神。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rM8X4XqSD0REMKEQCrxJdgwp5NQ.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-25",
       "rating": 0,
       "mediaType": "movie"
     },
