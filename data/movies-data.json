@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T06:27:51.879+08:00",
+  "last_updated": "2026-11-22T05:24:11.153+08:00",
   "now_playing": [
     {
       "id": 1300968,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 7.349,
+      "rating": 7.624,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.611,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.3,
+      "rating": 7.306,
       "mediaType": "movie"
     },
     {
@@ -134,27 +134,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1821748,
+      "id": 1303034,
       "type": "tmdb",
-      "title": "我没错！",
-      "originalTitle": "我没错！",
-      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
-      "releaseDate": "2026-11-14",
-      "rating": 5,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1455429,
-      "type": "tmdb",
-      "title": "我没错！",
-      "originalTitle": "我没错！",
-      "description": "讲述因一次鬼使神差的见义勇为，锋芒耀眼的警校毕业生黎晓初沦为了被判二缓二的在矫人员，在自证清白的路上，与司法助理员杜云曦一起揭破犯罪，收获个人成长，最终选择投入群众，守护群众的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYiwcKZAaS1WBBEDqyAXoDbZtXR.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-14",
-      "rating": 0,
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.833,
       "mediaType": "movie"
     },
     {
@@ -170,18 +158,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.833,
-      "mediaType": "movie"
-    },
-    {
       "id": 1406277,
       "type": "tmdb",
       "title": "菜肉馄饨",
@@ -191,6 +167,30 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
       "releaseDate": "2025-11-15",
       "rating": 6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1455429,
+      "type": "tmdb",
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "讲述因一次鬼使神差的见义勇为，锋芒耀眼的警校毕业生黎晓初沦为了被判二缓二的在矫人员，在自证清白的路上，与司法助理员杜云曦一起揭破犯罪，收获个人成长，最终选择投入群众，守护群众的故事。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oYiwcKZAaS1WBBEDqyAXoDbZtXR.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-14",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1821748,
+      "type": "tmdb",
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+      "releaseDate": "2026-11-14",
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -206,15 +206,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1810158,
+      "id": 925725,
       "type": "tmdb",
-      "title": "心迷宫之三重罪",
-      "originalTitle": "心迷宫之三重罪",
-      "description": "　　一具烧焦的无名尸体被发现，引发邻里间的猜疑。大家都在怀疑小肖杀人，虎子的家人企图认尸躲避恶霸追债，琴儿则借尸体摆脱已无感情的丈夫，此时，又有一场意外发生………随着警方调查，真相逐渐浮现。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/rJIGUOU3xBAwYN0psHfy4vjRvz1.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/fsimBUWxaYj8tK8d1fhp07ofXGh.jpg",
-      "releaseDate": "2026-11-07",
-      "rating": 0,
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1823190,
+      "type": "tmdb",
+      "title": "无可替代的你",
+      "originalTitle": "无可替代的你",
+      "description": "城市白领代依曼困于平淡压抑的婚姻，在日复一日的消磨中终于直面情感裂痕；年轻的可可如飞蛾扑火，于炽热的邂逅里奔赴一场义无反顾的爱恋；无霜深陷绵长的情感执念，在等待与失落中反复打捞自己。三段人生彼此交织，映照出当代婚恋里最真实的迷茫、挣扎与选择。历经悲欢得失，三人逐渐释怀，并最终懂得：不必执着追寻长久相伴的结局，那些共处时光、相爱朝夕与细碎温热的情感记忆，才是生命里最为珍贵且无可替代的。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/oy9nw6dWTryfaBguBWfRa16Zetb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
+      "releaseDate": "2026-11-11",
+      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -228,18 +240,6 @@
       "releaseDate": "2026-11-07",
       "rating": 5,
       "mediaType": "movie"
-    },
-    {
-      "id": 1812386,
-      "type": "tmdb",
-      "title": "向阳青春",
-      "originalTitle": "向阳青春",
-      "description": "高中生夏薇零（肖雨晴 饰），长期困在母亲（李颖 饰） 的严密管控里，学业、选择、交友全都被安排妥当。曾经顺从的她，终于在压抑里爆发，逃课、反抗，和好友宋飞（张恒铭 饰）、陆欢（张婧岚 饰）一起，拼命夺回属于自己的空间。母女之间争吵不断，误会层层叠加，那句沉甸甸的 “我都是为了你”，慢慢变成刺伤彼此的利刃。一边是母亲寄托全部人生的期待，一边是女孩想要自主成长的渴望。这场没有赢家的家庭战争，能否找到和解的出口？这是属于无数青春期孩子的挣扎，也是每个家长都要面对的一课。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ytbvQ1rdOo4OGMcjr1P1fZtaJ67.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pP1iB1RqZowyEudfeLXMC24meEu.jpg",
-      "releaseDate": "2026-11-14",
-      "rating": 0,
-      "mediaType": "movie"
     }
   ],
   "upcoming": [
@@ -250,7 +250,7 @@
       "originalTitle": "Avengers: Doomsday",
       "description": "来自三个截然不同宇宙的传奇英雄们，将被推向一场生死对决，并最终直面一股前所未见、足以撼动万物存亡的终极威胁。",
       "posterPath": "https://image.tmdb.org/t/p/w500/1CXOvSlK8R0dqc4u1QqDDZkH3ql.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "releaseDate": "2026-12-16",
       "rating": 0,
       "mediaType": "movie"
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
       "releaseDate": "2026-11-27",
-      "rating": 7.4,
+      "rating": 7.393,
       "mediaType": "movie"
     },
     {
@@ -276,19 +276,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/aYKyogZGZmrdn5QdEzPvViBkkVZ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
       "releaseDate": "2024-03-08",
-      "rating": 8.143,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1538497,
-      "type": "tmdb",
-      "title": "魔法秘境",
-      "originalTitle": "Hexed",
-      "description": "一名冲动、不拘一格的少女比莉意外发现自己拥有隐藏的魔法能力，由此进入广阔的女巫王国赫克塞。她与谨慎的母亲艾丽丝联手，揭开可能改变女巫世界的家族秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
-      "releaseDate": "2026-11-27",
-      "rating": 0,
+      "rating": 8.142,
       "mediaType": "movie"
     },
     {
@@ -301,6 +289,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/qVgZu5BTx6pu4owCvVOm4zjTfOi.jpg",
       "releaseDate": "2021-10-22",
       "rating": 7.786,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1538497,
+      "type": "tmdb",
+      "title": "魔法秘境",
+      "originalTitle": "Hexed",
+      "description": "一名冲动、不拘一格的少女比莉意外发现自己拥有隐藏的魔法能力，由此进入广阔的女巫王国赫克塞。她与谨慎的母亲艾丽丝联手，揭开可能改变女巫世界的家族秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 5,
       "mediaType": "movie"
     },
     {
@@ -324,7 +324,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.2,
+      "rating": 7.226,
       "mediaType": "movie"
     },
     {
@@ -376,6 +376,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1650345,
+      "type": "tmdb",
+      "title": "指尖谋杀",
+      "originalTitle": "指尖谋杀",
+      "description": "　　一次随手敲击，正在无声吞噬每个人。 　　一段被篡改的影像流传开来，铺天盖地的流言将当事人陈云舒（周依然 饰）推向社会性死亡，无差别围猎不断发酵。始料未及的突发事件层层叠加，反转频出，未婚夫王铮（梁靖康 饰）、检察官丁凡（周放 饰）、好友俞蓉（曾梦雪 饰）等等，越来越多的人被卷入，事态向着更加扑朔迷离的方向发展。受害者、加害者、旁观者、被牵连者，人人都拿着一把“指尖刀”，人人又都被“指尖刀”捅伤。是谁隐匿在黑暗中操控着这一切？真相又是什么？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gqmyNZWP40oTkuT4dcNxbYXUDfC.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1314764,
+      "type": "tmdb",
+      "title": "世界日出时",
+      "originalTitle": "世界日出时",
+      "description": "　　露西 —— 目前已知最早的人类祖先之一，被称为“人类祖母”。\r 　　研究生马科在潜心写作关于“露西”的语言学论文，他坚信露西拥有人类最早的语言能力。教授李彤表面质疑马科，实则在他的论文里找到了解释她女儿失踪的线索。\r 　　马科焦虑于现实和写作，此时妈妈海燕突然频繁出没在他的生活里。妈妈带领马科来到了她所购买的古朽老宅，通过这个神秘的屋子，妈妈的心事与心愿都在慢慢揭开，而马科的生活逐渐与论文中的世界不分彼此…\r 　　露西的身影浮现，人类祖母的呢喃声里，闪烁着爱的呼唤。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/wHwWSSO3zivt5Kztoh9sUiuOP9I.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/k4B8lG3zUz7aPEkS5rwceD8fdvp.jpg",
+      "releaseDate": "2026-11-28",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -384,18 +408,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/fPP5X3xlc94r5JsGBmrQYdNb9Xv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
       "releaseDate": "2026-12-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1828882,
-      "type": "tmdb",
-      "title": "循环街区",
-      "originalTitle": "循环街区",
-      "description": "　　你觉得，这个世界是真实的吗？\r 　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。\r 　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7qk6rcPp0bzKPnepIaV93id3NHV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qgvnBhma4vkmxsJrA3aPdvKzbaf.jpg",
-      "releaseDate": "2026-11-27",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -424,13 +436,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650345,
+      "id": 1828882,
       "type": "tmdb",
-      "title": "指尖谋杀",
-      "originalTitle": "指尖谋杀",
-      "description": "　　一次随手敲击，正在无声吞噬每个人。 　　一段被篡改的影像流传开来，铺天盖地的流言将当事人陈云舒（周依然 饰）推向社会性死亡，无差别围猎不断发酵。始料未及的突发事件层层叠加，反转频出，未婚夫王铮（梁靖康 饰）、检察官丁凡（周放 饰）、好友俞蓉（曾梦雪 饰）等等，越来越多的人被卷入，事态向着更加扑朔迷离的方向发展。受害者、加害者、旁观者、被牵连者，人人都拿着一把“指尖刀”，人人又都被“指尖刀”捅伤。是谁隐匿在黑暗中操控着这一切？真相又是什么？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gqmyNZWP40oTkuT4dcNxbYXUDfC.jpg",
-      "backdropPath": null,
+      "title": "循环街区",
+      "originalTitle": "循环街区",
+      "description": "　　你觉得，这个世界是真实的吗？\r 　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。\r 　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7qk6rcPp0bzKPnepIaV93id3NHV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qgvnBhma4vkmxsJrA3aPdvKzbaf.jpg",
       "releaseDate": "2026-11-27",
       "rating": 0,
       "mediaType": "movie"
@@ -444,6 +456,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/yw10vKTWKy1nVRWf0j0fL3bjO4t.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/iNFvOoBdKF0VzGV44Fmgrxr9WP3.jpg",
       "releaseDate": "2026-12-01",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1352423,
+      "type": "tmdb",
+      "title": "凤凰山下·词",
+      "originalTitle": "凤凰山下·词",
+      "description": "为了找回记忆中的故乡，祝新试图还原一首千年前的宋词的旋律，并由此开始了一场跨越时空的旅程。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/ogR5EcpHT7ckIAreQJG6JBDbDc7.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hR9pFWMfdFDKUmpqeUHf000hUkj.jpg",
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     }
