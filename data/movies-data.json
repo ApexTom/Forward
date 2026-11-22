@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T05:24:11.153+08:00",
+  "last_updated": "2026-11-23T05:27:01.593+08:00",
   "now_playing": [
     {
       "id": 1300968,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 7.624,
+      "rating": 7.698,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 6.8,
+      "rating": 6.891,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.6,
+      "rating": 6.587,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/xJDyxCdAmzmkPt5rKrjRFvkZ88D.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
       "releaseDate": "2026-10-24",
-      "rating": 7.306,
+      "rating": 7.3,
       "mediaType": "movie"
     },
     {
@@ -122,18 +122,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1130410,
-      "type": "tmdb",
-      "title": "刺客：代号37",
-      "originalTitle": "37 : L'Ombre et la Proie",
-      "description": "文森特是一名卡车司机，做着平凡的工作，努力养家糊口。他的卡车司机朋友弗雷多在开车时被枪杀，而凶手尚未找到。噩耗发生后的某一天，文森特在开车路上遇到一名想要搭便车的孕妇。她自称“37”，脾气暴躁，情绪十分不稳定，更糟糕的是，她的手里还拿着一把自动枪！37用枪指着文森特，要求他一直往前开，开到卡车没油为止。如果文森特拒绝配合，她就会立刻开枪杀了他。而这一切并不像表面看起来那么简单……文森特目睹了一场警察枪击事件，同时被锁进了冷藏拖车里，为了保住自己的性命，回到家人身边，文森特会不惜一切代价，想方设法逃离。貌似毫无关联的人物却有千丝万缕的联系，众人发现自己被卷入一场错综复杂的犯罪大计。37针对文森特的原因以及名字背后的悲剧、犯罪的元凶，被逐渐揭露。真正的黑暗从不是突如其来的暴力，而是藏在人心深处的秘密与执念。当真相的碎片逐渐拼凑，才发现伤害与救赎、罪恶与清白往往相互缠绕。唯有直面过往的创伤，才能打破仇恨的循环，在绝境中寻得一线生机。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/eddIArb9ExNEPS1nqWv5bjwlW06.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
-      "releaseDate": "2026-10-28",
-      "rating": 5.655,
-      "mediaType": "movie"
-    },
-    {
       "id": 1303034,
       "type": "tmdb",
       "title": "生日快乐",
@@ -143,6 +131,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
       "releaseDate": "2026-09-18",
       "rating": 7.833,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1130410,
+      "type": "tmdb",
+      "title": "刺客：代号37",
+      "originalTitle": "37 : L'Ombre et la Proie",
+      "description": "文森特是一名卡车司机，做着平凡的工作，努力养家糊口。他的卡车司机朋友弗雷多在开车时被枪杀，而凶手尚未找到。噩耗发生后的某一天，文森特在开车路上遇到一名想要搭便车的孕妇。她自称“37”，脾气暴躁，情绪十分不稳定，更糟糕的是，她的手里还拿着一把自动枪！37用枪指着文森特，要求他一直往前开，开到卡车没油为止。如果文森特拒绝配合，她就会立刻开枪杀了他。而这一切并不像表面看起来那么简单……文森特目睹了一场警察枪击事件，同时被锁进了冷藏拖车里，为了保住自己的性命，回到家人身边，文森特会不惜一切代价，想方设法逃离。貌似毫无关联的人物却有千丝万缕的联系，众人发现自己被卷入一场错综复杂的犯罪大计。37针对文森特的原因以及名字背后的悲剧、犯罪的元凶，被逐渐揭露。真正的黑暗从不是突如其来的暴力，而是藏在人心深处的秘密与执念。当真相的碎片逐渐拼凑，才发现伤害与救赎、罪恶与清白往往相互缠绕。唯有直面过往的创伤，才能打破仇恨的循环，在绝境中寻得一线生机。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/eddIArb9ExNEPS1nqWv5bjwlW06.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
+      "releaseDate": "2026-10-28",
+      "rating": 5.655,
       "mediaType": "movie"
     },
     {
@@ -182,15 +182,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1821748,
+      "id": 1567259,
       "type": "tmdb",
-      "title": "我没错！",
-      "originalTitle": "我没错！",
-      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
-      "releaseDate": "2026-11-14",
-      "rating": 5,
+      "title": "试探",
+      "originalTitle": "试探",
+      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
+      "releaseDate": "2026-11-21",
+      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -218,6 +218,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1821748,
+      "type": "tmdb",
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+      "releaseDate": "2026-11-14",
+      "rating": 5,
+      "mediaType": "movie"
+    },
+    {
       "id": 1823190,
       "type": "tmdb",
       "title": "无可替代的你",
@@ -227,18 +239,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/c6GkWYWR1dwiy40Gb0lqRgC3km9.jpg",
       "releaseDate": "2026-11-11",
       "rating": 3,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1409470,
-      "type": "tmdb",
-      "title": "我们仅有一次的人生",
-      "originalTitle": "我们仅有一次的人生",
-      "description": "黄燕（宋佳 饰）在按部就班的火化工作中逐渐失去了对生活的期待，变得悲观麻木。直到她意识到自己终将死亡，才决定更勇敢、更大胆地活出自我。一次意外，让她与通透、明媚的姚雪（文淇 饰）相遇。她们彼此治愈，像冬天里靠在一起取暖的两个人；她们互相擦干眼泪，勇敢做自己想做的事，把自己放在人生的第一位，一起体验这仅有一次的人生！",
-      "posterPath": "https://image.tmdb.org/t/p/w500/x9qOS6bmqS0aeElkfH9qdO9NPVJ.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/emPSgwom8TLlSX9RC9je1v1n1Z2.jpg",
-      "releaseDate": "2026-11-07",
-      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
       "releaseDate": "2026-11-27",
-      "rating": 7.393,
+      "rating": 7.4,
       "mediaType": "movie"
     },
     {
@@ -298,7 +298,7 @@
       "originalTitle": "Hexed",
       "description": "一名冲动、不拘一格的少女比莉意外发现自己拥有隐藏的魔法能力，由此进入广阔的女巫王国赫克塞。她与谨慎的母亲艾丽丝联手，揭开可能改变女巫世界的家族秘密。",
       "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/pYIJeLvfbVamFGO6hOERGVP2gTf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
       "releaseDate": "2026-11-27",
       "rating": 5,
       "mediaType": "movie"
@@ -376,14 +376,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1650345,
+      "id": 1817684,
       "type": "tmdb",
-      "title": "指尖谋杀",
-      "originalTitle": "指尖谋杀",
-      "description": "　　一次随手敲击，正在无声吞噬每个人。 　　一段被篡改的影像流传开来，铺天盖地的流言将当事人陈云舒（周依然 饰）推向社会性死亡，无差别围猎不断发酵。始料未及的突发事件层层叠加，反转频出，未婚夫王铮（梁靖康 饰）、检察官丁凡（周放 饰）、好友俞蓉（曾梦雪 饰）等等，越来越多的人被卷入，事态向着更加扑朔迷离的方向发展。受害者、加害者、旁观者、被牵连者，人人都拿着一把“指尖刀”，人人又都被“指尖刀”捅伤。是谁隐匿在黑暗中操控着这一切？真相又是什么？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/gqmyNZWP40oTkuT4dcNxbYXUDfC.jpg",
+      "title": "孤楼夜幽灵",
+      "originalTitle": "孤楼夜幽灵",
+      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
       "backdropPath": null,
-      "releaseDate": "2026-11-27",
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -412,12 +412,12 @@
       "mediaType": "movie"
     },
     {
-      "id": 1817684,
+      "id": 1650345,
       "type": "tmdb",
-      "title": "孤楼夜幽灵",
-      "originalTitle": "孤楼夜幽灵",
-      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "title": "指尖谋杀",
+      "originalTitle": "指尖谋杀",
+      "description": "　　一次随手敲击，正在无声吞噬每个人。 　　一段被篡改的影像流传开来，铺天盖地的流言将当事人陈云舒（周依然 饰）推向社会性死亡，无差别围猎不断发酵。始料未及的突发事件层层叠加，反转频出，未婚夫王铮（梁靖康 饰）、检察官丁凡（周放 饰）、好友俞蓉（曾梦雪 饰）等等，越来越多的人被卷入，事态向着更加扑朔迷离的方向发展。受害者、加害者、旁观者、被牵连者，人人都拿着一把“指尖刀”，人人又都被“指尖刀”捅伤。是谁隐匿在黑暗中操控着这一切？真相又是什么？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/gqmyNZWP40oTkuT4dcNxbYXUDfC.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-28",
       "rating": 0,
@@ -440,7 +440,7 @@
       "type": "tmdb",
       "title": "循环街区",
       "originalTitle": "循环街区",
-      "description": "　　你觉得，这个世界是真实的吗？\r 　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。\r 　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
+      "description": "　　你觉得，这个世界是真实的吗？  　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。  　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
       "posterPath": "https://image.tmdb.org/t/p/w500/7qk6rcPp0bzKPnepIaV93id3NHV.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/qgvnBhma4vkmxsJrA3aPdvKzbaf.jpg",
       "releaseDate": "2026-11-27",
