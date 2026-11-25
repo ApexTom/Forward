@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T10:42:48.875+08:00",
+  "last_updated": "2026-11-25T08:16:30.079+08:00",
   "now_playing": [
     {
       "id": 1300968,
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.029,
+      "rating": 7.257,
       "mediaType": "movie"
     },
     {
@@ -34,7 +34,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/dGDJlUMPbLPavjrpMwUhmDHCBMB.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/shW2jHkQLZVv4Fko2rJDqTGU0gx.jpg",
       "releaseDate": "2026-10-16",
-      "rating": 6.607,
+      "rating": 6.6,
       "mediaType": "movie"
     },
     {
@@ -98,6 +98,30 @@
       "mediaType": "movie"
     },
     {
+      "id": 1303336,
+      "type": "tmdb",
+      "title": "落凡尘",
+      "originalTitle": "落凡尘",
+      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
+      "releaseDate": "2024-07-06",
+      "rating": 7.313,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.857,
+      "mediaType": "movie"
+    },
+    {
       "id": 1239037,
       "type": "tmdb",
       "title": "深度安静",
@@ -119,30 +143,6 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/nF8r2UoS05ltpLRHbKa4a5os9gC.jpg",
       "releaseDate": "2026-10-28",
       "rating": 5.655,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303034,
-      "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.857,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1303336,
-      "type": "tmdb",
-      "title": "落凡尘",
-      "originalTitle": "落凡尘",
-      "description": "织女因擅离职守而获罪，逃散的二十八星宿也给人间带来危机。多年后，织女之子金风为替母赎罪，从神界来到人间收服星宿。途中，他意外结识了一心想前往神界寻找母亲的人间少女小凡，两人由此结伴踏上寻星之旅。随着一个个星宿被收服，隐藏在往事背后的秘密也逐渐浮出水面，而金风对凡尘、亲情与自己的选择也有了新的认识……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/2nXWDju83nclC4vEJ4dkKnLN8gl.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/cE04NNHcSVQk1bbQmUuV8Xt7Dh2.jpg",
-      "releaseDate": "2024-07-06",
-      "rating": 7.313,
       "mediaType": "movie"
     },
     {
@@ -194,15 +194,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 925725,
+      "id": 1567259,
       "type": "tmdb",
-      "title": "霹雳英雄：素还真",
-      "originalTitle": "素還真",
-      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
-      "releaseDate": "2026-11-20",
-      "rating": 6.2,
+      "title": "试探",
+      "originalTitle": "试探",
+      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
+      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
+      "releaseDate": "2026-11-21",
+      "rating": 3,
       "mediaType": "movie"
     },
     {
@@ -218,27 +218,27 @@
       "mediaType": "movie"
     },
     {
-      "id": 1567259,
+      "id": 925725,
       "type": "tmdb",
-      "title": "试探",
-      "originalTitle": "试探",
-      "description": "　　为了测试男友丁伯阳对自己的爱，万影策划了一场失踪事件，让丁伯阳陷入短暂的痛苦中。此时，年轻惹火的马娅趁机上位，与丁伯阳光速热恋，激情同居。可马娅不知道的是，打从自己搬进丁伯阳家的一刻起，自己也成为了这场试探游戏的危险玩家之一…",
-      "posterPath": "https://image.tmdb.org/t/p/w500/pz0aI3dgcfsJLxJFzt4Dh5sp2Mb.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/yYqi3C4qmXTbHEQAUXf7XJOKmYp.jpg",
-      "releaseDate": "2026-11-21",
-      "rating": 3,
+      "title": "霹雳英雄：素还真",
+      "originalTitle": "素還真",
+      "description": "少年素还真身怀绝艺，初入江湖原想见识广大世界，却因为新结识的好友卷入了险恶的夺权纷争，就连他的老师都因他遭难。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/l91IYx9ZbZr72rikfKmDTPee2Im.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hzbuABQM6uU4yFKkZziMRw7wT0s.jpg",
+      "releaseDate": "2026-11-20",
+      "rating": 6.2,
       "mediaType": "movie"
     },
     {
-      "id": 1726805,
+      "id": 1821748,
       "type": "tmdb",
-      "title": "愤怒的老虎",
-      "originalTitle": "愤怒的老虎",
-      "description": "顶流网络作家林一虎（朱正廷 饰）为潜心创作携妻子章佳莹（蒋梦婕 饰）回到老家，却遭遇不速之客的袭击……究竟是飞来横祸，还是精心布局？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/xQPBgH87jTfXXUOAhHdrQ4H2SyS.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-10-23",
-      "rating": 4,
+      "title": "我没错！",
+      "originalTitle": "我没错！",
+      "description": "一次伸手相助的善意让黎响（佟丽娅 饰）被判过失杀人，不甘心的她携手失意律师韩铮（王皓 饰），与多年未见的三位老友王海燕（王智 饰）、李欣怡（吴优 饰）、刘思涵（王丽坤 饰），一同踏上和时间赛跑的寻证之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/5ceN7TJ27djX29YtPYvliik9e1T.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/xPw16NMyAtgwub5Du8j3ByAqPxV.jpg",
+      "releaseDate": "2026-11-14",
+      "rating": 5,
       "mediaType": "movie"
     }
   ],
@@ -250,21 +250,9 @@
       "originalTitle": "Avengers: Doomsday",
       "description": "来自三个截然不同宇宙的传奇英雄们，将被推向一场生死对决，并最终直面一股前所未见、足以撼动万物存亡的终极威胁。",
       "posterPath": "https://image.tmdb.org/t/p/w500/1CXOvSlK8R0dqc4u1QqDDZkH3ql.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/tXNt66khUBZcusc22INKCeGRr4l.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
       "releaseDate": "2026-12-16",
       "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1400940,
-      "type": "tmdb",
-      "title": "泥面人",
-      "originalTitle": "Clayface",
-      "description": "好莱坞新星马特·哈根遭犯罪头目毁容后，为恢复容貌接受先进治疗，却意外陷入疯狂，走上复仇之路。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
-      "releaseDate": "2026-11-27",
-      "rating": 7.387,
       "mediaType": "movie"
     },
     {
@@ -276,7 +264,31 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/aYKyogZGZmrdn5QdEzPvViBkkVZ.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
       "releaseDate": "2024-03-08",
-      "rating": 8.143,
+      "rating": 8.142,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1400940,
+      "type": "tmdb",
+      "title": "泥面人",
+      "originalTitle": "Clayface",
+      "description": "好莱坞新星马特·哈根遭犯罪头目毁容后，为恢复容貌接受先进治疗，却意外陷入疯狂，走上复仇之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 7.4,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1538497,
+      "type": "tmdb",
+      "title": "魔法秘境",
+      "originalTitle": "Hexed",
+      "description": "一名冲动、不拘一格的少女比莉意外发现自己拥有隐藏的魔法能力，由此进入广阔的女巫王国赫克塞。她与谨慎的母亲艾丽丝联手，揭开可能改变女巫世界的家族秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 7.625,
       "mediaType": "movie"
     },
     {
@@ -292,15 +304,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1538497,
+      "id": 1376400,
       "type": "tmdb",
-      "title": "魔法秘境",
-      "originalTitle": "Hexed",
-      "description": "一名冲动、不拘一格的少女比莉意外发现自己拥有隐藏的魔法能力，由此进入广阔的女巫王国赫克塞。她与谨慎的母亲艾丽丝联手，揭开可能改变女巫世界的家族秘密。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/eMcrgrIyeAgMHS5R9LltDnuxB5R.jpg",
-      "releaseDate": "2026-11-27",
-      "rating": 8.25,
+      "title": "蛛楼",
+      "originalTitle": "Crawlers",
+      "description": "一种剧毒蜘蛛入侵高层公寓，警方紧急封锁整栋大楼，住户全部被困。公寓管理员赛琳娜熟悉楼宇每一处通道，但她本身极度惧怕蜘蛛。毒虫不断增殖，在墙体与管道间四处猎捕幸存者，她只能凭借对大楼的了解，带领居民在封闭牢笼里拼死求生。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/rlHYPBxdY3xgpprZYIdNft8WkuW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/ayJsUQ4bEG6yY0UB6lMboiaDfYE.jpg",
+      "releaseDate": "2026-12-04",
+      "rating": 6.1,
       "mediaType": "movie"
     },
     {
@@ -324,7 +336,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.226,
+      "rating": 7.2,
       "mediaType": "movie"
     },
     {
@@ -364,18 +376,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1817684,
-      "type": "tmdb",
-      "title": "孤楼夜幽灵",
-      "originalTitle": "孤楼夜幽灵",
-      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
-      "backdropPath": null,
-      "releaseDate": "2026-11-28",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
       "id": 1502116,
       "type": "tmdb",
       "title": "二十四味",
@@ -384,6 +384,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/3BDxKSy6UFx7DZf8HVzVlKR5Xah.jpg",
       "backdropPath": null,
       "releaseDate": "2026-11-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1817684,
+      "type": "tmdb",
+      "title": "孤楼夜幽灵",
+      "originalTitle": "孤楼夜幽灵",
+      "description": "　　女子林欣因一次意外而丧失记忆，雨夜，别墅里发生诡异事件，女儿失踪。二十年过去，林欣恢复记忆，再次回到女儿失踪的地方，找到女儿，揭开了二十年前发生在母女亲情背后的真相。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1vHuvZ8vKuZkSkxfAMdfzSkATrj.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -400,6 +412,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1828882,
+      "type": "tmdb",
+      "title": "循环街区",
+      "originalTitle": "循环街区",
+      "description": "　　你觉得，这个世界是真实的吗？  　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。  　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
+      "posterPath": "https://image.tmdb.org/t/p/w500/7qk6rcPp0bzKPnepIaV93id3NHV.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/qgvnBhma4vkmxsJrA3aPdvKzbaf.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -408,18 +432,6 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/fPP5X3xlc94r5JsGBmrQYdNb9Xv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
       "releaseDate": "2026-12-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1314764,
-      "type": "tmdb",
-      "title": "世界日出时",
-      "originalTitle": "世界日出时",
-      "description": "　　露西 —— 目前已知最早的人类祖先之一，被称为“人类祖母”。\r 　　研究生马科在潜心写作关于“露西”的语言学论文，他坚信露西拥有人类最早的语言能力。教授李彤表面质疑马科，实则在他的论文里找到了解释她女儿失踪的线索。\r 　　马科焦虑于现实和写作，此时妈妈海燕突然频繁出没在他的生活里。妈妈带领马科来到了她所购买的古朽老宅，通过这个神秘的屋子，妈妈的心事与心愿都在慢慢揭开，而马科的生活逐渐与论文中的世界不分彼此…\r 　　露西的身影浮现，人类祖母的呢喃声里，闪烁着爱的呼唤。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/wHwWSSO3zivt5Kztoh9sUiuOP9I.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/k4B8lG3zUz7aPEkS5rwceD8fdvp.jpg",
-      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -436,14 +448,14 @@
       "mediaType": "movie"
     },
     {
-      "id": 1828882,
+      "id": 1314764,
       "type": "tmdb",
-      "title": "循环街区",
-      "originalTitle": "循环街区",
-      "description": "　　你觉得，这个世界是真实的吗？  　　当周杭溪（邓家佳 饰）一觉醒来，却发现自己身处陌生时空。没有记忆，没有身份，甚至她脱口而出的“杭州”也从未有人听闻，但脑海中不断闪回的“西湖”与“海鸥”，却又无比真实。  　　当身份与过往凭空更迭，在这座为爱搭建的虚拟城池中，一扇扇通往不同世界的门悄然出现，她是否有勇气推开它们，打破循环？",
-      "posterPath": "https://image.tmdb.org/t/p/w500/7qk6rcPp0bzKPnepIaV93id3NHV.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/qgvnBhma4vkmxsJrA3aPdvKzbaf.jpg",
-      "releaseDate": "2026-11-27",
+      "title": "世界日出时",
+      "originalTitle": "世界日出时",
+      "description": "　　露西 —— 目前已知最早的人类祖先之一，被称为“人类祖母”。\r 　　研究生马科在潜心写作关于“露西”的语言学论文，他坚信露西拥有人类最早的语言能力。教授李彤表面质疑马科，实则在他的论文里找到了解释她女儿失踪的线索。\r 　　马科焦虑于现实和写作，此时妈妈海燕突然频繁出没在他的生活里。妈妈带领马科来到了她所购买的古朽老宅，通过这个神秘的屋子，妈妈的心事与心愿都在慢慢揭开，而马科的生活逐渐与论文中的世界不分彼此…\r 　　露西的身影浮现，人类祖母的呢喃声里，闪烁着爱的呼唤。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/wHwWSSO3zivt5Kztoh9sUiuOP9I.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/k4B8lG3zUz7aPEkS5rwceD8fdvp.jpg",
+      "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
     },
@@ -460,13 +472,13 @@
       "mediaType": "movie"
     },
     {
-      "id": 1352423,
+      "id": 1839746,
       "type": "tmdb",
-      "title": "凤凰山下·词",
-      "originalTitle": "凤凰山下·词",
-      "description": "为了找回记忆中的故乡，祝新试图还原一首千年前的宋词的旋律，并由此开始了一场跨越时空的旅程。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/ogR5EcpHT7ckIAreQJG6JBDbDc7.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hR9pFWMfdFDKUmpqeUHf000hUkj.jpg",
+      "title": "乌龙镇",
+      "originalTitle": "乌龙镇",
+      "description": "影片讲述民国初，在一个乌龟壳当信用货币流通的乌龙镇，一个留洋回国的理想青年，一个有情怀的青楼女子，一个中饱私囊的腐败官员，一个欠债不还的赖子娃，一个裁缝王眼镜，一个金镶楼小脑壳，一个骑鸵鸟的豆花妹……演绎了一出啼笑皆非的荒诞轻喜剧。这是一个中国第一代“海龟”的故事，一部东方写意美学和电影本体结合的电影。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/2jrCIlVMRtUVfCCMziMbM56DTnf.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/c6yku1QB9P2wMtWnOF0PIuwFqFW.jpg",
       "releaseDate": "2026-11-28",
       "rating": 0,
       "mediaType": "movie"
