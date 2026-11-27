@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T08:14:12.099+08:00",
+  "last_updated": "2026-11-28T07:51:54.385+08:00",
   "now_playing": [
     {
       "id": 1300968,
@@ -10,7 +10,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/r47dh8cGfgJ7yCq07oBY7bS1sKs.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "releaseDate": "2026-11-20",
-      "rating": 7.8,
+      "rating": 7.761,
       "mediaType": "movie"
     },
     {
@@ -22,7 +22,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/jsAhBolI6Rn9Iva635bNf27rJc2.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "releaseDate": "2026-11-27",
-      "rating": 5.925,
+      "rating": 5.9,
       "mediaType": "movie"
     },
     {
@@ -46,7 +46,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/8AKvV4bJsfUBUZ7cgW41iv3EYaG.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
       "releaseDate": "2026-11-27",
-      "rating": 7.4,
+      "rating": 7.408,
       "mediaType": "movie"
     },
     {
@@ -58,7 +58,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/6qBLbcj7kM2pkrkGHAOwcleVVqy.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/56Bepb58k71UUTVwKN1SxHmfzPK.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 7.3,
+      "rating": 7.333,
       "mediaType": "movie"
     },
     {
@@ -86,18 +86,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1720486,
-      "type": "tmdb",
-      "title": "史迪奇抓喵喵",
-      "originalTitle": "Lilo & Scratch",
-      "description": "故事设定在2002年原作之后：史迪奇终于在新家庭中过上了幸福安稳的日子，直到莉萝带回家一位新成员——一只粉色的外星小猫喵喵琦。这位新成员捣乱成性、光芒四射，无孔不入地渗透进史迪奇的生活，把他的整个世界搅了个天翻地覆。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/1XaadQbZVQ27Kk2aekVYC1nUlLX.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
-      "releaseDate": "2026-11-27",
-      "rating": 9,
-      "mediaType": "movie"
-    },
-    {
       "id": 1100099,
       "type": "tmdb",
       "title": "时间里的爱人",
@@ -106,7 +94,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/ytOxdx2jwJtRgx8jc0kUqp6HMnD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/4t8IXJF4umwCfbdpeKLvlN3zkKp.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 7.227,
+      "rating": 7.226,
       "mediaType": "movie"
     },
     {
@@ -122,6 +110,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1720486,
+      "type": "tmdb",
+      "title": "史迪奇抓喵喵",
+      "originalTitle": "Lilo & Scratch",
+      "description": "故事设定在2002年原作之后：史迪奇终于在新家庭中过上了幸福安稳的日子，直到莉萝带回家一位新成员——一只粉色的外星小猫喵喵琦。这位新成员捣乱成性、光芒四射，无孔不入地渗透进史迪奇的生活，把他的整个世界搅了个天翻地覆。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/1XaadQbZVQ27Kk2aekVYC1nUlLX.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/iYivIgRjEbxsS3Jgt64k4zpCTyv.jpg",
+      "releaseDate": "2026-11-27",
+      "rating": 6,
+      "mediaType": "movie"
+    },
+    {
       "id": 1316427,
       "type": "tmdb",
       "title": "七犬特攻：沙漠惊天",
@@ -130,7 +130,19 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/a7Nb9825KlAIjlrSOsZAIkRiqJl.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
       "releaseDate": "2026-11-28",
-      "rating": 5.923,
+      "rating": 5.8,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1241803,
+      "type": "tmdb",
+      "title": "悲惨世界",
+      "originalTitle": "Les Misérables",
+      "description": "改编自维克多·雨果同名小说。冉·阿让因偷窃面包服刑19年后获释，决心改过自新，以新身份成为受人尊敬的乡绅。他承诺照顾濒死女工芳汀的女儿珂赛特，却始终遭到警探沙威的追捕。在动荡的革命巴黎，冉·阿让为保护珂赛特而踏上救赎之路。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BXPzuodW6MLFbd8WCUugwGnRFW.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
+      "releaseDate": "2026-11-28",
+      "rating": 6.9,
       "mediaType": "movie"
     },
     {
@@ -142,7 +154,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/cWbDLsCIChns73qh5Gd6u2e5zQ4.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ySbav9wRhnA1yGadMIpoQnLgTq6.jpg",
       "releaseDate": "2026-11-06",
-      "rating": 6.5,
+      "rating": 7,
       "mediaType": "movie"
     },
     {
@@ -155,6 +167,18 @@
       "backdropPath": "https://image.tmdb.org/t/p/w500/4hCNxfO3mFYxsrjXKeUgoSOMRtv.jpg",
       "releaseDate": "2026-10-30",
       "rating": 6.6,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1303034,
+      "type": "tmdb",
+      "title": "生日快乐",
+      "originalTitle": "عيد ميلاد سعيد",
+      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.857,
       "mediaType": "movie"
     },
     {
@@ -182,6 +206,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 552345,
+      "type": "tmdb",
+      "title": "悲伤逆流成河",
+      "originalTitle": "悲伤逆流成河",
+      "description": "多组校园欺凌事件，打破了5位主角本应该美好的青春校园生活。齐铭（赵英博 饰）清俊帅气，是人人称颂的优等生，而易遥（任敏 饰）却是大家口中的“赔钱货”。两人一同长大，感情很好。而这一切，在转学生唐小米（朱丹妮 饰）出现之后发生了翻天覆地的变化。流言成了毁人利器，处处对易瑶进行刁难，易遥的生活开始陷入黑暗，遭受各类残酷欺凌。顾森西（辛云来 饰）教会易瑶对校园暴力进行反击，他的出现给了易遥一丝曙光。可阴差阳错，顾森湘（章若楠 饰）的意外却将她再度推入黑暗。当受害者变成施暴者，当看客变成助推，在这一场名为“玩笑”的闹剧中，没有旁观者，只有施暴者……",
+      "posterPath": "https://image.tmdb.org/t/p/w500/9a6YsnWPgiI4xnLA5DhYuG2hImM.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/2M7cCFVCWum25OSr3ZdjbNR0rjL.jpg",
+      "releaseDate": "2018-09-21",
+      "rating": 6.324,
+      "mediaType": "movie"
+    },
+    {
       "id": 1239037,
       "type": "tmdb",
       "title": "深度安静",
@@ -194,51 +230,15 @@
       "mediaType": "movie"
     },
     {
-      "id": 1303034,
+      "id": 1394721,
       "type": "tmdb",
-      "title": "生日快乐",
-      "originalTitle": "عيد ميلاد سعيد",
-      "description": "八岁的小女孩托哈在开罗一个富裕家庭当童工女仆，并与雇主的女儿奈莉建立了特殊的联系。从未庆祝过自己生日的托哈下定决心要为奈莉举办一场完美的生日派对，她暗自希望借此体验到自己从未感受过的快乐。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/4BL6RXKImeTkh7dffmHkopIIFZd.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/A0qsoBy3S4SzmPOVv6AwpIMLxdq.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.857,
-      "mediaType": "movie"
-    },
-    {
-      "id": 552345,
-      "type": "tmdb",
-      "title": "悲伤逆流成河",
-      "originalTitle": "悲伤逆流成河",
-      "description": "多组校园欺凌事件，打破了5位主角本应该美好的青春校园生活。齐铭（赵英博 饰）清俊帅气，是人人称颂的优等生，而易遥（任敏 饰）却是大家口中的“赔钱货”。两人一同长大，感情很好。而这一切，在转学生唐小米（朱丹妮 饰）出现之后发生了翻天覆地的变化。流言成了毁人利器，处处对易瑶进行刁难，易遥的生活开始陷入黑暗，遭受各类残酷欺凌。顾森西（辛云来 饰）教会易瑶对校园暴力进行反击，他的出现给了易遥一丝曙光。可阴差阳错，顾森湘（章若楠 饰）的意外却将她再度推入黑暗。当受害者变成施暴者，当看客变成助推，在这一场名为“玩笑”的闹剧中，没有旁观者，只有施暴者……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/9a6YsnWPgiI4xnLA5DhYuG2hImM.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/2M7cCFVCWum25OSr3ZdjbNR0rjL.jpg",
-      "releaseDate": "2018-09-21",
-      "rating": 6.4,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1406277,
-      "type": "tmdb",
-      "title": "菜肉馄饨",
-      "originalTitle": "菜肉馄饨",
-      "description": "退休工程师老汪一直走不出丧妻的阴影，时常恍惚间觉得妻子素娟仍在身边，与自己说话。每周六，儿子小汪都会回家看望他，吃一碗父亲亲手包的菜肉馄饨。见面时，老汪总免不了催促儿子找女朋友、结婚成家，小汪却常常找借口溜走。为了儿子的终身大事，老汪来到人民公园相亲角替他征婚，并在那里结识了林美琴、老金和阿芳。几人逐渐成为朋友，老汪也在他们的陪伴下慢慢走出封闭的生活，开始吃饭、跳舞、喝下午茶，重新发现生活的乐趣。而同样经历丧偶的退休教师林美琴，也渐渐走进了他的生活……",
-      "posterPath": "https://image.tmdb.org/t/p/w500/mqji7R2fq5fNowia3BwEFNl18Za.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/kJi4Mwo6I0VoKCrVNDiBDJkBhe5.jpg",
-      "releaseDate": "2025-11-15",
-      "rating": 6,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1455429,
-      "type": "tmdb",
-      "title": "我没错！",
-      "originalTitle": "我没错！",
-      "description": "讲述因一次鬼使神差的见义勇为，锋芒耀眼的警校毕业生黎晓初沦为了被判二缓二的在矫人员，在自证清白的路上，与司法助理员杜云曦一起揭破犯罪，收获个人成长，最终选择投入群众，守护群众的故事。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/oYiwcKZAaS1WBBEDqyAXoDbZtXR.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/s8JUBEKWjIQIS0C3XqviSghViYP.jpg",
-      "releaseDate": "2026-11-14",
-      "rating": 0,
+      "title": "麻将女王",
+      "originalTitle": "麻雀女王追男仔",
+      "description": "龙家村村长龙卷峰（许绍雄 饰）育有三女一子，分别名叫龙小东（高海宁 饰）、龙小南（陈静 饰）、龙小茜（郭珮文 饰）和龙小北（文佐匡 饰）。大家姐小东是连续五年跻身最佳业绩的百万元桌级经理。外表是事业女王的小东却是一个“天生麻将狂”，更偏偏恋上科学家男友马壮（马国明 饰）。马壮对小东情深一往，只是他一生最憎恨人打麻将。为了不让爱郎失望，小东竭力隐瞒自己是麻将狂的真相。  二妹小南攻读戏剧，毕业后当不了演员，却在片场担任“亲密指导员”，遇上了躁狂影帝千红哥（陈家乐 饰）。二人对戏剧追求南辕北辙，但两个火星撞地球的人偏偏在相处过程中由欢喜冤家变成擦出爱火花。  三妹小茜一天竟被小北老板，胸围厂太子爷林雨云（李尚正 饰）落力追求，以为大团圆结局之际，谁知真相峰回路转。小茜和雨云相爱背后，其实也暗藏一个惊天秘密。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/vY6Nl8km2kxh3uop6o5dfUAwgQj.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/8O43PKiYsC2V50kr2ivE6YEQ1vX.jpg",
+      "releaseDate": "2026-11-06",
+      "rating": 5.7,
       "mediaType": "movie"
     }
   ],
@@ -264,7 +264,7 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/2cmkk84vXmcQWtjAurvHuvgD53Z.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
       "releaseDate": "2026-12-05",
-      "rating": 7.625,
+      "rating": 7.613,
       "mediaType": "movie"
     },
     {
@@ -292,6 +292,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1299329,
+      "type": "tmdb",
+      "title": "目击者约瑟芬",
+      "originalTitle": "Josephine",
+      "description": "8岁的约瑟芬在金门公园意外目睹了一起犯罪事件后，为了重新掌控自己的安全，她做出了一些过激的行为，而成年人却无力安慰她。 编剧兼导演贝丝·德·阿劳霍以紧张、震撼且极具同理心的笔触，描绘了一位年轻女孩在遭遇暴力后，内心涌现出难以摆脱的恐惧和愤怒，她既无法逃避，也无法完全理解这种恐惧和愤怒。格雷塔·佐祖拉精准的摄影技巧加剧了这种不安感，她频繁地将我们置于约瑟芬脆弱而沮丧的视角，影片以大胆而独特的视觉语言，展现了这段经历如何持续地困扰着她。 梅森·里夫斯饰演的约瑟芬细腻动人，表演充满探索精神。查宁·塔图姆和嘉玛·陈分别饰演她那极力保护女儿的父亲和敏感的母亲，他们深情演绎了这对父母，他们全心全意地爱着这个身处困境却又深爱着的孩子，却无力应对家庭即将面临的巨变。菲利普·埃廷格在一个至关重要且复杂的配角中贡献了令人难忘的表演。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/alBLQvssdxxhdQaghXVG6EhWRi5.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/mFC8CT6L6PaoPc3s8WpvALPNLRD.jpg",
+      "releaseDate": "2026-12-04",
+      "rating": 9,
+      "mediaType": "movie"
+    },
+    {
       "id": 1241803,
       "type": "tmdb",
       "title": "悲惨世界",
@@ -299,7 +311,7 @@
       "description": "改编自维克多·雨果同名小说。冉·阿让因偷窃面包服刑19年后获释，决心改过自新，以新身份成为受人尊敬的乡绅。他承诺照顾濒死女工芳汀的女儿珂赛特，却始终遭到警探沙威的追捕。在动荡的革命巴黎，冉·阿让为保护珂赛特而踏上救赎之路。",
       "posterPath": "https://image.tmdb.org/t/p/w500/4BXPzuodW6MLFbd8WCUugwGnRFW.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2IAY24dGrbGnafJ3ENXmCDTDvxg.jpg",
-      "releaseDate": "2026-12-04",
+      "releaseDate": "2026-11-28",
       "rating": 6.9,
       "mediaType": "movie"
     },
@@ -316,18 +328,6 @@
       "mediaType": "movie"
     },
     {
-      "id": 1335881,
-      "type": "tmdb",
-      "title": "喜欢了你一整个青春",
-      "originalTitle": "夜校女生",
-      "description": "高中联考失手的小爱被妈妈安排升读名校「一女中」的夜校部，但即使与日校生共享课室和书桌，成绩上的差距却总让小爱心存距离感，自卑感油然而生。幸好共享书桌的「桌友」敏敏没有因此嫌弃，两人更成为好友，甚至一同喜欢上隔壁学校的资优男生卢克。为了方便走堂，两人经常互换校服，但小爱渐渐舍不得日校生的制服光环，更使用冒牌的一女中身份，瞒着敏敏接近卢克，巨大的谎言坑洞最终变得一发不可收拾。《最乖巧的杀人犯》导演庄景燊延续台湾校园电影浪潮，由新生代演员主演，带领观众重修青春的成长课。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/zyJ1a6kY4VatxhwBOOmxKurCwKv.jpg",
-      "backdropPath": "https://image.tmdb.org/t/p/w500/hm2rWgEZJrxHP8gv9Pg6yRhOZFB.jpg",
-      "releaseDate": "2026-12-05",
-      "rating": 6.8,
-      "mediaType": "movie"
-    },
-    {
       "id": 1546991,
       "type": "tmdb",
       "title": "请不走的门神",
@@ -340,6 +340,18 @@
       "mediaType": "movie"
     },
     {
+      "id": 1335881,
+      "type": "tmdb",
+      "title": "喜欢了你一整个青春",
+      "originalTitle": "夜校女生",
+      "description": "高中联考失手的小爱被妈妈安排升读名校「一女中」的夜校部，但即使与日校生共享课室和书桌，成绩上的差距却总让小爱心存距离感，自卑感油然而生。幸好共享书桌的「桌友」敏敏没有因此嫌弃，两人更成为好友，甚至一同喜欢上隔壁学校的资优男生卢克。为了方便走堂，两人经常互换校服，但小爱渐渐舍不得日校生的制服光环，更使用冒牌的一女中身份，瞒着敏敏接近卢克，巨大的谎言坑洞最终变得一发不可收拾。《最乖巧的杀人犯》导演庄景燊延续台湾校园电影浪潮，由新生代演员主演，带领观众重修青春的成长课。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/zyJ1a6kY4VatxhwBOOmxKurCwKv.jpg",
+      "backdropPath": "https://image.tmdb.org/t/p/w500/hm2rWgEZJrxHP8gv9Pg6yRhOZFB.jpg",
+      "releaseDate": "2026-12-05",
+      "rating": 6.8,
+      "mediaType": "movie"
+    },
+    {
       "id": 1609560,
       "type": "tmdb",
       "title": "偷偷藏不住",
@@ -347,18 +359,6 @@
       "description": "　　暗恋这件事，偷偷藏不住。  　　桑稚青春里最隐秘的少女心事，是喜欢上哥哥桑延的大学室友段嘉许。这份因为年龄差距不敢言说的青涩暗恋，被小桑稚笨拙地藏了起来，不敢让任何人发现。  　　几年后再度重逢，桑稚长大成为明媚阳光的模样，而段嘉许也在相处中因她身上的光芒而心动。曾经悄无声息的喜欢，终于变成了彼此心照不宣的悸动……",
       "posterPath": "https://image.tmdb.org/t/p/w500/fPP5X3xlc94r5JsGBmrQYdNb9Xv.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/2xbcQOwsef0CXToyoKozDB4Y9hc.jpg",
-      "releaseDate": "2026-12-12",
-      "rating": 0,
-      "mediaType": "movie"
-    },
-    {
-      "id": 1843354,
-      "type": "tmdb",
-      "title": "灰耳朵也是勇士",
-      "originalTitle": "灰耳朵也是勇士",
-      "description": "影片致敬革命先辈、纪念中国工农红军长征胜利90周年，从战马与红军战士的双重视角切入，讲述一支红军小分队护送重要通信物资、在绝境中闯出生路的故事，展现了革命先辈坚定的信念与无畏的勇气。",
-      "posterPath": "https://image.tmdb.org/t/p/w500/8mSQl6YCDd05fWeSmNGjVT2lH7f.jpg",
-      "backdropPath": null,
       "releaseDate": "2026-12-12",
       "rating": 0,
       "mediaType": "movie"
@@ -384,6 +384,18 @@
       "posterPath": "https://image.tmdb.org/t/p/w500/hiZCZzRUVP428XwjGbkpxjsNmBD.jpg",
       "backdropPath": "https://image.tmdb.org/t/p/w500/ArtxRx1hgAM41tyvORRHjjPwZ2L.jpg",
       "releaseDate": "2026-12-04",
+      "rating": 0,
+      "mediaType": "movie"
+    },
+    {
+      "id": 1843354,
+      "type": "tmdb",
+      "title": "灰耳朵也是勇士",
+      "originalTitle": "灰耳朵也是勇士",
+      "description": "影片致敬革命先辈、纪念中国工农红军长征胜利90周年，从战马与红军战士的双重视角切入，讲述一支红军小分队护送重要通信物资、在绝境中闯出生路的故事，展现了革命先辈坚定的信念与无畏的勇气。",
+      "posterPath": "https://image.tmdb.org/t/p/w500/8mSQl6YCDd05fWeSmNGjVT2lH7f.jpg",
+      "backdropPath": null,
+      "releaseDate": "2026-12-12",
       "rating": 0,
       "mediaType": "movie"
     }
